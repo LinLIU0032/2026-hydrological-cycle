@@ -1,0 +1,91 @@
+{
+  "roles": {
+    "body": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 15.0,
+      "cjk_chars_per_100px": 6.3,
+      "latin_chars_per_100px": 13.0,
+      "caps_chars_per_100px": 12.0,
+      "digits_chars_per_100px": 11.5,
+      "longest_planned_line": {
+        "px": 1042.6,
+        "slide": "P21",
+        "text": "教材依据：碳循环是碳在地球系统各组成部分之间持续迁移的过程，储库数量与储库间通…"
+      }
+    },
+    "title": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 21.0,
+      "cjk_chars_per_100px": 4.5,
+      "latin_chars_per_100px": 9.2,
+      "caps_chars_per_100px": 8.5,
+      "digits_chars_per_100px": 8.1,
+      "longest_planned_line": {
+        "px": 742.1,
+        "slide": "P24",
+        "text": "同样的语言，不同的时间尺度 | Same Framework, Differe…"
+      }
+    },
+    "subtitle": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 19.0,
+      "cjk_chars_per_100px": 5.0,
+      "latin_chars_per_100px": 10.3,
+      "caps_chars_per_100px": 9.5,
+      "digits_chars_per_100px": 9.1,
+      "longest_planned_line": {
+        "px": 653.3,
+        "slide": "P21",
+        "text": "碳循环把气候、生命、海洋与岩石，接进与水循环同一套储库—通量框架。"
+      }
+    },
+    "annotation": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 13.0,
+      "cjk_chars_per_100px": 7.2,
+      "latin_chars_per_100px": 14.9,
+      "caps_chars_per_100px": 13.7,
+      "digits_chars_per_100px": 13.1,
+      "longest_planned_line": null
+    },
+    "card_heading": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 16.0,
+      "cjk_chars_per_100px": 5.9,
+      "latin_chars_per_100px": 12.1,
+      "caps_chars_per_100px": 11.2,
+      "digits_chars_per_100px": 10.7,
+      "longest_planned_line": null
+    },
+    "footnote": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 12.0,
+      "cjk_chars_per_100px": 7.9,
+      "latin_chars_per_100px": 16.2,
+      "caps_chars_per_100px": 15.0,
+      "digits_chars_per_100px": 14.3,
+      "longest_planned_line": null
+    },
+    "header": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 18.0,
+      "cjk_chars_per_100px": 5.2,
+      "latin_chars_per_100px": 10.8,
+      "caps_chars_per_100px": 10.0,
+      "digits_chars_per_100px": 9.5,
+      "longest_planned_line": null
+    },
+    "page_number": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 12.0,
+      "cjk_chars_per_100px": 7.9,
+      "latin_chars_per_100px": 16.2,
+      "caps_chars_per_100px": 15.0,
+      "digits_chars_per_100px": 14.3,
+      "longest_planned_line": null
+    }
+  },
+  "source": "spec_lock.md",
+  "generated_at": "2026-09-11T03:25:43Z",
+  "notes": []
+}

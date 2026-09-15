@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.13 第二部分总结 | Carbon Links Life to Rocks</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">碳循环从快速的生物与海气交换，延伸到缓慢的岩石圈交换</text>
+  </g>
+
+  <g id="summary-1" data-pptx-bounds="40 150 584 236">
+    <rect x="40" y="150" width="584" height="236" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="76" cy="190" r="20" fill="#EA580C"/>
+    <text x="76" y="196" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="112" y="196" font-size="16" font-weight="bold" fill="#C2410C">碳存在哪里 | Where carbon resides</text>
+    <text x="64" y="246" font-size="15" fill="#1A2230"><tspan x="64" dy="0">大气、生命与土壤、海洋、沉积物</tspan><tspan x="64" dy="22">与岩石，共同构成碳的储库体系。</tspan></text>
+    <text x="64" y="326" font-size="13" fill="#4A5568">Atmosphere · life and soil · ocean · sediment · rock</text>
+  </g>
+
+  <g id="summary-2" data-pptx-bounds="656 150 584 236">
+    <rect x="656" y="150" width="584" height="236" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="692" cy="190" r="20" fill="#EA580C"/>
+    <text x="692" y="196" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="728" y="196" font-size="16" font-weight="bold" fill="#C2410C">快速通路 | Faster pathways</text>
+    <text x="680" y="246" font-size="15" fill="#1A2230"><tspan x="680" dy="0">光合作用、呼吸作用与海气交换，</tspan><tspan x="680" dy="22">把碳在大气与表层之间快速搬运。</tspan></text>
+    <text x="680" y="326" font-size="13" fill="#4A5568">Photosynthesis · respiration · air–sea exchange</text>
+  </g>
+
+  <g id="summary-3" data-pptx-bounds="40 418 584 236">
+    <rect x="40" y="418" width="584" height="236" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="76" cy="458" r="20" fill="#C2410C"/>
+    <text x="76" y="464" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="112" y="464" font-size="16" font-weight="bold" fill="#0E3F8C">与岩石相连 | Linked to rocks</text>
+    <text x="64" y="514" font-size="15" fill="#1A2230"><tspan x="64" dy="0">碳酸盐形成、埋藏、俯冲与脱气，</tspan><tspan x="64" dy="22">把表层碳一路接到岩石圈。</tspan></text>
+    <text x="64" y="594" font-size="13" fill="#4A5568">Carbonate formation · burial · subduction · degassing</text>
+  </g>
+
+  <g id="summary-4" data-pptx-bounds="656 418 584 236">
+    <rect x="656" y="418" width="584" height="236" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="692" cy="458" r="20" fill="#C2410C"/>
+    <text x="692" y="464" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="728" y="464" font-size="16" font-weight="bold" fill="#0E3F8C">不同的时钟 | Different clocks</text>
+    <text x="680" y="514" font-size="15" fill="#1A2230"><tspan x="680" dy="0">每条路径的速度不同，这决定每个</tspan><tspan x="680" dy="22">储库受到扰动后多快做出响应。</tspan></text>
+    <text x="680" y="594" font-size="13" fill="#4A5568">Response speed depends on the pathway</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Ch.12; 地球系统与演变 Ch.4; EP Ch.23. Part II synthesis of the accepted Slides 21–32.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">33</text>
+</svg>

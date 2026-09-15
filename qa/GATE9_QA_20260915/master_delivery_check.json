@@ -1,0 +1,359 @@
+{
+  "schema": "ppt-master.pptx-delivery-check.v1",
+  "status": "passed-with-advisories",
+  "file": {
+    "path": "E:\\PG\\2026 Hydrological cycle\\final\\L16_Hydrological_Carbon_Cycles_v01.pptx",
+    "bytes": 5621394
+  },
+  "package": {
+    "zip_integrity": "passed",
+    "corrupt_member": null,
+    "duplicate_parts": [],
+    "canonical_part_collisions": [],
+    "parts": {
+      "entries": 219,
+      "unique": 219,
+      "slides": 44,
+      "notes": 44,
+      "masters": 1,
+      "layouts": 11,
+      "media": 5
+    },
+    "relationships": {
+      "problems": []
+    }
+  },
+  "slides": {
+    "count": 44,
+    "hidden_count": 0,
+    "hidden": []
+  },
+  "fonts": {
+    "theme": {
+      "title": {
+        "latin": "等线 Light",
+        "scripts": {
+          "Jpan": "游ゴシック Light",
+          "Hang": "맑은 고딕",
+          "Hans": "等线 Light",
+          "Hant": "新細明體"
+        }
+      },
+      "body": {
+        "latin": "等线",
+        "scripts": {
+          "Jpan": "游ゴシック",
+          "Hang": "맑은 고딕",
+          "Hans": "等线",
+          "Hant": "新細明體"
+        }
+      }
+    },
+    "declared": {
+      "latin": [
+        {
+          "value": "+mn-lt",
+          "count": 884
+        },
+        {
+          "value": "Arial",
+          "count": 478
+        },
+        {
+          "value": "等线",
+          "count": 2
+        },
+        {
+          "value": "等线 Light",
+          "count": 2
+        },
+        {
+          "value": "+mj-lt",
+          "count": 1
+        }
+      ],
+      "ea": [
+        {
+          "value": "+mn-ea",
+          "count": 884
+        },
+        {
+          "value": "Microsoft YaHei",
+          "count": 346
+        },
+        {
+          "value": "Arial",
+          "count": 132
+        },
+        {
+          "value": "+mj-ea",
+          "count": 1
+        }
+      ],
+      "cs": [
+        {
+          "value": "+mn-cs",
+          "count": 884
+        },
+        {
+          "value": "Arial",
+          "count": 478
+        },
+        {
+          "value": "+mj-cs",
+          "count": 1
+        }
+      ]
+    },
+    "embedded_parts": [],
+    "portability_advisory_faces": [
+      "游ゴシック",
+      "游ゴシック Light"
+    ]
+  },
+  "media": {
+    "embedded_count": 5,
+    "external_count": 0,
+    "embedded": [
+      {
+        "part": "ppt/media/image1.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 2360993,
+        "compressed_bytes": 2360993,
+        "reference_count": 2,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      },
+      {
+        "part": "ppt/media/image4.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 1849207,
+        "compressed_bytes": 1849207,
+        "reference_count": 3,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      },
+      {
+        "part": "ppt/media/image5.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 655083,
+        "compressed_bytes": 655083,
+        "reference_count": 1,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      },
+      {
+        "part": "ppt/media/image3.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 278155,
+        "compressed_bytes": 278155,
+        "reference_count": 1,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      },
+      {
+        "part": "ppt/media/image2.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 172779,
+        "compressed_bytes": 172779,
+        "reference_count": 1,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      }
+    ],
+    "external": [],
+    "uncompressed_bytes": 5316217,
+    "archive_compressed_bytes": 5316217,
+    "share_of_archive": 0.945712,
+    "share_of_uncompressed_parts": 0.760601,
+    "top_contributors": [
+      {
+        "part": "ppt/media/image1.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 2360993,
+        "compressed_bytes": 2360993,
+        "reference_count": 2,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      },
+      {
+        "part": "ppt/media/image4.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 1849207,
+        "compressed_bytes": 1849207,
+        "reference_count": 3,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      },
+      {
+        "part": "ppt/media/image5.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 655083,
+        "compressed_bytes": 655083,
+        "reference_count": 1,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      },
+      {
+        "part": "ppt/media/image3.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 278155,
+        "compressed_bytes": 278155,
+        "reference_count": 1,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      },
+      {
+        "part": "ppt/media/image2.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 172779,
+        "compressed_bytes": 172779,
+        "reference_count": 1,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      }
+    ]
+  },
+  "motion": {
+    "transitions": {
+      "carrier_slide_count": 44,
+      "visual_effect_slide_count": 44,
+      "timed_advance_slide_count": 0,
+      "carrier_slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "visual_effect_slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "timed_advance_slides": [],
+      "effects": {
+        "fade": 44
+      }
+    },
+    "object_animations": {
+      "timing_slide_count": 0,
+      "object_animation_slide_count": 0,
+      "audio_timing_slide_count": 0,
+      "timing_slides": [],
+      "object_animation_slides": [],
+      "audio_timing_slides": []
+    }
+  },
+  "errors": [],
+  "advisories": [
+    {
+      "code": "font_portability",
+      "message": "Some fonts declared or referenced by the presentation are outside the common Office/OS portability set; target-system availability was not verified.",
+      "faces": [
+        "游ゴシック",
+        "游ゴシック Light"
+      ]
+    }
+  ]
+}

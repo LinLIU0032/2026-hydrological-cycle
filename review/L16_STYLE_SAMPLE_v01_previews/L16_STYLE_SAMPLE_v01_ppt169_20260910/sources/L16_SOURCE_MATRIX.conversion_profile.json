@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "excel_to_md.py",
+  "conversion_type": "xlsx",
+  "source": {
+    "path": "E:/PG/2026 Hydrological cycle/planning/L16_SOURCE_MATRIX.xlsx",
+    "name": "L16_SOURCE_MATRIX.xlsx",
+    "suffix": ".xlsx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 31683
+  },
+  "outputs": {
+    "markdown": "L16_SOURCE_MATRIX.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 131,
+    "char_count": 46348,
+    "heading_count": 4,
+    "table_count": 2,
+    "image_ref_count": 0,
+    "link_count": 0
+  },
+  "warnings": []
+}

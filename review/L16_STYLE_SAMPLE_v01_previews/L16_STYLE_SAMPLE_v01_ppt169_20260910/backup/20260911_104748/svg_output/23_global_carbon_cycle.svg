@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.3 全球碳循环 | Global Carbon Cycle</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">先分清储库与通量，再比较交换速度；不需要背诵全部数字</text>
+  </g>
+
+  <g id="carbon-cycle-figure" data-pptx-bounds="40 154 682 500">
+    <rect x="40" y="154" width="682" height="500" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <image href="../images/C-01_UE_Fig12-19_PDF1209_raw.png" x="80" y="164" width="602" height="480" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="carbon-reading-key" data-pptx-bounds="746 154 494 94">
+    <rect x="746" y="154" width="494" height="94" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <rect x="764" y="172" width="48" height="48" rx="12" fill="#EA580C"/>
+    <text x="788" y="204" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">框</text>
+    <text x="832" y="188" font-size="16" font-weight="bold" fill="#C2410C">储库 | Reservoir</text>
+    <text x="832" y="216" font-size="15" fill="#1A2230">单位：Gt C，表示某处储存了多少碳。</text>
+  </g>
+
+  <g id="carbon-flux-key" data-pptx-bounds="746 260 494 126">
+    <rect x="746" y="260" width="494" height="126" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <rect x="764" y="278" width="48" height="48" rx="12" fill="#C2410C"/>
+    <text x="788" y="310" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">→</text>
+    <text x="832" y="294" font-size="16" font-weight="bold" fill="#C2410C">通量 | Flux</text>
+    <text x="832" y="322" font-size="15" fill="#1A2230">单位：Gt C/yr，表示每年转移的速率。</text>
+    <text x="832" y="352" font-size="13" font-weight="bold" fill="#EA580C">120 与 80 是总交换，不等于净碳汇。</text>
+  </g>
+
+  <g id="carbon-clock-key" data-pptx-bounds="746 398 494 164">
+    <rect x="746" y="398" width="494" height="164" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="788" cy="444" r="24" fill="#0E3F8C"/>
+    <line x1="788" y1="444" x2="788" y2="429" stroke="#FFFFFF" stroke-width="3"/>
+    <line x1="788" y1="444" x2="800" y2="452" stroke="#FFFFFF" stroke-width="3"/>
+    <text x="832" y="430" font-size="16" font-weight="bold" fill="#0E3F8C">比较时钟 | Compare clocks</text>
+    <text x="772" y="478" font-size="15" fill="#1A2230">
+      <tspan x="772" dy="0">生物与海气交换：高通量、快速</tspan>
+      <tspan x="772" dy="26">硅酸盐风化与火山返回：&lt;0.1 Gt C/yr、缓慢</tspan>
+    </text>
+  </g>
+
+  <g id="carbon-takeaway" data-pptx-bounds="746 578 494 76">
+    <rect x="746" y="578" width="494" height="76" rx="12" fill="#FDECDD"/>
+    <text x="772" y="608" font-size="16" font-weight="bold" fill="#C2410C">Reservoir ≠ Flux</text>
+    <text x="772" y="636" font-size="15" fill="#7A4A33">大储库、快交换与净变化是三个不同问题。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Fig. 12.19, PDF p.1209. Amounts: Gt C; fluxes: Gt C/yr.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">23</text>
+</svg>

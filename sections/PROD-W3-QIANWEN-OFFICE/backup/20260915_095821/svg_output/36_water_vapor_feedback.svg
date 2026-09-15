@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C" />
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">3.2 水汽反馈 | Water-Vapor Feedback</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">POSITIVE FEEDBACK</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8" />
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">增温先增加蒸发与水汽，水汽再加强温室效应：一条自我加强的正反馈</text>
+  </g>
+
+  <g id="loop-panel" data-pptx-bounds="40 150 1200 370">
+    <rect x="40" y="150" width="1200" height="370" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1" />
+
+    <rect x="70" y="170" width="204" height="26" rx="8" fill="#E8EFF8" />
+    <text x="172" y="188" font-size="12" font-weight="bold" text-anchor="middle" fill="#1E4FA8">初始变化 Initial change</text>
+    <rect x="304" y="170" width="906" height="26" rx="8" fill="#F0F5FC" />
+    <text x="320" y="188" font-size="12" fill="#4A5568">诱发变化 Induced change（步骤 2–5）</text>
+
+    <g id="step-1" data-pptx-bounds="70 210 204 120">
+      <rect x="70" y="210" width="204" height="120" rx="10" fill="#F0F5FC" stroke="#1E4FA8" stroke-width="2" />
+      <circle cx="96" cy="238" r="13" fill="#1E4FA8" />
+      <text x="96" y="243" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+      <text x="118" y="243" font-size="15" font-weight="bold" fill="#0E3F8C">初始增温</text>
+      <text x="86" y="272" font-size="12" fill="#4A5568">Initial warming</text>
+      <text x="86" y="296" font-size="12" fill="#4A5568">温度上升</text>
+    </g>
+    <line x1="277" y1="270" x2="291" y2="270" stroke="#1E4FA8" stroke-width="3" />
+    <polygon points="301,270 291,264 291,276" fill="#1E4FA8" />
+
+    <g id="step-2" data-pptx-bounds="304 210 204 120">
+      <rect x="304" y="210" width="204" height="120" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1" />
+      <circle cx="330" cy="238" r="13" fill="#1E4FA8" />
+      <text x="330" y="243" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+      <text x="352" y="243" font-size="15" font-weight="bold" fill="#0E3F8C">蒸发增加</text>
+      <text x="320" y="272" font-size="12" fill="#4A5568">Evaporation increases</text>
+      <text x="320" y="296" font-size="12" fill="#4A5568">海洋蒸发增强</text>
+    </g>
+    <line x1="511" y1="270" x2="525" y2="270" stroke="#1E4FA8" stroke-width="3" />
+    <polygon points="535,270 525,264 525,276" fill="#1E4FA8" />
+
+    <g id="step-3" data-pptx-bounds="538 210 204 120">
+      <rect x="538" y="210" width="204" height="120" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1" />
+      <circle cx="564" cy="238" r="13" fill="#1E4FA8" />
+      <text x="564" y="243" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+      <text x="586" y="243" font-size="15" font-weight="bold" fill="#0E3F8C">水汽增加</text>
+      <text x="554" y="272" font-size="12" fill="#4A5568">Water vapor increases</text>
+      <text x="554" y="296" font-size="12" fill="#4A5568">大气水汽增多</text>
+    </g>
+    <line x1="745" y1="270" x2="759" y2="270" stroke="#1E4FA8" stroke-width="3" />
+    <polygon points="769,270 759,264 759,276" fill="#1E4FA8" />
+
+    <g id="step-4" data-pptx-bounds="772 210 204 120">
+      <rect x="772" y="210" width="204" height="120" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1" />
+      <circle cx="798" cy="238" r="13" fill="#1E4FA8" />
+      <text x="798" y="243" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+      <text x="820" y="243" font-size="15" font-weight="bold" fill="#0E3F8C">温室效应加强</text>
+      <text x="788" y="272" font-size="12" fill="#4A5568">Greenhouse effect stronger</text>
+      <text x="788" y="296" font-size="12" fill="#4A5568">水汽吸收并再辐射</text>
+    </g>
+    <line x1="979" y1="270" x2="993" y2="270" stroke="#1E4FA8" stroke-width="3" />
+    <polygon points="1003,270 993,264 993,276" fill="#1E4FA8" />
+
+    <g id="step-5" data-pptx-bounds="1006 210 204 120">
+      <rect x="1006" y="210" width="204" height="120" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1" />
+      <circle cx="1032" cy="238" r="13" fill="#1E4FA8" />
+      <text x="1032" y="243" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">5</text>
+      <text x="1054" y="243" font-size="15" font-weight="bold" fill="#0E3F8C">进一步增温</text>
+      <text x="1022" y="272" font-size="12" fill="#4A5568">Further warming</text>
+      <text x="1022" y="296" font-size="12" fill="#4A5568">温度继续上升</text>
+    </g>
+
+    <path d="M1108,330 L1108,368 Q1108,376 1100,376 L180,376 Q172,376 172,368 L172,336" fill="none" stroke="#1E4FA8" stroke-width="3" />
+    <polygon points="172,330 165,340 179,340" fill="#1E4FA8" />
+    <text x="640" y="402" font-size="13" font-weight="bold" text-anchor="middle" fill="#1E4FA8">诱发变化与初始变化同向 → 沿原方向放大 Induced change reinforces the initial change</text>
+
+    <rect x="64" y="430" width="520" height="70" rx="12" fill="#1E4FA8" />
+    <circle cx="100" cy="465" r="16" fill="#FFFFFF" />
+    <text x="100" y="472" font-size="20" font-weight="bold" text-anchor="middle" fill="#1E4FA8">+</text>
+    <text x="128" y="458" font-size="16" font-weight="bold" fill="#FFFFFF">Positive Feedback 正反馈</text>
+    <text x="128" y="482" font-size="12" fill="#D6E4F7">诱发变化加强初始增温 Induced change amplifies warming</text>
+
+    <rect x="604" y="430" width="612" height="70" rx="12" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1" />
+    <text x="620" y="458" font-size="13" fill="#1A2230">水汽是对初始增温的反馈，不是独立初始强迫</text>
+    <text x="620" y="482" font-size="12" fill="#4A5568">Water vapor responds to initial warming; it is not an independent forcing</text>
+  </g>
+
+  <g id="closure-reading" data-pptx-bounds="40 546 1200 66" font-size="13">
+    <text x="40" y="560" fill="#1A2230">闭环判断：初始增温诱发的变化继续加强增温，因此是正反馈。 The loop amplifies the initial warming → positive.</text>
+    <text x="40" y="600" fill="#4A5568">判断步骤：找初始变化 → 跟踪诱发变化 → 比较最终作用方向 Steps: initial change → induced change → compare final direction</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Ch.12, PDF p.1177; EP 5e, Ch.23, pp.883–884 (M-12). CN Ch.3 PDF pp.10, 27–28 supports phase-change context only.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">36</text>
+</svg>

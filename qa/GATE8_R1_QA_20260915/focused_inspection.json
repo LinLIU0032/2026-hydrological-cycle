@@ -1,0 +1,118 @@
+{
+  "decks": {
+    "QIANWEN-OFFICE": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\L16_W3_QianwenOffice_Slides36-37_39_v01.pptx",
+      "sha256": "1a40ecb939c4448a06a38ee2e1aa1d44e75d078b6315cd38d8cc453fdbe31590",
+      "previous_sha256": "a37272af6a6fd0f93f671c3fd78cb8e525afc7952c2d075c981431c817d310a9",
+      "slide_count": 3,
+      "size_inches": [
+        13.3333,
+        7.5
+      ],
+      "slides": [
+        {
+          "local_index": 1,
+          "expected_page": 36,
+          "page_number_present": true,
+          "visible_text": "3.2 水汽反馈 | Water-Vapor Feedback\nPOSITIVE FEEDBACK\n增温先增加蒸发与水汽，水汽再加强温室效应：一条自我加强的正反馈\n初始变化 Initial change\n诱发变化 Induced change（步骤 2–5）\n1\n初始增温\nInitial warming\n温度上升\n2\n蒸发增加\nEvaporation increases\n海洋蒸发增强\n3\n水汽增加\nWater vapor increases\n大气水汽增多\n4\n温室效应加强\nGreenhouse effect stronger\n水汽吸收并再辐射\n5\n进一步增温\nFurther warming\n温度继续上升\n诱发变化与初始变化同向 → 沿原方向放大 Induced change reinforces the initial change\n+\nPositive Feedback 正反馈\n诱发变化加强初始增温 Induced change amplifies warming\n水汽是对初始增温的反馈，不是独立初始强迫\nWater vapor responds to initial warming; it is not an independent forcing\n闭环判断：初始增温诱发的变化继续加强增温，因此是正反馈。 The loop amplifies the initial warming → positive.\n判断步骤：找初始变化 → 跟踪诱发变化 → 比较最终作用方向 Steps: initial change → induced change → compare final direction\nSource: UE 8e, Ch.12, PDF p.1177; EP 5e, Ch.23, pp.883–884 (M-12). CN Ch.3 PDF pp.10, 27–28 supports phase-change context only.\n36",
+          "notes_text": "这一页讲水汽反馈，是一条正反馈回路。请学生沿五张卡片从左往右读：第一步是初始增温，这是初始变化，卡片用深蓝边框单独标出；第二步蒸发增加，尤其是海洋蒸发增强；第三步大气水汽增多，水汽进入大气圈；第四步水汽吸收并再辐射长波辐射，温室效应加强；第五步进一步增温。下面那条回环箭头把第五步接回第一步，表示诱发变化与初始变化同向、沿原方向继续放大，所以深蓝签块标的是 Positive Feedback 正反馈，判断依据是方向而不是好坏。右边浅色卡片钉住一个常见误区：水汽在这里是对初始增温的反馈，不是一个独立初始强迫，不能把它讲成自己启动的驱动因素。这一页不需要任何数字，也不重新讲授第十五讲的温室效应本身。来源是理解地球第八版第十二章 PDF 第一一七七页，以及地球画像第五版第二十三章 883 到 884 页；中文教材第三章 PDF 第 10 页和 27 到 28 页只作相变背景支持。",
+          "visible_text_unchanged": false,
+          "notes_text_unchanged": false
+        },
+        {
+          "local_index": 2,
+          "expected_page": 37,
+          "page_number_present": true,
+          "visible_text": "3.3 冰–反照率反馈 | Ice–Albedo Feedback\nPOSITIVE FEEDBACK\n增温减少冰雪与反照率，吸收的太阳能增加：又一条自我加强的正反馈\n初始变化 Initial change\n诱发变化 Induced change（步骤 2–5）\n1\n初始增温\nInitial warming\n温度上升\n2\n冰雪减少\nIce and snow decrease\n覆盖面积缩小\n3\n反照率下降\nSurface albedo decreases\n反照率 = 地表反射率\n4\n吸收太阳能增加\nMore absorbed solar energy\n地表吸收更多辐射\n5\n进一步增温\nFurther warming\n温度继续上升\n诱发变化与初始变化同向 → 沿原方向放大 Induced change reinforces the initial change\n+\nPositive Feedback 正反馈\n诱发变化加强初始增温 Induced change amplifies warming\n反照率 Albedo = 地表反射率 surface reflectivity\n闭环判断：冰雪与反照率下降带来的吸收增加继续加强增温，因此是正反馈。 The loop amplifies the initial warming → positive.\n判断步骤：找初始变化 → 跟踪诱发变化 → 比较最终作用方向 Steps: initial change → induced change → compare final direction\nSource: UE 8e, Ch.12, PDF p.1177; 地球系统与演变, Ch.3 §3.3.2.3, PDF pp.39–40; HB Ch.9, pp.251–252 as mechanism context only.\n37",
+          "notes_text": "这一页讲冰–反照率反馈，结构与上一页完全同族，方便学生套用同一套读法。五步依次是：初始增温；冰雪减少、覆盖面积缩小；反照率下降，卡片里给了简短双语定义，反照率就是地表反射率；地表吸收的太阳能增加；进一步增温。回环箭头同样把末步接回第一步，诱发变化与初始变化同向，因此是 Positive Feedback 正反馈。右边浅色卡片给出反照率的双语定义；教师边界提醒：本页不引入冰量数据、海平面数值或雪球地球历史；讲的时候也不要顺势说\"海冰融化抬升海平面\"，漂浮海冰融化与陆地冰融化对海平面的作用不同，那一区分属于冰冻圈页的内容，不在本页展开。来源是理解地球第八版第十二章 PDF 第一一七七页、地球系统与演变第三章 3.3.2.3 节 PDF 第 39 到 40 页，HB 第九章 251 到 252 页只作机制背景。",
+          "visible_text_unchanged": false,
+          "notes_text_unchanged": false
+        },
+        {
+          "local_index": 3,
+          "expected_page": 39,
+          "page_number_present": true,
+          "visible_text": "3.5 生命也参与反馈 | Biosphere Feedback\nNEGATIVE FEEDBACK\nCO₂ 升高可促进植物生长与碳吸收，部分抵消初始变化：一个代表性负反馈\n初始变化 Initial change\n诱发变化 Induced change（步骤 2–4）\n1\n大气 CO₂ 增加\nAtmospheric CO₂ increases\n浓度上升\n2\n植物生长可能增加\nPlant growth can increase\n可促进，非必然\n3\n碳吸收进有机质\nUptake into organic matter\n植物固定 CO₂ 为有机质\n4\nCO₂ 与增温相对降低\nCO₂ & warming reduced\n反对初始变化\n诱发作用与初始变化反向 → 抑制并趋于稳定 Induced change opposes the initial change\n−\nNegative Feedback 负反馈\n诱发作用反对初始变化 Induced change opposes it\n条件式：CO₂ 升高可促进植物生长与碳吸收\nNo unlimited growth, permanent compensation, or measured present-day net sink\n闭环判断：植物吸收使大气 CO₂ 与增温相对初始变化降低，因此是负反馈。 The induced uptake opposes the initial change → negative.\n判断步骤：找初始变化 → 跟踪诱发变化 → 比较最终作用方向 Steps: initial change → induced change → compare final direction\nSource: UE 8e, Ch.12, PDF p.1178; UE 8e p.1168 and approved CN Ch.4 rows as process context only; no flux or response-time number is used.\n39",
+          "notes_text": "这一页讲生命参与的反馈，是一个有边界的代表性负反馈，步骤比前两页少一步。第一步是大气 CO₂ 增加，这是初始变化；第二步植物生长可能增加，注意这是条件式措辞，是\"可能增加、可促进\"而不是\"必然促进\"；第三步植物把更多 CO₂ 固定进有机质，完成碳吸收；第四步大气 CO₂ 与温室增温相对初始变化被降低。回环箭头把第四步接回第一步，但方向作用是反对初始变化、抑制并趋于稳定，所以签块标 Negative Feedback 负反馈。右边浅色卡片把边界写清楚：这是条件式表述，不声称无限生长、永久补偿，也不声称现今已测得的净汇；同样不扩展到养分限制、生态系统学、政策或土地管理。页面上没有任何通量或响应时间数字，因为任务未授权。CO₂ 用橙色标记，只在这一页出现，用来把碳的线索从第二部分接过来。来源是理解地球第八版第十二章 PDF 第一一七八页，UE 第一一六八页与已批准的中文教材第四章行只作过程背景。",
+          "visible_text_unchanged": false,
+          "notes_text_unchanged": false
+        }
+      ],
+      "package": {
+        "notes_parts": 3,
+        "external_relationship_parts": [],
+        "timing_slide_count": 0,
+        "timed_advance_slide_count": 0,
+        "audio_reference_slide_count": 0
+      }
+    },
+    "DOUBAO": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\L16_W3_Doubao_Slides40-43_v01.pptx",
+      "sha256": "581512c8c1fa623158d589f5740a408e02324c9e0a8813cdb02c85e65a12a630",
+      "previous_sha256": "1d12ff4d1142cc759556d7178a9a21a6beb2a840577e2961cf443b0cd1e5df9d",
+      "slide_count": 4,
+      "size_inches": [
+        13.3333,
+        7.5
+      ],
+      "slides": [
+        {
+          "local_index": 1,
+          "expected_page": 40,
+          "page_number_present": true,
+          "visible_text": "3.6 反馈不是同一速度 | Feedbacks Have Different Clocks\nFEEDBACKS\n辐射、水文、冰冻圈、生物圈与风化响应运行在不同的时钟上\n定性对齐：条带位置只表示相对快慢，不代表精确响应时间（教材无统一响应时间表）\n快 Fast → 慢 Slow\n即时–天\n季节–年\n数十年–世纪\n千年–冰期\n10⁵–10⁷ 年\n辐射响应 Radiative response\n辐射收支随辐射强迫近乎即时改变\n即时–数天：能量收支近瞬时调整\n水文（水汽）响应 Hydrological\n蒸发—水汽反馈，随大气水快速周转\n大气水交换 < 约 9 天（CN 表 3-1）\n冰冻圈响应 Cryosphere\n季节积雪、海冰到山地冰川与冰盖\n季节积雪 → 冰期尺度\n生物圈响应 Biosphere\n植物生长等生物过程，教材未给统一响应时钟\n响应时钟未统一量化 | No unified response clock（不分配时间区间）\n硅酸盐风化恒温器\nWeathering thermostat · 最慢的负反馈\n>10⁵–10⁷ 年\n慢负反馈不能立刻抵消快正反馈：响应方向与响应时钟必须同时判断。\nSource: UE 8e pp.1148, 1161–1165, 1177–1178, 1213; EP pp.883–884; HB Ch.9 pp.248–249, Ch.18 pp.455–475; CN Ch.4 pp.78–80. Qualitative alignment, not a unified response-time table.\n40",
+          "notes_text": "这一页要纠正一个常见误解：反馈并不是按同一个速度运行的。图上把五个反馈家族对齐到同一条定性时间轴上，从左到右表示从快到慢的相对位置，而不是一张精确的统一响应时间表，教材本身也没有给出这样一张表。辐射收支对辐射强迫的响应几乎是即时的，落在即时到数天的位置；水文与水汽反馈跟随大气水的快速周转，大气中的水大约不到九天就交换一次，可以作为快速端的锚点。冰冻圈跨越很宽，从季节积雪、海冰一直到山地冰川和冰盖，也就是季节到冰期尺度。生物圈涉及植物生长等生物过程，教材没有给出统一的定量响应时间，所以这一条故意画成贯穿整条时间轴的中性虚线条带，不落入任何时间区间，提醒大家不要给它分配时间区间或精确时钟。最慢的是硅酸盐风化恒温器，响应时间在十万到千万年量级，用克制的橙色标出。结论是：慢的负反馈无法立刻抵消快的正反馈，判断一个系统会怎样变化，必须同时看反馈方向和响应时钟。还要提醒，强迫与反馈不是一回事，教材中关于不同时间尺度气候变化带的划分不能直接当作每个反馈的响应时间。",
+          "visible_text_unchanged": false,
+          "notes_text_unchanged": false
+        },
+        {
+          "local_index": 2,
+          "expected_page": 41,
+          "page_number_present": true,
+          "visible_text": "3.7 综合课堂题 | Earth-System Challenge\nFEEDBACKS\n从一次升温扰动出发，画出多条响应路径，判定反馈符号并比较快慢\n初始扰动 Initial perturbation\n温度升高 Temperature increases ↑\n路径 A · Pathway A\n补全环节，判定符号与速度\n环节①（课堂填写）Step ①\n环节②（课堂填写）Step ②\n最终作用：放大 / 抑制初始变化？\n反馈符号 Sign：\n正 +\n负 −\n响应速度 Speed：\n较快\n较慢\n路径 B · Pathway B\n补全环节，判定符号与速度\n环节①（课堂填写）Step ①\n环节②（课堂填写）Step ②\n最终作用：放大 / 抑制初始变化？\n反馈符号 Sign：\n正 +\n负 −\n响应速度 Speed：\n较快\n较慢\n路径 C · Pathway C（选做）\n补全环节，判定符号与速度\n环节①（课堂填写）Step ①\n环节②（课堂填写）Step ②\n最终作用：放大 / 抑制初始变化？\n反馈符号 Sign：\n正 +\n负 −\n响应速度 Speed：\n较快\n较慢\n课堂任务 Tasks\n1 补全至少两条响应路径\n2 标注正反馈 / 负反馈\n3 指出响应更快者\n4 指出响应更慢者\n可用环节 Building blocks（限 Slides 36–39，无新增机制）\n水汽增多\n冰雪减少 · 反照率下降\n风化加速固碳\n植物生长固碳\nWorksheet only — answer key in embedded Notes; mechanisms limited to approved Slides 36–40. Source: UE 8e pp.1176–1178, 1212–1213; EP pp.883–884; HB Ch.9 pp.248–252; CN Chs.3–4 pp.39–40, 78–80.\n41",
+          "notes_text": "这是一道课堂练习，页面本身是一张待完成的因果图，完整答案不放在可见页面上，由学生在三条路径上现场补全。顶部是唯一给定的初始扰动：温度升高。学生需要完成四项任务：补全至少两条响应路径，给每条路径标注正反馈或负反馈，指出哪条路径响应更快，再指出哪条更慢。右下角给出的四个可用环节全部来自前面第三十六到三十九页，不引入新机制。教师用的参考答案如下。第一条是水汽正反馈：升温使蒸发增强，大气水汽增多，温室效应增强，进一步升温，符号为正，速度很快，属于天到季节量级，依据是 UE 一千一百七十七页和 EP 八百八十三到八百八十四页。第二条是冰反照率正反馈：升温使冰雪减少，地表反照率下降，吸收的太阳能量增多，进一步升温，符号为正，速度从季节到冰期不等，依据是 UE 一千一百七十七页和《地球系统与演变》第三十九到四十页。第三条是硅酸盐风化负反馈：增暖增湿使风化加速，把大气中的二氧化碳转入碳酸盐，从而抑制初始升温，符号为负，速度最慢，在十万到千万年量级，依据是 HB 第九章二百四十八到二百四十九页并配合 UE 一千二百一十二到一千二百一十三页。植物生长固碳可以作为第四条可接受路径：二氧化碳升高刺激生长、植物吸收更多碳，符号为负，但教材没有给响应时间，不能给它配精确时钟。讲评时必须强调，正反馈和负反馈指的是放大还是抑制初始变化，不是好与坏；最快的是水汽和辐射类响应，最慢的是风化恒温器，这正好呼应上一页关于不同时钟的结论。",
+          "visible_text_unchanged": true,
+          "notes_text_unchanged": true
+        },
+        {
+          "local_index": 3,
+          "expected_page": 42,
+          "page_number_present": true,
+          "visible_text": "作业题 | Homework Questions\nLECTURE 16 · SYNTHESIS\n四道候选题覆盖共同框架、碳时间尺度、耦合与反馈推理，教师选 1–2 题\n1\n储库、通量与停留时间\nReservoir · Flux · Residence Time\n定义这三个概念，并解释：为什么储量很大的储库，\u000b更新速度不一定快？\n类型：概念理解 Conceptual\n2\n快速与缓慢碳循环路径\nFast vs Slow Carbon Cycles\n从储库、过程与相对时间尺度三方面，\u000b比较快速与缓慢碳循环路径。\n类型：比较解释 Compare\n3\n水如何耦合两个循环\nWeathering · Ocean Transfer · Biology\n以风化、海洋输送或生物过程为例，说明水\u000b如何耦合水循环与碳循环。\n类型：系统耦合 Coupling\n4\n升温后的正、负反馈路径\nFeedback Sign · Response Speed\n从一次升温出发，各写一条正反馈与一条\u000b负反馈路径，并比较二者响应快慢。\n类型：因果推理 Earth-system reasoning\n教师从四道候选题中选 1–2 题作为正式作业 · Instructor selects one or two\nCandidate questions — Master Prompt Sections 42/52; content limited to approved Slides 04–41. Brief grading points in embedded Notes; no answers shown on slide.\n42",
+          "notes_text": "这一页给出四道候选题，正式作业由教师从中选一道到两道，页面上不提供答案。第一题是概念题，要求学生定义储库、通量和停留时间，并解释为什么储量很大的储库更新不一定快，评分时看学生能否用停留时间等于储量除以通量这一关系说明大储量配合大通量时停留时间仍可能很长。第二题是比较题，要求从储库、过程和相对时间尺度三方面比较快速与缓慢碳循环路径，评分看学生是否把大气生物圈的快速交换与岩石圈的缓慢风化埋藏区分开。第三题是耦合题，要求以风化、海洋输送或生物过程为例说明水如何把水循环与碳循环连接起来，三条路径举出任意一条并讲清因果即可。第四题是因果推理题，要求从一次升温出发各写一条正反馈和一条负反馈路径并比较响应快慢，评分看链条是否闭合、符号判定是否正确，以及是否意识到慢负反馈不能即时抵消快正反馈。四道题分别覆盖概念理解、比较解释、系统耦合和因果推理，不另外增加政策题或超纲计算。",
+          "visible_text_unchanged": true,
+          "notes_text_unchanged": true
+        },
+        {
+          "local_index": 4,
+          "expected_page": 43,
+          "page_number_present": true,
+          "visible_text": "核心术语 | Key Terms\nLECTURE 16 · SYNTHESIS\n三组术语字段收束共同框架、水文过程与碳—耦合概念\n共同框架 Framework\n6 terms\nReservoir　储库\nFlux　通量\nResidence Time　停留时间\nFeedback　反馈\nPositive Feedback　正反馈\nNegative Feedback　负反馈\n水文过程 Water Processes\n7 terms\nHydrologic Cycle　水文循环\nEvaporation　蒸发\nEvapotranspiration　蒸散\nRunoff　径流\nInfiltration　入渗\nGroundwater　地下水\nCryosphere　冰冻圈\n碳与耦合 Carbon & Coupling\n7 terms\nCarbon Cycle　碳循环\nPhotosynthesis　光合作用\nRespiration　呼吸\nWeathering　风化\nCarbonate　碳酸盐\nBiological Pump　生物泵\nPhysical Pump　物理泵\n英文术语以 UE 为准，中文以《地球系统与演变》为准 · UE English · CN Chinese\nLocked bilingual vocabulary — UE 8e Chs.12/17; 地球系统与演变 Chs.3–4; Master Prompt Slide 43 list. Terms only; one-line reminders in embedded Notes.\n43",
+          "notes_text": "这一页是全讲核心术语的收束，按共同框架、水文过程、碳与耦合三组列出，共二十个术语，英文以 UE 教材为准，中文以《地球系统与演变》为准，页面只列术语，不展开新定义。共同框架组六个：储库是物质的存放单元，通量是单位时间的转移量，停留时间是物质在储库中的平均滞留时长，反馈是输出回过来影响输入的过程，正反馈放大初始变化，负反馈抑制或稳定初始变化，正负不是好坏。水文过程组七个：水文循环是水在各储库间的循环，蒸发是液态水变为水汽，蒸散包括蒸发与植物蒸腾，径流是地表水流，入渗是水渗入地下，地下水是储存在孔隙含水层中的水，冰冻圈是地球表层所有冻结水的总称。碳与耦合组七个：碳循环是碳在各储库间的循环，光合作用把二氧化碳固定为有机碳，呼吸作用把有机碳氧化释放二氧化碳，风化是水与二氧化碳等参与的岩石化学蚀变过程，硅酸盐风化可形成长期净二氧化碳去向，而碳酸盐风化不是同等净汇，碳酸盐是碳在岩石圈的主要赋存形式，生物泵靠海洋生物把碳向深层输送，物理泵靠海水溶解与环流输送碳。复习时提醒学生，这些术语前面都已讲过，这里只做对照与巩固，不引入新概念。",
+          "visible_text_unchanged": true,
+          "notes_text_unchanged": false
+        }
+      ],
+      "package": {
+        "notes_parts": 4,
+        "external_relationship_parts": [],
+        "timing_slide_count": 0,
+        "timed_advance_slide_count": 0,
+        "audio_reference_slide_count": 0
+      }
+    }
+  },
+  "focused_checks": {
+    "slide_36_forbidden_values_removed": true,
+    "slide_37_visible_meta_removed": true,
+    "slide_39_incomplete_phrase_removed": true,
+    "slide_40_plant_time_range_removed": true,
+    "slide_40_keeps_no_unified_clock": true,
+    "slide_43_exclusive_weathering_definition_removed": true,
+    "slide_43_keeps_weathering_distinction": true,
+    "slide_41_visible_regression": true,
+    "slide_41_notes_regression": true,
+    "slide_42_visible_regression": true,
+    "slide_42_notes_regression": true
+  }
+}

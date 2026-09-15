@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.8 水的三相转换 | Phase Changes of Water</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">WATER CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">相变同时搬运水和能量：汽化潜热远大于熔融潜热</text>
+  </g>
+
+  <g id="w05-figure" data-pptx-bounds="40 154 780 440">
+    <rect x="40" y="154" width="780" height="440" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <image href="../images/W-05_Fig3-17_PDF27_print112_raw.png" x="60" y="170" width="740" height="416" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="value-card-fusion" data-pptx-bounds="840 154 400 100">
+    <rect x="840" y="154" width="400" height="100" rx="12" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="866" y="190" font-size="15" font-weight="bold" fill="#0E3F8C">熔融 / 冻结 Fusion ↔ Freezing</text>
+    <text x="866" y="226" font-size="28" font-weight="bold" fill="#1E4FA8">±80 Cal</text>
+    <text x="1010" y="226" font-size="13" fill="#4A5568">固 ↔ 液 相变潜热</text>
+  </g>
+
+  <g id="value-card-sensible" data-pptx-bounds="840 268 400 100">
+    <rect x="840" y="268" width="400" height="100" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="866" y="304" font-size="15" font-weight="bold" fill="#0E3F8C">加热 / 降温 0–100 °C</text>
+    <text x="866" y="340" font-size="28" font-weight="bold" fill="#3D7BD9">±100 Cal</text>
+    <text x="1010" y="340" font-size="13" fill="#4A5568">液态水显热（非相变）</text>
+  </g>
+
+  <g id="value-card-vapor" data-pptx-bounds="840 382 400 100">
+    <rect x="840" y="382" width="400" height="100" rx="12" fill="#F0F5FC" stroke="#1E4FA8" stroke-width="2"/>
+    <text x="866" y="418" font-size="15" font-weight="bold" fill="#0E3F8C">汽化 / 凝结 Vaporization ↔ Condensation</text>
+    <text x="866" y="454" font-size="28" font-weight="bold" fill="#1E4FA8">±540 Cal</text>
+    <text x="1010" y="454" font-size="13" fill="#4A5568">液 ↔ 气 相变潜热</text>
+  </g>
+
+  <g id="unit-card" data-pptx-bounds="840 496 400 98">
+    <rect x="840" y="496" width="400" height="98" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="866" y="530" font-size="14" font-weight="bold" fill="#C2410C">单位换算 Unit</text>
+    <text x="866" y="566" font-size="22" font-weight="bold" fill="#1A2230">1 Cal = 4.184 J</text>
+    <text x="866" y="586" font-size="12" fill="#7A4A33">教材原值保留，未做单位改写</text>
+  </g>
+
+  <g id="ratio-strip" data-pptx-bounds="40 612 1200 44">
+    <rect x="40" y="612" width="1200" height="44" rx="10" fill="#FDECDD" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="640" y="640" font-size="15" font-weight="bold" text-anchor="middle" fill="#C2410C">气–液相变能量 ≈ 固–液相变能量的 7 倍（540 / 80）——这是水循环搬运能量的关键不对称</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: 地球系统与演变, Ch.3 §3.3.2, Fig. 3-17 (W-05), p.112 (PDF p.27). Arrow directions and displayed values preserved intact.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">11</text>
+</svg>

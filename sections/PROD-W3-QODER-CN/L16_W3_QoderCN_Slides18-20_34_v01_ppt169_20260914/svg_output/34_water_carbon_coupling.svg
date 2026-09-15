@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <defs>
+    <marker id="arrowBlue" markerWidth="3.6" markerHeight="2.8" refX="3.6" refY="1.4" orient="auto-start-reverse">
+      <polygon points="0,0 3.6,1.4 0,2.8" fill="#1E4FA8"/>
+    </marker>
+    <marker id="arrowOrange" markerWidth="3.6" markerHeight="2.8" refX="3.6" refY="1.4" orient="auto-start-reverse">
+      <polygon points="0,0 3.6,1.4 0,2.8" fill="#EA580C"/>
+    </marker>
+  </defs>
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">把两个循环放到同一张图上 | Coupling the Water and Carbon Cycles</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">COUPLING BRIDGE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">水是耦合两个循环的介质：风化、生物交换、海洋转移与岩石储存</text>
+  </g>
+
+  <g id="atmosphere-node" data-pptx-bounds="40 152 1200 64">
+    <rect x="40" y="152" width="1200" height="64" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="64" y="190" font-size="16" font-weight="bold" fill="#0E3F8C">大气圈 | Atmosphere</text>
+    <line x1="900" y1="176" x2="940" y2="176" stroke="#EA580C" stroke-width="3"/>
+    <text x="948" y="181" font-size="12" fill="#7A4A33">碳通量 Carbon flux</text>
+    <line x1="900" y1="198" x2="940" y2="198" stroke="#1E4FA8" stroke-width="3" stroke-dasharray="8,4"/>
+    <text x="948" y="203" font-size="12" fill="#4A5568">水通量 Water flux</text>
+  </g>
+
+  <g id="ocean-node" data-pptx-bounds="40 300 470 140">
+    <rect x="40" y="300" width="470" height="140" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="64" y="336" font-size="16" font-weight="bold" fill="#0E3F8C">海洋 | Ocean</text>
+    <text x="64" y="364" font-size="13" fill="#4A5568">海气 CO₂ 交换 · 接收溶解/碳酸盐</text>
+    <text x="64" y="390" font-size="13" fill="#4A5568">埋藏 / 俯冲把碳送入沉积与岩石</text>
+  </g>
+
+  <g id="life-node" data-pptx-bounds="870 300 370 140">
+    <rect x="870" y="300" width="370" height="140" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="894" y="336" font-size="16" font-weight="bold" fill="#0E3F8C">生命 | Life</text>
+    <text x="894" y="364" font-size="13" fill="#4A5568">光合 / 呼吸 · 蒸腾返回水汽</text>
+    <text x="894" y="390" font-size="13" fill="#4A5568">生物泵把碳送入深处</text>
+  </g>
+
+  <g id="weathering-chip" data-pptx-bounds="560 300 160 80">
+    <rect x="560" y="300" width="160" height="80" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="640" y="332" font-size="16" font-weight="bold" text-anchor="middle" fill="#C2410C">风化</text>
+    <text x="640" y="356" font-size="12" text-anchor="middle" fill="#7A4A33">水 + CO₂ 驱动</text>
+  </g>
+
+  <g id="rock-sediment-node" data-pptx-bounds="40 500 1200 100">
+    <rect x="40" y="500" width="1200" height="100" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="64" y="536" font-size="16" font-weight="bold" fill="#0E3F8C">岩石与沉积 | Rock &amp; sediment</text>
+    <text x="64" y="564" font-size="13" fill="#4A5568">碳酸盐与有机碳埋藏 · 俯冲 · 火山脱气返回</text>
+  </g>
+
+  <g id="air-sea-water-flux" data-pptx-bounds="112 222 99 76">
+    <line x1="120" y1="298" x2="120" y2="222" stroke="#1E4FA8" stroke-width="3" stroke-dasharray="8,4" marker-start="url(#arrowBlue)" marker-end="url(#arrowBlue)"/>
+    <text x="130" y="262" font-size="12" fill="#4A5568">水交换 Water</text>
+  </g>
+
+  <g id="air-sea-carbon-flux" data-pptx-bounds="242 222 379 76">
+    <line x1="250" y1="222" x2="250" y2="298" stroke="#EA580C" stroke-width="3" marker-end="url(#arrowOrange)"/>
+    <line x1="330" y1="298" x2="330" y2="222" stroke="#EA580C" stroke-width="3" marker-end="url(#arrowOrange)"/>
+    <text x="350" y="262" font-size="12" fill="#7A4A33">海气 CO₂ 交换 Air–sea CO₂ exchange</text>
+  </g>
+
+  <g id="co2-to-weathering" data-pptx-bounds="632 222 16 76">
+    <line x1="640" y1="222" x2="640" y2="298" stroke="#EA580C" stroke-width="3" marker-end="url(#arrowOrange)"/>
+  </g>
+
+  <g id="air-life-carbon-flux" data-pptx-bounds="972 222 194 76">
+    <line x1="980" y1="222" x2="980" y2="298" stroke="#EA580C" stroke-width="3" marker-end="url(#arrowOrange)"/>
+    <line x1="1080" y1="298" x2="1080" y2="222" stroke="#EA580C" stroke-width="3" marker-end="url(#arrowOrange)"/>
+    <text x="1100" y="262" font-size="12" fill="#7A4A33">光合 / 呼吸</text>
+  </g>
+
+  <g id="transpiration-water-flux" data-pptx-bounds="1192 222 44 76">
+    <line x1="1200" y1="298" x2="1200" y2="222" stroke="#1E4FA8" stroke-width="3" stroke-dasharray="8,4" marker-start="url(#arrowBlue)" marker-end="url(#arrowBlue)"/>
+    <text x="1236" y="262" font-size="12" text-anchor="end" fill="#4A5568">蒸腾</text>
+  </g>
+
+  <g id="water-to-weathering" data-pptx-bounds="512 317 46 16">
+    <line x1="512" y1="325" x2="558" y2="325" stroke="#1E4FA8" stroke-width="3" stroke-dasharray="8,4" marker-end="url(#arrowBlue)"/>
+  </g>
+
+  <g id="weathering-to-ocean" data-pptx-bounds="512 347 46 16">
+    <line x1="558" y1="355" x2="512" y2="355" stroke="#EA580C" stroke-width="3" marker-end="url(#arrowOrange)"/>
+  </g>
+
+  <g id="burial-subduction" data-pptx-bounds="242 442 16 56">
+    <line x1="250" y1="442" x2="250" y2="498" stroke="#EA580C" stroke-width="3" marker-end="url(#arrowOrange)"/>
+  </g>
+
+  <g id="volcanic-degassing" data-pptx-bounds="792 218 16 280">
+    <line x1="800" y1="498" x2="800" y2="222" stroke="#EA580C" stroke-width="3" marker-end="url(#arrowOrange)"/>
+  </g>
+
+  <g id="silicate-qualification-strip" data-pptx-bounds="40 612 1200 42">
+    <rect x="40" y="612" width="1200" height="42" rx="12" fill="#FDECDD"/>
+    <text x="72" y="638" font-size="13" fill="#7A4A33">注记：硅酸盐风化贡献缓慢的负气候倾向；碳酸盐岩回收不是同等净大气 CO₂ 汇。 Volcanic degassing 沿右廊道返回大气。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Redrawn from approved sources: W-02, C-01, C-04, C-05, F-01.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">34</text>
+</svg>

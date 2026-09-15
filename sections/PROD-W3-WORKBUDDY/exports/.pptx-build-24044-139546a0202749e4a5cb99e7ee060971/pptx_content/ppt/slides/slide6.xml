@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+       xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+       xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+<p:cSld>
+<p:bg><p:bgPr><a:solidFill><a:schemeClr val="lt1"></a:schemeClr></a:solidFill><a:effectLst/></p:bgPr></p:bg>
+<p:spTree>
+<p:nvGrpSpPr>
+<p:cNvPr id="1" name=""/>
+<p:cNvGrpSpPr/><p:nvPr/>
+</p:nvGrpSpPr>
+<p:grpSpPr>
+<a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/>
+<a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm>
+</p:grpSpPr>
+<p:grpSp>
+<p:nvGrpSpPr>
+<p:cNvPr id="5" name="Group 5"/>
+<p:cNvGrpSpPr/>
+<p:nvPr/>
+</p:nvGrpSpPr>
+<p:grpSpPr>
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="12192000" cy="685800"/>
+<a:chOff x="0" y="0"/>
+<a:chExt cx="12192000" cy="685800"/>
+</a:xfrm>
+
+</p:grpSpPr>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="2" name="Rectangle 2"/>
+<p:cNvSpPr/><p:nvPr></p:nvPr>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="0" y="0"/><a:ext cx="12192000" cy="685800"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:solidFill><a:schemeClr val="accent1"></a:schemeClr></a:solidFill>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="3" name="TextBox 3"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="374142" y="282892"/>
+<a:ext cx="4238521" cy="264033"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1350" b="1" dirty="0">
+
+<a:solidFill><a:srgbClr val="FFFFFF"></a:srgbClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>2.13 第二部分总结 | Carbon Links Life to Rocks</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="4" name="TextBox 4"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="10686898" y="299085"/>
+<a:ext cx="1130198" cy="234696"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="r"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1200" dirty="0">
+
+<a:solidFill><a:srgbClr val="C7D7F2"></a:srgbClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>CARBON CYCLE</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+</p:grpSp>
+<p:grpSp>
+<p:nvGrpSpPr>
+<p:cNvPr id="8" name="Group 8"/>
+<p:cNvGrpSpPr/>
+<p:nvPr/>
+</p:nvGrpSpPr>
+<p:grpSpPr>
+<a:xfrm>
+<a:off x="381000" y="914400"/>
+<a:ext cx="5709641" cy="357093"/>
+<a:chOff x="381000" y="914400"/>
+<a:chExt cx="5709641" cy="357093"/>
+</a:xfrm>
+
+</p:grpSpPr>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="6" name="Rectangle 6"/>
+<p:cNvSpPr/><p:nvPr></p:nvPr>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="381000" y="914400"/><a:ext cx="57150" cy="266700"/></a:xfrm>
+<a:prstGeom prst="roundRect"><a:avLst><a:gd name="adj" fmla="val 50000"/></a:avLst></a:prstGeom>
+<a:solidFill><a:schemeClr val="accent3"></a:schemeClr></a:solidFill>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="7" name="TextBox 7"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="544449" y="963454"/>
+<a:ext cx="5546192" cy="308039"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1580" b="1" dirty="0">
+
+<a:solidFill><a:srgbClr val="C2410C"></a:srgbClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>碳循环从快速的生物与海气交换，延伸到缓慢的岩石圈交换</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+</p:grpSp>
+<p:grpSp>
+<p:nvGrpSpPr>
+<p:cNvPr id="15" name="Group 15"/>
+<p:cNvGrpSpPr/>
+<p:nvPr/>
+</p:nvGrpSpPr>
+<p:grpSpPr>
+<a:xfrm>
+<a:off x="381000" y="1428750"/>
+<a:ext cx="5562600" cy="2247900"/>
+<a:chOff x="381000" y="1428750"/>
+<a:chExt cx="5562600" cy="2247900"/>
+</a:xfrm>
+
+</p:grpSpPr>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="9" name="Rectangle 9"/>
+<p:cNvSpPr/><p:nvPr></p:nvPr>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="381000" y="1428750"/><a:ext cx="5562600" cy="2247900"/></a:xfrm>
+<a:prstGeom prst="roundRect"><a:avLst><a:gd name="adj" fmla="val 5085"/></a:avLst></a:prstGeom>
+<a:solidFill><a:srgbClr val="FDF4EF"></a:srgbClr></a:solidFill>
+<a:ln w="9525">
+<a:solidFill><a:srgbClr val="F0CFC2"></a:srgbClr></a:solidFill>
+</a:ln>
+
+</p:spPr>
+
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="10" name="Ellipse 10"/>
+<p:cNvSpPr/><p:nvPr></p:nvPr>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="533400" y="1619250"/><a:ext cx="381000" cy="381000"/></a:xfrm>
+<a:prstGeom prst="ellipse"><a:avLst/></a:prstGeom>
+<a:solidFill><a:schemeClr val="accent3"></a:schemeClr></a:solidFill>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="11" name="TextBox 11"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="671158" y="1737360"/>
+<a:ext cx="105484" cy="234696"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1200" b="1" dirty="0">
+
+<a:solidFill><a:srgbClr val="FFFFFF"></a:srgbClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>1</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="12" name="TextBox 12"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="1060704" y="1737360"/>
+<a:ext cx="2753707" cy="234696"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1200" b="1" dirty="0">
+
+<a:solidFill><a:srgbClr val="C2410C"></a:srgbClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>碳存在哪里 | Where carbon resides</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="13" name="TextBox 13"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="603885" y="2221706"/>
+<a:ext cx="2145030" cy="429578"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"><a:lnSpc><a:spcPts val="1650"/></a:lnSpc></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1120" dirty="0">
+
+<a:solidFill><a:schemeClr val="dk1"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>大气、生命与土壤、海洋、沉积物</a:t>
+</a:r>
+<a:br/>
+<a:r>
+<a:rPr lang="zh-CN" sz="1120" dirty="0">
+
+<a:solidFill><a:schemeClr val="dk1"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>与岩石，共同构成碳的储库体系。</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="14" name="TextBox 14"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="604647" y="2999899"/>
+<a:ext cx="3346040" cy="190690"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="980" dirty="0">
+
+<a:solidFill><a:schemeClr val="accent5"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>Atmosphere · life and soil · ocean · sediment · rock</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+</p:grpSp>
+<p:grpSp>
+<p:nvGrpSpPr>
+<p:cNvPr id="22" name="Group 22"/>
+<p:cNvGrpSpPr/>
+<p:nvPr/>
+</p:nvGrpSpPr>
+<p:grpSpPr>
+<a:xfrm>
+<a:off x="6248400" y="1428750"/>
+<a:ext cx="5562600" cy="2247900"/>
+<a:chOff x="6248400" y="1428750"/>
+<a:chExt cx="5562600" cy="2247900"/>
+</a:xfrm>
+
+</p:grpSpPr>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="16" name="Rectangle 16"/>
+<p:cNvSpPr/><p:nvPr></p:nvPr>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6248400" y="1428750"/><a:ext cx="5562600" cy="2247900"/></a:xfrm>
+<a:prstGeom prst="roundRect"><a:avLst><a:gd name="adj" fmla="val 5085"/></a:avLst></a:prstGeom>
+<a:solidFill><a:srgbClr val="FDF4EF"></a:srgbClr></a:solidFill>
+<a:ln w="9525">
+<a:solidFill><a:srgbClr val="F0CFC2"></a:srgbClr></a:solidFill>
+</a:ln>
+
+</p:spPr>
+
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="17" name="Ellipse 17"/>
+<p:cNvSpPr/><p:nvPr></p:nvPr>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6400800" y="1619250"/><a:ext cx="381000" cy="381000"/></a:xfrm>
+<a:prstGeom prst="ellipse"><a:avLst/></a:prstGeom>
+<a:solidFill><a:schemeClr val="accent3"></a:schemeClr></a:solidFill>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="18" name="TextBox 18"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6538558" y="1737360"/>
+<a:ext cx="105484" cy="234696"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1200" b="1" dirty="0">
+
+<a:solidFill><a:srgbClr val="FFFFFF"></a:srgbClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>2</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="19" name="TextBox 19"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6928104" y="1737360"/>
+<a:ext cx="2210774" cy="234696"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1200" b="1" dirty="0">
+
+<a:solidFill><a:srgbClr val="C2410C"></a:srgbClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>快速通路 | Faster pathways</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="20" name="TextBox 20"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6471285" y="2221706"/>
+<a:ext cx="2145030" cy="429578"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"><a:lnSpc><a:spcPts val="1650"/></a:lnSpc></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1120" dirty="0">
+
+<a:solidFill><a:schemeClr val="dk1"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>光合作用、呼吸作用与海气交换，</a:t>
+</a:r>
+<a:br/>
+<a:r>
+<a:rPr lang="zh-CN" sz="1120" dirty="0">
+
+<a:solidFill><a:schemeClr val="dk1"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>把碳在大气与表层之间快速搬运。</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="21" name="TextBox 21"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6472047" y="2999899"/>
+<a:ext cx="3127916" cy="190690"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="980" dirty="0">
+
+<a:solidFill><a:schemeClr val="accent5"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>Photosynthesis · respiration · air–sea exchange</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+</p:grpSp>
+<p:grpSp>
+<p:nvGrpSpPr>
+<p:cNvPr id="29" name="Group 29"/>
+<p:cNvGrpSpPr/>
+<p:nvPr/>
+</p:nvGrpSpPr>
+<p:grpSpPr>
+<a:xfrm>
+<a:off x="381000" y="3981450"/>
+<a:ext cx="5562600" cy="2247900"/>
+<a:chOff x="381000" y="3981450"/>
+<a:chExt cx="5562600" cy="2247900"/>
+</a:xfrm>
+
+</p:grpSpPr>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="23" name="Rectangle 23"/>
+<p:cNvSpPr/><p:nvPr></p:nvPr>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="381000" y="3981450"/><a:ext cx="5562600" cy="2247900"/></a:xfrm>
+<a:prstGeom prst="roundRect"><a:avLst><a:gd name="adj" fmla="val 5085"/></a:avLst></a:prstGeom>
+<a:solidFill><a:schemeClr val="lt2"></a:schemeClr></a:solidFill>
+<a:ln w="9525">
+<a:solidFill><a:schemeClr val="accent6"></a:schemeClr></a:solidFill>
+</a:ln>
+
+</p:spPr>
+
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="24" name="Ellipse 24"/>
+<p:cNvSpPr/><p:nvPr></p:nvPr>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="533400" y="4171950"/><a:ext cx="381000" cy="381000"/></a:xfrm>
+<a:prstGeom prst="ellipse"><a:avLst/></a:prstGeom>
+<a:solidFill><a:srgbClr val="C2410C"></a:srgbClr></a:solidFill>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="25" name="TextBox 25"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="671158" y="4290060"/>
+<a:ext cx="105484" cy="234696"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1200" b="1" dirty="0">
+
+<a:solidFill><a:srgbClr val="FFFFFF"></a:srgbClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>3</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="26" name="TextBox 26"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="1060704" y="4290060"/>
+<a:ext cx="2254451" cy="234696"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1200" b="1" dirty="0">
+
+<a:solidFill><a:schemeClr val="accent1"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>与岩石相连 | Linked to rocks</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="27" name="TextBox 27"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="603885" y="4774406"/>
+<a:ext cx="2145030" cy="429578"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"><a:lnSpc><a:spcPts val="1650"/></a:lnSpc></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1120" dirty="0">
+
+<a:solidFill><a:schemeClr val="dk1"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>碳酸盐形成、埋藏、俯冲与脱气，</a:t>
+</a:r>
+<a:br/>
+<a:r>
+<a:rPr lang="zh-CN" sz="1120" dirty="0">
+
+<a:solidFill><a:schemeClr val="dk1"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>把表层碳一路接到岩石圈。</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="28" name="TextBox 28"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="604647" y="5552599"/>
+<a:ext cx="3490774" cy="190690"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="980" dirty="0">
+
+<a:solidFill><a:schemeClr val="accent5"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>Carbonate formation · burial · subduction · degassing</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+</p:grpSp>
+<p:grpSp>
+<p:nvGrpSpPr>
+<p:cNvPr id="36" name="Group 36"/>
+<p:cNvGrpSpPr/>
+<p:nvPr/>
+</p:nvGrpSpPr>
+<p:grpSpPr>
+<a:xfrm>
+<a:off x="6248400" y="3981450"/>
+<a:ext cx="5562600" cy="2247900"/>
+<a:chOff x="6248400" y="3981450"/>
+<a:chExt cx="5562600" cy="2247900"/>
+</a:xfrm>
+
+</p:grpSpPr>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="30" name="Rectangle 30"/>
+<p:cNvSpPr/><p:nvPr></p:nvPr>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6248400" y="3981450"/><a:ext cx="5562600" cy="2247900"/></a:xfrm>
+<a:prstGeom prst="roundRect"><a:avLst><a:gd name="adj" fmla="val 5085"/></a:avLst></a:prstGeom>
+<a:solidFill><a:schemeClr val="lt2"></a:schemeClr></a:solidFill>
+<a:ln w="9525">
+<a:solidFill><a:schemeClr val="accent6"></a:schemeClr></a:solidFill>
+</a:ln>
+
+</p:spPr>
+
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="31" name="Ellipse 31"/>
+<p:cNvSpPr/><p:nvPr></p:nvPr>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6400800" y="4171950"/><a:ext cx="381000" cy="381000"/></a:xfrm>
+<a:prstGeom prst="ellipse"><a:avLst/></a:prstGeom>
+<a:solidFill><a:srgbClr val="C2410C"></a:srgbClr></a:solidFill>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="32" name="TextBox 32"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6538558" y="4290060"/>
+<a:ext cx="105484" cy="234696"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="ctr"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1200" b="1" dirty="0">
+
+<a:solidFill><a:srgbClr val="FFFFFF"></a:srgbClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>4</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="33" name="TextBox 33"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6928104" y="4290060"/>
+<a:ext cx="2346798" cy="234696"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1200" b="1" dirty="0">
+
+<a:solidFill><a:schemeClr val="accent1"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>不同的时钟 | Different clocks</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="34" name="TextBox 34"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6471285" y="4774406"/>
+<a:ext cx="2145030" cy="429578"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"><a:lnSpc><a:spcPts val="1650"/></a:lnSpc></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="1120" dirty="0">
+
+<a:solidFill><a:schemeClr val="dk1"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>每条路径的速度不同，这决定每个</a:t>
+</a:r>
+<a:br/>
+<a:r>
+<a:rPr lang="zh-CN" sz="1120" dirty="0">
+
+<a:solidFill><a:schemeClr val="dk1"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>储库受到扰动后多快做出响应。</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="35" name="TextBox 35"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="6472047" y="5552599"/>
+<a:ext cx="2560613" cy="190690"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="980" dirty="0">
+
+<a:solidFill><a:schemeClr val="accent5"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>Response speed depends on the pathway</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+</p:grpSp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="37" name="TextBox 37"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="376238" y="6532245"/>
+<a:ext cx="6062167" cy="176212"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="l"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="900" dirty="0">
+
+<a:solidFill><a:schemeClr val="accent5"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>Source: UE 8e, Ch.12; 地球系统与演变 Ch.4; EP Ch.23. Part II synthesis of the accepted Slides 21–32.</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+<p:sp>
+<p:nvSpPr>
+<p:cNvPr id="38" name="TextBox 38"/>
+<p:cNvSpPr txBox="1"/><p:nvPr/>
+</p:nvSpPr>
+<p:spPr>
+<a:xfrm><a:off x="11672964" y="6532245"/>
+<a:ext cx="142799" cy="176212"/></a:xfrm>
+<a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+<a:noFill/>
+<a:ln><a:noFill/></a:ln>
+
+</p:spPr>
+<p:txBody>
+<a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+<a:spAutoFit/>
+</a:bodyPr>
+<a:lstStyle/>
+<a:p>
+<a:pPr algn="r"></a:pPr>
+<a:r>
+<a:rPr lang="zh-CN" sz="900" dirty="0">
+
+<a:solidFill><a:schemeClr val="accent5"></a:schemeClr></a:solidFill>
+
+<a:latin typeface="+mn-lt"/>
+<a:ea typeface="+mn-ea"/>
+<a:cs typeface="+mn-cs"/>
+
+</a:rPr>
+<a:t>33</a:t>
+</a:r>
+</a:p>
+</p:txBody>
+</p:sp>
+</p:spTree>
+</p:cSld>
+<p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr>
+
+  <p:transition p14:dur="400" xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main">
+    <p:fade/>
+  </p:transition>
+</p:sld>

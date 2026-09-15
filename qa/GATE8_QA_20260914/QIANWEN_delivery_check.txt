@@ -1,0 +1,149 @@
+{
+  "schema": "ppt-master.pptx-delivery-check.v1",
+  "status": "passed",
+  "file": {
+    "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\L16_W3_QianwenOffice_Slides36-37_39_v01.pptx",
+    "bytes": 34140
+  },
+  "package": {
+    "zip_integrity": "passed",
+    "corrupt_member": null,
+    "duplicate_parts": [],
+    "canonical_part_collisions": [],
+    "parts": {
+      "entries": 31,
+      "unique": 31,
+      "slides": 3,
+      "notes": 3,
+      "masters": 1,
+      "layouts": 1,
+      "media": 0
+    },
+    "relationships": {
+      "problems": []
+    }
+  },
+  "slides": {
+    "count": 3,
+    "hidden_count": 0,
+    "hidden": []
+  },
+  "fonts": {
+    "theme": {
+      "title": {
+        "latin": "Calibri",
+        "scripts": {
+          "Jpan": "ＭＳ Ｐゴシック",
+          "Hang": "맑은 고딕",
+          "Hans": "宋体",
+          "Hant": "新細明體"
+        }
+      },
+      "body": {
+        "latin": "Calibri",
+        "scripts": {
+          "Jpan": "ＭＳ Ｐゴシック",
+          "Hang": "맑은 고딕",
+          "Hans": "宋体",
+          "Hant": "新細明體"
+        }
+      }
+    },
+    "declared": {
+      "latin": [
+        {
+          "value": "Arial",
+          "count": 111
+        },
+        {
+          "value": "+mn-lt",
+          "count": 27
+        },
+        {
+          "value": "Calibri",
+          "count": 4
+        },
+        {
+          "value": "+mj-lt",
+          "count": 1
+        }
+      ],
+      "ea": [
+        {
+          "value": "Microsoft YaHei",
+          "count": 63
+        },
+        {
+          "value": "Arial",
+          "count": 48
+        },
+        {
+          "value": "+mn-ea",
+          "count": 27
+        },
+        {
+          "value": "+mj-ea",
+          "count": 1
+        }
+      ],
+      "cs": [
+        {
+          "value": "Arial",
+          "count": 111
+        },
+        {
+          "value": "+mn-cs",
+          "count": 27
+        },
+        {
+          "value": "+mj-cs",
+          "count": 1
+        }
+      ]
+    },
+    "embedded_parts": [],
+    "portability_advisory_faces": []
+  },
+  "media": {
+    "embedded_count": 0,
+    "external_count": 0,
+    "embedded": [],
+    "external": [],
+    "uncompressed_bytes": 0,
+    "archive_compressed_bytes": 0,
+    "share_of_archive": 0.0,
+    "share_of_uncompressed_parts": 0.0,
+    "top_contributors": []
+  },
+  "motion": {
+    "transitions": {
+      "carrier_slide_count": 3,
+      "visual_effect_slide_count": 3,
+      "timed_advance_slide_count": 0,
+      "carrier_slides": [
+        1,
+        2,
+        3
+      ],
+      "visual_effect_slides": [
+        1,
+        2,
+        3
+      ],
+      "timed_advance_slides": [],
+      "effects": {
+        "fade": 3
+      }
+    },
+    "object_animations": {
+      "timing_slide_count": 0,
+      "object_animation_slide_count": 0,
+      "audio_timing_slide_count": 0,
+      "timing_slides": [],
+      "object_animation_slides": [],
+      "audio_timing_slides": []
+    }
+  },
+  "errors": [],
+  "advisories": []
+}

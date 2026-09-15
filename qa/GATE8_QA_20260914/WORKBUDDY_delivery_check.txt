@@ -1,0 +1,175 @@
+{
+  "schema": "ppt-master.pptx-delivery-check.v1",
+  "status": "passed",
+  "file": {
+    "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\L16_W3_WorkBuddy_Slides28-33_v01.pptx",
+    "bytes": 1888435
+  },
+  "package": {
+    "zip_integrity": "passed",
+    "corrupt_member": null,
+    "duplicate_parts": [],
+    "canonical_part_collisions": [],
+    "parts": {
+      "entries": 44,
+      "unique": 44,
+      "slides": 6,
+      "notes": 6,
+      "masters": 1,
+      "layouts": 1,
+      "media": 1
+    },
+    "relationships": {
+      "problems": []
+    }
+  },
+  "slides": {
+    "count": 6,
+    "hidden_count": 0,
+    "hidden": []
+  },
+  "fonts": {
+    "theme": {
+      "title": {
+        "latin": "Arial",
+        "ea": "Microsoft YaHei",
+        "cs": "Arial",
+        "scripts": {
+          "Jpan": "Microsoft YaHei",
+          "Hang": "Microsoft YaHei",
+          "Hans": "Microsoft YaHei",
+          "Hant": "Microsoft YaHei"
+        }
+      },
+      "body": {
+        "latin": "Arial",
+        "ea": "Microsoft YaHei",
+        "cs": "Arial",
+        "scripts": {
+          "Jpan": "Microsoft YaHei",
+          "Hang": "Microsoft YaHei",
+          "Hans": "Microsoft YaHei",
+          "Hant": "Microsoft YaHei"
+        }
+      }
+    },
+    "declared": {
+      "latin": [
+        {
+          "value": "+mn-lt",
+          "count": 221
+        },
+        {
+          "value": "Arial",
+          "count": 4
+        },
+        {
+          "value": "+mj-lt",
+          "count": 1
+        }
+      ],
+      "ea": [
+        {
+          "value": "+mn-ea",
+          "count": 221
+        },
+        {
+          "value": "Microsoft YaHei",
+          "count": 4
+        },
+        {
+          "value": "+mj-ea",
+          "count": 1
+        }
+      ],
+      "cs": [
+        {
+          "value": "+mn-cs",
+          "count": 221
+        },
+        {
+          "value": "Arial",
+          "count": 4
+        },
+        {
+          "value": "+mj-cs",
+          "count": 1
+        }
+      ]
+    },
+    "embedded_parts": [],
+    "portability_advisory_faces": []
+  },
+  "media": {
+    "embedded_count": 1,
+    "external_count": 0,
+    "embedded": [
+      {
+        "part": "ppt/media/image_1e66e7026df0aa33.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 1849207,
+        "compressed_bytes": 1838609,
+        "reference_count": 1,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      }
+    ],
+    "external": [],
+    "uncompressed_bytes": 1849207,
+    "archive_compressed_bytes": 1838609,
+    "share_of_archive": 0.973615,
+    "share_of_uncompressed_parts": 0.862853,
+    "top_contributors": [
+      {
+        "part": "ppt/media/image_1e66e7026df0aa33.png",
+        "kind": "image",
+        "content_type": "image/png",
+        "bytes": 1849207,
+        "compressed_bytes": 1838609,
+        "reference_count": 1,
+        "relationship_types": [
+          "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+        ]
+      }
+    ]
+  },
+  "motion": {
+    "transitions": {
+      "carrier_slide_count": 6,
+      "visual_effect_slide_count": 6,
+      "timed_advance_slide_count": 0,
+      "carrier_slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visual_effect_slides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "timed_advance_slides": [],
+      "effects": {
+        "fade": 6
+      }
+    },
+    "object_animations": {
+      "timing_slide_count": 0,
+      "object_animation_slide_count": 0,
+      "audio_timing_slide_count": 0,
+      "timing_slides": [],
+      "object_animation_slides": [],
+      "audio_timing_slides": []
+    }
+  },
+  "errors": [],
+  "advisories": []
+}

@@ -1,0 +1,100 @@
+{
+  "roles": {
+    "body": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 15.0,
+      "cjk_chars_per_100px": 6.3,
+      "latin_chars_per_100px": 13.0,
+      "caps_chars_per_100px": 12.0,
+      "digits_chars_per_100px": 11.5,
+      "longest_planned_line": {
+        "px": 1376.4,
+        "slide": "P02",
+        "text": "比较不同循环和反馈的时间尺度，并预测系统受到扰动后的响应方向。 Compare…"
+      }
+    },
+    "title": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 21.0,
+      "cjk_chars_per_100px": 4.5,
+      "latin_chars_per_100px": 9.2,
+      "caps_chars_per_100px": 8.5,
+      "digits_chars_per_100px": 8.1,
+      "longest_planned_line": {
+        "px": 551.9,
+        "slide": "P01",
+        "text": "Lecture 16: Hydrological Cycles / 第16讲：…"
+      }
+    },
+    "subtitle": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 19.0,
+      "cjk_chars_per_100px": 5.0,
+      "latin_chars_per_100px": 10.3,
+      "caps_chars_per_100px": 9.5,
+      "digits_chars_per_100px": 9.1,
+      "longest_planned_line": {
+        "px": 751.7,
+        "slide": "P38",
+        "text": "更暖、更湿和更酸性的条件会加速硅酸盐风化与 CO₂ 去除，形成缓慢的负反馈。"
+      }
+    },
+    "annotation": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 13.0,
+      "cjk_chars_per_100px": 7.2,
+      "latin_chars_per_100px": 14.9,
+      "caps_chars_per_100px": 13.7,
+      "digits_chars_per_100px": 13.1,
+      "longest_planned_line": null
+    },
+    "card_heading": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 16.0,
+      "cjk_chars_per_100px": 5.9,
+      "latin_chars_per_100px": 12.1,
+      "caps_chars_per_100px": 11.2,
+      "digits_chars_per_100px": 10.7,
+      "longest_planned_line": null
+    },
+    "display": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 60.0,
+      "cjk_chars_per_100px": 1.6,
+      "latin_chars_per_100px": 3.2,
+      "caps_chars_per_100px": 3.0,
+      "digits_chars_per_100px": 2.9,
+      "longest_planned_line": null
+    },
+    "footnote": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 12.0,
+      "cjk_chars_per_100px": 7.9,
+      "latin_chars_per_100px": 16.2,
+      "caps_chars_per_100px": 15.0,
+      "digits_chars_per_100px": 14.3,
+      "longest_planned_line": null
+    },
+    "header": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 18.0,
+      "cjk_chars_per_100px": 5.2,
+      "latin_chars_per_100px": 10.8,
+      "caps_chars_per_100px": 10.0,
+      "digits_chars_per_100px": 9.5,
+      "longest_planned_line": null
+    },
+    "page_number": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 12.0,
+      "cjk_chars_per_100px": 7.9,
+      "latin_chars_per_100px": 16.2,
+      "caps_chars_per_100px": 15.0,
+      "digits_chars_per_100px": 14.3,
+      "longest_planned_line": null
+    }
+  },
+  "source": "spec_lock.md",
+  "generated_at": "2026-09-11T02:32:22Z",
+  "notes": []
+}

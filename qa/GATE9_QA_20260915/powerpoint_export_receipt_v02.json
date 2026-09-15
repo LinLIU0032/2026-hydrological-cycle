@@ -1,0 +1,232 @@
+{
+  "status": "exported",
+  "source_pptx": "E:\\PG\\2026 Hydrological cycle\\final\\L16_Hydrological_Carbon_Cycles_v02.pptx",
+  "source_sha256": "90f0d04797b59ef04e832dc7bf771b94b6478ed3a54f248f7fb5d761de85da51",
+  "pdf_path": "E:\\PG\\2026 Hydrological cycle\\final\\L16_Hydrological_Carbon_Cycles_v02.pdf",
+  "pdf_sha256": "1ec587144d4d3e596b972bd4329d2f07e5a1c303ef99e362e96c45e77338f2d0",
+  "pdf_bytes": 2027038,
+  "preview_directory": "E:\\PG\\2026 Hydrological cycle\\final\\previews_v02",
+  "preview_count": 44,
+  "preview_sha256": [
+    {
+      "name": "slide-01.png",
+      "sha256": "b42b4f01858fca5179deb5f9a5cf7097b72c491c133c89ef378744846eaa3b21",
+      "bytes": 76658
+    },
+    {
+      "name": "slide-02.png",
+      "sha256": "db43b1c2804491bdad9ff0d6464f773f3ad883bce3555936afbf4c176480ad21",
+      "bytes": 90805
+    },
+    {
+      "name": "slide-03.png",
+      "sha256": "036259cc1da9590cb8dedfc443fd58d5e166279218d96df3e84cabc3dc682708",
+      "bytes": 87675
+    },
+    {
+      "name": "slide-04.png",
+      "sha256": "7c620842d782d89b4baaafa49ae04b3bef19744a2917dafb564920a503139bf0",
+      "bytes": 76311
+    },
+    {
+      "name": "slide-05.png",
+      "sha256": "e5b9bfcc71e8c37ea46b1a07e40d2b7e181cd2b7261443212fc0f723fa4fa3ed",
+      "bytes": 104384
+    },
+    {
+      "name": "slide-06.png",
+      "sha256": "8b0708d9901fcf15614cf9ad43b6ef4a2e618d06646dc92bc241d76d62a272e0",
+      "bytes": 104208
+    },
+    {
+      "name": "slide-07.png",
+      "sha256": "72606fe3ff92bbec9245d76322605556f17b9c6d4bd9127e87fae88365f3176e",
+      "bytes": 115400
+    },
+    {
+      "name": "slide-08.png",
+      "sha256": "e22e2c0897969c6748125579ae9b3064dedbf491e626ac7c4b0db5a78bc4a1ec",
+      "bytes": 110001
+    },
+    {
+      "name": "slide-09.png",
+      "sha256": "efc2d837f67f335cf69404a47ca50a4be2430ca2e02afb5dcf74e142c215699d",
+      "bytes": 1218307
+    },
+    {
+      "name": "slide-10.png",
+      "sha256": "ae4c9d8aca7dc0079d658a532098463c80151d4faf21a83a6ca8e9d7b1cc8ba2",
+      "bytes": 92835
+    },
+    {
+      "name": "slide-11.png",
+      "sha256": "c5b42d039355a3e77c638cd7fd33e6ec5a728a1d464ba402a94cc7829a0db997",
+      "bytes": 384582
+    },
+    {
+      "name": "slide-12.png",
+      "sha256": "50bdbb72e1af37fa6ee416281394ce13dd06aaee83b81bfd9405c584715e25e5",
+      "bytes": 87153
+    },
+    {
+      "name": "slide-13.png",
+      "sha256": "5375703c78fbb15206aca987259443bf01478e5844f670370dc335245e26ad0f",
+      "bytes": 101017
+    },
+    {
+      "name": "slide-14.png",
+      "sha256": "cf05e289272acffa6cc2ac143182d13ea42566850d555cb720a6c21dd107a118",
+      "bytes": 114986
+    },
+    {
+      "name": "slide-15.png",
+      "sha256": "51066056ff62bd95db4467b3375d4e67a22b81b6cf3b6305d3c78efc7343c5ee",
+      "bytes": 90702
+    },
+    {
+      "name": "slide-16.png",
+      "sha256": "accab438ae728237ad90477533d6ae5dcdf0ae99b6b5c3838f340b458094fc78",
+      "bytes": 109061
+    },
+    {
+      "name": "slide-17.png",
+      "sha256": "f1cff5a91acf81ca4db01e11700d510dc8ddde514782deed74de11ad3be1c1c4",
+      "bytes": 489586
+    },
+    {
+      "name": "slide-18.png",
+      "sha256": "02cc29b8caccb087a45016db9123a7a10eadd629091453bd3df9e807d1a87054",
+      "bytes": 83437
+    },
+    {
+      "name": "slide-19.png",
+      "sha256": "1acbad75cc73a2f520fac38a28b15432bc69fa5e7291b364b9d2e307b4ed1dc9",
+      "bytes": 1117259
+    },
+    {
+      "name": "slide-20.png",
+      "sha256": "f28c28f0e23018ec38a7667359875380b1ec07212a30f0009f03fa984e45c3cd",
+      "bytes": 101635
+    },
+    {
+      "name": "slide-21.png",
+      "sha256": "ae2c661aaf57a3f74377cae5fa04699ac4d50c3ac025002fad13d8cda545a9f3",
+      "bytes": 110327
+    },
+    {
+      "name": "slide-22.png",
+      "sha256": "bac9a5fa818bd0e44e1c19b70cfef966d708f773b08b7d59b5ea0e7d2b627f6b",
+      "bytes": 969111
+    },
+    {
+      "name": "slide-23.png",
+      "sha256": "6160a7d12e1b0ad5a1dee1f37a4229dbc42a18897c6fc12a7abef39fa474e019",
+      "bytes": 890131
+    },
+    {
+      "name": "slide-24.png",
+      "sha256": "7be9f9bb50ed82956a2403ebf6858c0f79516dabd6ff1a0ffbd17621854b4ab5",
+      "bytes": 115424
+    },
+    {
+      "name": "slide-25.png",
+      "sha256": "b6dff9f8644dedecfd49ddfa004e5031cfc05cef602c7c1409506dbb34125870",
+      "bytes": 128936
+    },
+    {
+      "name": "slide-26.png",
+      "sha256": "d768f968ddcc87e500d2fadc9fb9a4cc7c41ebf31dbd94b5c061b34a396e275a",
+      "bytes": 977699
+    },
+    {
+      "name": "slide-27.png",
+      "sha256": "1fba930e8adb24f905e5ab856135866e5a811c6e35a5743b04de86894eb9290b",
+      "bytes": 89329
+    },
+    {
+      "name": "slide-28.png",
+      "sha256": "eaf4ffd974d337ad15f6972a01b6767211296a142e1897e36b0dfe74778bf3ef",
+      "bytes": 116072
+    },
+    {
+      "name": "slide-29.png",
+      "sha256": "3e7fbbe89f711f854fc5373da33a226eb180129d001ac89797e44e0f37f0e8cd",
+      "bytes": 120163
+    },
+    {
+      "name": "slide-30.png",
+      "sha256": "57b3667365a95a2c4f99d5fdb5007aaaceb467c313b9d9b72e26ff2e45e6d61d",
+      "bytes": 109268
+    },
+    {
+      "name": "slide-31.png",
+      "sha256": "b5918fc8017b8aa2382d0b5e6333aa9ba5581b0aede012528ffed7774dee52b7",
+      "bytes": 87711
+    },
+    {
+      "name": "slide-32.png",
+      "sha256": "293b5ec89712ae9727f3a1f3b1d6a83c89ad8cbcdbcdd0ed59160326ae554b68",
+      "bytes": 892286
+    },
+    {
+      "name": "slide-33.png",
+      "sha256": "b69cc70f3f174b835851dc1390a1684f450dd0a6d5b66fd4f0c3d66ea291bfdf",
+      "bytes": 88701
+    },
+    {
+      "name": "slide-34.png",
+      "sha256": "066387f621f6234894f845b7b1c6a9992117d52b1fd7e8ade7155d456edfca4c",
+      "bytes": 83997
+    },
+    {
+      "name": "slide-35.png",
+      "sha256": "797c1ac7e26f66cb9b3ebbf6f097af33186b775ec7a716dcd8ee2cb996dfde43",
+      "bytes": 101795
+    },
+    {
+      "name": "slide-36.png",
+      "sha256": "330ec73f26ea6e9262d15033b5e709a5b15b31701ca568084ce5da9012b0f108",
+      "bytes": 96890
+    },
+    {
+      "name": "slide-37.png",
+      "sha256": "b28119ab9cd3de8e07f742b6d2107d8b23fe35b3bcc8657ea881897fe5198e24",
+      "bytes": 98214
+    },
+    {
+      "name": "slide-38.png",
+      "sha256": "38781a06dfa1a7269527716b21fcb97481f79b9d4eb00743a2f9c9fa423fdc32",
+      "bytes": 120905
+    },
+    {
+      "name": "slide-39.png",
+      "sha256": "afed01c5ab82aa68c3cde754d337ac93ecdc5c45d8fec21948e8508502467258",
+      "bytes": 105229
+    },
+    {
+      "name": "slide-40.png",
+      "sha256": "2f6c3d42e27d7a20552b94ffa46d690704011bb0e80a483d5308ed554d8f38a1",
+      "bytes": 94638
+    },
+    {
+      "name": "slide-41.png",
+      "sha256": "54a10c0d06a5d0bc7fba8ac99deb35eecd5d6fb575705ac15702dd541987a528",
+      "bytes": 90137
+    },
+    {
+      "name": "slide-42.png",
+      "sha256": "d1ca215ff977b49a2b11baa86ba3292ed5ff2a59141b914691754f26ce406260",
+      "bytes": 97747
+    },
+    {
+      "name": "slide-43.png",
+      "sha256": "2d00e92b9b69b60d1aec6cf4efda76463558d231cd67e4b0f9979373e49e87d8",
+      "bytes": 89004
+    },
+    {
+      "name": "slide-44.png",
+      "sha256": "f915e00b1b44281678e4d236d5a873afafc4bdb17933d22382b31feaa81f0453",
+      "bytes": 104285
+    }
+  ]
+}

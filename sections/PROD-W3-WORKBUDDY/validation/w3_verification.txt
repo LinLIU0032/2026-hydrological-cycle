@@ -1,0 +1,144 @@
+=== PROD-W3-WORKBUDDY verification ===
+PPTX : L16_W3_WorkBuddy_Slides28-33_v01.pptx (1888435 bytes, md5 1d3e334fc81f60ee22bccbe186a06289)
+PDF  : L16_W3_WorkBuddy_Slides28-33_v01.pdf (562694 bytes)
+
+[1] Roster, order and page numbers
+    slide 1 page-number run = '28' ; header = '2.8 碳酸盐：海洋、生命与岩石的连接 | Carbonates: Ocean–Life–Rock Connection'
+    slide 2 page-number run = '29' ; header = '2.9 风化：水循环开始影响碳循环 | Weathering: Where Water Meets Carbon'
+    slide 3 page-number run = '30' ; header = '2.10 慢碳循环 | Slow Geological Carbon Cycle'
+    slide 4 page-number run = '31' ; header = '2.11 碳循环的多个时钟 | Multiple Carbon Timescales'
+    slide 5 page-number run = '32' ; header = '2.12 课堂读图 | Concept Check 2'
+    slide 6 page-number run = '33' ; header = '2.13 第二部分总结 | Carbon Links Life to Rocks'
+    result : PASS
+
+[2] Notes count and lengths
+    notes 1 : 455 chars
+    notes 2 : 397 chars
+    notes 3 : 374 chars
+    notes 4 : 461 chars
+    notes 5 : 507 chars
+    notes 6 : 311 chars
+    result : PASS
+
+[3] Native / raster split by slide
+    slide 1 : pictures=0 native=52
+    slide 2 : pictures=0 native=47
+    slide 3 : pictures=0 native=62
+    slide 4 : pictures=0 native=63
+    slide 5 : pictures=1 native=31
+    slide 6 : pictures=0 native=31
+    expected : 0/1/0/0/1/0 raster on pages 28..33
+    result : PASS
+
+[4] Package hygiene
+    external rels=none ; animation/timing nodes=0 ; audio nodes=0 ; media=['image_1e66e7026df0aa33.png']
+    result : PASS
+
+[5] Slide 28 carbonate path and the not-a-one-way-sink caution
+    海水溶解碳                                      PRESENT
+    生物成壳                                       PRESENT
+    碳酸盐颗粒                                      PRESENT
+    沉积与埋藏                                      PRESENT
+    碳酸盐岩                                       PRESENT
+    Ca²⁺ + 2HCO₃⁻ → CaCO₃ + H₂O + CO₂↑         PRESENT
+    不是单向吸碳                                     PRESENT
+    Not a one-way sink                         PRESENT
+    DIC                                        PRESENT
+    溶解无机碳                                      PRESENT
+    result : PASS
+
+[6] Slide 29 weathering distinction (net sink vs recycling)
+    硅酸盐风化                                      PRESENT
+    长期净汇                                       PRESENT
+    碳酸盐风化                                      PRESENT
+    循环 Recycling · 无净变化                        PRESENT
+    CaSiO₃ + CO₂ → CaCO₃ + SiO₂                PRESENT
+    不带来净的大气碳变化                                 PRESENT
+    Dissolution ≈ re-precipitation             PRESENT
+    one-way weathering claim absent : True
+    result : PASS
+
+[7] Slide 30 slow geological pathway, order preserved
+    standalone stage-heading runs in document order : ['风化与河流输送', '沉积与埋藏', '俯冲与变质', '火山脱气']
+    in order and all present : True
+    '四段方向序列' panel heading present : True
+    figure-note states the C-05 redraw basis : True
+    no merged C-05/C-06 budget : True
+    result : PASS
+
+[8] Slide 31 traceable timescale scheme, two panels not merged
+    图 4-15                                     PRESENT
+    图 4-16                                     PRESENT
+    独立来源面板                                     PRESENT
+    不合并、不插值                                    PRESENT
+    约 10¹–10² 年                                PRESENT
+    约 10²–10³ 年                                PRESENT
+    约 10³–10⁵ 年                                PRESENT
+    大于 10⁵ 年                                   PRESENT
+    0–10³ 年                                    PRESENT
+    10³–10⁸ 年                                  PRESENT
+    10⁶–10⁹ 年                                  PRESENT
+    10⁷–10⁹ 年                                  PRESENT
+    储库 Reservoir                               PRESENT
+    通量 Flux                                    PRESENT
+    停留时间 Residence Time                        PRESENT
+    source line : Source: 地球系统与演变 Ch.4 §4.4.3–4.5.1, 图 4-15 与图 4-16, PDF pp.78–80; UE 8e Ch.12, PDF pp.1205–1206, 1209–1213; EP Ch.23 p.881.
+    source line names both figures : True
+    result : PASS
+
+[9] Slide 32 prompt outside the figure + Notes answer key
+    任务提示                                       PRESENT
+    起点储库与终点储库                                  PRESENT
+    中间的过程或通量                                   PRESENT
+    这条通路是快还是慢                                  PRESENT
+    属于生物、海洋还是地质路径                              PRESENT
+    读图提示                                       PRESENT
+    不要求背下图上全部数字                                PRESENT
+    Notes answer key paths : 光合作用=True 海气交换=True 碳酸盐沉积=True
+    Notes warn 120/80 are gross exchange, not net sinks : True
+    80/120 not labelled as net sink on the slide : True
+    result : PASS
+
+[10] Slide 33 four synthesis units, no figure, no numerical claim
+    碳存在哪里                                      PRESENT
+    快速通路                                       PRESENT
+    与岩石相连                                      PRESENT
+    不同的时钟                                      PRESENT
+    non-structural digit-bearing runs : none
+    result : PASS
+
+[11] Rejected Slide 25 year-range wording must not reappear
+    hits : none
+    result : PASS
+
+[12] C-01 integrity on Slide 32 — no crop, aspect correct
+    approved asset : 1725x1435 ratio=1.2021 md5=c0263e3da3a00b3799ee709a4e1a1cf2
+    embedded       : 1725x1435 ratio=1.2021 md5=c0263e3da3a00b3799ee709a4e1a1cf2
+    placed frame   : 6.0104 x 5.0000 in at (0.7396, 1.6875) = 577 x 480 px
+    frame ratio 1.2021 vs source 1.2021 : MATCH
+    no crop marker : True
+    byte-identical to approved asset : True
+    C-04 embedded : False
+    C-05 embedded : False
+    C-06 embedded : False
+    result : PASS
+
+=== PDF native text ===
+pages=6 size=Rect(0.0, 0.0, 960.0, 540.0)
+  page 1 : 666 chars
+  page 2 : 686 chars
+  page 3 : 649 chars
+  page 4 : 575 chars
+  page 5 : 417 chars
+  page 6 : 597 chars
+  page 1 sample : 2.8 碳酸盐：海洋、生命与岩石的连接| Carbonates: Ocean–Life–Rock Connection
+  page 4 (31) contains both figure citations : True
+  no rejected year-range wording in the PDF : True
+
+=== preview renders ===
+  28_carbonates_ocean_life_rock.png        1920x1080  116072 bytes
+  29_weathering_water_meets_carbon.png     1920x1080  120163 bytes
+  30_slow_geological_carbon_cycle.png      1920x1080  109268 bytes
+  31_multiple_carbon_timescales.png        1920x1080  87711 bytes
+  32_concept_check_2.png                   1920x1080  892286 bytes
+  33_part2_summary.png                     1920x1080  88701 bytes

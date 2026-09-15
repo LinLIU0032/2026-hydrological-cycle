@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.14 水也进入岩石和地球内部 | Deep Water Cycle</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">WATER CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">水循环不只在表层：俯冲把水带入地球内部，熔融与火山再把它送回表层与大气圈</text>
+  </g>
+
+  <g id="figure-panel" data-pptx-bounds="40 154 700 480">
+    <rect x="40" y="154" width="700" height="480" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <image href="../images/W-06_Fig3-13_PDF21_print106_raw.png" x="50" y="170" width="641" height="440" preserveAspectRatio="xMidYMid meet"/>
+    <text x="390" y="626" font-size="13" text-anchor="middle" fill="#4A5568">图 3-13 地球内部的水循环（W-06，整幅保留，未裁切）</text>
+  </g>
+
+  <g id="pathway-panel" data-pptx-bounds="760 154 480 286">
+    <rect x="760" y="154" width="480" height="286" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="780" y="186" font-size="16" font-weight="bold" fill="#0E3F8C">读图顺序 | Reading the pathway</text>
+
+    <circle cx="794" cy="218" r="12" fill="#1E4FA8"/>
+    <text x="794" y="223" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="816" y="223" font-size="15" fill="#1A2230">表层与海洋水 Surface &amp; ocean water</text>
+
+    <circle cx="794" cy="258" r="12" fill="#1E4FA8"/>
+    <text x="794" y="263" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="816" y="263" font-size="15" fill="#1A2230">含水洋壳与沉积物 Hydrated crust &amp; sediment</text>
+
+    <circle cx="794" cy="298" r="12" fill="#1E4FA8"/>
+    <text x="794" y="303" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="816" y="303" font-size="15" fill="#1A2230">俯冲带入地幔 Subduction carries water in</text>
+
+    <circle cx="794" cy="338" r="12" fill="#1E4FA8"/>
+    <text x="794" y="343" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="816" y="343" font-size="15" fill="#1A2230">地幔深部储存 Deep mantle storage</text>
+
+    <circle cx="794" cy="378" r="12" fill="#1E4FA8"/>
+    <text x="794" y="383" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">5</text>
+    <text x="816" y="383" font-size="15" fill="#1A2230">熔融与火山返回 Melting &amp; volcanism return</text>
+
+    <text x="780" y="418" font-size="13" fill="#4A5568">返回表层与大气圈，循环闭合 Closes the loop</text>
+  </g>
+
+  <g id="legend-panel" data-pptx-bounds="760 455 480 179">
+    <rect x="760" y="455" width="480" height="179" rx="12" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="780" y="487" font-size="16" font-weight="bold" fill="#0E3F8C">箭头与边界 | Arrows &amp; boundaries</text>
+    <text x="780" y="517" font-size="13" fill="#1A2230">深蓝色 = 俯冲板块 Subducting slab<tspan x="780" dy="26">浅蓝箭头 = 水向地幔 Water toward mantle</tspan><tspan x="780" dy="26">黄色箭头 = 水向表层 Water toward surface</tspan><tspan x="780" dy="26">深度边界 Depth bounds: 410 / 660 / 2900 / 5150 km</tspan></text>
+    <text x="780" y="620" font-size="12" fill="#4A5568">边界与箭头含义取自原图标注 As printed in Fig. 3-13</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: 地球系统与演变, Fig. 3-13, p.106 (PDF p.21) = W-06; supporting context: HB Ch.9 approved volatile-cycling text (not plotted).</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">17</text>
+</svg>

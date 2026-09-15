@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.1 为什么接下来讲碳？ | Why Carbon?</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">PART II · CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">碳循环把气候、生命、海洋与岩石，接进与水循环同一套储库—通量框架</text>
+  </g>
+
+  <g id="course-position" data-pptx-bounds="40 150 590 504">
+    <rect x="40" y="150" width="590" height="504" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="68" y="190" font-size="16" font-weight="bold" fill="#0E3F8C">课程位置 | Course position</text>
+    <text x="68" y="214" font-size="13" fill="#4A5568">第二部分现在开始；先用同一套语言读完水，再读碳。</text>
+
+    <rect x="68" y="236" width="534" height="122" rx="12" fill="#F0F5FC"/>
+    <circle cx="104" cy="297" r="22" fill="#1E4FA8"/>
+    <text x="104" y="303" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="144" y="290" font-size="16" font-weight="bold" fill="#0E3F8C">水循环 | Water Cycle</text>
+    <text x="144" y="322" font-size="15" fill="#1A2230">已完成 · 储库、通量与停留时间已建立</text>
+
+    <rect x="68" y="374" width="534" height="122" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="104" cy="435" r="22" fill="#EA580C"/>
+    <text x="104" y="441" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="144" y="428" font-size="16" font-weight="bold" fill="#C2410C">碳循环 | Carbon Cycle</text>
+    <text x="144" y="460" font-size="15" fill="#1A2230">当前 · 用同一套语言读碳的储库与路径</text>
+    <rect x="498" y="396" width="72" height="26" rx="8" fill="#EA580C"/>
+    <text x="534" y="414" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">当前</text>
+
+    <rect x="68" y="512" width="534" height="122" rx="12" fill="#F0F5FC"/>
+    <circle cx="104" cy="573" r="22" fill="#3D7BD9"/>
+    <text x="104" y="579" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="144" y="566" font-size="16" font-weight="bold" fill="#0E3F8C">耦合与气候反馈 | Coupling &amp; Feedbacks</text>
+    <text x="144" y="598" font-size="15" fill="#1A2230">接下来 · 把两个循环放回同一个气候系统</text>
+  </g>
+
+  <g id="system-bridge" data-pptx-bounds="658 150 582 504">
+    <rect x="658" y="150" width="582" height="504" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="686" y="190" font-size="16" font-weight="bold" fill="#C2410C">沿用同一套语言 | Same framework</text>
+
+    <rect x="686" y="206" width="170" height="60" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="771" y="234" font-size="15" font-weight="bold" text-anchor="middle" fill="#1A2230">储库</text>
+    <text x="771" y="256" font-size="13" text-anchor="middle" fill="#4A5568">Reservoir</text>
+
+    <rect x="868" y="206" width="170" height="60" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="953" y="234" font-size="15" font-weight="bold" text-anchor="middle" fill="#1A2230">通量</text>
+    <text x="953" y="256" font-size="13" text-anchor="middle" fill="#4A5568">Flux</text>
+
+    <rect x="1050" y="206" width="170" height="60" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="1135" y="234" font-size="15" font-weight="bold" text-anchor="middle" fill="#1A2230">停留时间</text>
+    <text x="1135" y="256" font-size="13" text-anchor="middle" fill="#4A5568">Residence Time</text>
+
+    <text x="686" y="300" font-size="15" fill="#1A2230">碳再把它们连到四个领域：</text>
+
+    <rect x="686" y="316" width="540" height="48" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="712" cy="340" r="6" fill="#EA580C"/>
+    <text x="732" y="346" font-size="16" font-weight="bold" fill="#C2410C">气候 | Climate</text>
+    <text x="1206" y="346" font-size="13" text-anchor="end" fill="#4A5568">连接温室效应与温度</text>
+
+    <rect x="686" y="374" width="540" height="48" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="712" cy="398" r="6" fill="#EA580C"/>
+    <text x="732" y="404" font-size="16" font-weight="bold" fill="#C2410C">生命 | Life</text>
+    <text x="1206" y="404" font-size="13" text-anchor="end" fill="#4A5568">光合作用固定无机碳</text>
+
+    <rect x="686" y="432" width="540" height="48" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="712" cy="456" r="6" fill="#EA580C"/>
+    <text x="732" y="462" font-size="16" font-weight="bold" fill="#C2410C">海洋 | Ocean</text>
+    <text x="1206" y="462" font-size="13" text-anchor="end" fill="#4A5568">溶解并输送碳</text>
+
+    <rect x="686" y="490" width="540" height="48" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="712" cy="514" r="6" fill="#EA580C"/>
+    <text x="732" y="520" font-size="16" font-weight="bold" fill="#C2410C">岩石 | Rocks</text>
+    <text x="1206" y="520" font-size="13" text-anchor="end" fill="#4A5568">长期储碳并返回地表</text>
+
+    <rect x="686" y="558" width="540" height="82" rx="12" fill="#FDECDD"/>
+    <text x="712" y="588" font-size="16" font-weight="bold" fill="#C2410C">Carbon ≠ CO₂ only</text>
+    <text x="712" y="618" font-size="15" fill="#7A4A33">碳循环不等于只看大气 CO₂。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Ch.12, PDF pp.1204–1205; 地球系统与演变 Ch.4 §4.1, PDF pp.57–58.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">21</text>
+</svg>

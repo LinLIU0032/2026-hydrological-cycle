@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <defs>
+    <marker id="arrowBlue" markerWidth="3.6" markerHeight="2.8" refX="3.6" refY="1.4" orient="auto-start-reverse">
+      <polygon points="0,0 3.6,1.4 0,2.8" fill="#1E4FA8"/>
+    </marker>
+  </defs>
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.15 水循环连接四大圈层 | Water Connects the Earth System</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">EARTH-SYSTEM LINK</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">水把大气、海洋、生命、岩石与深部地球连接起来，并搬运质量与能量</text>
+  </g>
+
+  <g id="atmosphere-node" data-pptx-bounds="40 152 1200 64">
+    <rect x="40" y="152" width="1200" height="64" rx="12" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+    <text x="640" y="190" font-size="16" font-weight="bold" text-anchor="middle" fill="#0E3F8C">大气圈 | Atmosphere</text>
+  </g>
+
+  <g id="ocean-node" data-pptx-bounds="40 300 470 150">
+    <rect x="40" y="300" width="470" height="150" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="64" y="336" font-size="16" font-weight="bold" fill="#0E3F8C">海洋 | Ocean</text>
+    <text x="64" y="364" font-size="13" fill="#4A5568">水圈主体 · 海气交换与热量输送</text>
+    <text x="64" y="390" font-size="13" fill="#4A5568">接收径流与风化溶质</text>
+  </g>
+
+  <g id="land-life-node" data-pptx-bounds="610 300 630 150">
+    <rect x="610" y="300" width="630" height="150" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="634" y="336" font-size="16" font-weight="bold" fill="#0E3F8C">陆地与生命 | Land &amp; life</text>
+    <text x="634" y="364" font-size="13" fill="#4A5568">生物圈 · 植被连接地下水与大气水</text>
+    <text x="634" y="390" font-size="13" fill="#4A5568">蒸腾与生物转移返回水汽</text>
+  </g>
+
+  <g id="rock-deep-node" data-pptx-bounds="40 500 1200 100">
+    <rect x="40" y="500" width="1200" height="100" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="64" y="536" font-size="16" font-weight="bold" fill="#0E3F8C">岩石与深部 | Rock &amp; deep Earth</text>
+    <text x="64" y="564" font-size="13" fill="#4A5568">俯冲把水带入内部 · 火山作用把水返回表层 · 风化释放溶质</text>
+  </g>
+
+  <g id="air-sea-fluxes" data-pptx-bounds="86 222 366 76">
+    <line x1="200" y1="298" x2="200" y2="222" stroke="#1E4FA8" stroke-width="3" marker-end="url(#arrowBlue)"/>
+    <line x1="330" y1="222" x2="330" y2="298" stroke="#1E4FA8" stroke-width="3" marker-end="url(#arrowBlue)"/>
+    <text x="190" y="262" font-size="12" text-anchor="end" fill="#4A5568">蒸发 Evaporation</text>
+    <text x="340" y="262" font-size="12" fill="#4A5568">降水 Precipitation</text>
+  </g>
+
+  <g id="air-land-fluxes" data-pptx-bounds="800 222 375 76">
+    <line x1="800" y1="222" x2="800" y2="298" stroke="#1E4FA8" stroke-width="3" marker-end="url(#arrowBlue)"/>
+    <line x1="1050" y1="298" x2="1050" y2="222" stroke="#1E4FA8" stroke-width="3" marker-end="url(#arrowBlue)"/>
+    <text x="810" y="262" font-size="12" fill="#4A5568">降水 Precipitation</text>
+    <text x="1060" y="262" font-size="12" fill="#4A5568">蒸腾 Transpiration</text>
+  </g>
+
+  <g id="runoff-flux" data-pptx-bounds="514 352 92 28">
+    <line x1="606" y1="375" x2="516" y2="375" stroke="#1E4FA8" stroke-width="3" marker-end="url(#arrowBlue)"/>
+    <text x="561" y="364" font-size="12" text-anchor="middle" fill="#4A5568">径流 Runoff</text>
+  </g>
+
+  <g id="weathering-flux" data-pptx-bounds="242 452 235 46">
+    <line x1="250" y1="498" x2="250" y2="452" stroke="#1E4FA8" stroke-width="3" marker-end="url(#arrowBlue)"/>
+    <text x="260" y="480" font-size="12" fill="#4A5568">风化与溶质输送 Weathering &amp; solute</text>
+  </g>
+
+  <g id="deep-vertical-fluxes" data-pptx-bounds="692 452 475 46">
+    <line x1="700" y1="452" x2="700" y2="498" stroke="#1E4FA8" stroke-width="3" marker-end="url(#arrowBlue)"/>
+    <text x="710" y="486" font-size="12" fill="#4A5568">入渗 Infiltration</text>
+    <line x1="880" y1="498" x2="880" y2="452" stroke="#1E4FA8" stroke-width="3" marker-end="url(#arrowBlue)"/>
+    <text x="870" y="464" font-size="12" text-anchor="end" fill="#4A5568">火山回返 Volcanic return</text>
+    <line x1="1060" y1="452" x2="1060" y2="498" stroke="#1E4FA8" stroke-width="3" marker-end="url(#arrowBlue)"/>
+    <text x="1070" y="480" font-size="12" fill="#4A5568">俯冲 Subduction</text>
+  </g>
+
+  <g id="solvent-energy-strip" data-pptx-bounds="40 612 1200 42">
+    <rect x="40" y="612" width="1200" height="42" rx="12" fill="#F0F5FC"/>
+    <text x="72" y="638" font-size="15" fill="#1A2230">水搬运质量与能量：溶剂与搬运介质 · 相变输送潜热<tspan font-size="13" fill="#4A5568"> Water carries mass &amp; energy; solvent and transport agent</tspan></text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Redrawn from approved sources: W-02, W-06, and Source Matrix rows for Slide 18.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">18</text>
+</svg>

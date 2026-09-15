@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">作业题 | Homework Questions</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">LECTURE 16 · SYNTHESIS</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">四道候选题覆盖共同框架、碳时间尺度、耦合与反馈推理，教师选 1–2 题</text>
+  </g>
+
+  <g id="question-1" data-pptx-bounds="40 158 580 210">
+    <rect x="40" y="158" width="580" height="210" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="82" cy="200" r="24" fill="#1E4FA8"/>
+    <text x="82" y="208" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="122" y="190" font-size="15" font-weight="bold" fill="#0E3F8C">储库、通量与停留时间</text>
+    <text x="122" y="214" font-size="12" fill="#3D7BD9">Reservoir · Flux · Residence Time</text>
+    <text x="122" y="256" font-size="13" fill="#1A2230">定义这三个概念，并解释：为什么储量很大的储库，<tspan x="122" dy="26">更新速度不一定快？</tspan></text>
+    <text x="122" y="338" font-size="12" fill="#4A5568">类型：概念理解 Conceptual</text>
+  </g>
+
+  <g id="question-2" data-pptx-bounds="660 158 580 210">
+    <rect x="660" y="158" width="580" height="210" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="702" cy="200" r="24" fill="#EA580C"/>
+    <text x="702" y="208" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="742" y="190" font-size="15" font-weight="bold" fill="#C2410C">快速与缓慢碳循环路径</text>
+    <text x="742" y="214" font-size="12" fill="#C2410C">Fast vs Slow Carbon Cycles</text>
+    <text x="742" y="256" font-size="13" fill="#1A2230">从储库、过程与相对时间尺度三方面，<tspan x="742" dy="26">比较快速与缓慢碳循环路径。</tspan></text>
+    <text x="742" y="338" font-size="12" fill="#7A4A33">类型：比较解释 Compare</text>
+  </g>
+
+  <g id="question-3" data-pptx-bounds="40 382 580 210">
+    <rect x="40" y="382" width="580" height="210" rx="12" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+    <circle cx="82" cy="424" r="24" fill="#3D7BD9"/>
+    <text x="82" y="432" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="122" y="414" font-size="15" font-weight="bold" fill="#0E3F8C">水如何耦合两个循环</text>
+    <text x="122" y="438" font-size="12" fill="#3D7BD9">Weathering · Ocean Transfer · Biology</text>
+    <text x="122" y="480" font-size="13" fill="#1A2230">以风化、海洋输送或生物过程为例，说明水<tspan x="122" dy="26">如何耦合水循环与碳循环。</tspan></text>
+    <text x="122" y="562" font-size="12" fill="#4A5568">类型：系统耦合 Coupling</text>
+  </g>
+
+  <g id="question-4" data-pptx-bounds="660 382 580 210">
+    <rect x="660" y="382" width="580" height="210" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="702" cy="424" r="24" fill="#0E3F8C"/>
+    <text x="702" y="432" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="742" y="414" font-size="15" font-weight="bold" fill="#0E3F8C">升温后的正、负反馈路径</text>
+    <text x="742" y="438" font-size="12" fill="#3D7BD9">Feedback Sign · Response Speed</text>
+    <text x="742" y="480" font-size="13" fill="#1A2230">从一次升温出发，各写一条正反馈与一条<tspan x="742" dy="26">负反馈路径，并比较二者响应快慢。</tspan></text>
+    <text x="742" y="562" font-size="12" fill="#4A5568">类型：因果推理 Earth-system reasoning</text>
+  </g>
+
+  <g id="closing-band" data-pptx-bounds="40 616 1200 40">
+    <line x1="40" y1="620" x2="1240" y2="620" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="40" y="650" font-size="14" font-weight="bold" fill="#0E3F8C">教师从四道候选题中选 1–2 题作为正式作业 · Instructor selects one or two</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Candidate questions — Master Prompt Sections 42/52; content limited to approved Slides 04–41. Brief grading points in embedded Notes; no answers shown on slide.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">42</text>
+</svg>

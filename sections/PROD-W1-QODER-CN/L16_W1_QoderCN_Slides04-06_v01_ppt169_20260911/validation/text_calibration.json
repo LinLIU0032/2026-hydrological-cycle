@@ -1,0 +1,127 @@
+{
+  "roles": {
+    "body": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 15.0,
+      "cjk_chars_per_100px": 6.3,
+      "latin_chars_per_100px": 13.0,
+      "caps_chars_per_100px": 12.0,
+      "digits_chars_per_100px": 11.5,
+      "longest_planned_line": {
+        "px": 3483.3,
+        "slide": "P06",
+        "text": "单一 UE Fig. 17.1 数据集（占总水量百分比与体积）：Ocean/s…"
+      }
+    },
+    "title": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 21.0,
+      "cjk_chars_per_100px": 4.5,
+      "latin_chars_per_100px": 9.2,
+      "caps_chars_per_100px": 8.5,
+      "digits_chars_per_100px": 8.1,
+      "longest_planned_line": {
+        "px": 635.5,
+        "slide": "P05",
+        "text": "读懂全球循环的四个词 | Four Ideas for Reading Glo…"
+      }
+    },
+    "subtitle": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 19.0,
+      "cjk_chars_per_100px": 5.0,
+      "latin_chars_per_100px": 10.3,
+      "caps_chars_per_100px": 9.5,
+      "digits_chars_per_100px": 9.1,
+      "longest_planned_line": {
+        "px": 602.1,
+        "slide": "P06",
+        "text": "地球水的分布极不均匀：海洋占绝对多数，易利用的表层淡水极少。"
+      }
+    },
+    "annotation": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 13.0,
+      "cjk_chars_per_100px": 7.2,
+      "latin_chars_per_100px": 14.9,
+      "caps_chars_per_100px": 13.7,
+      "digits_chars_per_100px": 13.1,
+      "longest_planned_line": null
+    },
+    "anchor_title": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 34.0,
+      "cjk_chars_per_100px": 2.8,
+      "latin_chars_per_100px": 5.7,
+      "caps_chars_per_100px": 5.3,
+      "digits_chars_per_100px": 5.0,
+      "longest_planned_line": null
+    },
+    "card_heading": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 16.0,
+      "cjk_chars_per_100px": 5.9,
+      "latin_chars_per_100px": 12.1,
+      "caps_chars_per_100px": 11.2,
+      "digits_chars_per_100px": 10.7,
+      "longest_planned_line": null
+    },
+    "display": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 60.0,
+      "cjk_chars_per_100px": 1.6,
+      "latin_chars_per_100px": 3.2,
+      "caps_chars_per_100px": 3.0,
+      "digits_chars_per_100px": 2.9,
+      "longest_planned_line": null
+    },
+    "footnote": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 12.0,
+      "cjk_chars_per_100px": 7.9,
+      "latin_chars_per_100px": 16.2,
+      "caps_chars_per_100px": 15.0,
+      "digits_chars_per_100px": 14.3,
+      "longest_planned_line": null
+    },
+    "header": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 18.0,
+      "cjk_chars_per_100px": 5.2,
+      "latin_chars_per_100px": 10.8,
+      "caps_chars_per_100px": 10.0,
+      "digits_chars_per_100px": 9.5,
+      "longest_planned_line": null
+    },
+    "page_number": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 12.0,
+      "cjk_chars_per_100px": 7.9,
+      "latin_chars_per_100px": 16.2,
+      "caps_chars_per_100px": 15.0,
+      "digits_chars_per_100px": 14.3,
+      "longest_planned_line": null
+    },
+    "toc_number": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 28.0,
+      "cjk_chars_per_100px": 3.4,
+      "latin_chars_per_100px": 6.9,
+      "caps_chars_per_100px": 6.4,
+      "digits_chars_per_100px": 6.1,
+      "longest_planned_line": null
+    },
+    "toc_section_title": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 26.0,
+      "cjk_chars_per_100px": 3.6,
+      "latin_chars_per_100px": 7.5,
+      "caps_chars_per_100px": 6.9,
+      "digits_chars_per_100px": 6.6,
+      "longest_planned_line": null
+    }
+  },
+  "source": "spec_lock.md",
+  "generated_at": "2026-09-11T03:36:04Z",
+  "notes": []
+}

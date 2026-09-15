@@ -1,0 +1,93 @@
+
+=== 2026-09-11T03:30:36.072Z NOTE id=7a3c3b0f22e7 ===
+Project initialized: profile=quick; canvas=ppt169; path=E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO_ppt169_20260911
+
+=== 2026-09-11T03:32:34.683Z PYTHON run=ff8e35719473 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\project_manager.py", "import-sources", "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO", "E:\\PG\\2026 Hydrological cycle\\assets\\figures\\approved\\W-05_Fig3-17_PDF27_print112_raw.png"]
+stdout:
+  [OK] Imported sources into: E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO
+=== 2026-09-11T03:32:35.300Z END run=ff8e35719473 elapsed_ms=625 output_lines=5 retained=1 omitted=4 ===
+
+=== 2026-09-11T03:32:46.370Z PYTHON run=87bb55691dd9 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\analyze_images.py", "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO\\images"]
+stdout:
+  [REPORT] Image analysis CSV: E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO\analysis\image_analysis.csv
+=== 2026-09-11T03:32:46.415Z END run=87bb55691dd9 elapsed_ms=46 output_lines=14 retained=1 omitted=13 ===
+
+=== 2026-09-11T03:33:01.990Z PYTHON run=12c0f86174be ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\text_measure.py", "calibrate", "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO", "--role", "header:Microsoft YaHei:18", "--role", "message:Microsoft YaHei:21", "--role", "cardheading:Microsoft YaHei:16", "--role", "body:Microsoft YaHei:15", "--role", "annotation:Microsoft YaHei:13", "--role", "footnote:Microsoft YaHei:12"]
+=== 2026-09-11T03:33:02.251Z END run=12c0f86174be elapsed_ms=266 output_lines=11 retained=0 omitted=11 ===
+
+=== 2026-09-11T03:42:09.073Z PYTHON run=536b2fd54fd3 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_quality_checker.py", "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [OK] 10_ocean_land_water_budget.svg - Passed
+  [SUMMARY] Check Summary
+  Total files: 3
+    [OK] Fully passed: 3 (100%)
+    [WARN] With warnings: 0 (0%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 0        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 3 | text: 69 | images: 1 | icons: 0
+    Geometry: SVG elements 55 | native presets 0 | page-frame elements 3 | marker uses 0
+  [REPORT] JSON quality report exported: E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO\validation\svg_quality_report.json
+=== 2026-09-11T03:42:10.846Z END run=536b2fd54fd3 elapsed_ms=1780 output_lines=27 retained=15 omitted=12 ===
+
+=== 2026-09-11T03:43:01.329Z PYTHON run=cc38c8125c21 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\total_md_split.py", "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO"]
+stdout:
+  [OK] SVG files and notes have one-to-one correspondence
+  [Done] Successfully generated 3/3 file(s)
+  [Done] Notes splitting complete
+=== 2026-09-11T03:43:01.338Z END run=cc38c8125c21 elapsed_ms=0 output_lines=12 retained=3 omitted=9 ===
+
+=== 2026-09-11T03:43:38.178Z PYTHON run=cf05f7997b4d ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_to_pptx.py", "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO", "--quick-generate", "--with-notes", "-o", "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO\\L16_W1_Doubao_Slides10-12_v01.pptx"]
+stdout:
+  [Done] Saved: E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO\L16_W1_Doubao_Slides10-12_v01.pptx
+    [POSTFLIGHT] status=passed quality_gate=passed slides=3 warning_categories=0
+    [PPTX] E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO\L16_W1_Doubao_Slides10-12_v01.pptx
+    [REPORT] E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO\validation\L16_W1_Doubao_Slides10-12_v01.report.json
+=== 2026-09-11T03:43:40.316Z END run=cf05f7997b4d elapsed_ms=2140 output_lines=28 retained=4 omitted=24 ===
+
+=== 2026-09-11T03:49:05.585Z PYTHON run=2fb3ce3698e3 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_quality_checker.py", "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [OK] 10_ocean_land_water_budget.svg - Passed
+  [SUMMARY] Check Summary
+  Total files: 3
+    [OK] Fully passed: 3 (100%)
+    [WARN] With warnings: 0 (0%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 0        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 3 | text: 69 | images: 1 | icons: 0
+    Geometry: SVG elements 55 | native presets 0 | page-frame elements 3 | marker uses 0
+  [REPORT] JSON quality report exported: E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO\validation\svg_quality_report.json
+=== 2026-09-11T03:49:06.859Z END run=2fb3ce3698e3 elapsed_ms=1281 output_lines=27 retained=15 omitted=12 ===
+
+=== 2026-09-11T03:49:16.524Z PYTHON run=06bb4eb47335 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_to_pptx.py", "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO", "--quick-generate", "--with-notes", "-o", "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO\\L16_W1_Doubao_Slides10-12_v01.pptx"]
+stdout:
+  [Done] Saved: E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO\L16_W1_Doubao_Slides10-12_v01.pptx
+    [POSTFLIGHT] status=passed quality_gate=passed slides=3 warning_categories=0
+    [PPTX] E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO\L16_W1_Doubao_Slides10-12_v01.pptx
+    [REPORT] E:\PG\2026 Hydrological cycle\sections\PROD-W1-DOUBAO\validation\L16_W1_Doubao_Slides10-12_v01.report.json
+=== 2026-09-11T03:49:18.468Z END run=06bb4eb47335 elapsed_ms=1953 output_lines=28 retained=4 omitted=24 ===

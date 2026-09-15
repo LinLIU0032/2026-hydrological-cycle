@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">核心术语 | Key Terms</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">LECTURE 16 · SYNTHESIS</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">三组术语字段收束共同框架、水文过程与碳—耦合概念</text>
+  </g>
+
+  <g id="terms-framework" data-pptx-bounds="40 150 380 466">
+    <rect x="40" y="150" width="380" height="466" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <rect x="40" y="150" width="380" height="44" rx="12" fill="#0E3F8C"/>
+    <rect x="40" y="172" width="380" height="22" fill="#0E3F8C"/>
+    <text x="60" y="179" font-size="15" font-weight="bold" fill="#FFFFFF">共同框架 Framework</text>
+    <text x="400" y="179" font-size="12" text-anchor="end" fill="#C7D7F2">6 terms</text>
+
+    <rect x="56" y="212" width="6" height="6" fill="#3D7BD9"/>
+    <text x="72" y="221" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Reservoir</tspan>　储库</text>
+    <line x1="56" y1="236" x2="404" y2="236" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="56" y="266" width="6" height="6" fill="#3D7BD9"/>
+    <text x="72" y="275" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Flux</tspan>　通量</text>
+    <line x1="56" y1="290" x2="404" y2="290" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="56" y="320" width="6" height="6" fill="#3D7BD9"/>
+    <text x="72" y="329" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Residence Time</tspan>　停留时间</text>
+    <line x1="56" y1="344" x2="404" y2="344" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="56" y="374" width="6" height="6" fill="#3D7BD9"/>
+    <text x="72" y="383" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Feedback</tspan>　反馈</text>
+    <line x1="56" y1="398" x2="404" y2="398" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="56" y="428" width="6" height="6" fill="#3D7BD9"/>
+    <text x="72" y="437" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Positive Feedback</tspan>　正反馈</text>
+    <line x1="56" y1="452" x2="404" y2="452" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="56" y="482" width="6" height="6" fill="#3D7BD9"/>
+    <text x="72" y="491" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Negative Feedback</tspan>　负反馈</text>
+  </g>
+
+  <g id="terms-water" data-pptx-bounds="450 150 380 466">
+    <rect x="450" y="150" width="380" height="466" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <rect x="450" y="150" width="380" height="44" rx="12" fill="#1E4FA8"/>
+    <rect x="450" y="172" width="380" height="22" fill="#1E4FA8"/>
+    <text x="470" y="179" font-size="15" font-weight="bold" fill="#FFFFFF">水文过程 Water Processes</text>
+    <text x="810" y="179" font-size="12" text-anchor="end" fill="#C7D7F2">7 terms</text>
+
+    <rect x="466" y="212" width="6" height="6" fill="#3D7BD9"/>
+    <text x="482" y="221" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Hydrologic Cycle</tspan>　水文循环</text>
+    <line x1="466" y1="236" x2="814" y2="236" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="466" y="266" width="6" height="6" fill="#3D7BD9"/>
+    <text x="482" y="275" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Evaporation</tspan>　蒸发</text>
+    <line x1="466" y1="290" x2="814" y2="290" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="466" y="320" width="6" height="6" fill="#3D7BD9"/>
+    <text x="482" y="329" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Evapotranspiration</tspan>　蒸散</text>
+    <line x1="466" y1="344" x2="814" y2="344" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="466" y="374" width="6" height="6" fill="#3D7BD9"/>
+    <text x="482" y="383" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Runoff</tspan>　径流</text>
+    <line x1="466" y1="398" x2="814" y2="398" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="466" y="428" width="6" height="6" fill="#3D7BD9"/>
+    <text x="482" y="437" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Infiltration</tspan>　入渗</text>
+    <line x1="466" y1="452" x2="814" y2="452" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="466" y="482" width="6" height="6" fill="#3D7BD9"/>
+    <text x="482" y="491" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Groundwater</tspan>　地下水</text>
+    <line x1="466" y1="506" x2="814" y2="506" stroke="#E8EEF6" stroke-width="1"/>
+    <rect x="466" y="536" width="6" height="6" fill="#3D7BD9"/>
+    <text x="482" y="545" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#0E3F8C">Cryosphere</tspan>　冰冻圈</text>
+  </g>
+
+  <g id="terms-carbon" data-pptx-bounds="860 150 380 466">
+    <rect x="860" y="150" width="380" height="466" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <rect x="860" y="150" width="380" height="44" rx="12" fill="#EA580C"/>
+    <rect x="860" y="172" width="380" height="22" fill="#EA580C"/>
+    <text x="880" y="179" font-size="15" font-weight="bold" fill="#FFFFFF">碳与耦合 Carbon &amp; Coupling</text>
+    <text x="1220" y="179" font-size="12" text-anchor="end" fill="#FDECDD">7 terms</text>
+
+    <rect x="876" y="212" width="6" height="6" fill="#EA580C"/>
+    <text x="892" y="221" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#C2410C">Carbon Cycle</tspan>　碳循环</text>
+    <line x1="876" y1="236" x2="1224" y2="236" stroke="#F6E2D8" stroke-width="1"/>
+    <rect x="876" y="266" width="6" height="6" fill="#EA580C"/>
+    <text x="892" y="275" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#C2410C">Photosynthesis</tspan>　光合作用</text>
+    <line x1="876" y1="290" x2="1224" y2="290" stroke="#F6E2D8" stroke-width="1"/>
+    <rect x="876" y="320" width="6" height="6" fill="#EA580C"/>
+    <text x="892" y="329" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#C2410C">Respiration</tspan>　呼吸</text>
+    <line x1="876" y1="344" x2="1224" y2="344" stroke="#F6E2D8" stroke-width="1"/>
+    <rect x="876" y="374" width="6" height="6" fill="#EA580C"/>
+    <text x="892" y="383" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#C2410C">Weathering</tspan>　风化</text>
+    <line x1="876" y1="398" x2="1224" y2="398" stroke="#F6E2D8" stroke-width="1"/>
+    <rect x="876" y="428" width="6" height="6" fill="#EA580C"/>
+    <text x="892" y="437" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#C2410C">Carbonate</tspan>　碳酸盐</text>
+    <line x1="876" y1="452" x2="1224" y2="452" stroke="#F6E2D8" stroke-width="1"/>
+    <rect x="876" y="482" width="6" height="6" fill="#EA580C"/>
+    <text x="892" y="491" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#C2410C">Biological Pump</tspan>　生物泵</text>
+    <line x1="876" y1="506" x2="1224" y2="506" stroke="#F6E2D8" stroke-width="1"/>
+    <rect x="876" y="536" width="6" height="6" fill="#EA580C"/>
+    <text x="892" y="545" font-size="13.5" fill="#1A2230"><tspan font-weight="bold" fill="#C2410C">Physical Pump</tspan>　物理泵</text>
+  </g>
+
+  <g id="closing-band" data-pptx-bounds="40 616 1200 40">
+    <line x1="40" y1="620" x2="1240" y2="620" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="40" y="650" font-size="14" font-weight="bold" fill="#0E3F8C">英文术语以 UE 为准，中文以《地球系统与演变》为准 · UE English · CN Chinese</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Locked bilingual vocabulary — UE 8e Chs.12/17; 地球系统与演变 Chs.3–4; Master Prompt Slide 43 list. Terms only; one-line reminders in embedded Notes.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">43</text>
+</svg>

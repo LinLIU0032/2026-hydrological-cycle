@@ -1,0 +1,23 @@
+# Machine-local environments and dependency caches
+planning/tooling/ppt-master-py312-v6.3.1/
+planning/tooling/artifact-build-l16/node_modules/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets must never be committed; the template remains tracked.
+.env
+.env.*
+!.env.example
+
+# Rebuildable local previews and scratch output
+.codex_pdf_preview/
+tmp/
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+*.swp
+*.swo

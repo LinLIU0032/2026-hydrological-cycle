@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.17 第一部分总结 | Water Moves Matter and Energy</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">PART I SUMMARY</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">水循环搬运物质与能量、塑造地表、连接圈层</text>
+  </g>
+
+  <g id="summary-1-reservoirs" data-pptx-bounds="40 152 590 150">
+    <rect x="40" y="152" width="590" height="150" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="82" cy="196" r="22" fill="#1E4FA8"/>
+    <text x="82" y="203" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="120" y="192" font-size="16" font-weight="bold" fill="#0E3F8C">水在储库间迁移</text>
+    <text x="120" y="216" font-size="13" fill="#3D7BD9">Water moves among reservoirs</text>
+    <text x="80" y="252" font-size="15" fill="#1A2230">海洋、大气、冰雪、陆地与地下水之间<tspan x="80" dy="26">以通量持续迁移。</tspan></text>
+  </g>
+
+  <g id="summary-2-energy" data-pptx-bounds="650 152 590 150">
+    <rect x="650" y="152" width="590" height="150" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="692" cy="196" r="22" fill="#3D7BD9"/>
+    <text x="692" y="203" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="730" y="192" font-size="16" font-weight="bold" fill="#0E3F8C">相变输送能量</text>
+    <text x="730" y="216" font-size="13" fill="#3D7BD9">Phase changes transport energy</text>
+    <text x="690" y="252" font-size="15" fill="#1A2230">蒸发吸热、凝结放热，<tspan x="690" dy="26">水循环同时搬运能量。</tspan></text>
+  </g>
+
+  <g id="summary-3-solutes" data-pptx-bounds="40 314 590 150">
+    <rect x="40" y="314" width="590" height="150" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="82" cy="358" r="22" fill="#0E3F8C"/>
+    <text x="82" y="365" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="120" y="354" font-size="16" font-weight="bold" fill="#0E3F8C">径流与地下水搬运溶质与沉积物</text>
+    <text x="120" y="378" font-size="13" fill="#3D7BD9">Runoff &amp; groundwater move solutes and sediment</text>
+    <text x="80" y="414" font-size="15" fill="#1A2230">径流与地下水把溶质和沉积物<tspan x="80" dy="26">从陆地搬向海洋。</tspan></text>
+  </g>
+
+  <g id="summary-4-surface" data-pptx-bounds="650 314 590 150">
+    <rect x="650" y="314" width="590" height="150" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="692" cy="358" r="22" fill="#1E4FA8"/>
+    <text x="692" y="365" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="730" y="354" font-size="16" font-weight="bold" fill="#0E3F8C">水塑造地表</text>
+    <text x="730" y="378" font-size="13" fill="#3D7BD9">Water shapes the surface</text>
+    <text x="690" y="414" font-size="15" fill="#1A2230">侵蚀与沉积持续改变地表形态，<tspan x="690" dy="26">水是最主要的塑造者之一。</tspan></text>
+  </g>
+
+  <g id="summary-5-geospheres" data-pptx-bounds="40 476 590 150">
+    <rect x="40" y="476" width="590" height="150" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="82" cy="520" r="22" fill="#3D7BD9"/>
+    <text x="82" y="527" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">5</text>
+    <text x="120" y="516" font-size="16" font-weight="bold" fill="#0E3F8C">表层与深部路径连接圈层</text>
+    <text x="120" y="540" font-size="13" fill="#3D7BD9">Surface &amp; deep pathways connect geospheres</text>
+    <text x="80" y="576" font-size="15" fill="#1A2230">表层循环与俯冲—火山深部路径<tspan x="80" dy="26">把水送入并送出岩石圈。</tspan></text>
+  </g>
+
+  <g id="break-cue" data-pptx-bounds="650 476 590 150">
+    <rect x="650" y="476" width="590" height="150" rx="12" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+    <text x="945" y="546" font-size="21" font-weight="bold" text-anchor="middle" fill="#0E3F8C">Break · 10 min</text>
+    <text x="945" y="578" font-size="13" text-anchor="middle" fill="#4A5568">第一部分结束 · 下一部分：碳循环</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Chs.12 &amp; 17; 地球系统与演变 Ch.3; EP 5e, Interlude F &amp; Ch.23.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">20</text>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:notes xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+         xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+         xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="Slide Image Placeholder 1"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1" noRot="1" noChangeAspect="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="sldImg" idx="2"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="3" name="Notes Placeholder 2"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" sz="quarter" idx="3"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:lstStyle/>
+          <a:p>
+              <a:pPr/>
+              <a:r>
+                <a:rPr lang="zh-CN" dirty="0"></a:rPr>
+                <a:t>这一页沿着一条路径从海洋的溶解碳一直读到岩石。左边第一段是海水中的溶解无机碳，也就是以碳酸氢根和碳酸根形式存在的碳。第二段是生物成壳：海洋生物把溶解碳拿来建造钙质壳体与骨骼。第三段是碳酸盐颗粒：壳体破碎以后变成碳酸钙颗粒，向海底沉降。第四段是沉积与埋藏：颗粒在海底堆积，被后来的沉积物覆盖，埋进地下。第五段是碳酸盐岩：经过压实与胶结，碳以碳酸盐岩的形式回到岩石圈。五个方框之间的箭头方向都是向前的，这条路径本身是连续的，中间没有跳步。这里要提醒一句：按照图 4-9，海洋把碳送入深处一共有三条不同的路径，生物泵走有机碳，物理泵走随环流下沉的溶解碳，碳酸盐路径走钙质颗粒；本页只沿碳酸盐这一条走，另外两条不在这页展开。最后看下面这条可选反应式：钙离子加上两个碳酸氢根离子，生成碳酸钙、水和二氧化碳。教材给出这个式子，是为了说明碳酸盐泵在形成碳酸盐的时候可能把二氧化碳放出来，所以碳酸盐路径不能简单当成一个单向吸碳的过程，它必须和埋藏放在一起看，才谈得上是不是净的大气碳汇。本页不做碳酸盐平衡的定量计算，只看方向。</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:notes>

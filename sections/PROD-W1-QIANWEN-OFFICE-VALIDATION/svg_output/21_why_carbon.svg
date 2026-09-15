@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.1 为什么接下来讲碳？ | Why Carbon?</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">碳用同一套 reservoir / flux 语言，把气候、生命、海洋与岩石连接起来</text>
+  </g>
+
+  <g id="part2-cue" data-pptx-bounds="40 154 1200 52">
+    <rect x="40" y="154" width="1200" height="52" rx="12" fill="#EA580C"/>
+    <text x="80" y="187" font-size="18" font-weight="bold" fill="#FFFFFF">PART II · 碳循环 Carbon Cycle</text>
+    <text x="1200" y="187" font-size="15" text-anchor="end" fill="#FDECDD">现在启用 · 框架不变，物质和时钟改变</text>
+  </g>
+
+  <g id="bridge-field" data-pptx-bounds="40 222 1200 320">
+    <rect x="40" y="222" width="1200" height="320" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+
+    <g id="node-climate" data-pptx-bounds="120 262 260 96">
+      <rect x="120" y="262" width="260" height="96" rx="12" fill="#FFFFFF" stroke="#EA580C" stroke-width="2"/>
+      <text x="250" y="300" font-size="17" font-weight="bold" text-anchor="middle" fill="#C2410C">气候 Climate</text>
+      <text x="250" y="326" font-size="13" text-anchor="middle" fill="#7A4A33">大气 CO₂ · 温室效应</text>
+      <text x="250" y="346" font-size="12" text-anchor="middle" fill="#4A5568">Greenhouse forcing</text>
+    </g>
+
+    <g id="node-life" data-pptx-bounds="900 262 260 96">
+      <rect x="900" y="262" width="260" height="96" rx="12" fill="#FFFFFF" stroke="#EA580C" stroke-width="2"/>
+      <text x="1030" y="300" font-size="17" font-weight="bold" text-anchor="middle" fill="#C2410C">生命 Life</text>
+      <text x="1030" y="326" font-size="13" text-anchor="middle" fill="#7A4A33">光合作用 · 呼吸 · 分解</text>
+      <text x="1030" y="346" font-size="12" text-anchor="middle" fill="#4A5568">Photosynthesis · Respiration</text>
+    </g>
+
+    <g id="node-ocean" data-pptx-bounds="120 420 260 96">
+      <rect x="120" y="420" width="260" height="96" rx="12" fill="#FFFFFF" stroke="#1E4FA8" stroke-width="2"/>
+      <text x="250" y="458" font-size="17" font-weight="bold" text-anchor="middle" fill="#0E3F8C">海洋 Ocean</text>
+      <text x="250" y="484" font-size="13" text-anchor="middle" fill="#4A5568">溶解 · 海气交换 · 碳泵</text>
+      <text x="250" y="504" font-size="12" text-anchor="middle" fill="#4A5568">Air–sea exchange · Pumps</text>
+    </g>
+
+    <g id="node-rocks" data-pptx-bounds="900 420 260 96">
+      <rect x="900" y="420" width="260" height="96" rx="12" fill="#FFFFFF" stroke="#7A4A33" stroke-width="2"/>
+      <text x="1030" y="458" font-size="17" font-weight="bold" text-anchor="middle" fill="#7A4A33">岩石 Rocks</text>
+      <text x="1030" y="484" font-size="13" text-anchor="middle" fill="#4A5568">风化 · 沉积 · 火山脱气</text>
+      <text x="1030" y="504" font-size="12" text-anchor="middle" fill="#4A5568">Weathering · Burial · Degassing</text>
+    </g>
+
+    <g id="carbon-hub" data-pptx-bounds="530 340 220 100">
+      <rect x="530" y="340" width="220" height="100" rx="50" fill="#C2410C"/>
+      <text x="640" y="382" font-size="22" font-weight="bold" text-anchor="middle" fill="#FFFFFF">碳 Carbon</text>
+      <text x="640" y="412" font-size="13" text-anchor="middle" fill="#FDECDD">同一套储库–通量语言</text>
+    </g>
+
+    <line x1="380" y1="310" x2="524" y2="368" stroke="#EA580C" stroke-width="4"/>
+    <polygon points="516,356 532,372 512,376" fill="#EA580C"/>
+    <polygon points="388,322 372,306 392,302" fill="#EA580C"/>
+
+    <line x1="900" y1="310" x2="756" y2="368" stroke="#EA580C" stroke-width="4"/>
+    <polygon points="764,356 748,372 768,376" fill="#EA580C"/>
+    <polygon points="892,322 908,306 888,302" fill="#EA580C"/>
+
+    <line x1="380" y1="468" x2="524" y2="412" stroke="#1E4FA8" stroke-width="4"/>
+    <polygon points="516,424 532,408 512,404" fill="#1E4FA8"/>
+    <polygon points="388,456 372,472 392,476" fill="#1E4FA8"/>
+
+    <line x1="900" y1="468" x2="756" y2="412" stroke="#7A4A33" stroke-width="4"/>
+    <polygon points="764,424 748,408 768,404" fill="#7A4A33"/>
+    <polygon points="892,456 908,472 888,476" fill="#7A4A33"/>
+  </g>
+
+  <g id="framework-carryover" data-pptx-bounds="40 558 1200 98">
+    <rect x="40" y="558" width="1200" height="98" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="66" y="590" font-size="15" font-weight="bold" fill="#0E3F8C">从 Part I 带过来的同一套框架 | Same framework carried over from water</text>
+    <rect x="66" y="606" width="360" height="34" rx="10" fill="#F0F5FC" stroke="#1E4FA8" stroke-width="1"/>
+    <text x="246" y="628" font-size="14" font-weight="bold" text-anchor="middle" fill="#1E4FA8">Reservoir 储库</text>
+    <rect x="446" y="606" width="360" height="34" rx="10" fill="#F0F5FC" stroke="#1E4FA8" stroke-width="1"/>
+    <text x="626" y="628" font-size="14" font-weight="bold" text-anchor="middle" fill="#1E4FA8">Flux 通量</text>
+    <rect x="826" y="606" width="388" height="34" rx="10" fill="#F0F5FC" stroke="#1E4FA8" stroke-width="1"/>
+    <text x="1020" y="628" font-size="14" font-weight="bold" text-anchor="middle" fill="#1E4FA8">Residence Time 停留时间</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Ch.12, The Carbon Cycle, PDF pp.1204–1205; 地球系统与演变, Ch.4 §4.1, PDF pp.57–58.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">21</text>
+</svg>

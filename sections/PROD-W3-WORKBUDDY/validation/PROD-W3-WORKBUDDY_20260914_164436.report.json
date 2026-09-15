@@ -1,0 +1,182 @@
+{
+  "schema": "ppt-master.pptx-postflight-report.v1",
+  "status": "passed",
+  "output": {
+    "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\exports\\PROD-W3-WORKBUDDY_20260914_164436.pptx",
+    "bytes": 1888435
+  },
+  "source": {
+    "svg_slide_count": 6,
+    "layout_definition_count": 0,
+    "fingerprint": {
+      "algorithm": "sha256",
+      "digest": "bd14f22940bc4808cfc8c278c9946bdec3253a3b29f4bdaac6801ba97496a536",
+      "file_count": 6,
+      "files": [
+        {
+          "file": "28_carbonates_ocean_life_rock.svg",
+          "sha256": "13eda967cbd8ac7c3eb31520d90c22232a781c5121e4333f6dd3507fdb0a36fd"
+        },
+        {
+          "file": "29_weathering_water_meets_carbon.svg",
+          "sha256": "f15d7a70ba6be026aeeb0d9f56a0d6fc799b03f9470e1d58a2d246c9674dc883"
+        },
+        {
+          "file": "30_slow_geological_carbon_cycle.svg",
+          "sha256": "5de5ed30d84e7e8134f9f476b2c75987374cc82fd9333ccad1116e5807e293fb"
+        },
+        {
+          "file": "31_multiple_carbon_timescales.svg",
+          "sha256": "f4f1e983fbbf8e25211a8258716c16c8e6e271b80600c06a6b41f3bb72f42dc9"
+        },
+        {
+          "file": "32_concept_check_2.svg",
+          "sha256": "e9913c7372f46b9e2aa697fc179e0087a11b7e7c8dbb619f8e9b86b1214f6ab4"
+        },
+        {
+          "file": "33_part2_summary.svg",
+          "sha256": "793645df5c559bb5390f81c932476415ab913ed1040ca4c834814246a0ca7c65"
+        }
+      ]
+    },
+    "authoring_roundtrip": null
+  },
+  "package": {
+    "zip_integrity": "passed",
+    "corrupt_member": null,
+    "slides": 6,
+    "notes": 6,
+    "masters": 1,
+    "layouts": 1
+  },
+  "checks": {
+    "zip_integrity": "passed",
+    "slide_count": "passed",
+    "internal_relationships": "enforced-at-build",
+    "structured_package": "not-applicable",
+    "transitions": "enforced-at-build",
+    "animations": "enforced-at-build",
+    "project_svg_contract": "enforced-at-build",
+    "compatibility_normalization": "not-applicable",
+    "authoring_roundtrip": "not-applicable",
+    "quality_gate": "passed",
+    "quality_warnings": "passed",
+    "template_tokens": "passed",
+    "external_images": "passed",
+    "font_portability": "passed"
+  },
+  "quality": {
+    "status": "loaded",
+    "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\validation\\svg_quality_report.json",
+    "schema": "ppt-master.svg-quality-report.v1",
+    "stage": "final",
+    "source_match": "passed",
+    "source_fingerprint": {
+      "algorithm": "sha256",
+      "digest": "bd14f22940bc4808cfc8c278c9946bdec3253a3b29f4bdaac6801ba97496a536",
+      "file_count": 6,
+      "files": [
+        {
+          "file": "28_carbonates_ocean_life_rock.svg",
+          "sha256": "13eda967cbd8ac7c3eb31520d90c22232a781c5121e4333f6dd3507fdb0a36fd"
+        },
+        {
+          "file": "29_weathering_water_meets_carbon.svg",
+          "sha256": "f15d7a70ba6be026aeeb0d9f56a0d6fc799b03f9470e1d58a2d246c9674dc883"
+        },
+        {
+          "file": "30_slow_geological_carbon_cycle.svg",
+          "sha256": "5de5ed30d84e7e8134f9f476b2c75987374cc82fd9333ccad1116e5807e293fb"
+        },
+        {
+          "file": "31_multiple_carbon_timescales.svg",
+          "sha256": "f4f1e983fbbf8e25211a8258716c16c8e6e271b80600c06a6b41f3bb72f42dc9"
+        },
+        {
+          "file": "32_concept_check_2.svg",
+          "sha256": "e9913c7372f46b9e2aa697fc179e0087a11b7e7c8dbb619f8e9b86b1214f6ab4"
+        },
+        {
+          "file": "33_part2_summary.svg",
+          "sha256": "793645df5c559bb5390f81c932476415ab913ed1040ca4c834814246a0ca7c65"
+        }
+      ]
+    },
+    "summary": {
+      "total": 6,
+      "passed": 6,
+      "warnings": 0,
+      "errors": 0
+    },
+    "categories": {
+      "blocking": {
+        "count": 0,
+        "issues": []
+      },
+      "introduced": {
+        "count": 0,
+        "issues": []
+      },
+      "inherited": {
+        "count": 0,
+        "issues": []
+      },
+      "source-import": {
+        "count": 0,
+        "summary": {
+          "warning_count": 0,
+          "by_code": {}
+        }
+      }
+    }
+  },
+  "resources": {
+    "unresolved_template_tokens": [],
+    "fonts": {
+      "stacks": [
+        "Microsoft YaHei, Arial"
+      ],
+      "generic_only_stacks": [],
+      "unsafe_exported_faces": []
+    },
+    "images": {
+      "data_uri": 0,
+      "local": 1,
+      "external": 0,
+      "external_references": []
+    }
+  },
+  "export_policy": {
+    "project_svg_contract": "strict",
+    "dangerous_normalization_count": 0
+  },
+  "deck_motion": {
+    "transition": {
+      "effect": "fade",
+      "effect_options": {},
+      "duration": 0.4,
+      "auto_advance": null,
+      "sound": null
+    },
+    "animation": {
+      "effect": "none",
+      "effect_request": null,
+      "duration": 0.4,
+      "stagger": 0.5,
+      "trigger": "after-previous"
+    },
+    "cli_overrides": {
+      "transition": false,
+      "transition_duration": false,
+      "auto_advance": false,
+      "transition_sound": false,
+      "animation": false,
+      "animation_duration": false,
+      "animation_stagger": false,
+      "animation_trigger": false
+    },
+    "narration_timings": false
+  },
+  "backup_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\backup\\20260914_164436\\svg_output",
+  "conversion_trace_path": null
+}

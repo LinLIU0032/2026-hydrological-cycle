@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.7 海洋如何把碳送入深处？ | Ocean Carbon Pumps</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">物理泵与生物泵用不同机制，把表层碳输送到深海</text>
+  </g>
+
+  <g id="ocean-field" data-pptx-bounds="40 150 1200 504">
+    <rect x="40" y="150" width="1200" height="504" rx="12" fill="#F7F9FC" stroke="#D6DCE5"/>
+    <rect x="58" y="168" width="1164" height="70" rx="10" fill="#FDF4EF" stroke="#F0CFC2"/>
+    <text x="82" y="194" font-size="13" font-weight="bold" fill="#C2410C">ATMOSPHERE · 大气</text>
+    <text x="640" y="213" font-size="19" font-weight="bold" text-anchor="middle" fill="#C2410C">CO₂</text>
+    <line x1="640" y1="220" x2="640" y2="260" stroke="#EA580C" stroke-width="4"/>
+    <polygon points="631,252 640,265 649,252" fill="#EA580C"/>
+
+    <rect x="58" y="250" width="1164" height="136" fill="#F0F5FC"/>
+    <path d="M58 250 C105 240 152 260 199 250 C246 240 293 260 340 250 C387 240 434 260 481 250 C528 240 575 260 622 250 C669 240 716 260 763 250 C810 240 857 260 904 250 C951 240 998 260 1045 250 C1092 240 1139 260 1186 250 C1200 247 1211 247 1222 250" fill="none" stroke="#3D7BD9" stroke-width="4"/>
+    <text x="82" y="282" font-size="13" font-weight="bold" fill="#1E4FA8">SURFACE OCEAN · 表层海洋</text>
+    <text x="640" y="312" font-size="15" text-anchor="middle" fill="#1A2230">溶解无机碳 · Dissolved inorganic carbon</text>
+
+    <rect x="58" y="386" width="1164" height="194" fill="#DCEAF8"/>
+    <text x="82" y="418" font-size="13" font-weight="bold" fill="#1E4FA8">DEEP OCEAN · 深海</text>
+    <text x="640" y="552" font-size="13" text-anchor="middle" fill="#4A5568">深层水无机碳浓度约比表层高 15%（教材支持事实）</text>
+    <rect x="58" y="580" width="1164" height="56" rx="0" fill="#E8DED7"/>
+    <text x="82" y="613" font-size="13" font-weight="bold" fill="#7A4A33">SEDIMENT · 沉积物 / 岩石</text>
+    <g id="physical-pump" data-pptx-bounds="82 274 334 276">
+    <rect x="82" y="294" width="300" height="70" rx="12" fill="#FFFFFF" stroke="#B8C7DC"/>
+    <circle cx="112" cy="329" r="18" fill="#1E4FA8"/>
+    <text x="112" y="335" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="142" y="322" font-size="16" font-weight="bold" fill="#0E3F8C">物理泵 | Physical pump</text>
+    <text x="142" y="347" font-size="15" fill="#1A2230">低温溶解 · 环流下沉</text>
+    <line x1="232" y1="364" x2="232" y2="492" stroke="#1E4FA8" stroke-width="6"/>
+    <polygon points="220,480 232,500 244,480" fill="#1E4FA8"/>
+    <path d="M232 500 C270 530 320 530 354 492" fill="none" stroke="#3D7BD9" stroke-width="4"/>
+    <polygon points="345,493 359,486 354,501" fill="#3D7BD9"/>
+    <text x="102" y="526" font-size="13" fill="#4A5568">冷却 → 溶解度上升 → 深水形成</text>
+  </g>
+
+    <g id="biological-pump" data-pptx-bounds="474 274 334 276">
+    <rect x="474" y="294" width="300" height="70" rx="12" fill="#FFFFFF" stroke="#F0CFC2"/>
+    <circle cx="504" cy="329" r="18" fill="#EA580C"/>
+    <text x="504" y="335" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="534" y="322" font-size="16" font-weight="bold" fill="#C2410C">生物泵 | Biological pump</text>
+    <text x="534" y="347" font-size="15" fill="#1A2230">光合作用 · 颗粒下沉 · 深处分解</text>
+    <circle cx="590" cy="400" r="7" fill="#EA580C"/>
+    <circle cx="626" cy="420" r="5" fill="#EA580C"/>
+    <circle cx="660" cy="397" r="6" fill="#EA580C"/>
+    <line x1="626" y1="376" x2="626" y2="500" stroke="#EA580C" stroke-width="5"/>
+    <polygon points="615,488 626,507 637,488" fill="#EA580C"/>
+    <text x="494" y="526" font-size="13" fill="#4A5568">CO₂ → 有机碳 → 颗粒下沉 → 再矿化</text>
+  </g>
+
+    <g id="carbonate-path" data-pptx-bounds="866 274 334 342">
+    <rect x="866" y="294" width="332" height="70" rx="12" fill="#FFFFFF" stroke="#F0CFC2"/>
+    <circle cx="896" cy="329" r="18" fill="#C2410C"/>
+    <text x="896" y="335" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="926" y="322" font-size="16" font-weight="bold" fill="#C2410C">碳酸盐路径 | Carbonate</text>
+    <text x="926" y="347" font-size="15" fill="#1A2230">成壳 · 沉降 · 沉积</text>
+    <path d="M1002 392 l18 -11 l18 11 l-7 22 h-22 z" fill="#FDECDD" stroke="#C2410C" stroke-width="2"/>
+    <path d="M1050 421 l14 -9 l14 9 l-6 18 h-16 z" fill="#FDECDD" stroke="#C2410C" stroke-width="2"/>
+    <line x1="1034" y1="374" x2="1034" y2="570" stroke="#C2410C" stroke-width="5"/>
+    <polygon points="1023,558 1034,577 1045,558" fill="#C2410C"/>
+    <rect x="950" y="590" width="168" height="30" rx="8" fill="#FDF4EF" stroke="#F0CFC2"/>
+    <text x="1034" y="611" font-size="13" font-weight="bold" text-anchor="middle" fill="#7A4A33">CaCO₃ burial · 埋藏</text>
+    </g>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source/redraw basis: CN Ch.4, Fig. 4-9 (C-04). Native qualitative redraw.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">27</text>
+</svg>

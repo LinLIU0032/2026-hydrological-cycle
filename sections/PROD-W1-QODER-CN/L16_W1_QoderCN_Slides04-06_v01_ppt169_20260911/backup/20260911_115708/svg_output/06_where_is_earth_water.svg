@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.3 地球的水在哪里？ | Where Is Earth's Water?</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">WATER CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">地球水的分布极不均匀：海洋占绝对多数，易利用的表层淡水极少</text>
+  </g>
+
+  <g id="water-distribution-chart" data-pptx-bounds="40 152 706 502">
+    <rect x="40" y="152" width="706" height="502" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="64" y="186" font-size="16" font-weight="bold" fill="#0E3F8C">全球水储库分布 | Distribution of Earth's water</text>
+    <g id="water-distribution-bars">
+      <line x1="268" y1="204" x2="268" y2="578" stroke="#B8C7DC" stroke-width="1"/>
+      <!-- chart-plot-area: object=water-distribution-bars | 268,212,708,570 -->
+      <g id="row-ocean">
+        <text x="64" y="224" font-size="15" fill="#1A2230">海洋</text>
+        <text x="64" y="242" font-size="12" fill="#4A5568">Ocean &amp; seas</text>
+        <rect x="268" y="212" width="440" height="28" fill="#0E3F8C"/>
+        <text x="696" y="231" font-size="13" font-weight="bold" text-anchor="end" fill="#FFFFFF">95.96% · 1.40×10^9 km³</text>
+      </g>
+      <g id="row-glacier-ice">
+        <text x="64" y="290" font-size="15" fill="#1A2230">冰川与极地冰</text>
+        <text x="64" y="308" font-size="12" fill="#4A5568">Glaciers &amp; polar ice</text>
+        <rect x="268" y="278" width="13.6" height="28" fill="#1E4FA8"/>
+        <text x="292" y="297" font-size="13" fill="#1A2230">2.97% · 4.34×10^7 km³</text>
+      </g>
+      <g id="row-groundwater">
+        <text x="64" y="356" font-size="15" fill="#1A2230">地下水</text>
+        <text x="64" y="374" font-size="12" fill="#4A5568">Groundwater</text>
+        <rect x="268" y="344" width="4.8" height="28" fill="#3D7BD9"/>
+        <text x="283" y="363" font-size="13" fill="#1A2230">1.05% · 1.54×10^7 km³</text>
+      </g>
+      <g id="row-lakes-rivers">
+        <text x="64" y="422" font-size="15" fill="#1A2230">湖泊与河流</text>
+        <text x="64" y="440" font-size="12" fill="#4A5568">Lakes &amp; rivers</text>
+        <rect x="268" y="410" width="5" height="28" fill="#9DB9E5"/>
+        <text x="283" y="429" font-size="13" fill="#1A2230">0.009% · 1.27×10^5 km³</text>
+      </g>
+      <g id="row-atmosphere">
+        <text x="64" y="488" font-size="15" fill="#1A2230">大气</text>
+        <text x="64" y="506" font-size="12" fill="#4A5568">Atmosphere</text>
+        <rect x="268" y="476" width="5" height="28" fill="#9DB9E5"/>
+        <text x="283" y="495" font-size="13" fill="#1A2230">0.001% · 1.5×10^4 km³</text>
+      </g>
+      <g id="row-biosphere">
+        <text x="64" y="554" font-size="15" fill="#1A2230">生物圈</text>
+        <text x="64" y="572" font-size="12" fill="#4A5568">Biosphere</text>
+        <rect x="268" y="542" width="5" height="28" fill="#9DB9E5"/>
+        <text x="283" y="561" font-size="13" fill="#1A2230">0.0001% · 2×10^3 km³</text>
+      </g>
+    </g>
+    <text x="64" y="614" font-size="12" fill="#4A5568">注：条长按占比线性绘制；占比小于 0.01% 的储库以最小可见条宽显示，数值以标签为准。</text>
+  </g>
+
+  <g id="total-water-key" data-pptx-bounds="770 152 470 128">
+    <rect x="770" y="152" width="470" height="128" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="794" y="184" font-size="16" font-weight="bold" fill="#0E3F8C">总水量 | Total water</text>
+    <text x="794" y="228" font-size="28" font-weight="bold" fill="#1E4FA8">≈ 1.4×10^9 km³</text>
+    <text x="794" y="256" font-size="13" fill="#4A5568">约 14 亿 km³；日—百年至地质短尺度上视为恒定</text>
+  </g>
+
+  <g id="dominance-key" data-pptx-bounds="770 292 470 168">
+    <rect x="770" y="292" width="470" height="168" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="794" y="324" font-size="16" font-weight="bold" fill="#0E3F8C">海洋占绝对多数 | Oceans dominate</text>
+    <text x="794" y="358" font-size="15" fill="#1A2230">海洋 Ocean/seas：95.96%</text>
+    <text x="794" y="388" font-size="15" fill="#1A2230">其次：冰川与极地冰 2.97%</text>
+    <text x="794" y="418" font-size="15" fill="#1A2230">再次：地下水 1.05%</text>
+    <text x="794" y="446" font-size="13" fill="#4A5568">其余储库各自都不足 0.01%</text>
+  </g>
+
+  <g id="accessible-freshwater-key" data-pptx-bounds="770 472 470 182">
+    <rect x="770" y="472" width="470" height="182" rx="12" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+    <text x="794" y="504" font-size="16" font-weight="bold" fill="#0E3F8C">易利用的表层淡水极少</text>
+    <text x="794" y="538" font-size="15" fill="#1A2230">湖泊与河流 0.009% · 大气 0.001%</text>
+    <text x="794" y="566" font-size="15" fill="#1A2230">生物圈 0.0001%</text>
+    <rect x="794" y="588" width="422" height="44" rx="10" fill="#DCEAF8"/>
+    <text x="1005" y="616" font-size="16" font-weight="bold" text-anchor="middle" fill="#0E3F8C">最易利用的表层淡水占比极小</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Ch.17, Fig. 17.1, PDF pp.1647–1649; total volume: Ch.17, PDF p.1651.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">06</text>
+</svg>

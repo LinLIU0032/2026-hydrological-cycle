@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.2 碳储存在哪里？ | Carbon Reservoirs</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="20" font-weight="bold" fill="#C2410C">C-01 数值升序：生物圈 500 &lt; 大气 830 &lt; 土壤 1500 &lt; 海洋 38,000 Gt C；沉积物与岩石圈另作定性地质储库</text>
+  </g>
+
+  <g id="c01-evidence" data-pptx-bounds="40 154 520 440">
+    <rect x="40" y="154" width="520" height="440" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="66" y="184" font-size="14" font-weight="bold" fill="#0E3F8C">教材证据 | Evidence figure</text>
+    <image href="../images/C-01_UE_Fig12-19_PDF1209_raw.png" x="70" y="198" width="460" height="382" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="ascending-chart" data-pptx-bounds="580 154 660 264">
+    <rect x="580" y="154" width="660" height="264" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="606" y="184" font-size="15" font-weight="bold" fill="#C2410C">C-01 数值升序 | Numerical ascending order (Gt C)</text>
+    <text x="606" y="204" font-size="12" fill="#7A4A33">条长按 log₁₀(储量) 绘制 · 唯一数值数据集：UE Fig. 12.19 (C-01)</text>
+
+    <g id="bar-biosphere" data-pptx-bounds="606 216 608 36">
+      <text x="606" y="240" font-size="14" font-weight="bold" fill="#1A2230">生物圈 Biosphere</text>
+      <rect x="760" y="220" width="40" height="28" rx="4" fill="#EA580C"/>
+      <text x="810" y="240" font-size="14" font-weight="bold" fill="#C2410C">500</text>
+    </g>
+
+    <g id="bar-atmosphere" data-pptx-bounds="606 260 608 36">
+      <text x="606" y="284" font-size="14" font-weight="bold" fill="#1A2230">大气 Atmosphere</text>
+      <rect x="760" y="264" width="84" height="28" rx="4" fill="#EA580C"/>
+      <text x="854" y="284" font-size="14" font-weight="bold" fill="#C2410C">830</text>
+    </g>
+
+    <g id="bar-soils" data-pptx-bounds="606 304 608 36">
+      <text x="606" y="328" font-size="14" font-weight="bold" fill="#1A2230">土壤 Soils</text>
+      <rect x="760" y="308" width="135" height="28" rx="4" fill="#EA580C"/>
+      <text x="905" y="328" font-size="14" font-weight="bold" fill="#C2410C">1,500</text>
+    </g>
+
+    <g id="bar-ocean" data-pptx-bounds="606 348 608 36">
+      <text x="606" y="372" font-size="14" font-weight="bold" fill="#1A2230">海洋 Ocean</text>
+      <rect x="760" y="352" width="416" height="28" rx="4" fill="#C2410C"/>
+      <text x="1166" y="372" font-size="14" font-weight="bold" text-anchor="end" fill="#FFFFFF">38,000</text>
+    </g>
+
+    <rect x="606" y="388" width="608" height="22" rx="6" fill="#FDECDD"/>
+    <text x="910" y="404" font-size="13" font-weight="bold" text-anchor="middle" fill="#C2410C">500 &lt; 830 &lt; 1500 &lt; 38,000 Gt C（生物圈最小，海洋最大）</text>
+  </g>
+
+  <g id="geological-group" data-pptx-bounds="580 430 660 164">
+    <rect x="580" y="430" width="660" height="164" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="606" y="460" font-size="15" font-weight="bold" fill="#0E3F8C">地质储库（定性，单独一组）| Geological reservoirs (qualitative)</text>
+    <rect x="606" y="476" width="290" height="48" rx="10" fill="#FFFFFF" stroke="#7A4A33" stroke-width="2"/>
+    <text x="751" y="500" font-size="15" font-weight="bold" text-anchor="middle" fill="#7A4A33">沉积物 Sediment</text>
+    <text x="751" y="518" font-size="12" text-anchor="middle" fill="#4A5568">碳酸盐 · 有机质埋藏</text>
+    <rect x="916" y="476" width="298" height="48" rx="10" fill="#FFFFFF" stroke="#7A4A33" stroke-width="2"/>
+    <text x="1065" y="500" font-size="15" font-weight="bold" text-anchor="middle" fill="#7A4A33">岩石圈 Lithosphere</text>
+    <text x="1065" y="518" font-size="12" text-anchor="middle" fill="#4A5568">沉积岩 · 化石燃料 · 慢循环</text>
+    <rect x="606" y="540" width="608" height="40" rx="8" fill="#FDECDD" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="910" y="558" font-size="12" font-weight="bold" text-anchor="middle" fill="#C2410C">C-01 未印出沉积物与岩石圈的具体总量。</text>
+    <text x="910" y="574" font-size="12" text-anchor="middle" fill="#7A4A33">它们不并入上面的数值升序，也不引入第二套数值数据集。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Ch.12, Fig. 12.19 (C-01), PDF p.1209 — sole numerical dataset. Geological reservoirs kept qualitative per C-01.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">22</text>
+</svg>

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C" />
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">3.5 生命也参与反馈 | Biosphere Feedback</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">NEGATIVE FEEDBACK</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8" />
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C"><tspan fill="#EA580C">CO₂</tspan> 升高可促进植物生长与碳吸收，部分抵消初始变化：一个代表性负反馈</text>
+  </g>
+
+  <g id="loop-panel" data-pptx-bounds="40 150 1200 370">
+    <rect x="40" y="150" width="1200" height="370" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1" />
+
+    <rect x="70" y="170" width="262" height="26" rx="8" fill="#E8EFF8" />
+    <text x="201" y="188" font-size="12" font-weight="bold" text-anchor="middle" fill="#1E4FA8">初始变化 Initial change</text>
+    <rect x="360" y="170" width="842" height="26" rx="8" fill="#F0F5FC" />
+    <text x="376" y="188" font-size="12" fill="#4A5568">诱发变化 Induced change（步骤 2–4）</text>
+
+    <g id="step-1" data-pptx-bounds="70 210 262 120">
+      <rect x="70" y="210" width="262" height="120" rx="10" fill="#F0F5FC" stroke="#1E4FA8" stroke-width="2" />
+      <circle cx="96" cy="238" r="13" fill="#1E4FA8" />
+      <text x="96" y="243" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+      <text x="118" y="243" font-size="15" font-weight="bold" fill="#0E3F8C">大气 <tspan fill="#EA580C">CO₂</tspan> 增加</text>
+      <text x="86" y="272" font-size="12" fill="#4A5568">Atmospheric CO₂ increases</text>
+      <text x="86" y="296" font-size="12" fill="#4A5568">浓度上升</text>
+    </g>
+    <line x1="335" y1="270" x2="349" y2="270" stroke="#1E4FA8" stroke-width="3" />
+    <polygon points="359,270 349,264 349,276" fill="#1E4FA8" />
+
+    <g id="step-2" data-pptx-bounds="360 210 262 120">
+      <rect x="360" y="210" width="262" height="120" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1" />
+      <circle cx="386" cy="238" r="13" fill="#1E4FA8" />
+      <text x="386" y="243" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+      <text x="408" y="243" font-size="15" font-weight="bold" fill="#0E3F8C">植物生长可能增加</text>
+      <text x="376" y="272" font-size="12" fill="#4A5568">Plant growth can increase</text>
+      <text x="376" y="296" font-size="12" fill="#4A5568">可促进，非必然</text>
+    </g>
+    <line x1="625" y1="270" x2="639" y2="270" stroke="#1E4FA8" stroke-width="3" />
+    <polygon points="649,270 639,264 639,276" fill="#1E4FA8" />
+
+    <g id="step-3" data-pptx-bounds="650 210 262 120">
+      <rect x="650" y="210" width="262" height="120" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1" />
+      <circle cx="676" cy="238" r="13" fill="#1E4FA8" />
+      <text x="676" y="243" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+      <text x="698" y="243" font-size="15" font-weight="bold" fill="#0E3F8C">碳吸收进有机质</text>
+      <text x="666" y="272" font-size="12" fill="#4A5568">Uptake into organic matter</text>
+      <text x="666" y="296" font-size="12" fill="#4A5568">植物固定 <tspan fill="#EA580C">CO₂</tspan> 为有机质</text>
+    </g>
+    <line x1="915" y1="270" x2="929" y2="270" stroke="#1E4FA8" stroke-width="3" />
+    <polygon points="939,270 929,264 929,276" fill="#1E4FA8" />
+
+    <g id="step-4" data-pptx-bounds="940 210 262 120">
+      <rect x="940" y="210" width="262" height="120" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1" />
+      <circle cx="966" cy="238" r="13" fill="#1E4FA8" />
+      <text x="966" y="243" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+      <text x="988" y="243" font-size="15" font-weight="bold" fill="#0E3F8C"><tspan fill="#EA580C">CO₂</tspan> 与增温相对降低</text>
+      <text x="956" y="272" font-size="12" fill="#4A5568">CO₂ &amp; warming reduced</text>
+      <text x="956" y="296" font-size="12" fill="#4A5568">反对初始变化</text>
+    </g>
+
+    <path d="M1071,330 L1071,368 Q1071,376 1063,376 L209,376 Q201,376 201,368 L201,336" fill="none" stroke="#1E4FA8" stroke-width="3" />
+    <polygon points="201,330 194,340 208,340" fill="#1E4FA8" />
+    <text x="640" y="402" font-size="13" font-weight="bold" text-anchor="middle" fill="#1E4FA8">诱发作用与初始变化反向 → 抑制并趋于稳定 Induced change opposes the initial change</text>
+
+    <rect x="64" y="430" width="520" height="70" rx="12" fill="#1E4FA8" />
+    <circle cx="100" cy="465" r="16" fill="#FFFFFF" />
+    <text x="100" y="472" font-size="20" font-weight="bold" text-anchor="middle" fill="#1E4FA8">−</text>
+    <text x="128" y="458" font-size="16" font-weight="bold" fill="#FFFFFF">Negative Feedback 负反馈</text>
+    <text x="128" y="482" font-size="12" fill="#D6E4F7">诱发作用反对初始变化 Induced change opposes it</text>
+
+    <rect x="604" y="430" width="612" height="70" rx="12" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1" />
+    <text x="620" y="458" font-size="13" fill="#1A2230">条件式：<tspan fill="#EA580C">CO₂</tspan> 升高可促进植物生长与碳吸收</text>
+    <text x="620" y="482" font-size="12" fill="#4A5568">No unlimited growth, permanent compensation, or measured present-day net sink</text>
+  </g>
+
+  <g id="closure-reading" data-pptx-bounds="40 546 1200 66" font-size="13">
+    <text x="40" y="560" fill="#1A2230">闭环判断：植物吸收使大气 <tspan fill="#EA580C">CO₂</tspan> 与增温相对初始变化降低，因此是负反馈。 The induced uptake opposes the initial change → negative.</text>
+    <text x="40" y="600" fill="#4A5568">判断步骤：找初始变化 → 跟踪诱发变化 → 比较最终作用方向 Steps: initial change → induced change → compare final direction</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Ch.12, PDF p.1178; UE 8e p.1168 and approved CN Ch.4 rows as process context only; no flux or response-time number is used.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">39</text>
+</svg>

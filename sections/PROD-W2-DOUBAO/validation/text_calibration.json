@@ -1,0 +1,61 @@
+{
+  "roles": {
+    "body": {
+      "family": "Microsoft YaHei",
+      "size": 15.0,
+      "cjk_chars_per_100px": 6.3,
+      "latin_chars_per_100px": 13.0,
+      "caps_chars_per_100px": 12.0,
+      "digits_chars_per_100px": 11.5,
+      "longest_planned_line": null
+    },
+    "annotation": {
+      "family": "Microsoft YaHei",
+      "size": 13.0,
+      "cjk_chars_per_100px": 7.2,
+      "latin_chars_per_100px": 14.9,
+      "caps_chars_per_100px": 13.7,
+      "digits_chars_per_100px": 13.1,
+      "longest_planned_line": null
+    },
+    "cardheading": {
+      "family": "Microsoft YaHei",
+      "size": 16.0,
+      "cjk_chars_per_100px": 5.9,
+      "latin_chars_per_100px": 12.1,
+      "caps_chars_per_100px": 11.2,
+      "digits_chars_per_100px": 10.7,
+      "longest_planned_line": null
+    },
+    "footnote": {
+      "family": "Microsoft YaHei",
+      "size": 12.0,
+      "cjk_chars_per_100px": 7.9,
+      "latin_chars_per_100px": 16.2,
+      "caps_chars_per_100px": 15.0,
+      "digits_chars_per_100px": 14.3,
+      "longest_planned_line": null
+    },
+    "header": {
+      "family": "Microsoft YaHei",
+      "size": 18.0,
+      "cjk_chars_per_100px": 5.2,
+      "latin_chars_per_100px": 10.8,
+      "caps_chars_per_100px": 10.0,
+      "digits_chars_per_100px": 9.5,
+      "longest_planned_line": null
+    },
+    "message": {
+      "family": "Microsoft YaHei",
+      "size": 21.0,
+      "cjk_chars_per_100px": 4.5,
+      "latin_chars_per_100px": 9.2,
+      "caps_chars_per_100px": 8.5,
+      "digits_chars_per_100px": 8.1,
+      "longest_planned_line": null
+    }
+  },
+  "source": "--role",
+  "generated_at": "2026-09-11T09:15:13Z",
+  "notes": []
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:notes xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+         xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+         xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="Slide Image Placeholder 1"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1" noRot="1" noChangeAspect="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="sldImg" idx="2"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="3" name="Notes Placeholder 2"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" sz="quarter" idx="3"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:lstStyle/>
+          <a:p>
+              <a:pPr/>
+              <a:r>
+                <a:rPr lang="zh-CN" dirty="0"></a:rPr>
+                <a:t>这一页把水循环正式接进碳循环。先看上面这条因果链：大气中的二氧化碳先溶解在雨水里，形成很弱的碳酸；这种含二氧化碳的水去侵蚀岩石，发生化学风化；风化把岩石里的成分变成溶解产物；溶解产物被河流带走，最后进入海洋并储存在沉积物里。这条链的起点是降水，所以水循环一进入，碳循环就多了一条通路。真正要讲清楚的是下面两张卡片的区别。左边是硅酸盐风化：二氧化碳溶进水以后，与硅酸盐矿物反应，把大气中的碳转入岩石圈的碳酸盐，并在很长的时间尺度上把它留在那里，因此这一支是净的大气碳去向，教材给出的特征简式是硅酸钙加二氧化碳生成碳酸钙加二氧化硅。右边是碳酸盐风化：碳酸盐岩先被溶解，溶解出来的碳随河流进入海洋，随后又在海洋里重新形成碳酸盐沉积下来；溶解与重新沉淀两件事相抵，所以这一支不带来净的大气碳变化，它属于循环，而不是净汇。课堂上一定要把这两支分开讲，不能笼统地说“风化吸收二氧化碳”。本页不使用任何数值。</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:notes>

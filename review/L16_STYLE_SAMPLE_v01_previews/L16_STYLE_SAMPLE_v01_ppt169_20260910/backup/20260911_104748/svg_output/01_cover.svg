@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <rect id="cover-water-rule" data-pptx-role="decoration" x="0" y="0" width="18" height="720" fill="#1E4FA8"/>
+  <rect id="cover-carbon-rule" data-pptx-role="decoration" x="18" y="0" width="6" height="720" fill="#EA580C"/>
+
+  <g id="course-identity" data-pptx-bounds="56 48 700 48">
+    <text x="56" y="78" font-size="19" font-weight="bold" fill="#0E3F8C">EOE111 · EARTH SYSTEM SCIENCE</text>
+  </g>
+
+  <g id="cover-title" data-pptx-bounds="56 132 790 224">
+    <text x="56" y="196" font-size="60" font-weight="bold" fill="#0E3F8C">
+      <tspan x="56" dy="0">Lecture 16:</tspan>
+      <tspan x="56" dy="70">Hydrological Cycles</tspan>
+    </text>
+    <text x="58" y="338" font-size="34" font-weight="bold" fill="#1A2230">第16讲：水文循环</text>
+  </g>
+
+  <g id="cover-scope" data-pptx-bounds="58 394 760 116">
+    <rect x="58" y="394" width="710" height="2" fill="#D6DCE5"/>
+    <text x="58" y="435" font-size="19" fill="#1A2230">水循环 · 碳循环 · 耦合与气候反馈</text>
+    <text x="58" y="472" font-size="15" fill="#4A5568">Reservoir · Flux · Residence Time · Feedback · Timescale</text>
+  </g>
+
+  <g id="cycle-motif" data-pptx-bounds="900 116 304 438">
+    <rect x="922" y="116" width="246" height="438" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="1045" cy="228" r="76" fill="#F0F5FC" stroke="#1E4FA8" stroke-width="4"/>
+    <text x="1045" y="218" font-size="34" font-weight="bold" text-anchor="middle" fill="#1E4FA8">H₂O</text>
+    <text x="1045" y="255" font-size="15" text-anchor="middle" fill="#4A5568">WATER CYCLE</text>
+    <line x1="1045" y1="307" x2="1045" y2="352" stroke="#D6DCE5" stroke-width="2"/>
+    <circle cx="1045" cy="438" r="76" fill="#FDF4EF" stroke="#EA580C" stroke-width="4"/>
+    <text x="1045" y="428" font-size="34" font-weight="bold" text-anchor="middle" fill="#C2410C">C</text>
+    <text x="1045" y="465" font-size="15" text-anchor="middle" fill="#7A4A33">CARBON CYCLE</text>
+  </g>
+
+  <g id="cover-key-message" data-pptx-bounds="58 548 780 72">
+    <rect x="58" y="548" width="6" height="64" rx="3" fill="#1E4FA8"/>
+    <text x="82" y="578" font-size="19" font-weight="bold" fill="#0E3F8C">用共同语言读懂地球系统的循环</text>
+    <text x="82" y="604" font-size="13" fill="#4A5568">Reading cycles as connected reservoirs, transfers and feedbacks</text>
+  </g>
+
+  <g id="cover-source" data-pptx-bounds="58 656 900 28">
+    <text x="58" y="676" font-size="12" fill="#4A5568">Primary reference: Understanding Earth, 8e, Chapters 12 and 17</text>
+  </g>
+</svg>

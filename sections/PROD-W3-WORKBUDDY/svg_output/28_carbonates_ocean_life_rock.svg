@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.8 碳酸盐：海洋、生命与岩石的连接 | Carbonates: Ocean–Life–Rock Connection</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">溶解碳经生物、碳酸盐、沉积物到岩石，是一条连续路径，而非单向吸碳</text>
+  </g>
+
+  <g id="carbonate-path" data-pptx-bounds="40 150 1200 350">
+    <rect x="40" y="150" width="1200" height="350" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="64" y="184" font-size="16" font-weight="bold" fill="#0E3F8C">五段路径 | The carbonate path</text>
+
+    <rect x="64" y="200" width="200" height="180" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="92" cy="232" r="18" fill="#EA580C"/>
+    <text x="92" y="238" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="120" y="238" font-size="16" font-weight="bold" fill="#1A2230">海水溶解碳</text>
+    <text x="80" y="284" font-size="13" fill="#4A5568"><tspan x="80" dy="0">溶解无机碳 DIC：</tspan><tspan x="80" dy="22">HCO₃⁻ 与 CO₃²⁻</tspan><tspan x="80" dy="22">溶于海水中的碳。</tspan></text>
+
+    <line x1="272" y1="290" x2="294" y2="290" stroke="#EA580C" stroke-width="4"/>
+    <polygon points="288,283 302,290 288,297" fill="#EA580C"/>
+
+    <rect x="302" y="200" width="200" height="180" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="330" cy="232" r="18" fill="#EA580C"/>
+    <text x="330" y="238" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="358" y="238" font-size="16" font-weight="bold" fill="#1A2230">生物成壳</text>
+    <text x="318" y="284" font-size="13" fill="#4A5568"><tspan x="318" dy="0">生物利用溶解碳</tspan><tspan x="318" dy="22">建造钙质壳体与</tspan><tspan x="318" dy="22">骨骼。</tspan></text>
+
+    <line x1="510" y1="290" x2="532" y2="290" stroke="#EA580C" stroke-width="4"/>
+    <polygon points="526,283 540,290 526,297" fill="#EA580C"/>
+
+    <rect x="540" y="200" width="200" height="180" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="568" cy="232" r="18" fill="#EA580C"/>
+    <text x="568" y="238" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="596" y="238" font-size="16" font-weight="bold" fill="#1A2230">碳酸盐颗粒</text>
+    <text x="556" y="284" font-size="13" fill="#4A5568"><tspan x="556" dy="0">壳体破碎后成为</tspan><tspan x="556" dy="22">CaCO₃ 颗粒，向</tspan><tspan x="556" dy="22">海底沉降。</tspan></text>
+
+    <line x1="748" y1="290" x2="770" y2="290" stroke="#C2410C" stroke-width="4"/>
+    <polygon points="764,283 778,290 764,297" fill="#C2410C"/>
+
+    <rect x="778" y="200" width="200" height="180" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="806" cy="232" r="18" fill="#C2410C"/>
+    <text x="806" y="238" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="834" y="238" font-size="16" font-weight="bold" fill="#1A2230">沉积与埋藏</text>
+    <text x="794" y="284" font-size="13" fill="#4A5568"><tspan x="794" dy="0">颗粒在海底堆积，</tspan><tspan x="794" dy="22">被后续沉积物覆</tspan><tspan x="794" dy="22">盖并埋入地下。</tspan></text>
+
+    <line x1="986" y1="290" x2="1008" y2="290" stroke="#C2410C" stroke-width="4"/>
+    <polygon points="1002,283 1016,290 1002,297" fill="#C2410C"/>
+
+    <rect x="1016" y="200" width="200" height="180" rx="10" fill="#FDECDD" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="1044" cy="232" r="18" fill="#7A4A33"/>
+    <text x="1044" y="238" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">5</text>
+    <text x="1072" y="238" font-size="16" font-weight="bold" fill="#7A4A33">碳酸盐岩</text>
+    <text x="1032" y="284" font-size="13" fill="#4A5568"><tspan x="1032" dy="0">经压实与胶结成</tspan><tspan x="1032" dy="22">为碳酸盐岩，碳</tspan><tspan x="1032" dy="22">回到岩石圈。</tspan></text>
+
+    <rect x="64" y="404" width="1152" height="72" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="88" y="432" font-size="13" fill="#4A5568">图 4-9 已区分三条下沉路径：生物泵（有机碳）、物理泵（溶解碳随环流下沉）与碳酸盐路径（钙质颗粒）；本页只沿碳酸盐这一条走。</text>
+    <text x="88" y="456" font-size="13" fill="#4A5568">本页不进入碳酸盐平衡的定量计算。</text>
+  </g>
+
+  <g id="optional-reaction" data-pptx-bounds="40 516 744 138">
+    <rect x="40" y="516" width="744" height="138" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="64" y="548" font-size="16" font-weight="bold" fill="#C2410C">可选反应式 | Optional reaction</text>
+    <text x="64" y="582" font-size="19" font-weight="bold" fill="#C2410C">Ca²⁺ + 2HCO₃⁻ → CaCO₃ + H₂O + CO₂↑</text>
+    <text x="64" y="612" font-size="13" fill="#7A4A33">教材用该式说明碳酸盐泵可能释放 CO₂；本页只作定性方向，不做平衡计算。</text>
+  </g>
+
+  <g id="not-one-way" data-pptx-bounds="804 516 436 138">
+    <rect x="804" y="516" width="436" height="138" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="828" y="548" font-size="16" font-weight="bold" fill="#0E3F8C">不是单向吸碳 | Not a one-way sink</text>
+    <text x="828" y="578" font-size="15" fill="#1A2230"><tspan x="828" dy="0">形成碳酸盐会放出 CO₂，因此</tspan><tspan x="828" dy="22">碳酸盐路径必须与埋藏一起看，</tspan><tspan x="828" dy="22">才谈得上是不是净的大气碳汇。</tspan></text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: 地球系统与演变 Ch.4 §4.3.2–4.3.3, 图 4-9/4-10, PDF pp.68–71; UE 8e, Ch.12, PDF pp.1206–1208, 1212–1213 (C-04 redraw basis).</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">28</text>
+</svg>

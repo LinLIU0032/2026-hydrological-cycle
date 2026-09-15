@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.11 降水落地后去了哪里？ | Runoff &amp; Infiltration</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">WATER CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">落地降水在蒸散、地表与地下径流、入渗之间分配，比例因环境而异</text>
+  </g>
+
+  <g id="partition-field" data-pptx-bounds="40 150 1200 502">
+    <rect x="40" y="150" width="1200" height="502" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+
+    <g id="cross-section" data-pptx-bounds="60 166 760 470">
+      <rect x="60" y="166" width="760" height="470" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1.5"/>
+
+      <g id="rain-cloud" data-pptx-bounds="216 188 220 130">
+        <ellipse cx="250" cy="215" rx="34" ry="18" fill="#E8EFF8" stroke="#B8C7DC" stroke-width="1.5"/>
+        <ellipse cx="288" cy="206" rx="42" ry="22" fill="#E8EFF8" stroke="#B8C7DC" stroke-width="1.5"/>
+        <ellipse cx="330" cy="215" rx="32" ry="17" fill="#E8EFF8" stroke="#B8C7DC" stroke-width="1.5"/>
+        <text x="386" y="212" font-size="13" font-weight="bold" fill="#1E4FA8">降水 Precipitation</text>
+        <line x1="240" y1="240" x2="240" y2="338" stroke="#3D7BD9" stroke-width="3"/>
+        <polygon points="233,328 240,342 247,328" fill="#3D7BD9"/>
+        <line x1="284" y1="244" x2="284" y2="346" stroke="#3D7BD9" stroke-width="3"/>
+        <polygon points="277,336 284,350 291,336" fill="#3D7BD9"/>
+        <line x1="326" y1="240" x2="326" y2="338" stroke="#3D7BD9" stroke-width="3"/>
+        <polygon points="319,328 326,342 333,328" fill="#3D7BD9"/>
+      </g>
+
+      <g id="ground-and-stream" data-pptx-bounds="72 330 736 294">
+        <polygon points="90,330 700,437 700,624 72,624" fill="#EFEDE7" stroke="#D6DCE5" stroke-width="1"/>
+        <rect x="700" y="437" width="108" height="187" fill="#DCEAF8"/>
+        <path d="M700 437 C727 431 753 443 780 437 C794 434 802 435 808 437 L808 446 L700 446 Z" fill="#DCEAF8" stroke="#B8C7DC" stroke-width="1"/>
+        <circle cx="180" cy="520" r="2.5" fill="#D6DCE5"/>
+        <circle cx="240" cy="560" r="2.5" fill="#D6DCE5"/>
+        <circle cx="330" cy="580" r="2.5" fill="#D6DCE5"/>
+        <circle cx="500" cy="580" r="2.5" fill="#D6DCE5"/>
+        <circle cx="560" cy="540" r="2.5" fill="#D6DCE5"/>
+        <circle cx="200" cy="600" r="2.5" fill="#D6DCE5"/>
+        <text x="754" y="472" font-size="11.5" font-weight="bold" text-anchor="middle" fill="#1E4FA8">河道 Stream</text>
+        <line x1="712" y1="560" x2="788" y2="560" stroke="#3D7BD9" stroke-width="2"/>
+        <polygon points="780,555 790,560 780,565" fill="#3D7BD9"/>
+      </g>
+
+      <g id="et-arrow" data-pptx-bounds="141 253 120 90">
+        <line x1="150" y1="339" x2="150" y2="255" stroke="#1E4FA8" stroke-width="4"/>
+        <polygon points="141,269 150,253 159,269" fill="#1E4FA8"/>
+        <text x="166" y="285" font-size="12.5" font-weight="bold" fill="#1E4FA8">蒸散 ET</text>
+        <text x="166" y="307" font-size="11.5" fill="#4A5568">返回大气</text>
+      </g>
+
+      <g id="overland-flow" data-pptx-bounds="250 346 422 87">
+        <line x1="250" y1="346" x2="672" y2="428" stroke="#3D7BD9" stroke-width="5"/>
+        <polygon points="648,415 672,428 652,433" fill="#3D7BD9"/>
+        <text x="400" y="366" font-size="12.5" font-weight="bold" fill="#1E4FA8">地表径流 Overland flow</text>
+      </g>
+
+      <g id="infiltration" data-pptx-bounds="292 366 330 246">
+        <line x1="300" y1="366" x2="300" y2="442" stroke="#3D7BD9" stroke-width="3"/>
+        <polygon points="293,430 300,446 307,430" fill="#3D7BD9"/>
+        <line x1="350" y1="373" x2="350" y2="442" stroke="#3D7BD9" stroke-width="3"/>
+        <polygon points="343,430 350,446 357,430" fill="#3D7BD9"/>
+        <text x="96" y="472" font-size="12" font-weight="bold" fill="#1E4FA8">入渗 Infiltration：经孔隙、裂隙进入土壤</text>
+
+        <line x1="350" y1="492" x2="660" y2="507" stroke="#1E4FA8" stroke-width="3"/>
+        <line x1="660" y1="507" x2="694" y2="448" stroke="#1E4FA8" stroke-width="3"/>
+        <polygon points="692,467 694,448 678,459" fill="#1E4FA8"/>
+        <text x="384" y="536" font-size="11.5" fill="#4A5568">近地表入渗水回归地表、并入径流</text>
+
+        <line x1="430" y1="544" x2="430" y2="610" stroke="#8FA3BD" stroke-width="3" stroke-dasharray="6,4"/>
+        <polygon points="422,598 430,614 438,598" fill="#8FA3BD"/>
+        <text x="446" y="592" font-size="11.5" fill="#4A5568">继续下渗 → 地下水（1.12）</text>
+      </g>
+    </g>
+
+    <g id="card-runoff" data-pptx-bounds="840 166 380 140">
+      <rect x="840" y="166" width="380" height="140" rx="12" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+      <text x="860" y="198" font-size="15" font-weight="bold" fill="#0E3F8C">径流 | Runoff</text>
+      <text x="860" y="228" font-size="12.5" fill="#1A2230">沿地表漫流的水，加上近地表</text>
+      <text x="860" y="252" font-size="12.5" fill="#1A2230">入渗后又回到地表的水，共同</text>
+      <text x="860" y="276" font-size="12.5" fill="#1A2230">构成径流（UE 广义定义）。</text>
+    </g>
+
+    <g id="card-infiltration" data-pptx-bounds="840 318 380 140">
+      <rect x="840" y="318" width="380" height="140" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+      <text x="860" y="350" font-size="15" font-weight="bold" fill="#0E3F8C">入渗 | Infiltration</text>
+      <text x="860" y="380" font-size="12.5" fill="#1A2230">水通过土壤、岩石的孔隙或</text>
+      <text x="860" y="404" font-size="12.5" fill="#1A2230">裂隙向下运动；入渗不等于</text>
+      <text x="860" y="428" font-size="12.5" fill="#1A2230">永久离开径流。</text>
+    </g>
+
+    <g id="card-et" data-pptx-bounds="840 470 380 140">
+      <rect x="840" y="470" width="380" height="140" rx="12" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+      <text x="860" y="502" font-size="15" font-weight="bold" fill="#0E3F8C">蒸散 | Evapotranspiration</text>
+      <text x="860" y="532" font-size="12.5" fill="#1A2230">部分落地水经蒸发或植物</text>
+      <text x="860" y="556" font-size="12.5" fill="#1A2230">蒸腾直接返回大气</text>
+      <text x="860" y="580" font-size="12.5" fill="#1A2230">（承接 1.9 蒸发与蒸散）。</text>
+    </g>
+
+  </g>
+
+  <g id="partition-note" data-pptx-bounds="40 656 1200 24">
+    <text x="640" y="673" font-size="12.5" text-anchor="middle" fill="#4A5568">三者比例受气候、地形、岩土与植被控制，不存在统一的全球百分比（UE p.1667）；本图为过程示意，非定量比例。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e pp.1654, 1667; 地球系统与演变 Ch.3 (CN Fig.3-7/3-15B statements). Native partition diagram; no global numerical split.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">14</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">0.2 学习目标 | Learning Objectives</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">COURSE ROADMAP</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">从储库与通量，推进到耦合、反馈与时间尺度</text>
+  </g>
+
+  <g id="objective-1" data-pptx-bounds="40 148 1200 94">
+    <rect x="40" y="148" width="1200" height="94" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="78" cy="195" r="22" fill="#1E4FA8"/>
+    <text x="78" y="201" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="116" y="182" font-size="15" font-weight="bold" fill="#1A2230">识别地球水循环的主要储库与通量，并区分储量、通量和停留时间。</text>
+    <text x="116" y="211" font-size="13" fill="#4A5568">Identify the major reservoirs and fluxes of the hydrologic cycle and distinguish storage, flux, and residence time.</text>
+  </g>
+
+  <g id="objective-2" data-pptx-bounds="40 250 1200 94">
+    <rect x="40" y="250" width="1200" height="94" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="78" cy="297" r="22" fill="#1E4FA8"/>
+    <text x="78" y="303" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="116" y="284" font-size="15" font-weight="bold" fill="#1A2230">描述全球碳循环的主要储库，以及快速和缓慢碳循环路径。</text>
+    <text x="116" y="313" font-size="13" fill="#4A5568">Describe the major carbon reservoirs and the fast and slow pathways of the global carbon cycle.</text>
+  </g>
+
+  <g id="objective-3" data-pptx-bounds="40 352 1200 94">
+    <rect x="40" y="352" width="1200" height="94" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="78" cy="399" r="22" fill="#1E4FA8"/>
+    <text x="78" y="405" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="116" y="386" font-size="15" font-weight="bold" fill="#1A2230">解释水和碳如何连接大气、海洋、岩石与生命。</text>
+    <text x="116" y="415" font-size="13" fill="#4A5568">Explain how water and carbon connect the atmosphere, oceans, rocks, and life.</text>
+  </g>
+
+  <g id="objective-4" data-pptx-bounds="40 454 1200 94">
+    <rect x="40" y="454" width="1200" height="94" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="78" cy="501" r="22" fill="#EA580C"/>
+    <text x="78" y="507" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="116" y="488" font-size="15" font-weight="bold" fill="#1A2230">区分正反馈与负反馈，并解释典型气候反馈机制。</text>
+    <text x="116" y="517" font-size="13" fill="#4A5568">Distinguish positive from negative feedback and explain representative climate feedback mechanisms.</text>
+  </g>
+
+  <g id="objective-5" data-pptx-bounds="40 556 1200 94">
+    <rect x="40" y="556" width="1200" height="94" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="78" cy="603" r="22" fill="#EA580C"/>
+    <text x="78" y="609" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">5</text>
+    <text x="116" y="590" font-size="15" font-weight="bold" fill="#1A2230">比较不同循环和反馈的时间尺度，并预测系统受到扰动后的响应方向。</text>
+    <text x="116" y="619" font-size="13" fill="#4A5568">Compare the timescales of cycles and feedbacks and predict the direction of system responses to perturbations.</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: Lecture 16 Master Prompt §24.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">02</text>
+</svg>

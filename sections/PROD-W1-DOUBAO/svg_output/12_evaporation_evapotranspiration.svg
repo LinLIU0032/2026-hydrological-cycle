@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.9 蒸发与蒸散 | Evaporation &amp; Evapotranspiration</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">WATER CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">海洋、陆地表面与植物分别把水返还大气；蒸发加蒸腾合称蒸散</text>
+  </g>
+
+  <g id="process-field" data-pptx-bounds="40 150 1200 348">
+    <rect x="40" y="150" width="1200" height="348" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+
+    <g id="atmosphere-band" data-pptx-bounds="60 166 1160 54">
+      <rect x="60" y="166" width="1160" height="54" rx="10" fill="#E8EFF8"/>
+      <text x="80" y="199" font-size="13" font-weight="bold" fill="#1E4FA8">ATMOSPHERE · 大气：接收返还的水汽 Water vapor returned to the atmosphere</text>
+    </g>
+
+    <g id="ground" data-pptx-bounds="60 420 1160 78">
+      <rect x="60" y="420" width="640" height="78" fill="#EFEDE7" stroke="#D6DCE5" stroke-width="1"/>
+      <rect x="700" y="420" width="520" height="78" fill="#DCEAF8" stroke="#B8C7DC" stroke-width="1"/>
+      <path d="M700 420 C740 414 780 426 820 420 C860 414 900 426 940 420 C980 414 1020 426 1060 420 C1100 414 1140 426 1180 420 C1194 418 1208 418 1220 420" fill="none" stroke="#3D7BD9" stroke-width="2"/>
+      <text x="76" y="486" font-size="12" fill="#4A5568">陆地 LAND</text>
+      <text x="1204" y="486" font-size="12" text-anchor="end" fill="#1E4FA8">海洋 OCEAN</text>
+    </g>
+
+    <g id="soil-evaporation" data-pptx-bounds="150 232 260 188">
+      <line x1="170" y1="414" x2="170" y2="236" stroke="#3D7BD9" stroke-width="5"/>
+      <polygon points="159,252 170,232 181,252" fill="#3D7BD9"/>
+      <text x="196" y="296" font-size="13" font-weight="bold" fill="#1E4FA8">陆地蒸发</text>
+      <text x="196" y="318" font-size="12" fill="#4A5568">Surface / soil evaporation</text>
+    </g>
+
+    <g id="transpiration" data-pptx-bounds="356 232 290 226">
+      <line x1="360" y1="420" x2="380" y2="454" stroke="#8FB083" stroke-width="2"/>
+      <line x1="386" y1="420" x2="386" y2="458" stroke="#8FB083" stroke-width="2"/>
+      <line x1="412" y1="420" x2="392" y2="454" stroke="#8FB083" stroke-width="2"/>
+      <rect x="380" y="356" width="12" height="64" fill="#6F965A"/>
+      <ellipse cx="386" cy="346" rx="48" ry="30" fill="#DCEBD9" stroke="#8FB083" stroke-width="1.5"/>
+      <line x1="386" y1="326" x2="386" y2="236" stroke="#1E4FA8" stroke-width="5"/>
+      <polygon points="375,252 386,232 397,252" fill="#1E4FA8"/>
+      <text x="446" y="296" font-size="13" font-weight="bold" fill="#1E4FA8">植物蒸腾</text>
+      <text x="446" y="318" font-size="12" fill="#4A5568">Transpiration（根系 → 叶片）</text>
+      <text x="330" y="478" font-size="11.5" fill="#4A5568">根系吸水 Uptake</text>
+    </g>
+
+    <g id="ocean-evaporation" data-pptx-bounds="940 232 280 188">
+      <line x1="952" y1="414" x2="952" y2="236" stroke="#1E4FA8" stroke-width="5"/>
+      <polygon points="941,252 952,232 963,252" fill="#1E4FA8"/>
+      <line x1="1150" y1="414" x2="1150" y2="252" stroke="#3D7BD9" stroke-width="3"/>
+      <polygon points="1142,266 1150,250 1158,266" fill="#3D7BD9"/>
+      <text x="980" y="296" font-size="13" font-weight="bold" fill="#1E4FA8">海洋蒸发</text>
+      <text x="980" y="318" font-size="12" fill="#4A5568">Ocean evaporation</text>
+    </g>
+  </g>
+
+  <g id="et-equation" data-pptx-bounds="40 510 1200 46">
+    <rect x="40" y="510" width="1200" height="46" rx="10" fill="#0E3F8C"/>
+    <text x="640" y="540" font-size="18" font-weight="bold" text-anchor="middle" fill="#FFFFFF">蒸发 Evaporation　＋　蒸腾 Transpiration　＝　蒸散 Evapotranspiration（ET）</text>
+  </g>
+
+  <g id="card-ocean" data-pptx-bounds="40 572 392 64">
+    <rect x="40" y="572" width="392" height="64" rx="10" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="60" y="597" font-size="13.5" font-weight="bold" fill="#0E3F8C">海洋 | Ocean evaporation</text>
+    <text x="60" y="622" font-size="12" fill="#1A2230">最大蒸发源：E 434 多于 P 398</text>
+  </g>
+
+  <g id="card-surface" data-pptx-bounds="444 572 392 64">
+    <rect x="444" y="572" width="392" height="64" rx="10" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="464" y="597" font-size="13.5" font-weight="bold" fill="#0E3F8C">陆地表面 | Surface evaporation</text>
+    <text x="464" y="622" font-size="12" fill="#1A2230">土壤与地表水体直接蒸发</text>
+  </g>
+
+  <g id="card-vegetation" data-pptx-bounds="848 572 392 64">
+    <rect x="848" y="572" width="392" height="64" rx="10" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="868" y="597" font-size="13.5" font-weight="bold" fill="#0E3F8C">植被 | Transpiration</text>
+    <text x="868" y="622" font-size="12" fill="#1A2230">根系吸水、叶片释水汽，与光合作用耦合</text>
+  </g>
+
+  <g id="cn-estimate" data-pptx-bounds="40 648 1200 26">
+    <text x="60" y="667" font-size="12" fill="#4A5568">中文教材估计（Ch.4 §4.3.5）：陆地约 80%–90% 来水经蒸散返回大气；大树日蒸腾 200–1000 L、年吸水约 150 t；约一半陆地太阳能用于蒸腾。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Redrawn from approved sources: CN Ch.4 §4.3.5 (PDF pp.73–74); UE 8e, pp.1653–1654, 1168. Native process diagram.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">12</text>
+</svg>

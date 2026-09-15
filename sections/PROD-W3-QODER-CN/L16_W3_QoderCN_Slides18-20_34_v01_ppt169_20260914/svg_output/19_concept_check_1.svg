@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.16 课堂读图 | Concept Check 1</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CONCEPT CHECK</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">先读图再回答：储库、通量、快慢路径与能量入口</text>
+  </g>
+
+  <g id="w02-evidence-panel" data-pptx-bounds="40 152 846 502">
+    <rect x="40" y="152" width="846" height="502" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <image href="../images/W-02_EP_InterludeF_HydrologicCycle_pdf615-616_print580-581_spread_raw.png" x="73" y="164" width="780" height="464" preserveAspectRatio="xMidYMid meet"/>
+    <rect x="58" y="606" width="316" height="32" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="74" y="627" font-size="13" font-weight="bold" fill="#1E4FA8">Reservoirs 储库</text>
+    <text x="204" y="627" font-size="13" fill="#4A5568">→</text>
+    <text x="232" y="627" font-size="13" font-weight="bold" fill="#0E3F8C">Fluxes 通量</text>
+  </g>
+
+  <g id="prompt-reservoirs" data-pptx-bounds="914 152 326 110">
+    <rect x="914" y="152" width="326" height="110" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="954" cy="192" r="22" fill="#1E4FA8"/>
+    <text x="954" y="199" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="990" y="188" font-size="16" font-weight="bold" fill="#0E3F8C">找储库 | Reservoirs</text>
+    <text x="940" y="222" font-size="13" fill="#1A2230">在图中至少指出四个储库。</text>
+    <text x="940" y="244" font-size="13" fill="#4A5568">Name at least four reservoirs.</text>
+  </g>
+
+  <g id="prompt-fluxes" data-pptx-bounds="914 274 326 110">
+    <rect x="914" y="274" width="326" height="110" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="954" cy="314" r="22" fill="#3D7BD9"/>
+    <text x="954" y="321" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="990" y="310" font-size="16" font-weight="bold" fill="#0E3F8C">读通量 | Fluxes</text>
+    <text x="940" y="344" font-size="13" fill="#1A2230">至少指出四个通量（箭头）。</text>
+    <text x="940" y="366" font-size="13" fill="#4A5568">Name at least four fluxes (arrows).</text>
+  </g>
+
+  <g id="prompt-speeds" data-pptx-bounds="914 396 326 110">
+    <rect x="914" y="396" width="326" height="110" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="954" cy="436" r="22" fill="#0E3F8C"/>
+    <text x="954" y="443" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="990" y="432" font-size="16" font-weight="bold" fill="#0E3F8C">比速度 | Faster &amp; slower</text>
+    <text x="940" y="466" font-size="13" fill="#1A2230">指出一条较快与一条较慢路径。</text>
+    <text x="940" y="488" font-size="13" fill="#4A5568">One faster and one slower pathway.</text>
+  </g>
+
+  <g id="prompt-energy" data-pptx-bounds="914 518 326 110">
+    <rect x="914" y="518" width="326" height="110" rx="12" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+    <circle cx="954" cy="558" r="22" fill="#1E4FA8"/>
+    <text x="954" y="565" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="990" y="554" font-size="16" font-weight="bold" fill="#0E3F8C">找能量 | Solar input</text>
+    <text x="940" y="588" font-size="13" fill="#1A2230">太阳能从哪里进入循环？</text>
+    <text x="940" y="610" font-size="13" fill="#4A5568">Where does solar energy enter?</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: EP 5e, Interlude F, The Hydrologic Cycle, pp.580–581 (PDF pp.615–616); UE 8e, Ch.17, pp.1651–1654.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">19</text>
+</svg>

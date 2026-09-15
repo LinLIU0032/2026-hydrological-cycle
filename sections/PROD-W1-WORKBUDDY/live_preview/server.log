@@ -1,0 +1,15 @@
+[11:30:03] [INFO] svg_editor: running at http://127.0.0.1:6060 (live preview (auto-startup))
+[11:30:03] [INFO] svg_editor: project: E:\PG\2026 Hydrological cycle\sections\PROD-W1-WORKBUDDY
+[11:30:03] [INFO] svg_editor: svg_output: E:\PG\2026 Hydrological cycle\sections\PROD-W1-WORKBUDDY\svg_output (3 slides)
+[11:30:03] [INFO] svg_editor: idle timeout: 7200s (0 = disabled)
+ * Serving Flask app 'server'
+ * Debug mode: off
+[11:30:03] [INFO] svg_editor: WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:6060
+[11:30:03] [INFO] svg_editor: Press CTRL+C to quit
+[11:30:04] [INFO] svg_editor: 127.0.0.1 - - [11/Sep/2026 11:30:04] "GET /api/health HTTP/1.1" 200 -
+[11:30:04] [INFO] svg_editor: 127.0.0.1 - - [11/Sep/2026 11:30:04] "GET /api/health HTTP/1.1" 200 -
+[11:30:04] [INFO] svg_editor: 127.0.0.1 - - [11/Sep/2026 11:30:04] "GET / HTTP/1.1" 304 -
+[11:30:04] [INFO] svg_editor: 127.0.0.1 - - [11/Sep/2026 11:30:04] "GET /static/app.js HTTP/1.1" 304 -
+[11:30:04] [INFO] svg_editor: 127.0.0.1 - - [11/Sep/2026 11:30:04] "GET /static/style.css HTTP/1.1" 304 -
+[11:30:04] [INFO] svg_editor: 127.0.0.1 - - [11/Sep/2026 11:30:04] "GET /api/config HTTP/1.1" 200 -

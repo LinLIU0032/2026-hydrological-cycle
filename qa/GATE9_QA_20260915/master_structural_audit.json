@@ -1,0 +1,383 @@
+{
+  "status": "passed",
+  "master": {
+    "path": "E:\\PG\\2026 Hydrological cycle\\final\\L16_Hydrological_Carbon_Cycles_v01.pptx",
+    "sha256": "e1757a1138661ef776e291c8c61872e6b00ce2c3eeb56aedc5dcb7df6eb05a4b",
+    "bytes": 5621394,
+    "slide_count": 44,
+    "notes_parts": 44,
+    "size_emu": [
+      12192000,
+      6858000
+    ],
+    "media_parts": 5,
+    "unique_media_hashes": 5,
+    "external_relationship_parts": []
+  },
+  "delivery_checker_status": "passed-with-advisories",
+  "page_results": [
+    {
+      "final_page": 1,
+      "deck_id": "SAMPLE",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 2,
+      "deck_id": "SAMPLE",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 3,
+      "deck_id": "SAMPLE",
+      "local_slide": 3,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 4,
+      "deck_id": "W1_QODER",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 5,
+      "deck_id": "W1_QODER",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 6,
+      "deck_id": "W1_QODER",
+      "local_slide": 3,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 7,
+      "deck_id": "W2_QODER",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 8,
+      "deck_id": "W2_QODER",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 9,
+      "deck_id": "SAMPLE",
+      "local_slide": 4,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 10,
+      "deck_id": "W1_DOUBAO",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 11,
+      "deck_id": "W1_DOUBAO",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 12,
+      "deck_id": "W1_DOUBAO",
+      "local_slide": 3,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 13,
+      "deck_id": "W2_DOUBAO",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 14,
+      "deck_id": "W2_DOUBAO",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 15,
+      "deck_id": "W2_DOUBAO",
+      "local_slide": 3,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 16,
+      "deck_id": "W2_QIANWEN",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 17,
+      "deck_id": "W2_QIANWEN",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 18,
+      "deck_id": "W3_QODER",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 19,
+      "deck_id": "W3_QODER",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 20,
+      "deck_id": "W3_QODER",
+      "local_slide": 3,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 21,
+      "deck_id": "W1_WORKBUDDY",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 22,
+      "deck_id": "W1_WORKBUDDY",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 23,
+      "deck_id": "SAMPLE",
+      "local_slide": 5,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 24,
+      "deck_id": "W1_WORKBUDDY",
+      "local_slide": 3,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 25,
+      "deck_id": "W2_WORKBUDDY",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 26,
+      "deck_id": "W2_WORKBUDDY",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 27,
+      "deck_id": "SAMPLE",
+      "local_slide": 6,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 28,
+      "deck_id": "W3_WORKBUDDY",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 29,
+      "deck_id": "W3_WORKBUDDY",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 30,
+      "deck_id": "W3_WORKBUDDY",
+      "local_slide": 3,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 31,
+      "deck_id": "W3_WORKBUDDY",
+      "local_slide": 4,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 32,
+      "deck_id": "W3_WORKBUDDY",
+      "local_slide": 5,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 33,
+      "deck_id": "W3_WORKBUDDY",
+      "local_slide": 6,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 34,
+      "deck_id": "W3_QODER",
+      "local_slide": 4,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 35,
+      "deck_id": "SAMPLE",
+      "local_slide": 7,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 36,
+      "deck_id": "W3_QIANWEN",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 37,
+      "deck_id": "W3_QIANWEN",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 38,
+      "deck_id": "SAMPLE",
+      "local_slide": 8,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 39,
+      "deck_id": "W3_QIANWEN",
+      "local_slide": 3,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 40,
+      "deck_id": "W3_DOUBAO",
+      "local_slide": 1,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 41,
+      "deck_id": "W3_DOUBAO",
+      "local_slide": 2,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 42,
+      "deck_id": "W3_DOUBAO",
+      "local_slide": 3,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 43,
+      "deck_id": "W3_DOUBAO",
+      "local_slide": 4,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    },
+    {
+      "final_page": 44,
+      "deck_id": "SAMPLE",
+      "local_slide": 9,
+      "visible_text_match": true,
+      "notes_text_match": true,
+      "transition_match": true
+    }
+  ],
+  "warnings": [
+    {
+      "code": "font_portability",
+      "message": "Some fonts declared or referenced by the presentation are outside the common Office/OS portability set; target-system availability was not verified.",
+      "faces": [
+        "游ゴシック",
+        "游ゴシック Light"
+      ]
+    }
+  ],
+  "errors": []
+}

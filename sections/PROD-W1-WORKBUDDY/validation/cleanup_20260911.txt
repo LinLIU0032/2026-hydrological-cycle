@@ -1,0 +1,10 @@
+SKIP (absent): .pptx-build-11468-f4fc47427dc94c5fa8d1e5df62653d19
+REMOVED dir tree: .pptx-build-38676-4c0d2eb6e93f40eba708d2cc3ddce5ff (18 files)
+REMOVED file: PROD-W1-WORKBUDDY_20260911_112828.pptx
+REMOVED file: PROD-W1-WORKBUDDY_20260911_112844.pptx
+REMOVED file: PROD-W1-WORKBUDDY_20260911_145920.pptx
+
+=== remaining in exports/ ===
+  FILE          1870282  PROD-W1-WORKBUDDY_20260911_145937.pptx
+
+totals: files removed=21 dirs removed=19

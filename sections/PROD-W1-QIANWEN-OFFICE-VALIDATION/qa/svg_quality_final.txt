@@ -1,0 +1,66 @@
+PPT Master SVG Quality Check Report
+================================================================================
+
+[OK] Passed - 04_what_is_cycling.svg
+Path: svg_output\04_what_is_cycling.svg
+Info: {'viewbox': '0 0 1280 720', 'carrier_receipt': {'text_elements': 24, 'images': {'placements': 0, 'files': [], 'max_frame_share': 0.0}, 'icons': 0, 'effects': {'inline_emphasis_runs': 0, 'gradient_uses': 0, 'filter_uses': 0, 'text_effects': 0}, 'geometry': {'svg_elements': {'rect': 10, 'circle': 0, 'ellipse': 0, 'line': 5, 'polyline': 0, 'polygon': 10, 'path': 0}, 'preset_shapes': 0, 'preset_names': {}, 'page_frame_elements': 1, 'marker_uses': {'start': 0, 'mid': 0, 'end': 0}}, 'native_objects': {'chart': 0, 'table': 0, 'formula_block': 0, 'formula_inline': 0, 'other': 0}}, 'fonts': ['Microsoft YaHei, Arial'], 'text_elements': 24, 'tspan_elements': 0}
+
+--------------------------------------------------------------------------------
+
+[OK] Passed - 05_four_ideas.svg
+Path: svg_output\05_four_ideas.svg
+Info: {'viewbox': '0 0 1280 720', 'carrier_receipt': {'text_elements': 26, 'images': {'placements': 0, 'files': [], 'max_frame_share': 0.0}, 'icons': 0, 'effects': {'inline_emphasis_runs': 0, 'gradient_uses': 0, 'filter_uses': 0, 'text_effects': 0}, 'geometry': {'svg_elements': {'rect': 8, 'circle': 4, 'ellipse': 0, 'line': 4, 'polyline': 0, 'polygon': 0, 'path': 0}, 'preset_shapes': 0, 'preset_names': {}, 'page_frame_elements': 1, 'marker_uses': {'start': 0, 'mid': 0, 'end': 0}}, 'native_objects': {'chart': 0, 'table': 0, 'formula_block': 0, 'formula_inline': 0, 'other': 0}}, 'fonts': ['Microsoft YaHei, Arial'], 'text_elements': 26, 'tspan_elements': 8}
+
+--------------------------------------------------------------------------------
+
+[OK] Passed - 06_where_is_water.svg
+Path: svg_output\06_where_is_water.svg
+Info: {'viewbox': '0 0 1280 720', 'carrier_receipt': {'text_elements': 26, 'images': {'placements': 0, 'files': [], 'max_frame_share': 0.0}, 'icons': 0, 'effects': {'inline_emphasis_runs': 1, 'gradient_uses': 0, 'filter_uses': 0, 'text_effects': 0}, 'geometry': {'svg_elements': {'rect': 13, 'circle': 0, 'ellipse': 0, 'line': 1, 'polyline': 0, 'polygon': 0, 'path': 0}, 'preset_shapes': 0, 'preset_names': {}, 'page_frame_elements': 1, 'marker_uses': {'start': 0, 'mid': 0, 'end': 0}}, 'native_objects': {'chart': 0, 'table': 0, 'formula_block': 0, 'formula_inline': 0, 'other': 0}}, 'fonts': ['Microsoft YaHei, Arial'], 'text_elements': 26, 'tspan_elements': 4}
+
+--------------------------------------------------------------------------------
+
+[OK] Passed - 10_ocean_land_budget.svg
+Path: svg_output\10_ocean_land_budget.svg
+Info: {'viewbox': '0 0 1280 720', 'carrier_receipt': {'text_elements': 22, 'images': {'placements': 0, 'files': [], 'max_frame_share': 0.0}, 'icons': 0, 'effects': {'inline_emphasis_runs': 0, 'gradient_uses': 0, 'filter_uses': 0, 'text_effects': 0}, 'geometry': {'svg_elements': {'rect': 15, 'circle': 0, 'ellipse': 0, 'line': 6, 'polyline': 0, 'polygon': 6, 'path': 0}, 'preset_shapes': 0, 'preset_names': {}, 'page_frame_elements': 1, 'marker_uses': {'start': 0, 'mid': 0, 'end': 0}}, 'native_objects': {'chart': 0, 'table': 0, 'formula_block': 0, 'formula_inline': 0, 'other': 0}}, 'fonts': ['Microsoft YaHei, Arial'], 'text_elements': 22, 'tspan_elements': 0}
+
+--------------------------------------------------------------------------------
+
+[OK] Passed - 11_phase_changes.svg
+Path: svg_output\11_phase_changes.svg
+Info: {'viewbox': '0 0 1280 720', 'carrier_receipt': {'text_elements': 18, 'images': {'placements': 1, 'files': ['W-05_Fig3-17_PDF27_print112_raw.png'], 'max_frame_share': 0.334}, 'icons': 0, 'effects': {'inline_emphasis_runs': 0, 'gradient_uses': 0, 'filter_uses': 0, 'text_effects': 0}, 'geometry': {'svg_elements': {'rect': 9, 'circle': 0, 'ellipse': 0, 'line': 0, 'polyline': 0, 'polygon': 0, 'path': 0}, 'preset_shapes': 0, 'preset_names': {}, 'page_frame_elements': 1, 'marker_uses': {'start': 0, 'mid': 0, 'end': 0}}, 'native_objects': {'chart': 0, 'table': 0, 'formula_block': 0, 'formula_inline': 0, 'other': 0}}, 'fonts': ['Microsoft YaHei, Arial'], 'text_elements': 18, 'tspan_elements': 0}
+
+--------------------------------------------------------------------------------
+
+[OK] Passed - 12_evaporation_evapotranspiration.svg
+Path: svg_output\12_evaporation_evapotranspiration.svg
+Info: {'viewbox': '0 0 1280 720', 'carrier_receipt': {'text_elements': 18, 'images': {'placements': 0, 'files': [], 'max_frame_share': 0.0}, 'icons': 0, 'effects': {'inline_emphasis_runs': 0, 'gradient_uses': 0, 'filter_uses': 0, 'text_effects': 0}, 'geometry': {'svg_elements': {'rect': 16, 'circle': 0, 'ellipse': 0, 'line': 6, 'polyline': 0, 'polygon': 6, 'path': 2}, 'preset_shapes': 0, 'preset_names': {}, 'page_frame_elements': 1, 'marker_uses': {'start': 0, 'mid': 0, 'end': 0}}, 'native_objects': {'chart': 0, 'table': 0, 'formula_block': 0, 'formula_inline': 0, 'other': 0}}, 'fonts': ['Microsoft YaHei, Arial'], 'text_elements': 18, 'tspan_elements': 0}
+
+--------------------------------------------------------------------------------
+
+[OK] Passed - 21_why_carbon.svg
+Path: svg_output\21_why_carbon.svg
+Info: {'viewbox': '0 0 1280 720', 'carrier_receipt': {'text_elements': 25, 'images': {'placements': 0, 'files': [], 'max_frame_share': 0.0}, 'icons': 0, 'effects': {'inline_emphasis_runs': 0, 'gradient_uses': 0, 'filter_uses': 0, 'text_effects': 0}, 'geometry': {'svg_elements': {'rect': 14, 'circle': 0, 'ellipse': 0, 'line': 4, 'polyline': 0, 'polygon': 8, 'path': 0}, 'preset_shapes': 0, 'preset_names': {}, 'page_frame_elements': 1, 'marker_uses': {'start': 0, 'mid': 0, 'end': 0}}, 'native_objects': {'chart': 0, 'table': 0, 'formula_block': 0, 'formula_inline': 0, 'other': 0}}, 'fonts': ['Microsoft YaHei, Arial'], 'text_elements': 25, 'tspan_elements': 0}
+
+--------------------------------------------------------------------------------
+
+[OK] Passed - 22_carbon_reservoirs.svg
+Path: svg_output\22_carbon_reservoirs.svg
+Info: {'viewbox': '0 0 1280 720', 'carrier_receipt': {'text_elements': 24, 'images': {'placements': 1, 'files': ['C-01_UE_Fig12-19_PDF1209_raw.png'], 'max_frame_share': 0.1907}, 'icons': 0, 'effects': {'inline_emphasis_runs': 0, 'gradient_uses': 0, 'filter_uses': 0, 'text_effects': 0}, 'geometry': {'svg_elements': {'rect': 14, 'circle': 0, 'ellipse': 0, 'line': 0, 'polyline': 0, 'polygon': 0, 'path': 0}, 'preset_shapes': 0, 'preset_names': {}, 'page_frame_elements': 1, 'marker_uses': {'start': 0, 'mid': 0, 'end': 0}}, 'native_objects': {'chart': 0, 'table': 0, 'formula_block': 0, 'formula_inline': 0, 'other': 0}}, 'fonts': ['Microsoft YaHei, Arial'], 'text_elements': 24, 'tspan_elements': 0}
+
+--------------------------------------------------------------------------------
+
+[OK] Passed - 24_same_framework_different_timescales.svg
+Path: svg_output\24_same_framework_different_timescales.svg
+Info: {'viewbox': '0 0 1280 720', 'carrier_receipt': {'text_elements': 41, 'images': {'placements': 0, 'files': [], 'max_frame_share': 0.0}, 'icons': 0, 'effects': {'inline_emphasis_runs': 0, 'gradient_uses': 0, 'filter_uses': 0, 'text_effects': 0}, 'geometry': {'svg_elements': {'rect': 13, 'circle': 3, 'ellipse': 0, 'line': 10, 'polyline': 0, 'polygon': 0, 'path': 0}, 'preset_shapes': 0, 'preset_names': {}, 'page_frame_elements': 1, 'marker_uses': {'start': 0, 'mid': 0, 'end': 0}}, 'native_objects': {'chart': 0, 'table': 0, 'formula_block': 0, 'formula_inline': 0, 'other': 0}}, 'fonts': ['Microsoft YaHei, Arial'], 'text_elements': 41, 'tspan_elements': 17}
+
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Check Summary
+================================================================================
+
+Total files: 9
+Fully passed: 9
+With warnings: 0
+With errors: 0

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:notes xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+         xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+         xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="Slide Image Placeholder 1"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1" noRot="1" noChangeAspect="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="sldImg" idx="2"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="3" name="Notes Placeholder 2"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" sz="quarter" idx="3"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:lstStyle/>
+          <a:p>
+              <a:pPr/>
+              <a:r>
+                <a:rPr lang="zh-CN" dirty="0"></a:rPr>
+                <a:t>这一页收束碳循环第二部分，用四句话把前面几页串起来，不新增内容。第一句，碳存在哪里：大气、生命与土壤、海洋、沉积物与岩石，共同构成碳的储库体系。第二句，快速通路：光合作用、呼吸作用与海气交换，把碳在大气与表层之间快速搬运，这是前面快速碳循环那一组的内容。第三句，与岩石相连：碳酸盐形成、埋藏、俯冲与脱气，把表层的碳一路接到岩石圈，这是慢地质路径那一组的内容。第四句，不同的时钟：每条路径的速度不同，这决定了每个储库受到扰动之后多快做出响应；最大的储库并不等于最快的响应。四句话覆盖了本部分的四个要点，另外只作回顾，不再引入新的图件，也不再引入新的数字。从这里开始，第三部分要把水和碳放回同一个气候系统里看，进入耦合与反馈。</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:notes>

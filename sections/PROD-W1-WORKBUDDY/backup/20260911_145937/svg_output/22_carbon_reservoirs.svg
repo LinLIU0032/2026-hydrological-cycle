@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.2 碳储存在哪里？ | Carbon Reservoirs</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">碳主要储存在海洋、沉积物与岩石里；大气只是一个很小的储库</text>
+  </g>
+
+  <g id="carbon-reservoir-figure" data-pptx-bounds="40 150 690 504">
+    <rect x="40" y="150" width="690" height="504" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="68" y="184" font-size="16" font-weight="bold" fill="#0E3F8C">证据图 | 单一数据集</text>
+    <image href="../images/C-01_UE_Fig12-19_PDF1209_raw.png" x="68" y="196" width="634" height="354" preserveAspectRatio="xMidYMin slice"/>
+    <rect x="68" y="568" width="634" height="76" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="86" y="600" font-size="13" font-weight="bold" fill="#C2410C">本页数值单位：储库 Gt C（吉吨碳）</text>
+    <text x="86" y="626" font-size="13" fill="#4A5568">四个较小储库的数值取自这张图；沉积物与岩石未给出总量，只作定性。</text>
+  </g>
+
+  <g id="reservoir-hierarchy" data-pptx-bounds="758 150 482 504">
+    <rect x="758" y="150" width="482" height="504" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="786" y="184" font-size="16" font-weight="bold" fill="#C2410C">碳储库层级 | Reservoir hierarchy</text>
+    <text x="786" y="208" font-size="13" fill="#7A4A33">自小而大排序（本页整理）</text>
+
+    <rect x="774" y="222" width="450" height="58" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="798" cy="251" r="15" fill="#EA580C"/>
+    <text x="798" y="256" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="824" y="247" font-size="16" font-weight="bold" fill="#1A2230">生物圈 | Biosphere</text>
+    <text x="1206" y="247" font-size="15" font-weight="bold" text-anchor="end" fill="#C2410C">500 Gt C</text>
+    <text x="824" y="268" font-size="13" fill="#4A5568">陆地植物与海洋生物</text>
+
+    <rect x="774" y="286" width="450" height="58" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="798" cy="315" r="15" fill="#EA580C"/>
+    <text x="798" y="320" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="824" y="311" font-size="16" font-weight="bold" fill="#1A2230">大气 | Atmosphere</text>
+    <text x="1206" y="311" font-size="15" font-weight="bold" text-anchor="end" fill="#C2410C">830 Gt C</text>
+    <text x="824" y="332" font-size="13" fill="#4A5568">大气中 CO₂ 所含的碳</text>
+
+    <rect x="774" y="350" width="450" height="58" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="798" cy="379" r="15" fill="#EA580C"/>
+    <text x="798" y="384" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="824" y="375" font-size="16" font-weight="bold" fill="#1A2230">土壤 | Soils</text>
+    <text x="1206" y="375" font-size="15" font-weight="bold" text-anchor="end" fill="#C2410C">1500 Gt C</text>
+    <text x="824" y="396" font-size="13" fill="#4A5568">土壤中有机碳的储存空间</text>
+
+    <rect x="774" y="414" width="450" height="58" rx="10" fill="#FFFFFF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="798" cy="443" r="15" fill="#EA580C"/>
+    <text x="798" y="448" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="824" y="439" font-size="16" font-weight="bold" fill="#1A2230">海洋 | Ocean</text>
+    <text x="1206" y="439" font-size="15" font-weight="bold" text-anchor="end" fill="#C2410C">38,000 Gt C</text>
+    <text x="824" y="460" font-size="13" fill="#4A5568">含海洋生物；表层库与深层库合计</text>
+
+    <line x1="774" y1="490" x2="1224" y2="490" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="782" y="510" font-size="13.5" font-weight="bold" fill="#7A4A33">地质储库 | Geological reservoirs</text>
+    <text x="1216" y="510" font-size="12.5" text-anchor="end" fill="#7A4A33">定性描述，不参与上方数值排序</text>
+
+    <rect x="774" y="522" width="450" height="52" rx="10" fill="#FDECDD" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="798" cy="548" r="9" fill="none" stroke="#7A4A33" stroke-width="2"/>
+    <text x="824" y="544" font-size="15" font-weight="bold" fill="#1A2230">沉积物 | Sediment</text>
+    <text x="1206" y="544" font-size="13" font-weight="bold" text-anchor="end" fill="#7A4A33">图中未给出总量</text>
+    <text x="824" y="563" font-size="12.5" fill="#4A5568">连接海洋与岩石的过渡储库</text>
+
+    <rect x="774" y="582" width="450" height="52" rx="10" fill="#FDECDD" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="798" cy="608" r="9" fill="none" stroke="#7A4A33" stroke-width="2"/>
+    <text x="824" y="604" font-size="15" font-weight="bold" fill="#1A2230">岩石圈 | Lithosphere</text>
+    <text x="1206" y="604" font-size="13" font-weight="bold" text-anchor="end" fill="#7A4A33">图中未给出总量</text>
+    <text x="824" y="623" font-size="12.5" fill="#4A5568">化石有机碳与碳酸盐岩</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Fig. 12.19, PDF p.1209 (Gt C); 地球系统与演变 Ch.4 §4.2、§4.5.1, PDF pp.58–64, 79–80.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">22</text>
+</svg>

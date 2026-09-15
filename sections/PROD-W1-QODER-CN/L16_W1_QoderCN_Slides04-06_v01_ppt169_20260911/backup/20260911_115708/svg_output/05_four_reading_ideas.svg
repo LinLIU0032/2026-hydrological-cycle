@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.2 读懂全球循环的四个词 | Four Ideas for Reading Global Cycles</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">READING FRAMEWORK</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">储库、通量、停留时间与反馈是阅读一切全球循环的共同框架</text>
+  </g>
+
+  <g id="idea-card-reservoir" data-pptx-bounds="40 152 590 210">
+    <rect x="40" y="152" width="590" height="210" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="86" cy="208" r="24" fill="#1E4FA8"/>
+    <text x="86" y="216" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="128" y="198" font-size="19" font-weight="bold" fill="#0E3F8C">Reservoir</text>
+    <text x="128" y="224" font-size="16" font-weight="bold" fill="#1A2230">储库</text>
+    <text x="590" y="224" font-size="13" font-weight="bold" text-anchor="end" fill="#3D7BD9">物质在哪里 · Where matter is</text>
+    <line x1="80" y1="246" x2="590" y2="246" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="80" y="282" font-size="15" fill="#1A2230">储存水或化学物质的场所或组分</text>
+    <text x="80" y="308" font-size="15" fill="#1A2230">例：海洋、大气、植被、岩石</text>
+    <text x="80" y="336" font-size="13" fill="#4A5568">水循环与碳循环共用同一个词</text>
+  </g>
+
+  <g id="idea-card-flux" data-pptx-bounds="650 152 590 210">
+    <rect x="650" y="152" width="590" height="210" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="696" cy="208" r="24" fill="#3D7BD9"/>
+    <text x="696" y="216" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="738" y="198" font-size="19" font-weight="bold" fill="#0E3F8C">Flux</text>
+    <text x="738" y="224" font-size="16" font-weight="bold" fill="#1A2230">通量</text>
+    <text x="1200" y="224" font-size="13" font-weight="bold" text-anchor="end" fill="#3D7BD9">移动多快 · How fast it moves</text>
+    <line x1="690" y1="246" x2="1200" y2="246" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="690" y="282" font-size="15" fill="#1A2230">物质从一个储库向另一个储库<tspan x="690" dy="26">的流动或输送</tspan></text>
+    <text x="690" y="336" font-size="13" fill="#4A5568">储量单位与通量单位要分开读</text>
+  </g>
+
+  <g id="idea-card-residence-time" data-pptx-bounds="40 386 590 210">
+    <rect x="40" y="386" width="590" height="210" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="86" cy="442" r="24" fill="#0E3F8C"/>
+    <text x="86" y="450" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="128" y="432" font-size="19" font-weight="bold" fill="#0E3F8C">Residence Time</text>
+    <text x="128" y="458" font-size="16" font-weight="bold" fill="#1A2230">停留时间</text>
+    <text x="590" y="458" font-size="13" font-weight="bold" text-anchor="end" fill="#3D7BD9">停留多久 · How long it stays</text>
+    <line x1="80" y1="480" x2="590" y2="480" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="80" y="516" font-size="15" fill="#1A2230">一定量的水或某化学物质分子<tspan x="80" dy="26">在储库中停留的平均时间</tspan></text>
+    <text x="80" y="570" font-size="13" fill="#4A5568">大储库不一定更新快</text>
+  </g>
+
+  <g id="idea-card-feedback" data-pptx-bounds="650 386 590 210">
+    <rect x="650" y="386" width="590" height="210" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <circle cx="696" cy="442" r="24" fill="#EA580C"/>
+    <text x="696" y="450" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="738" y="432" font-size="19" font-weight="bold" fill="#C2410C">Feedback</text>
+    <text x="738" y="458" font-size="16" font-weight="bold" fill="#1A2230">反馈</text>
+    <text x="1200" y="458" font-size="13" font-weight="bold" text-anchor="end" fill="#C2410C">方向如何 · Amplifies or opposes</text>
+    <line x1="690" y1="480" x2="1200" y2="480" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="690" y="516" font-size="15" fill="#1A2230">系统变化诱发的过程反过来<tspan x="690" dy="26">影响初始变化</tspan></text>
+    <text x="690" y="570" font-size="13" fill="#7A4A33">正（放大）· 负（抑制）· 第三部分展开</text>
+  </g>
+
+  <g id="framework-strip" data-pptx-bounds="40 616 1200 44">
+    <rect x="40" y="616" width="1200" height="44" rx="12" fill="#F0F5FC"/>
+    <text x="72" y="644" font-size="15" fill="#1A2230">同一套词读两个循环：从<tspan font-weight="bold" fill="#1E4FA8">水循环</tspan>到<tspan font-weight="bold" fill="#EA580C">碳循环</tspan> · 稳态 steady state 可以包含持续通量</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Ch.12, PDF p.1205; Ch.17, PDF pp.1647–1650; EP 5e, Ch.23, PDF p.881.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">05</text>
+</svg>

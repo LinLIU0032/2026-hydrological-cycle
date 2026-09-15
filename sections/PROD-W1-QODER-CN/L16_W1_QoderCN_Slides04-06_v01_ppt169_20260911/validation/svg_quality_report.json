@@ -1,0 +1,335 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-QODER-CN\\L16_W1_QoderCN_Slides04-06_v01_ppt169_20260911",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "09a8c176abf9cfd4a853e82723fbd03468698f254e6cc7d4d0db0a360d7168a2",
+    "file_count": 3,
+    "files": [
+      {
+        "file": "04_what_is_cycling.svg",
+        "sha256": "68d511111988608bfc1dbd79b02199ffd7041bb436b0640a8a8d00bb7fdf39bd"
+      },
+      {
+        "file": "05_four_reading_ideas.svg",
+        "sha256": "1786fbb57faaadc1db2ef949beab93ac56e097698aa8c84e48433834dba89bc2"
+      },
+      {
+        "file": "06_where_is_earth_water.svg",
+        "sha256": "d6b83bb7d96fab559819f16282f359b7fcc0e5ea573844c91bfe21d3ca70db12"
+      }
+    ]
+  },
+  "summary": {
+    "total": 3,
+    "passed": 1,
+    "warnings": 2,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 2,
+      "issues": [
+        {
+          "file": "05_four_reading_ideas.svg",
+          "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"idea-card-reservoir\"> x=80.0, y=282.0..308.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        },
+        {
+          "file": "06_where_is_earth_water.svg",
+          "message": "Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g id=\"dominance-key\"> x=794.0, y=358.0..418.0, 3 lines; <g id=\"accessible-freshwater-key\"> x=794.0, y=538.0..566.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        }
+      ]
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {
+      "#9DB9E5": [
+        "06_where_is_earth_water.svg"
+      ],
+      "#B8C7DC": [
+        "04_what_is_cycling.svg",
+        "06_where_is_earth_water.svg"
+      ],
+      "#C7D7F2": [
+        "04_what_is_cycling.svg",
+        "05_four_reading_ideas.svg",
+        "06_where_is_earth_water.svg"
+      ],
+      "#DCEAF8": [
+        "06_where_is_earth_water.svg"
+      ]
+    },
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 3,
+    "totals": {
+      "text_elements": 90,
+      "image_placements": 0,
+      "icons": 0,
+      "svg_geometry_elements": 48,
+      "preset_shapes": 0,
+      "page_frame_elements": 3,
+      "marker_uses": 10,
+      "inline_emphasis_runs": 2,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 0,
+      "icons": 0,
+      "presets": 0,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 1,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "geometry_elements": {
+      "circle": 5,
+      "ellipse": 0,
+      "line": 10,
+      "path": 0,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 33
+    },
+    "preset_names": {},
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": []
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "04_what_is_cycling.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-QODER-CN\\L16_W1_QoderCN_Slides04-06_v01_ppt169_20260911\\svg_output\\04_what_is_cycling.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 22,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 11,
+              "circle": 1,
+              "ellipse": 0,
+              "line": 5,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 5,
+              "mid": 0,
+              "end": 5
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 22,
+        "tspan_elements": 0,
+        "contextual_values": {
+          "colors": [
+            "#B8C7DC",
+            "#C7D7F2"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "68d511111988608bfc1dbd79b02199ffd7041bb436b0640a8a8d00bb7fdf39bd"
+    },
+    {
+      "file": "05_four_reading_ideas.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-QODER-CN\\L16_W1_QoderCN_Slides04-06_v01_ppt169_20260911\\svg_output\\05_four_reading_ideas.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"idea-card-reservoir\"> x=80.0, y=282.0..308.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 31,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 2,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 8,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 31,
+        "tspan_elements": 5,
+        "contextual_values": {
+          "colors": [
+            "#C7D7F2"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "1786fbb57faaadc1db2ef949beab93ac56e097698aa8c84e48433834dba89bc2"
+    },
+    {
+      "file": "06_where_is_earth_water.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-QODER-CN\\L16_W1_QoderCN_Slides04-06_v01_ppt169_20260911\\svg_output\\06_where_is_earth_water.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g id=\"dominance-key\"> x=794.0, y=358.0..418.0, 3 lines; <g id=\"accessible-freshwater-key\"> x=794.0, y=538.0..566.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 37,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 14,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 37,
+        "tspan_elements": 0,
+        "contextual_values": {
+          "colors": [
+            "#9DB9E5",
+            "#B8C7DC",
+            "#C7D7F2",
+            "#DCEAF8"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "d6b83bb7d96fab559819f16282f359b7fcc0e5ea573844c91bfe21d3ca70db12"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">3.7 综合课堂题 | Earth-System Challenge</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">FEEDBACKS</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">从一次升温扰动出发，画出多条响应路径，判定反馈符号并比较快慢</text>
+  </g>
+
+  <g id="worksheet-field" data-pptx-bounds="40 150 1200 492">
+    <rect x="40" y="150" width="1200" height="492" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+
+    <g id="connectors">
+      <line x1="600" y1="214" x2="238" y2="244" stroke="#8FA3BD" stroke-width="2"/>
+      <polygon points="230,236 222,248 240,246" fill="#8FA3BD"/>
+      <line x1="640" y1="214" x2="640" y2="244" stroke="#8FA3BD" stroke-width="2"/>
+      <polygon points="633,236 640,248 647,236" fill="#8FA3BD"/>
+      <line x1="680" y1="214" x2="1042" y2="244" stroke="#8FA3BD" stroke-width="2"/>
+      <polygon points="1034,246 1052,248 1044,236" fill="#8FA3BD"/>
+    </g>
+
+    <g id="initial-perturbation" data-pptx-bounds="490 158 300 56">
+      <rect x="490" y="158" width="300" height="56" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1.5"/>
+      <text x="640" y="182" font-size="15" font-weight="bold" text-anchor="middle" fill="#C2410C">初始扰动 Initial perturbation</text>
+      <text x="640" y="204" font-size="13" text-anchor="middle" fill="#1A2230">温度升高 Temperature increases ↑</text>
+    </g>
+
+    <g id="pathway-a">
+      <rect x="40" y="246" width="380" height="302" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1.5"/>
+      <text x="60" y="272" font-size="14" font-weight="bold" fill="#0E3F8C">路径 A · Pathway A</text>
+      <text x="60" y="292" font-size="11" fill="#4A5568">补全环节，判定符号与速度</text>
+      <rect x="60" y="302" width="340" height="44" rx="8" fill="#FFFFFF" stroke="#8FA3BD" stroke-width="1.5" stroke-dasharray="6,4"/>
+      <text x="230" y="329" font-size="11.5" text-anchor="middle" fill="#8FA3BD">环节①（课堂填写）Step ①</text>
+      <line x1="230" y1="348" x2="230" y2="362" stroke="#8FA3BD" stroke-width="2"/>
+      <polygon points="224,358 230,366 236,358" fill="#8FA3BD"/>
+      <rect x="60" y="364" width="340" height="44" rx="8" fill="#FFFFFF" stroke="#8FA3BD" stroke-width="1.5" stroke-dasharray="6,4"/>
+      <text x="230" y="391" font-size="11.5" text-anchor="middle" fill="#8FA3BD">环节②（课堂填写）Step ②</text>
+      <line x1="230" y1="410" x2="230" y2="424" stroke="#8FA3BD" stroke-width="2"/>
+      <polygon points="224,420 230,428 236,420" fill="#8FA3BD"/>
+      <rect x="60" y="426" width="340" height="42" rx="8" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+      <text x="230" y="452" font-size="11.5" text-anchor="middle" fill="#1A2230">最终作用：放大 / 抑制初始变化？</text>
+      <text x="60" y="494" font-size="11.5" fill="#1A2230">反馈符号 Sign：</text>
+      <rect x="150" y="484" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="168" y="494" font-size="11.5" fill="#1A2230">正 +</text>
+      <rect x="214" y="484" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="232" y="494" font-size="11.5" fill="#1A2230">负 −</text>
+      <text x="60" y="524" font-size="11.5" fill="#1A2230">响应速度 Speed：</text>
+      <rect x="150" y="514" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="168" y="524" font-size="11.5" fill="#1A2230">较快</text>
+      <rect x="214" y="514" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="232" y="524" font-size="11.5" fill="#1A2230">较慢</text>
+    </g>
+
+    <g id="pathway-b">
+      <rect x="450" y="246" width="380" height="302" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1.5"/>
+      <text x="470" y="272" font-size="14" font-weight="bold" fill="#0E3F8C">路径 B · Pathway B</text>
+      <text x="470" y="292" font-size="11" fill="#4A5568">补全环节，判定符号与速度</text>
+      <rect x="470" y="302" width="340" height="44" rx="8" fill="#FFFFFF" stroke="#8FA3BD" stroke-width="1.5" stroke-dasharray="6,4"/>
+      <text x="640" y="329" font-size="11.5" text-anchor="middle" fill="#8FA3BD">环节①（课堂填写）Step ①</text>
+      <line x1="640" y1="348" x2="640" y2="362" stroke="#8FA3BD" stroke-width="2"/>
+      <polygon points="634,358 640,366 646,358" fill="#8FA3BD"/>
+      <rect x="470" y="364" width="340" height="44" rx="8" fill="#FFFFFF" stroke="#8FA3BD" stroke-width="1.5" stroke-dasharray="6,4"/>
+      <text x="640" y="391" font-size="11.5" text-anchor="middle" fill="#8FA3BD">环节②（课堂填写）Step ②</text>
+      <line x1="640" y1="410" x2="640" y2="424" stroke="#8FA3BD" stroke-width="2"/>
+      <polygon points="634,420 640,428 646,420" fill="#8FA3BD"/>
+      <rect x="470" y="426" width="340" height="42" rx="8" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+      <text x="640" y="452" font-size="11.5" text-anchor="middle" fill="#1A2230">最终作用：放大 / 抑制初始变化？</text>
+      <text x="470" y="494" font-size="11.5" fill="#1A2230">反馈符号 Sign：</text>
+      <rect x="560" y="484" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="578" y="494" font-size="11.5" fill="#1A2230">正 +</text>
+      <rect x="624" y="484" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="642" y="494" font-size="11.5" fill="#1A2230">负 −</text>
+      <text x="470" y="524" font-size="11.5" fill="#1A2230">响应速度 Speed：</text>
+      <rect x="560" y="514" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="578" y="524" font-size="11.5" fill="#1A2230">较快</text>
+      <rect x="624" y="514" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="642" y="524" font-size="11.5" fill="#1A2230">较慢</text>
+    </g>
+
+    <g id="pathway-c">
+      <rect x="860" y="246" width="380" height="302" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1.5"/>
+      <text x="880" y="272" font-size="14" font-weight="bold" fill="#0E3F8C">路径 C · Pathway C（选做）</text>
+      <text x="880" y="292" font-size="11" fill="#4A5568">补全环节，判定符号与速度</text>
+      <rect x="880" y="302" width="340" height="44" rx="8" fill="#FFFFFF" stroke="#8FA3BD" stroke-width="1.5" stroke-dasharray="6,4"/>
+      <text x="1050" y="329" font-size="11.5" text-anchor="middle" fill="#8FA3BD">环节①（课堂填写）Step ①</text>
+      <line x1="1050" y1="348" x2="1050" y2="362" stroke="#8FA3BD" stroke-width="2"/>
+      <polygon points="1044,358 1050,366 1056,358" fill="#8FA3BD"/>
+      <rect x="880" y="364" width="340" height="44" rx="8" fill="#FFFFFF" stroke="#8FA3BD" stroke-width="1.5" stroke-dasharray="6,4"/>
+      <text x="1050" y="391" font-size="11.5" text-anchor="middle" fill="#8FA3BD">环节②（课堂填写）Step ②</text>
+      <line x1="1050" y1="410" x2="1050" y2="424" stroke="#8FA3BD" stroke-width="2"/>
+      <polygon points="1044,420 1050,428 1056,420" fill="#8FA3BD"/>
+      <rect x="880" y="426" width="340" height="42" rx="8" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+      <text x="1050" y="452" font-size="11.5" text-anchor="middle" fill="#1A2230">最终作用：放大 / 抑制初始变化？</text>
+      <text x="880" y="494" font-size="11.5" fill="#1A2230">反馈符号 Sign：</text>
+      <rect x="970" y="484" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="988" y="494" font-size="11.5" fill="#1A2230">正 +</text>
+      <rect x="1034" y="484" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="1052" y="494" font-size="11.5" fill="#1A2230">负 −</text>
+      <text x="880" y="524" font-size="11.5" fill="#1A2230">响应速度 Speed：</text>
+      <rect x="970" y="514" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="988" y="524" font-size="11.5" fill="#1A2230">较快</text>
+      <rect x="1034" y="514" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#4A5568" stroke-width="1"/>
+      <text x="1052" y="524" font-size="11.5" fill="#1A2230">较慢</text>
+    </g>
+
+    <g id="task-list" data-pptx-bounds="60 556 560 76">
+      <rect x="60" y="556" width="560" height="76" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+      <text x="76" y="578" font-size="12" font-weight="bold" fill="#0E3F8C">课堂任务 Tasks</text>
+      <text x="76" y="602" font-size="11.5" fill="#1A2230">1 补全至少两条响应路径</text>
+      <text x="360" y="602" font-size="11.5" fill="#1A2230">2 标注正反馈 / 负反馈</text>
+      <text x="76" y="624" font-size="11.5" fill="#1A2230">3 指出响应更快者</text>
+      <text x="360" y="624" font-size="11.5" fill="#1A2230">4 指出响应更慢者</text>
+    </g>
+
+    <g id="building-blocks" data-pptx-bounds="640 556 580 76">
+      <rect x="640" y="556" width="580" height="76" rx="10" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+      <text x="656" y="578" font-size="12" font-weight="bold" fill="#0E3F8C">可用环节 Building blocks（限 Slides 36–39，无新增机制）</text>
+      <rect x="656" y="590" width="128" height="30" rx="15" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+      <text x="720" y="610" font-size="11" text-anchor="middle" fill="#1E4FA8">水汽增多</text>
+      <rect x="792" y="590" width="176" height="30" rx="15" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+      <text x="880" y="610" font-size="11" text-anchor="middle" fill="#1E4FA8">冰雪减少 · 反照率下降</text>
+      <rect x="976" y="590" width="112" height="30" rx="15" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+      <text x="1032" y="610" font-size="11" text-anchor="middle" fill="#C2410C">风化加速固碳</text>
+      <rect x="1096" y="590" width="120" height="30" rx="15" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1"/>
+      <text x="1156" y="610" font-size="11" text-anchor="middle" fill="#1E4FA8">植物生长固碳</text>
+    </g>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Worksheet only — answer key in embedded Notes; mechanisms limited to approved Slides 36–40. Source: UE 8e pp.1176–1178, 1212–1213; EP pp.883–884; HB Ch.9 pp.248–252; CN Chs.3–4 pp.39–40, 78–80.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">41</text>
+</svg>

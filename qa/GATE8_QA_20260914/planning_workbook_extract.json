@@ -1,0 +1,1584 @@
+{
+  "source_matrix": {
+    "path": "E:\\PG\\2026 Hydrological cycle\\planning\\L16_SOURCE_MATRIX.xlsx",
+    "sheets": {
+      "Source Matrix": {
+        "header_row": 4,
+        "matches": [
+          {
+            "row": 5,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Earth-system framing",
+              "Subtopic": "水与碳是圈层间迁移的物质主线",
+              "Slide": "04-05, 18, 21, 34",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.3 + Ch.4",
+              "Section": "3.1 水的特性与地球表面过程；4.1 引言：温室气体与碳",
+              "PDF Page": "3, 57-58",
+              "Printed Page": "88, 142-143",
+              "Figure Number": "—",
+              "Definition / Core Concept": "用同一套 reservoir / flux / timescale 语言开场，并把水循环与碳循环连接到大气、海洋、岩石和生命。",
+              "Quantitative Information": "Ch.3 明确将水分子和碳原子称为表层系统最重要的两种物质；Ch.4 指出 C 是生命圈主干元素。",
+              "Notes": "—",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 7,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Cycles framework",
+              "Subtopic": "Biogeochemical cycle, reservoir, flux, steady state, multiple timescales",
+              "Slide": "04, 05, 24, 31",
+              "Source Book": "EP",
+              "Chapter": "Ch.23",
+              "Section": "23.3 Cyclic Changes — Biogeochemical Cycles",
+              "PDF Page": "881",
+              "Printed Page": "846",
+              "Figure Number": "None",
+              "Definition / Core Concept": "Support transfer of the same analytical language from water to carbon; clarify that steady state can include continuous flux",
+              "Quantitative Information": "Stages may take hours, thousands of years, or millions of years",
+              "Notes": "Source-map ID: M-07",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 8,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Earth-system framework",
+              "Subtopic": "Coupled climate components",
+              "Slide": "04, 18, 34, 44",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Components of the Climate System",
+              "PDF Page": "1146–1147",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Climate system includes atmosphere, hydrosphere, cryosphere, lithosphere, biosphere and their interactions; component roles depend on storing and transporting mass and energy.",
+              "Quantitative Information": "None required.",
+              "Notes": "Direct support for a unified Earth-system narrative rather than separate water/carbon lists.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 11,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Four-word framework",
+              "Subtopic": "Reservoir",
+              "Slide": "05, 06, 22, 43",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 17; 12",
+              "Section": "Flow and Reservoirs; Geochemical Cycles and How They Work",
+              "PDF Page": "1647; 1205",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "A reservoir is a place/component that stores water or chemicals.",
+              "Quantitative Information": "None.",
+              "Notes": "Use “reservoir” for both water and carbon to support transfer of the framework.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 12,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Four-word framework",
+              "Subtopic": "Flux",
+              "Slide": "05, 09, 23, 43",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Geochemical Cycles and How They Work; The Cycling of Carbon",
+              "PDF Page": "1205; 1209–1213",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "Figure 12.19",
+              "Definition / Core Concept": "Flux is flow/transport from one reservoir or Earth-system component to another.",
+              "Quantitative Information": "Figure 12.19 units are Gt C/yr.",
+              "Notes": "Keep storage units and flux units visually distinct.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 13,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Four-word framework",
+              "Subtopic": "Residence time",
+              "Slide": "05, 08, 24, 31, 43",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 17; 12",
+              "Section": "Flow and Reservoirs; Residence Time",
+              "PDF Page": "1650; 1205–1206",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Residence time is the average time a quantity of water or a molecule of a chemical spends in a reservoir.",
+              "Quantitative Information": "UE examples for ocean chemicals: sodium ~48 Myr; iron ~100 yr. No numerical global water residence-time table in Ch.17.",
+              "Notes": "Do not present numerical water residence times or the formula storage/flux as UE-derived.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "VERIFIED — PARTIAL; COMPANION SOURCE REQUIRED"
+            }
+          },
+          {
+            "row": 17,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Global hydrologic cycle",
+              "Subtopic": "储库、蒸发、降水、水汽输送和径流",
+              "Slide": "09-10, 19",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.3",
+              "Section": "3.3.1 水循环的全球视野",
+              "PDF Page": "24-26",
+              "Printed Page": "109-111",
+              "Figure Number": "图 3-15",
+              "Definition / Core Concept": "作为水循环主图候选；A 训练识别储库/秒通量，B 训练读年通量与海陆收支。",
+              "Quantitative Information": "A：大气 16、陆地 59,000、海洋 1,400,000（储量单位 10³ km³）；陆地 E 2.2、P 3.5，海洋 E 13.5、P 12.2，河流 1.3（通量单位 10⁶ m³/s）。B：海洋 E 430、P 390，向陆水汽输送 38，陆地 P 109、E 71，径流约 35（单位 1000 km³/a）。",
+              "Notes": "地球表层的水循环",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 18,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Water cycle",
+              "Subtopic": "Global overview and pathways",
+              "Slide": "09, 19",
+              "Source Book": "EP",
+              "Chapter": "Interlude F",
+              "Section": "F.4 / Geology at a Glance",
+              "PDF Page": "615–616",
+              "Printed Page": "580–581",
+              "Figure Number": "W-02, GEOLOGY AT A GLANCE — The Hydrologic Cycle",
+              "Definition / Core Concept": "Core read-the-diagram overview: identify ocean, atmosphere, snow/ice, land, organic, and subsurface reservoirs plus transfers",
+              "Quantitative Information": "Ocean covers 71% of Earth's surface (text on printed p. 581)",
+              "Notes": "Source-map ID: M-02",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 19,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Water cycle",
+              "Subtopic": "Water as a biogeochemical cycle; cryosphere/ocean transfer",
+              "Slide": "09, 16, 18",
+              "Source Book": "EP",
+              "Chapter": "Ch.23",
+              "Section": "23.3 Cyclic Changes — Hydrologic Cycle",
+              "PDF Page": "881",
+              "Printed Page": "846",
+              "Figure Number": "None",
+              "Definition / Core Concept": "Show living and nonliving reservoirs and explain sea-level response to redistribution between ocean and continental ice",
+              "Quantitative Information": "No required value; source states glacier growth lowers sea level and melting raises it",
+              "Notes": "Source-map ID: M-08",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 20,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Hydrologic cycle",
+              "Subtopic": "Definition and pathways",
+              "Slide": "09, 19, 43",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 17",
+              "Section": "The Hydrologic Cycle",
+              "PDF Page": "1651–1654",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "Figure 17.2",
+              "Definition / Core Concept": "Water cycles among ocean, atmosphere, land surface and subsurface via evaporation, precipitation, runoff, infiltration, groundwater flow, transpiration, melting, and sublimation.",
+              "Quantitative Information": "Figure 17.2 expresses flows in 10³ km³/yr.",
+              "Notes": "Suitable source for the global overview and Concept Check 1.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 23,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Phase change and energy",
+              "Subtopic": "水的三相转换与潜热",
+              "Slide": "11, 20",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.3",
+              "Section": "3.3.2 水的三相转换与气候；3.3.2.1 气态与液态的转换",
+              "PDF Page": "27",
+              "Printed Page": "112",
+              "Figure Number": "图 3-17",
+              "Definition / Core Concept": "说明水循环同时搬运能量；区分熔融潜热与汽化潜热。",
+              "Quantitative Information": "熔融/冻结约 ±80 Cal；0-100°C 加热/降温约 ±100 Cal；汽化/凝结约 ±540 Cal；1 Cal=4.184 J；正文称气-液相变能量约为固-液相变的 7 倍。",
+              "Notes": "水在三相转换中的热能传输",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 25,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Water and energy",
+              "Subtopic": "Humidity, condensation, latent heat",
+              "Slide": "11, 13, 20",
+              "Source Book": "EP",
+              "Chapter": "Ch.20",
+              "Section": "20.3 General Atmospheric Characteristics; 20.6 Weather and Its Causes",
+              "PDF Page": "770, 782, 785",
+              "Printed Page": "735, 747, 750",
+              "Figure Number": "Fig. 20.5; Figs. 20.18–20.19; captions describe adiabatic cooling, lifting, condensation, and precipitation",
+              "Definition / Core Concept": "Explain that phase changes move energy: evaporation absorbs heat and condensation releases latent heat",
+              "Quantitative Information": "Air cools adiabatically about 6–10°C per km depending on moisture; 14% of atmospheric heat is attributed to condensation in the chapter's energy partition",
+              "Notes": "Source-map ID: M-05",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 26,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Phase changes",
+              "Subtopic": "Matter states and energy driver",
+              "Slide": "11, 20",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 17",
+              "Section": "The Hydrologic Cycle",
+              "PDF Page": "1653–1654",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "Figure 17.2",
+              "Definition / Core Concept": "Water shifts among liquid, vapor, and ice; solar energy drives evaporation and atmospheric transport; condensation produces precipitation; snow/ice returns via melting/runoff and sublimation.",
+              "Quantitative Information": "None beyond Figure 17.2 fluxes.",
+              "Notes": "The chapter explicitly links transformations to major fluxes and identifies the Sun as the external heat engine.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 27,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Evapotranspiration",
+              "Subtopic": "植物把水返还大气并耦合碳吸收",
+              "Slide": "12, 18, 34",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.4",
+              "Section": "4.3.5 生命过程与水、碳循环",
+              "PDF Page": "73-74",
+              "Printed Page": "158-159",
+              "Figure Number": "图 4-12",
+              "Definition / Core Concept": "连接 land-vegetation-atmosphere；强调蒸腾与光合作用不是两个互不相干的过程。",
+              "Quantitative Information": "教材估计全球大陆蒸散把 80%-90% 的水返回大气；一棵大树日蒸腾约 200-1000 L，年吸水约 150 t；全球陆地吸收太阳能约一半用于蒸腾。",
+              "Notes": "自然产生的气溶胶",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 31,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Hydrology and climate",
+              "Subtopic": "Climate controls local reservoirs/flows",
+              "Slide": "13, 14, 18",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 17",
+              "Section": "Hydrology and Climate",
+              "PDF Page": "1657–1660",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Local temperature and precipitation strongly control surface and groundwater abundance; cooling moist air leads to condensation/precipitation; mountains create rain shadows.",
+              "Quantitative Information": "Relative humidity example: 50% at 15°C means half saturation capacity.",
+              "Notes": "Keep at process level; global circulation was prior material and should not be re-taught in depth.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 33,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Water cycle",
+              "Subtopic": "Water transports sediment/solutes and shapes landscapes",
+              "Slide": "14, 20",
+              "Source Book": "EP",
+              "Chapter": "Interlude F",
+              "Section": "F.2–F.3 Shaping the Earth's Surface / Factors Controlling Landscape Development",
+              "PDF Page": "611–613",
+              "Printed Page": "576–578",
+              "Figure Number": "Figs. F.3–F.5",
+              "Definition / Core Concept": "Support the Part I summary that water moves matter and shapes the surface; water is the dominant global erosional agent among water/ice/wind",
+              "Quantitative Information": "Long-term erosion/deposition rates given as about 0.10–10 mm/yr; not a memorization target",
+              "Notes": "Source-map ID: S-01",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 34,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Runoff and infiltration",
+              "Subtopic": "Partition after precipitation",
+              "Slide": "14, 19",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 17",
+              "Section": "The Hydrologic Cycle; The Hydrology of Runoff",
+              "PDF Page": "1654; 1667",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "Figure 17.2",
+              "Definition / Core Concept": "Infiltration enters rock/soil through cracks or pores; runoff is precipitation flowing over land plus near-surface infiltrated water that returns to the surface. Climate controls the partition among evaporation, infiltration, and runoff.",
+              "Quantitative Information": "No global partition beyond Figure 17.2.",
+              "Notes": "Use textbook’s broad runoff definition; avoid treating all infiltrated water as permanently removed from runoff.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 35,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Storage buffers runoff",
+              "Subtopic": "Lakes/wetlands smooth variability",
+              "Slide": "14, 20",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 17",
+              "Section": "The Hydrology of Runoff",
+              "PDF Page": "1672–1674",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Lakes, artificial reservoirs and wetlands store high inflows and release water during dry periods, smoothing runoff variability.",
+              "Quantitative Information": "None needed.",
+              "Notes": "“Reservoir” here includes a geomorphic water body; avoid confusing it with only engineered reservoirs.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 36,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Groundwater",
+              "Subtopic": "Recharge, storage, discharge",
+              "Slide": "15, 43",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 17",
+              "Section": "The Hydrology of Groundwater; The Groundwater Table; Balancing Recharge and Discharge",
+              "PDF Page": "1675; 1682–1688; 1694–1695",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "Figure 17.1",
+              "Definition / Core Concept": "Recent precipitation infiltrates to form meteoric groundwater. Recharge is infiltration into a subsurface formation; discharge is groundwater movement to the surface (evaporation, springs, wells, or streams). Balanced recharge/discharge maintains reservoir size and water-table elevation.",
+              "Quantitative Information": "Groundwater 1.05% of all water (Figure 17.1). Chapter text later says ~29% of fresh water (PDF 1675); see conflict.",
+              "Notes": "Keep Slide 15 at recharge–storage–discharge level; porosity, aquifers, wells and cones of depression are not required for the core slide.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 38,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Ice-albedo mechanism",
+              "Subtopic": "冰雪覆盖改变反照率和能量收支",
+              "Slide": "16, 37",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.3",
+              "Section": "3.3.2.3 三相转换的气候意义",
+              "PDF Page": "39-40",
+              "Printed Page": "124-125",
+              "Figure Number": "图 3-29；图 3-30",
+              "Definition / Core Concept": "支撑冰-反照率正反馈的方向链条；用反照率差而非冰期史细节。",
+              "Quantitative Information": "教材给出海水反照率不足 10%、森林约 10% 或更低、冰雪可达约 80%；低纬与高纬水循环分别表现为气-液和固-液转换的不稳定。",
+              "Notes": "“不同下垫面的反照率差别”；“气候系统两大不稳定区的水循环”",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 39,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Cryosphere",
+              "Subtopic": "Mobile/variable water reservoir",
+              "Slide": "16, 37, 40",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "The Cryosphere",
+              "PDF Page": "1159–1162",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "Figure 17.1",
+              "Definition / Core Concept": "Cryosphere includes ice caps, permafrost and seasonal snow; seasonal and glacial exchanges move water between cryosphere and hydrosphere and affect reflectivity and sea level.",
+              "Quantitative Information": "Ice caps/continental glaciers cover ~10% of land and store ~75% of fresh water; seasonal Arctic/Southern Ocean ice extents and last-glacial sea level (~130 m lower) are given.",
+              "Notes": "The absolute cryosphere volume conflicts with Figure 17.1; use only one dataset.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 41,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Deep cycling",
+              "Subtopic": "Volatile cycling between surface and interior",
+              "Slide": "17, 18, 30, 34",
+              "Source Book": "HB",
+              "Chapter": "Ch.9",
+              "Section": "Controls on Volatiles at the Surface — Cycling of Volatiles Between the Surface and Earth's Interior",
+              "PDF Page": "224–230",
+              "Printed Page": "Not shown in supplied PDF",
+              "Figure Number": "Fig. 9-5 (reservoir context; not extracted)",
+              "Definition / Core Concept": "Support deep-water/deep-carbon pathway: alteration of ocean crust and sediment stores H₂O/CO₂; subduction returns them to the interior; volcanism returns volatiles toward the surface",
+              "Quantitative Information": "Source estimates roughly half of Earth's H₂O and CO₂ remains in the interior and describes another ocean-volume of water in the solid Earth; use only as supporting context unless primary sources agree",
+              "Notes": "Source-map ID: M-13",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 43,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Water connects geospheres",
+              "Subtopic": "水搬运物质、能量与溶质并连接圈层",
+              "Slide": "18, 20",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.3",
+              "Section": "3.2.2.3 板块运动与水；3.3 地球表层系统的水循环；3.3.2 水的三相转换与气候",
+              "PDF Page": "22-27",
+              "Printed Page": "107-112",
+              "Figure Number": "图 3-13；图 3-15；图 3-17",
+              "Definition / Core Concept": "将俯冲/火山、海陆循环、相变能量和生命过程整合成“水连接四圈层”的收束页。",
+              "Quantitative Information": "本表达把教材分散的储库、通量、潜热与深部交换合并，不引入教材外数值。",
+              "Notes": "见对应题注",
+              "Evidence Class": "SYNTHESIS",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 44,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Earth-system coupling",
+              "Subtopic": "Spheres, energy sources, and material cycles",
+              "Slide": "18, 20, 34, 44",
+              "Source Book": "EP",
+              "Chapter": "Ch.23",
+              "Section": "23.1 Introduction / Geology at a Glance: The Earth System",
+              "PDF Page": "874–876",
+              "Printed Page": "839–841",
+              "Figure Number": "GEOLOGY AT A GLANCE — The Earth System",
+              "Definition / Core Concept": "Provide the system frame: lithosphere, hydrosphere, cryosphere, atmosphere, biosphere, linked by material cycles and powered by external/internal energy",
+              "Quantitative Information": "No required memorized values",
+              "Notes": "Source-map ID: M-06",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 45,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Atmosphere–ocean–rock coupling",
+              "Subtopic": "Atmosphere evolved through outgassing, ocean condensation, dissolution, weathering, and photosynthesis",
+              "Slide": "18, 21, 34",
+              "Source Book": "EP",
+              "Chapter": "Ch.20",
+              "Section": "20.2 The Formation of the Atmosphere",
+              "PDF Page": "765–767",
+              "Printed Page": "730–732",
+              "Figure Number": "Fig. 20.2, Stages in the evolution of Earth's atmosphere over time",
+              "Definition / Core Concept": "Compact example of atmosphere–ocean–rock–life coevolution",
+              "Quantitative Information": "Volcanic gas described as 70–90% H₂O with smaller CO₂/SO₂; modern dry air 78% N₂, 21% O₂",
+              "Notes": "Source-map ID: S-02",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 46,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Water as connector",
+              "Subtopic": "Atmosphere–ocean–rocks–life",
+              "Slide": "18, 20, 34",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12; 17",
+              "Section": "Components; The Biosphere; Ch.17 introduction and Hydrologic Cycle",
+              "PDF Page": "1146; 1164, 1168; 1645–1646; 1651–1654",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Water stores/transports mass and energy, links ocean–atmosphere climate, acts as solvent and geomorphic transport agent, circulates through organisms, and enters soils/rocks.",
+              "Quantitative Information": "<0.1% incoming solar energy used in photosynthesis (context only).",
+              "Notes": "The “moves solutes/shapes surface” claims are supported by Ch.17 introduction, not only the cycle diagram.",
+              "Evidence Class": "SYNTHESIS",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 47,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Hydrosphere",
+              "Subtopic": "Heat and material transport",
+              "Slide": "18, 20",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "The Hydrosphere",
+              "PDF Page": "1155–1159",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Oceans store far more heat than air and transport heat poleward; continental waters transport water, salt, and organic matter to oceans.",
+              "Quantitative Information": "Ocean liquid water ~1400 million km³; continental liquid hydrosphere ~15 million km³ in this section.",
+              "Notes": "Thermohaline circulation detail is not required for the locked water-cycle sequence.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 48,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Lithosphere–water coupling",
+              "Subtopic": "Soil moisture and evaporation",
+              "Slide": "18, 34",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "The Lithosphere",
+              "PDF Page": "1164",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Evaporation consumes energy and cools land; soil moisture, vegetation cover and subsurface water flow influence atmospheric temperature.",
+              "Quantitative Information": "None.",
+              "Notes": "Useful concise coupling example.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 49,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Biosphere coupling",
+              "Subtopic": "Water and carbon roles of plants",
+              "Slide": "18, 25, 34, 39",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "The Biosphere",
+              "PDF Page": "1168",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Vegetation links groundwater to atmospheric moisture and transfers CO₂ to biosphere by photosynthesis; some carbon is buried or precipitated as carbonate shells.",
+              "Quantitative Information": "None essential.",
+              "Notes": "One passage supports the atmosphere–water–life–rock bridge.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 50,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Water vapor and climate",
+              "Subtopic": "温度升高、饱和水汽增多与潜热输送",
+              "Slide": "20, 36",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.3",
+              "Section": "3.2.1.1 气态水；3.3.2.1 气态与液态的转换",
+              "PDF Page": "10, 27-28",
+              "Printed Page": "95, 112-113",
+              "Figure Number": "图 3-17；图 3-18",
+              "Definition / Core Concept": "为 water-vapor feedback 提供物理基础，但“正反馈”定义和最终链条须与指定 UE 来源校准。",
+              "Quantitative Information": "教材称在当前条件下表面温度每增加 1°C，水汽理论上可增加约 7%；并引用水汽贡献约 75% 温室效应的估计。",
+              "Notes": "“水在三相转换中的热能传输”；“热量的纬向输送”",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 51,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Carbon integrates life and rocks",
+              "Subtopic": "碳把气候、生命、海洋、沉积物和岩石连接起来",
+              "Slide": "21, 33-34",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.4",
+              "Section": "4.1 引言；4.3.5 生命过程与水、碳循环；4.5.1 地质碳储库",
+              "PDF Page": "57-58, 73-74, 79-80",
+              "Printed Page": "142-143, 158-159, 164-165",
+              "Figure Number": "图 4-12；图 4-16",
+              "Definition / Core Concept": "作为 Carbon Part 的开场和总结，并转入两个循环的耦合图。",
+              "Quantitative Information": "教材直接说明碳循环是氧化-还原过程，生命用光合作用把无机碳转成有机碳；地质作用把碳在岩石圈与表层间交换。",
+              "Notes": "见对应题注",
+              "Evidence Class": "SYNTHESIS",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 52,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Carbon cycle",
+              "Subtopic": "Reservoirs and pathways across air, water, life, sediment, and rock",
+              "Slide": "21–23, 25–31, 33",
+              "Source Book": "EP",
+              "Chapter": "Ch.23",
+              "Section": "23.3 Cyclic Changes — The Carbon Cycle",
+              "PDF Page": "881–882",
+              "Printed Page": "846–847",
+              "Figure Number": "Fig. 23.6, In the carbon cycle, carbon transfers among various reservoirs at or near the Earth's surface...",
+              "Definition / Core Concept": "Supporting synthesis for carbon reservoirs and fast/slow pathways: dissolution, photosynthesis, respiration/decay, weathering, burial, metamorphism, combustion",
+              "Quantitative Information": "Source states about 63 billion tons of C move from atmosphere into life each year; do not use this dated value unless reconciled with UE/CN",
+              "Notes": "Source-map ID: M-09",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 53,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Coupling and habitability",
+              "Subtopic": "Water, carbon, plate tectonics, weathering, and climate stability form one connected system",
+              "Slide": "21, 34, 44",
+              "Source Book": "HB",
+              "Chapter": "Ch.9",
+              "Section": "Chapter overview / The Planetary Volatile Budget",
+              "PDF Page": "218–220",
+              "Printed Page": "Not shown in supplied PDF",
+              "Figure Number": "None",
+              "Definition / Core Concept": "Support the central Earth-system narrative without turning HB into a hydrology source",
+              "Quantitative Information": "No required value",
+              "Notes": "Source-map ID: S-04",
+              "Evidence Class": "SYNTHESIS based on SOURCE-DERIVED HB text",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 54,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Carbon framework",
+              "Subtopic": "Carbon-cycle definition",
+              "Slide": "21, 23, 33, 43",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "The Carbon Cycle; Geochemical Cycles and How They Work",
+              "PDF Page": "1204–1205",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Carbon cycle is continual carbon movement among Earth-system components; reservoir amounts and inter-reservoir fluxes provide the quantitative system description.",
+              "Quantitative Information": "None at definition level.",
+              "Notes": "Direct bridge from water to the same reservoir–flux language.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 56,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Geological reservoir magnitude",
+              "Subtopic": "表层库与地质库的量级差异",
+              "Slide": "22, 31",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.4",
+              "Section": "4.5.1 地质碳储库",
+              "PDF Page": "79-80",
+              "Printed Page": "164-165",
+              "Figure Number": "表 4-5",
+              "Definition / Core Concept": "说明最大储库不等于最快响应，并为慢循环建立数量级直觉。",
+              "Quantitative Information": "单位 10¹⁸ mol：大气 0.06，生物圈 0.13，水圈 3.3，远洋沉积 1360，大陆边缘沉积 >1370，沉积岩 4250，地幔 27000。",
+              "Notes": "表层和地质储库中的氧化和还原碳（据 Des Marais，2001 改）",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 58,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Carbon flux map",
+              "Subtopic": "Quantitative global carbon cycle",
+              "Slide": "23, 32",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "The Cycling of Carbon / Figure 12.19",
+              "PDF Page": "1209–1213",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "Figure 12.19",
+              "Definition / Core Concept": "Flux arrows link the major reservoirs; gross exchange can be far larger than long-term net geological flux.",
+              "Quantitative Information": "Terrestrial biosphere–atmosphere 120 Gt C/yr; air–sea 80; dissolved organic carbon/rivers 0.4; carbonate-weathering/formation/sedimentation terms 0.2; silicate-weathering net <0.1; volcanism <0.1.",
+              "Notes": "Do not ask students to memorize all numbers. Do not mislabel the 80 or 120 Gt C/yr gross exchanges as net sinks.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 59,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Multiple carbon timescales",
+              "Subtopic": "生物、表层海、深海、沉积/变质和地幔的不同“时钟”",
+              "Slide": "24, 31, 40",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.4",
+              "Section": "4.4.3 碳循环的时间尺度；4.5.1 地质碳储库",
+              "PDF Page": "78-80",
+              "Printed Page": "163-165",
+              "Figure Number": "图 4-15；图 4-16",
+              "Definition / Core Concept": "让学生比较系统受到扰动后的快慢响应，不把碳循环看成一条统一速度的箭头。",
+              "Quantitative Information": "图 4-15：大气-生物圈-表层海约 10¹-10² 年，深层海约 10²-10³ 年，沉积物约 10³-10⁵ 年，地质储库 >10⁵ 年；图 4-16 进一步给出表层库 0-10³、沉积物库 10³-10⁸、变质库 10⁶-10⁹、地幔库 10⁷-10⁹ 年。",
+              "Notes": "“不同时间尺度的碳循环”；“地质和表层碳储库的碳循环”",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 60,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Teaching transfer",
+              "Subtopic": "用相同框架比较水与碳",
+              "Slide": "24, 31, 34",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.3 + Ch.4",
+              "Section": "3.2.1；3.3.1；4.2；4.4.3",
+              "PDF Page": "8-9, 24-26, 58-64, 78",
+              "Printed Page": "93-94, 109-111, 143-149, 163",
+              "Figure Number": "表 3-1；图 3-15；图 4-2；图 4-15",
+              "Definition / Core Concept": "把 reservoir-flux-residence time 从水迁移到碳，明确同一语言对应完全不同的尺度范围。",
+              "Quantitative Information": "所有数值仍按各图原单位呈现，不跨图直接拼接为新预算。",
+              "Notes": "见对应题注",
+              "Evidence Class": "SYNTHESIS",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 61,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Reused framework",
+              "Subtopic": "Carbon storage vs flux vs timescale",
+              "Slide": "24, 31",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Geochemical Cycles and How They Work; The Cycling of Carbon",
+              "PDF Page": "1205–1206; 1209–1213",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Reservoir size and flux rate are distinct; high-flux biological/ocean exchanges contrast with slow geological transfer.",
+              "Quantitative Information": "120 and 80 Gt C/yr vs <0.1 Gt C/yr for silicate weathering/volcanism; silicate weathering acts over millions of years.",
+              "Notes": "No carbon-reservoir residence-time table is provided; the comparison is qualitative and flux-based.",
+              "Evidence Class": "SYNTHESIS",
+              "Status": "VERIFIED — PARTIAL; COMPANION SOURCE REQUIRED"
+            }
+          },
+          {
+            "row": 66,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Ocean carbon pumps",
+              "Subtopic": "生物泵、物理泵与碳酸盐泵",
+              "Slide": "27-28",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.4",
+              "Section": "4.3.2 表层海的碳汇与碳源；4.3.3 深层海的碳汇与碳源",
+              "PDF Page": "67-71",
+              "Printed Page": "152-156",
+              "Figure Number": "图 4-9",
+              "Definition / Core Concept": "区分颗粒/有机碳下沉、溶解态碳随环流下沉、碳酸盐形成与沉积。",
+              "Quantitative Information": "教材指出深层水无机碳浓度比表层水约高 15%，深海碳循环时间尺度为千年至数万年；图 4-9 为定性路径图。",
+              "Notes": "海洋吸收大气 CO₂ 的生物泵和物理泵",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 67,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Ocean pump efficiency",
+              "Subtopic": "温度、营养盐、环流对深海储碳的控制",
+              "Slide": "27, 40",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.4",
+              "Section": "4.4.1 海洋碳泵",
+              "PDF Page": "75-77",
+              "Printed Page": "160-162",
+              "Figure Number": "图 4-14",
+              "Definition / Core Concept": "用一个快慢比较说明物理泵和生物泵对气候扰动的响应不同。",
+              "Quantitative Information": "冰期-间冰期大气 CO₂ 变化约 90 ppm；教材称南大洋/北太平洋等高纬区是深海水形成和碳泵效率变化的关键区。",
+              "Notes": "“不同温度在大洋生物泵中的不同作用”",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 69,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Carbonate connection",
+              "Subtopic": "溶解碳-生物成壳-碳酸盐-沉积/岩石",
+              "Slide": "28",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.4",
+              "Section": "4.3.2-4.3.3 表层海与深层海的碳汇与碳源",
+              "PDF Page": "68-71",
+              "Printed Page": "153-156",
+              "Figure Number": "图 4-9；图 4-10",
+              "Definition / Core Concept": "显示海洋、生命、沉积物与岩石圈的连续路径，避免进入高级碳酸盐平衡计算。",
+              "Quantitative Information": "教材给出反应 Ca²⁺ + 2HCO₃⁻ → CaCO₃ + H₂O + CO₂↑ 说明碳酸盐泵可能释放 CO₂；课堂只用于定性方向。",
+              "Notes": "“海洋吸收大气 CO₂ 的生物泵和物理泵”；“深海 CO₂ 湖的喷口”",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 70,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Water–carbon coupling",
+              "Subtopic": "Liquid water and weathering remove atmospheric CO₂ into carbonates",
+              "Slide": "28–30, 34",
+              "Source Book": "EP",
+              "Chapter": "Ch.20 / Ch.23",
+              "Section": "20.2 The Formation of the Atmosphere; 23.2 The Evolution of the Atmosphere and Oceans",
+              "PDF Page": "765, 878",
+              "Printed Page": "730, 843",
+              "Figure Number": "None",
+              "Definition / Core Concept": "Make the causal connection water + CO₂ + silicate weathering → dissolved/carbonate products → rock storage",
+              "Quantitative Information": "Early-ocean dates are given but are not required for Lecture 16",
+              "Notes": "Source-map ID: M-10",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 71,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Carbonates",
+              "Subtopic": "Ocean–life–rock connection",
+              "Slide": "28, 34",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Chemical Reactions; Lithosphere-Atmosphere Gas Exchange",
+              "PDF Page": "1206–1208; 1212–1213",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "Figure 12.19",
+              "Definition / Core Concept": "Dissolved CO₂ forms carbonic acid/bicarbonate; organisms precipitate CaCO₃; shells settle and burial returns carbon to the lithosphere.",
+              "Quantitative Information": "CaCO₃ weathering/formation/sedimentation terms each ~0.2 Gt C/yr in Figure 12.19 framework.",
+              "Notes": "Avoid advanced carbonate-equilibrium calculations.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 72,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Water-carbon coupling",
+              "Subtopic": "含 CO₂ 的水参与硅酸盐/碳酸盐风化并把碳送入海洋",
+              "Slide": "29, 34, 38",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.4",
+              "Section": "4.5.1 地质碳储库",
+              "PDF Page": "79-80",
+              "Printed Page": "164-165",
+              "Figure Number": "图 4-16",
+              "Definition / Core Concept": "将水循环明确接入 weathering-carbon transfer，并作为长期负反馈的过程底图。",
+              "Quantitative Information": "教材列出硅酸盐风化简式 CaSiO₃ + CO₂ → CaCO₃ + SiO₂；图 4-16 的风化通量为 45×10¹² mol/a（按原图单位）。",
+              "Notes": "地质和表层碳储库的碳循环",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 73,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Long-term feedback",
+              "Subtopic": "Tectonic uplift exposes rock, increases weathering, and can lower atmospheric CO₂",
+              "Slide": "29, 38, 40",
+              "Source Book": "EP",
+              "Chapter": "Ch.23",
+              "Section": "23.4 Global Climate Change — Long-Term Climate Change",
+              "PDF Page": "888",
+              "Printed Page": "853",
+              "Figure Number": "Fig. 23.12, Changes in the distribution and elevation of landmasses can affect climate",
+              "Definition / Core Concept": "Connect plate tectonics and weathering to long-term feedback; emphasize conditional language (may, potentially)",
+              "Quantitative Information": "No required value",
+              "Notes": "Source-map ID: S-07",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 74,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Weathering thermostat",
+              "Subtopic": "Complete source mechanism and figure",
+              "Slide": "29, 30, 38",
+              "Source Book": "HB",
+              "Chapter": "Ch.9",
+              "Section": "Earth's Long-Term Thermostat",
+              "PDF Page": "246–249",
+              "Printed Page": "Not shown in supplied PDF",
+              "Figure Number": "Fig. 9-10 (deep carbonate/CO₂ cycle); F-01 / Fig. 9-11, Illustration of feedbacks that control atmospheric CO₂ and surface temperature on Earth, as described in the text.",
+              "Definition / Core Concept": "Explain how plate-driven CO₂ input is balanced by temperature/rainfall/acidity-sensitive weathering and carbonate burial",
+              "Quantitative Information": "No single modern budget value is required",
+              "Notes": "Source-map ID: M-14",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 75,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Water–carbon coupling",
+              "Subtopic": "Weathering distinction",
+              "Slide": "29, 34, 38",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Lithosphere-Atmosphere Gas Exchange",
+              "PDF Page": "1212–1213",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "CO₂ dissolved in rainwater enables chemical weathering and river transport. Carbonate-rock weathering followed by marine carbonate formation is described as no net atmospheric-carbon change; silicate weathering transfers atmospheric CO₂ into lithospheric carbonate.",
+              "Quantitative Information": "Carbonate-weathering terms ~0.2 Gt C/yr; net silicate-weathering carbon flux <0.1 Gt C/yr.",
+              "Notes": "Critical teaching distinction: do not present all weathering as the same long-term CO₂ sink.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 76,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Slow geological carbon cycle",
+              "Subtopic": "风化、沉积/埋藏、变质、俯冲和火山脱气",
+              "Slide": "30",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.4",
+              "Section": "4.5.1 地质碳储库；4.5.2 早期地球的碳储库演变",
+              "PDF Page": "79-81",
+              "Printed Page": "164-166",
+              "Figure Number": "图 4-16；图 4-17",
+              "Definition / Core Concept": "构建慢碳循环主路径，并与快速生物循环分开。",
+              "Quantitative Information": "图 4-16 以 10¹² mol/a 表示通量：生物合成 9000、分解 8990、风化 45、沉积有机物约 9、变质还原碳约 2、排气约 2、俯冲约 0.4；图中也标出多级时间尺度。",
+              "Notes": "见 Seed Figure 核验表",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 77,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Volcanic degassing",
+              "Subtopic": "深部碳通过不同构造环境返回大气",
+              "Slide": "30, 38",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.4",
+              "Section": "4.5.2 早期地球的碳储库演变",
+              "PDF Page": "81",
+              "Printed Page": "166",
+              "Figure Number": "图 4-17",
+              "Definition / Core Concept": "在慢碳循环中区分俯冲输入和火山输出，并提示构造环境控制强度。",
+              "Quantitative Information": "教材列出的年排碳：大陆边缘俯冲带火山弧约 1.5 亿 t；洋中脊约 0.12-0.6 亿 t；板块内部火山约 0.01-0.3 亿 t。",
+              "Notes": "冥古宙和显生宙地幔碳循环的比较",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 78,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Slow carbon cycle",
+              "Subtopic": "Geological pathway",
+              "Slide": "30, 31, 33",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "The Cycling of Carbon",
+              "PDF Page": "1212–1213; Figure 12.19, 1209",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "UE supports weathering, river transport, carbonate formation, sediment burial, and small volcanic return from geologic reservoirs.",
+              "Quantitative Information": "Sediment burial ~0.2 Gt C/yr; silicate weathering and volcanism each <0.1 Gt C/yr; million-year action stated.",
+              "Notes": "PARTIAL: Ch.12 does not narrate the locked full pathway through subduction and metamorphism, and does not use “volcanic degassing.” Those links need another approved textbook.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "VERIFIED — PARTIAL; COMPANION SOURCE REQUIRED"
+            }
+          },
+          {
+            "row": 79,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Ocean–atmosphere coupling",
+              "Subtopic": "Ocean circulation transfers heat and can reorganize",
+              "Slide": "34, 40",
+              "Source Book": "HB",
+              "Chapter": "Ch.18",
+              "Section": "The Great Ocean Conveyor",
+              "PDF Page": "471–474",
+              "Printed Page": "Not shown in supplied PDF",
+              "Figure Number": "Fig. 18-14, The conveyor diagram illustrating global movements of ocean currents",
+              "Definition / Core Concept": "Brief system-coupling example only; avoid repeating the Lecture 15 atmosphere–ocean lecture",
+              "Quantitative Information": "Conveyor transport compared with 100 Amazon Rivers; water cools from about 12°C to 2°C in the described North Atlantic branch",
+              "Notes": "Source-map ID: S-06",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 80,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Feedback",
+              "Subtopic": "Definition of positive and negative feedback",
+              "Slide": "35, 41",
+              "Source Book": "EP",
+              "Chapter": "Ch.23",
+              "Section": "23.4 Global Climate Change — The Role of Greenhouse Gases",
+              "PDF Page": "883–884",
+              "Printed Page": "848–849",
+              "Figure Number": "Fig. 23.7 is greenhouse-effect context, not the feedback diagram itself",
+              "Definition / Core Concept": "Define negative feedback as slowing/reversing a process and positive feedback as enhancing/amplifying it",
+              "Quantitative Information": "No required values",
+              "Notes": "Source-map ID: M-11",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 81,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Climate control",
+              "Subtopic": "Surface temperature depends on insolation, albedo, and greenhouse effect",
+              "Slide": "35–37",
+              "Source Book": "HB",
+              "Chapter": "Ch.9",
+              "Section": "Surface Temperature",
+              "PDF Page": "230–234",
+              "Printed Page": "Not shown in supplied PDF",
+              "Figure Number": "Figs. 9-7–9-9",
+              "Definition / Core Concept": "Give a simple control-system frame before individual feedback examples",
+              "Quantitative Information": "Earth's albedo about 0.3; stated mean surface temperature 15°C; detailed radiative numbers are supporting only",
+              "Notes": "Source-map ID: S-03",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 82,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Feedback",
+              "Subtopic": "Positive vs negative",
+              "Slide": "35, 41, 43",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Balancing the Climate System Through Feedbacks",
+              "PDF Page": "1176–1178",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Positive feedback enhances/amplifies an initial change; negative feedback reduces/opposes and tends to stabilize it.",
+              "Quantitative Information": "None.",
+              "Notes": "Use the induced-change relationship, not merely “positive = good / negative = bad.”",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 83,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Climate feedback",
+              "Subtopic": "Water-vapor feedback chain",
+              "Slide": "36, 40, 41",
+              "Source Book": "EP",
+              "Chapter": "Ch.23",
+              "Section": "23.4 Global Climate Change — The Role of Greenhouse Gases",
+              "PDF Page": "883–884",
+              "Printed Page": "848–849",
+              "Figure Number": "None",
+              "Definition / Core Concept": "Source-grounded chain: warming → more ocean evaporation → more atmospheric H₂O → stronger greenhouse effect → additional warming",
+              "Quantitative Information": "Atmospheric H₂O generally stays less than nine days; this supports fast turnover, not an isolated climate driver",
+              "Notes": "Source-map ID: M-12",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 84,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Climate feedback",
+              "Subtopic": "Water-vapor feedback",
+              "Slide": "36, 40, 41",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Balancing the Climate System Through Feedbacks",
+              "PDF Page": "1177",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Warming → evaporation → more atmospheric water vapor → stronger greenhouse effect → further warming.",
+              "Quantitative Information": "None.",
+              "Notes": "Explicitly classified by UE as positive feedback.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 85,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Greenhouse context",
+              "Subtopic": "Why water vapor/CO₂ matter",
+              "Slide": "36–39",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Earth’s Greenhouse Atmosphere",
+              "PDF Page": "1173–1175",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Greenhouse gases absorb and reradiate infrared energy, including downward, warming the surface relative to a no-greenhouse atmosphere.",
+              "Quantitative Information": "Mean surface ~14°C vs ~−19°C without greenhouse gases; difference 33°C.",
+              "Notes": "Prior context only; do not turn Lecture 16 into a greenhouse-effect lecture.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 86,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Cryosphere feedback",
+              "Subtopic": "Ice–albedo positive feedback and thermostat interaction",
+              "Slide": "37, 40, 41",
+              "Source Book": "HB",
+              "Chapter": "Ch.9",
+              "Section": "Snowball Earth",
+              "PDF Page": "251–252",
+              "Printed Page": "Not shown in supplied PDF",
+              "Figure Number": "Fig. 9-12 is field evidence, not required for the mechanism",
+              "Definition / Core Concept": "Support warming/cooling chain and contrast fast amplification with the slow carbon-weathering recovery pathway",
+              "Quantitative Information": "Snowball scenario states roughly 10 million years of CO₂ accumulation before large greenhouse warming; use only as an order-of-magnitude supporting example",
+              "Notes": "Source-map ID: M-16",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 87,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Climate feedback",
+              "Subtopic": "Ice–albedo feedback",
+              "Slide": "37, 40, 41",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Balancing the Climate System Through Feedbacks",
+              "PDF Page": "1177",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Warming → reduced ice/snow → lower albedo → more absorbed energy → further warming.",
+              "Quantitative Information": "Earth albedo ~29% and Moon ~7% in greenhouse context (PDF 1172–1173); these numbers are not required for the loop.",
+              "Notes": "UE calls it “Albedo feedback”; Blueprint title “Ice–Albedo Feedback” is faithful to the stated mechanism.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 88,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Weathering thermostat",
+              "Subtopic": "Long response time and negative-feedback direction",
+              "Slide": "38, 40, 41",
+              "Source Book": "HB",
+              "Chapter": "Ch.9",
+              "Section": "Earth's Long-Term Thermostat",
+              "PDF Page": "248–249",
+              "Printed Page": "Not shown in supplied PDF",
+              "Figure Number": "Fig. 9-11",
+              "Definition / Core Concept": "Make explicit that warmer/wetter/more acidic conditions increase weathering and CO₂ removal; cooling slows removal and permits volcanic CO₂ to rebuild",
+              "Quantitative Information": "Text gives tectonic timescales of >10^5–10^7 years",
+              "Notes": "Source-map ID: M-15",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 89,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Climate feedback",
+              "Subtopic": "Weathering thermostat",
+              "Slide": "38, 40, 41",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Lithosphere-Atmosphere Gas Exchange",
+              "PDF Page": "1212–1213",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "UE supports: silicate weathering removes atmospheric CO₂ into lithospheric carbonate and tends to cool climate over millions of years.",
+              "Quantitative Information": "Net flux <0.1 Gt C/yr; millions of years; Himalayan uplift began ~40 Ma (example).",
+              "Notes": "PARTIAL: term “weathering thermostat” and the causal step “higher temperature/CO₂ → faster weathering” are NOT FOUND in assigned UE chapters. Do not attribute the complete negative-feedback loop to UE alone.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "VERIFIED — PARTIAL; COMPANION SOURCE REQUIRED"
+            }
+          },
+          {
+            "row": 90,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Climate feedback",
+              "Subtopic": "Biosphere / plant growth",
+              "Slide": "39, 40, 41",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "Balancing the Climate System Through Feedbacks",
+              "PDF Page": "1178",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "Higher atmospheric CO₂ stimulates plant growth; plants remove CO₂ into organic matter, reducing greenhouse effect.",
+              "Quantitative Information": "No response time or flux is attached to this feedback example.",
+              "Notes": "UE explicitly classifies it as negative. Avoid extending into full Earth-system ecology.",
+              "Evidence Class": "SOURCE-DERIVED",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 91,
+            "record": {
+              "Content Level": "SHOULD TEACH",
+              "Topic": "Feedback clocks",
+              "Subtopic": "Forcing and feedback are not the same; responses span tectonic, orbital, and abrupt-circulation times",
+              "Slide": "40, 41",
+              "Source Book": "HB",
+              "Chapter": "Ch.18",
+              "Section": "Chapter overview; Intermediate Term Climate Variations; Summary",
+              "PDF Page": "455–456, 465–475",
+              "Printed Page": "Not shown in supplied PDF",
+              "Figure Number": "None required",
+              "Definition / Core Concept": "Demonstrate that climate responses have different clocks and that fast changes cannot be assigned to the tectonic thermostat",
+              "Quantitative Information": "Intermediate variations 10^4–10^5 yr; abrupt variations 10^1–10^3 yr; weathering thermostat >10^5–10^7 yr from Ch.9",
+              "Notes": "Source-map ID: S-05",
+              "Evidence Class": "SYNTHESIS based on SOURCE-DERIVED HB text",
+              "Status": "APPROVED"
+            }
+          },
+          {
+            "row": 92,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Feedback timescales",
+              "Subtopic": "Different clocks",
+              "Slide": "40",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch. 12",
+              "Section": "The Atmosphere; The Cryosphere; The Lithosphere; Carbon Cycle",
+              "PDF Page": "1148; 1161–1162; 1165; 1213",
+              "Printed Page": "NOT VISIBLE",
+              "Figure Number": "",
+              "Definition / Core Concept": "UE supports relative clocks: atmosphere mobile/rapid; cryosphere seasonal to glacial; volcanic aerosol cooling recovered in ~4 yr; silicate weathering acts over millions of years.",
+              "Quantitative Information": "Seasonal sea ice; last glacial maximum ~20 ka; volcanic recovery ~4 yr; weathering millions of years.",
+              "Notes": "SYNTHESIS/PARTIAL: UE does not provide a unified response-time table for radiative, hydrological, cryosphere, biosphere and weathering feedbacks; plant-growth response time is not stated.",
+              "Evidence Class": "SYNTHESIS",
+              "Status": "VERIFIED — PARTIAL; COMPANION SOURCE REQUIRED"
+            }
+          },
+          {
+            "row": 93,
+            "record": {
+              "Content Level": "MUST TEACH",
+              "Topic": "Earth-system challenge evidence base",
+              "Subtopic": "水-碳路径、反馈方向与时间尺度综合判断",
+              "Slide": "41",
+              "Source Book": "地球系统与演变（第3–4章）",
+              "Chapter": "Ch.3 + Ch.4",
+              "Section": "3.3.2.3 三相转换的气候意义；4.4.3 碳循环的时间尺度；4.5.1 地质碳储库",
+              "PDF Page": "39-40, 78-80",
+              "Printed Page": "124-125, 163-165",
+              "Figure Number": "图 3-29；图 3-30；图 4-15；图 4-16",
+              "Definition / Core Concept": "供综合课堂题使用：从温度增加出发，画水汽/冰雪/海洋/风化等多条路径并比较速度；反馈定义和最终判定仍需与指定 UE/HB 来源一致。",
+              "Quantitative Information": "只采用本教材支持的方向和时间尺度；不把本教材未明确命名的反馈机制自行升级为唯一结论。",
+              "Notes": "见对应题注",
+              "Evidence Class": "SYNTHESIS",
+              "Status": "APPROVED"
+            }
+          }
+        ]
+      },
+      "Source Conflicts": {
+        "header_row": 4,
+        "matches": [
+          {
+            "row": 7,
+            "record": {
+              "Topic": "Mean incoming solar energy",
+              "Source A": "UE prose/Fig.12.10: 340 W/m²",
+              "Source B": "UE Fig.12.9 description: 342 W/m²",
+              "Difference": "2 W/m²",
+              "Possible Reason": "Rounding or legacy description",
+              "Teaching Impact": "Negligible for this lecture",
+              "Canonical Resolution": "Omit from Lecture 16; if required later, use 340 W/m²",
+              "Slides": "36–37 context",
+              "User Decision": "NO",
+              "Status": "RESOLVED",
+              "Source Map": "UE",
+              "Notes": "Not a memorization target"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "figure_index": {
+    "path": "E:\\PG\\2026 Hydrological cycle\\planning\\L16_FIGURE_INDEX.xlsx",
+    "sheets": {
+      "Figure Index": {
+        "header_row": 4,
+        "matches": [
+          {
+            "row": 6,
+            "record": {
+              "Figure ID": "W-02",
+              "Status": "APPROVED",
+              "Source Book": "Earth: Portrait of a Planet, 5e (EP)",
+              "Chapter": "Interlude F",
+              "Section": "F.4 The Hydrologic Cycle",
+              "PDF Page": "615–616",
+              "Printed Page": "580–581",
+              "Figure Number": "Unnumbered two-page spread",
+              "Original Caption": "GEOLOGY AT A GLANCE — The Hydrologic Cycle",
+              "Original Language": "English",
+              "Teaching Purpose": "Global hydrologic-cycle overview and concept check",
+              "Planned Slide": "09, 19",
+              "Crop / Redraw / Re-label": "Crop outer bars/text or faithfully redraw bilingually; never stretch",
+              "Attribution Text": "Source: EP 5e, Interlude F, The Hydrologic Cycle, pp.580–581 (PDF pp.615–616).",
+              "Asset Path": "assets/figures/approved/W-02_EP_InterludeF_HydrologicCycle_pdf615-616_print580-581_spread_raw.png",
+              "Notes": "Wide spread; direct full-slide placement would make labels small",
+              "Production Authorization": "APPROVED FIGURE"
+            }
+          },
+          {
+            "row": 10,
+            "record": {
+              "Figure ID": "W-06",
+              "Status": "APPROVED",
+              "Source Book": "地球系统与演变",
+              "Chapter": "Ch.3",
+              "Section": "3.2.2.2 地球表层与内部的水交换",
+              "PDF Page": "21",
+              "Printed Page": "106",
+              "Figure Number": "图 3-13",
+              "Original Caption": "地球内部的水循环（修改自 Ohtani，2005）",
+              "Original Language": "Chinese",
+              "Teaching Purpose": "Deep-water cycle: subduction, mantle, volcanism",
+              "Planned Slide": "17, 18",
+              "Crop / Redraw / Re-label": "Simplify depth/pressure labels; preserve pathways and arrow directions",
+              "Attribution Text": "Source: 地球系统与演变, Fig. 3-13, p.106 (PDF p.21).",
+              "Asset Path": "assets/figures/approved/W-06_Fig3-13_PDF21_print106_raw.png",
+              "Notes": "Primary evidence for the mantle-scale pathway",
+              "Production Authorization": "APPROVED FIGURE"
+            }
+          },
+          {
+            "row": 11,
+            "record": {
+              "Figure ID": "C-01",
+              "Status": "APPROVED",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch.12",
+              "Section": "The Cycling of Carbon",
+              "PDF Page": "1209",
+              "Printed Page": "Not visible",
+              "Figure Number": "Figure 12.19",
+              "Original Caption": "The carbon cycle describes the fluxes of carbon between the atmosphere and its other principal reservoirs. Amounts are in gigatons; fluxes are in gigatons per year.",
+              "Original Language": "English",
+              "Teaching Purpose": "Primary global carbon reservoirs and fluxes",
+              "Planned Slide": "22–23, 32",
+              "Crop / Redraw / Re-label": "Use intact or simplify without changing amounts, units, or arrow meaning",
+              "Attribution Text": "Source: UE 8e, Fig. 12.19, PDF p.1209.",
+              "Asset Path": "assets/figures/approved/C-01_UE_Fig12-19_PDF1209_raw.png",
+              "Notes": "Newly extracted at 300 dpi and visually verified; caption retained",
+              "Production Authorization": "APPROVED FIGURE"
+            }
+          },
+          {
+            "row": 14,
+            "record": {
+              "Figure ID": "C-04",
+              "Status": "APPROVED",
+              "Source Book": "地球系统与演变",
+              "Chapter": "Ch.4",
+              "Section": "4.3.2 表层海的碳汇与碳源",
+              "PDF Page": "68",
+              "Printed Page": "153",
+              "Figure Number": "图 4-9",
+              "Original Caption": "海洋吸收大气 CO₂ 的生物泵和物理泵",
+              "Original Language": "Chinese",
+              "Teaching Purpose": "Physical, biological, and carbonate pumps",
+              "Planned Slide": "27–28",
+              "Crop / Redraw / Re-label": "Faithful bilingual redraw preferred; distinguish all pumps",
+              "Attribution Text": "Source: 地球系统与演变, Fig. 4-9, p.153 (PDF p.68).",
+              "Asset Path": "assets/figures/approved/C-04_Fig4-9_PDF68_print153_raw.png",
+              "Notes": "Small labels are dense at projector scale",
+              "Production Authorization": "APPROVED FIGURE"
+            }
+          },
+          {
+            "row": 15,
+            "record": {
+              "Figure ID": "C-05",
+              "Status": "APPROVED",
+              "Source Book": "地球系统与演变",
+              "Chapter": "Ch.4",
+              "Section": "4.5.1 地质碳储库",
+              "PDF Page": "80",
+              "Printed Page": "165",
+              "Figure Number": "图 4-16",
+              "Original Caption": "地质和表层碳储库的碳循环（据 Des Marais，2001 改）",
+              "Original Language": "Chinese",
+              "Teaching Purpose": "Slow carbon cycle and multiple timescales",
+              "Planned Slide": "29–31, 38",
+              "Crop / Redraw / Re-label": "De-emphasize isotope axis; preserve fluxes and timescales",
+              "Attribution Text": "Source: 地球系统与演变, Fig. 4-16, p.165 (PDF p.80).",
+              "Asset Path": "assets/figures/approved/C-05_Fig4-16_PDF80_print165_raw.png",
+              "Notes": "Conceptually strong but visually dense",
+              "Production Authorization": "APPROVED FIGURE"
+            }
+          },
+          {
+            "row": 16,
+            "record": {
+              "Figure ID": "C-06",
+              "Status": "APPROVED",
+              "Source Book": "地球系统与演变",
+              "Chapter": "Ch.4",
+              "Section": "4.5.2 早期地球的碳储库演变",
+              "PDF Page": "81",
+              "Printed Page": "166",
+              "Figure Number": "图 4-17",
+              "Original Caption": "冥古宙和显生宙地幔碳循环的比较（据 Dasgupta，2013 改）",
+              "Original Language": "Chinese",
+              "Teaching Purpose": "Backup deep/slow carbon-cycle comparison",
+              "Planned Slide": "30–31",
+              "Crop / Redraw / Re-label": "Keep both panels and caption; do not expand early-atmosphere topic",
+              "Attribution Text": "Source: 地球系统与演变, Fig. 4-17, p.166 (PDF p.81).",
+              "Asset Path": "assets/figures/approved/C-06_Fig4-17_PDF81_print166_raw.png",
+              "Notes": "Backup only",
+              "Production Authorization": "APPROVED FIGURE"
+            }
+          },
+          {
+            "row": 17,
+            "record": {
+              "Figure ID": "F-01",
+              "Status": "APPROVED",
+              "Source Book": "How to Build a Habitable Planet (HB)",
+              "Chapter": "Ch.9",
+              "Section": "Earth's Long-Term Thermostat",
+              "PDF Page": "249",
+              "Printed Page": "Not shown",
+              "Figure Number": "Figure 9-11",
+              "Original Caption": "Illustration of feedbacks that control atmospheric CO₂ and surface temperature on Earth, as described in the text.",
+              "Original Language": "English",
+              "Teaching Purpose": "Weathering thermostat and negative-feedback direction",
+              "Planned Slide": "38, 40–41",
+              "Crop / Redraw / Re-label": "Evidence/redraw source; update Ca++ to Ca²⁺ without changing logic",
+              "Attribution Text": "Source: HB, Ch.9, Fig. 9-11, PDF p.249.",
+              "Asset Path": "assets/figures/approved/F-01_HB_Ch09_Fig9-11_pdf249_rawcrop.png",
+              "Notes": "Sharp grayscale source; faithful bilingual redraw required for Slide 38",
+              "Production Authorization": "APPROVED FIGURE"
+            }
+          },
+          {
+            "row": 18,
+            "record": {
+              "Figure ID": "F-02",
+              "Status": "CANDIDATE",
+              "Source Book": "Understanding Earth, 8e (UE)",
+              "Chapter": "Ch.12",
+              "Section": "Balancing the Climate System Through Feedbacks",
+              "PDF Page": "1177–1178",
+              "Printed Page": "Not visible",
+              "Figure Number": "CUSTOM REDRAW",
+              "Original Caption": "N/A — approved source text defines representative feedbacks",
+              "Original Language": "English",
+              "Teaching Purpose": "Positive/negative definition and representative feedback loops",
+              "Planned Slide": "35–37, 39–41",
+              "Crop / Redraw / Re-label": "Create native vector loops from approved source text",
+              "Attribution Text": "Source: UE 8e, Ch.12, PDF pp.1177–1178.",
+              "Asset Path": "Pending — native/vector visual not yet authored",
+              "Notes": "No external infographic; this is not a missing raster asset",
+              "Production Authorization": "APPROVED NATIVE/VECTOR BRIEF"
+            }
+          },
+          {
+            "row": 19,
+            "record": {
+              "Figure ID": "I-01",
+              "Status": "CANDIDATE",
+              "Source Book": "Composite approved textbooks",
+              "Chapter": "UE Chs.12/17; CN Ch.3; EP Ch.23; HB Ch.9",
+              "Section": "Water–Earth System synthesis",
+              "PDF Page": "See Source Matrix",
+              "Printed Page": "See Source Matrix",
+              "Figure Number": "CUSTOM REDRAW",
+              "Original Caption": "Water links atmosphere, ocean, land/life, rock, and deep Earth",
+              "Original Language": "Bilingual",
+              "Teaching Purpose": "Integrated water–Earth-system diagram",
+              "Planned Slide": "18",
+              "Crop / Redraw / Re-label": "Redraw from W-02 + W-06 and approved text only",
+              "Attribution Text": "Redrawn from approved sources: W-02, W-06, UE/EP/HB passages in Source Matrix.",
+              "Asset Path": "Pending — custom redraw not yet authored",
+              "Notes": "FIGURE_GAP resolved by redraw plan; no external source needed",
+              "Production Authorization": "APPROVED REDRAW BRIEF"
+            }
+          },
+          {
+            "row": 20,
+            "record": {
+              "Figure ID": "I-02",
+              "Status": "CANDIDATE",
+              "Source Book": "Composite approved textbooks",
+              "Chapter": "UE Ch.12; CN Chs.3–4; EP Ch.23; HB Ch.9",
+              "Section": "Water–Carbon–Feedback synthesis",
+              "PDF Page": "See Source Matrix",
+              "Printed Page": "See Source Matrix",
+              "Figure Number": "CUSTOM REDRAW",
+              "Original Caption": "Integrated water–carbon cycles and feedbacks across ocean, atmosphere, life, weathering, rocks, and climate",
+              "Original Language": "Bilingual",
+              "Teaching Purpose": "Integrated coupling diagram",
+              "Planned Slide": "34",
+              "Crop / Redraw / Re-label": "Redraw from W-02 + C-01 + C-04 + C-05 + F-01",
+              "Attribution Text": "Redrawn from approved sources: W-02, C-01, C-04, C-05, F-01.",
+              "Asset Path": "Pending — custom redraw not yet authored",
+              "Notes": "FIGURE_GAP resolved by redraw plan; no external source needed",
+              "Production Authorization": "APPROVED REDRAW BRIEF"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

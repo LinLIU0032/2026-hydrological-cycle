@@ -1,0 +1,232 @@
+
+=== 2026-09-10T15:17:05.308Z NOTE id=1849f11af46a ===
+Project initialized: profile=default; canvas=ppt169; path=review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910
+
+=== 2026-09-10T15:17:20.577Z PYTHON run=ff19232c231a ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "planning/tooling/ppt-master-v6.3.1/ppt-master/skills/ppt-master/scripts/project_manager.py", "import-sources", "review/L16_STYLE_SAMPLE_v01_previews/L16_STYLE_SAMPLE_v01_ppt169_20260910", "planning/L16_BLUEPRINT_v1.md", "planning/L16_STYLE_SPEC_v1.md", "planning/L16_SOURCE_MATRIX.xlsx", "planning/L16_FIGURE_INDEX.xlsx", "planning/L09_STYLE_AUDIT.md", "review/L16_STYLE_SAMPLE_v01_previews/_intake", "assets/figures/approved/W-02_EP_InterludeF_HydrologicCycle_pdf615-616_print580-581_spread_raw.png", "assets/figures/approved/C-01_UE_Fig12-19_PDF1209_raw.png", "assets/figures/approved/C-04_Fig4-9_PDF68_print153_raw.png", "assets/figures/approved/F-01_HB_Ch09_Fig9-11_pdf249_rawcrop.png"]
+stdout:
+  [OK] Imported sources into: review/L16_STYLE_SAMPLE_v01_previews/L16_STYLE_SAMPLE_v01_ppt169_20260910
+=== 2026-09-10T15:17:21.107Z END run=ff19232c231a elapsed_ms=531 output_lines=32 retained=1 omitted=31 ===
+
+=== 2026-09-10T15:19:03.963Z PYTHON run=5c9ed74dbcfd ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "planning/tooling/ppt-master-v6.3.1/ppt-master/skills/ppt-master/scripts/analyze_images.py", "review/L16_STYLE_SAMPLE_v01_previews/L16_STYLE_SAMPLE_v01_ppt169_20260910/images"]
+stdout:
+  [REPORT] Image analysis CSV: E:\PG\2026 Hydrological cycle\review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910\analysis\image_analysis.csv
+=== 2026-09-10T15:19:04.162Z END run=5c9ed74dbcfd elapsed_ms=202 output_lines=21 retained=1 omitted=20 ===
+
+=== 2026-09-11T02:29:45.689Z PYTHON run=1481a7020bb4 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\project_manager.py", "validate", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910"]
+stdout:
+  [WARN]
+  [OK] Project structure is valid, with warnings.
+=== 2026-09-11T02:29:46.945Z END run=1481a7020bb4 elapsed_ms=1250 output_lines=5 retained=2 omitted=3 ===
+
+=== 2026-09-11T02:32:21.976Z PYTHON run=d79fe85b1a6d ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\text_measure.py", "calibrate", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910", "--outline"]
+=== 2026-09-11T02:32:22.338Z END run=d79fe85b1a6d elapsed_ms=359 output_lines=15 retained=0 omitted=15 ===
+
+=== 2026-09-11T02:32:34.306Z PYTHON run=8a26cbca6b0f ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_editor\\server.py", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910", "--live", "--daemon"]
+stderr:
+  [10:32:34] [INFO] svg_editor: started live preview in background: http://127.0.0.1:6060 (pid=1536)
+  [10:32:34] [INFO] svg_editor: log: E:\PG\2026 Hydrological cycle\review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910\live_preview\server.log
+=== 2026-09-11T02:32:35.051Z END run=8a26cbca6b0f elapsed_ms=750 output_lines=2 retained=2 omitted=0 ===
+
+=== 2026-09-11T02:36:49.339Z PYTHON run=4d220e1dbd52 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_quality_checker.py", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910", "--canonical-authoring", "--stage", "early", "--json"]
+stdout:
+  [ERROR] 01_cover.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 34 (3 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: cover-title:font-weight None -> 'bold'; text[8]:font-weight 'bold' -> None; text[11]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [OK] 02_learning_objectives.svg - Passed
+     viewBox: 0 0 1280 720
+  [ERROR] 03_toc.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 26 (3 occurrences), 28 (3 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (7 change(s)); examples: toc-reading-path:font-size None -> '15'; text[51]:font-size '15' -> None; text[52]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [WARN] 09_global_hydrologic_cycle.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+     [WARN] Image ../images/W-02_EP_InterludeF_HydrologicCycle_pdf615-616_print580-581_spread_raw.png is 5900x3513 and renders at 0.14x scale in a 826x464 slice frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset
+  [OK] 23_global_carbon_cycle.svg - Passed
+  [SUMMARY] Check Summary
+  Total files: 5
+    [OK] Fully passed: 2 (40%)
+    [WARN] With warnings: 1 (20%)
+    [ERROR] With errors: 2 (40%)
+  Provenance categories:
+    blocking: 2          hard findings; gate also requires exit 0
+    introduced: 3        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 5 | text: 89 | images: 2 | icons: 0
+    Geometry: SVG elements 63 | native presets 0 | page-frame elements 7 | marker uses 0
+  [REPORT] JSON quality report exported: E:\PG\2026 Hydrological cycle\review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910\validation\svg_quality_early_report.json
+=== 2026-09-11T02:36:51.154Z END run=4d220e1dbd52 elapsed_ms=1828 output_lines=55 retained=28 omitted=27 ===
+
+=== 2026-09-11T02:39:08.211Z PYTHON run=ef91b344a267 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\project_manager.py", "validate", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910"]
+stdout:
+  [OK] Project structure is complete.
+=== 2026-09-11T02:39:08.812Z END run=ef91b344a267 elapsed_ms=609 output_lines=3 retained=1 omitted=2 ===
+
+=== 2026-09-11T02:39:17.066Z PYTHON run=9f357efd84f8 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_quality_checker.py", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910", "--canonical-authoring", "--stage", "early", "--json"]
+stdout:
+  [WARN] 01_cover.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: cover-title:font-weight None -> 'bold'; text[8]:font-weight 'bold' -> None; text[11]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [OK] 02_learning_objectives.svg - Passed
+  [WARN] 03_toc.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (7 change(s)); examples: toc-reading-path:font-size None -> '15'; text[51]:font-size '15' -> None; text[52]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [SUMMARY] Check Summary
+  Total files: 5
+    [OK] Fully passed: 2 (40%)
+    [WARN] With warnings: 3 (60%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 3        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 5 | text: 89 | images: 2 | icons: 0
+    Geometry: SVG elements 63 | native presets 0 | page-frame elements 7 | marker uses 0
+  [REPORT] JSON quality report exported: E:\PG\2026 Hydrological cycle\review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910\validation\svg_quality_early_report.json
+=== 2026-09-11T02:39:18.236Z END run=9f357efd84f8 elapsed_ms=1171 output_lines=47 retained=19 omitted=28 ===
+
+=== 2026-09-11T02:44:26.918Z PYTHON run=b0944bbaae88 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_quality_checker.py", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [WARN] 01_cover.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: cover-title:font-weight None -> 'bold'; text[8]:font-weight 'bold' -> None; text[11]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [OK] 02_learning_objectives.svg - Passed
+  [WARN] 03_toc.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (7 change(s)); examples: toc-reading-path:font-size None -> '15'; text[51]:font-size '15' -> None; text[52]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [ERROR] 27_ocean_carbon_pumps.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <g id="ocean-field"> data-pptx-bounds overlaps <g id="physical-pump"> data-pptx-bounds by 334.0px x 276.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [ERROR] <g id="ocean-field"> data-pptx-bounds overlaps <g id="biological-pump"> data-pptx-bounds by 334.0px x 276.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [ERROR] <g id="ocean-field"> data-pptx-bounds overlaps <g id="carbonate-path"> data-pptx-bounds by 334.0px x 342.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+  [WARN] 35_what_is_feedback.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (9 change(s)); examples: decision-strip:font-size None -> '15'; text[55]:font-size '15' -> None; text[56]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<line> #5, <polygon> #6, <line> #7, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] 38_weathering_thermostat.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <g id="teaching-message"> data-pptx-bounds overlaps <g id="timescale"> data-pptx-bounds by 326.0px x 42.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: loop-caption:font-size None -> '15'; text[70]:font-size '15' -> None; text[71]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [WARN] 44_key_takeaways.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+     [WARN] Detected 4 paragraph-like line run(s) split across sibling <text> elements (<g id="takeaway-3"> x=122.0, y=374.0..400.0, 2 lines; <g id="takeaway-4"> x=742.0, y=374.0..400.0, 2 lines; <g id="takeaway-5"> x=122.0, y=526.0..552.0, 2 lines; +1 more). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+  [SUMMARY] Check Summary
+  Total files: 9
+    [OK] Fully passed: 2 (22%)
+    [WARN] With warnings: 5 (55%)
+    [ERROR] With errors: 2 (22%)
+  Provenance categories:
+    blocking: 4          hard findings; gate also requires exit 0
+    introduced: 8        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 9 | text: 206 | images: 2 | icons: 0
+    Geometry: SVG elements 165 | native presets 0 | page-frame elements 11 | marker uses 0
+  [REPORT] JSON quality report exported: E:\PG\2026 Hydrological cycle\review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910\validation\svg_quality_report.json
+=== 2026-09-11T02:44:28.097Z END run=b0944bbaae88 elapsed_ms=1187 output_lines=68 retained=35 omitted=33 ===
+
+=== 2026-09-11T02:45:12.237Z PYTHON run=669dd23b6dc9 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_quality_checker.py", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [WARN] 01_cover.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: cover-title:font-weight None -> 'bold'; text[8]:font-weight 'bold' -> None; text[11]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [OK] 02_learning_objectives.svg - Passed
+  [WARN] 03_toc.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (7 change(s)); examples: toc-reading-path:font-size None -> '15'; text[51]:font-size '15' -> None; text[52]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [ERROR] 27_ocean_carbon_pumps.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g id="ocean-field">); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+  [ERROR] 35_what_is_feedback.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g id="branch-arrows">); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (9 change(s)); examples: decision-strip:font-size None -> '15'; text[56]:font-size '15' -> None; text[57]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [WARN] 38_weathering_thermostat.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: loop-caption:font-size None -> '15'; text[70]:font-size '15' -> None; text[71]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [SUMMARY] Check Summary
+  Total files: 9
+    [OK] Fully passed: 3 (33%)
+    [WARN] With warnings: 4 (44%)
+    [ERROR] With errors: 2 (22%)
+  Provenance categories:
+    blocking: 2          hard findings; gate also requires exit 0
+    introduced: 5        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 9 | text: 202 | images: 2 | icons: 0
+    Geometry: SVG elements 165 | native presets 0 | page-frame elements 15 | marker uses 0
+  [REPORT] JSON quality report exported: E:\PG\2026 Hydrological cycle\review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910\validation\svg_quality_report.json
+=== 2026-09-11T02:45:13.545Z END run=669dd23b6dc9 elapsed_ms=1312 output_lines=63 retained=29 omitted=34 ===
+
+=== 2026-09-11T02:46:01.228Z PYTHON run=d357e0fc23e9 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_quality_checker.py", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [WARN] 01_cover.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: cover-title:font-weight None -> 'bold'; text[8]:font-weight 'bold' -> None; text[11]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [OK] 02_learning_objectives.svg - Passed
+  [WARN] 03_toc.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (7 change(s)); examples: toc-reading-path:font-size None -> '15'; text[51]:font-size '15' -> None; text[52]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+  [SUMMARY] Check Summary
+  Total files: 9
+    [OK] Fully passed: 4 (44%)
+    [WARN] With warnings: 5 (55%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 5        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 9 | text: 202 | images: 2 | icons: 0
+    Geometry: SVG elements 165 | native presets 0 | page-frame elements 15 | marker uses 0
+  [REPORT] JSON quality report exported: E:\PG\2026 Hydrological cycle\review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910\validation\svg_quality_report.json
+=== 2026-09-11T02:46:02.454Z END run=d357e0fc23e9 elapsed_ms=1234 output_lines=59 retained=19 omitted=40 ===
+
+=== 2026-09-11T02:47:25.567Z PYTHON run=2365a627813c ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\total_md_split.py", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910"]
+stdout:
+  [OK] SVG files and notes have one-to-one correspondence
+  [Done] Successfully generated 9/9 file(s)
+  [Done] Notes splitting complete
+=== 2026-09-11T02:47:25.576Z END run=2365a627813c elapsed_ms=15 output_lines=18 retained=3 omitted=15 ===
+
+=== 2026-09-11T02:47:34.457Z PYTHON run=f4970ceb5d58 ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\finalize_svg.py", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910"]
+stdout:
+  [OK] Done!
+=== 2026-09-11T02:47:36.248Z END run=f4970ceb5d58 elapsed_ms=1797 output_lines=12 retained=1 omitted=11 ===
+
+=== 2026-09-11T02:47:47.817Z PYTHON run=5c694ab8ea8e ===
+cwd: E:\PG\2026 Hydrological cycle
+argv: ["E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-py312-v6.3.1\\Scripts\\python.exe", "E:\\PG\\2026 Hydrological cycle\\planning\\tooling\\ppt-master-v6.3.1\\ppt-master\\skills\\ppt-master\\scripts\\svg_to_pptx.py", "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910"]
+stdout:
+  [Done] Saved: E:\PG\2026 Hydrological cycle\review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910\exports\L16_STYLE_SAMPLE_v01_20260911_104748.pptx
+    [POSTFLIGHT] status=passed-with-warnings quality_gate=passed slides=9 warning_categories=1
+    [POSTFLIGHT][WARNING] quality_introduced_warnings=5
+    [PPTX] E:\PG\2026 Hydrological cycle\review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910\exports\L16_STYLE_SAMPLE_v01_20260911_104748.pptx
+    [REPORT] E:\PG\2026 Hydrological cycle\review\L16_STYLE_SAMPLE_v01_previews\L16_STYLE_SAMPLE_v01_ppt169_20260910\validation\L16_STYLE_SAMPLE_v01_20260911_104748.report.json
+=== 2026-09-11T02:47:51.396Z END run=5c694ab8ea8e elapsed_ms=3577 output_lines=46 retained=5 omitted=41 ===

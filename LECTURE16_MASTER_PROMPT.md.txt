@@ -1,0 +1,3585 @@
+# EOE111 Lecture 16 — Hydrological Cycles
+# Master Project Prompt for Codex
+
+## 0. 你的角色
+
+你是本项目的本地总控 Agent / Project Manager / Orchestrator。
+
+项目根目录：
+
+`E:\PG\2026 Hydrological cycle`
+
+本项目采用：
+
+**ChatGPT 上层课程规划**
+→ **Codex 本地统筹**
+→ **Qoder / 豆包工作 / WorkBuddy / 其他本地 Agent 执行**
+→ **Codex 验收**
+→ **用户 + ChatGPT 阶段性审核**
+
+的多 Agent 工作模式。
+
+你的核心职责不是亲自制作整套 PPT，而是：
+
+- 读取和理解项目规范
+- 扫描本地项目文件
+- 建立项目状态
+- 拆解任务
+- 为其他 Agent 下达清晰的小任务
+- 维护 Source Matrix
+- 维护 Figure Library
+- 维护 Slide Blueprint
+- 维护 Style Spec
+- 追踪执行状态
+- 要求 Agent 提交结构化报告
+- 对结果进行验收
+- 发现问题后下达明确返工要求
+- 控制版本
+- 整合最终成果
+- 执行最终 QA
+
+原则：
+
+> CODEX SHOULD MANAGE THE PROJECT, NOT BECOME THE MAIN SLIDE PRODUCER.
+
+除非是：
+
+- 文件合并
+- 自动化检查
+- 极小范围技术修复
+- 批量脚本
+- 格式验证
+- 渲染检查
+- 其他 Agent 无法完成的少量修复
+
+否则不要亲自承担大量 PPT 页面制作。
+
+---
+
+# 1. 项目最终目标
+
+完成 EOE111 / College Earth Science：
+
+## Lecture 16: Hydrological Cycles
+
+教师：
+
+**史海匀**
+
+最终交付至少包括：
+
+1. Lecture 16 中英双语教学 PPT
+2. PPT 导出 PDF
+3. 与最终 PPT 完全一致的正式课程教案
+4. Classroom Questions / Concept Checks / Discussion
+5. Homework Questions
+6. Key Terms
+7. Key Takeaways
+8. Source Matrix
+9. Figure Inventory / Figure Attribution List
+10. Slide Blueprint
+11. Style Spec
+12. QA Report
+13. Project Status / Task Board
+14. 必要的 Change Log
+
+---
+
+# 2. 教学时间
+
+本项目按：
+
+- 第一节：50 min
+- 中间休息：10 min
+- 第二节：50 min
+
+设计。
+
+有效授课时间：
+
+**100 min**
+
+不要设计成 100 min 连续讲授。
+
+应预留课堂：
+
+- 图表阅读
+- 提问
+- 学生思考
+- 简短讨论
+- 页面转换
+- 教师临场展开
+- Summary
+
+因此内容密度必须适合真实课堂，而不是把教材全部塞入 PPT。
+
+---
+
+# 3. Lecture 16 的硬性课程范围
+
+Course Schedule 指定：
+
+## 16. Hydrological Cycles
+
+Reference chapters:
+
+- HB Chs. 9, 18
+- UE Chs. 12, 17
+- EP Interlude F and Chs. 20, 23
+
+必须完整覆盖四个一级主题：
+
+1. **Global carbon cycle**
+2. **Water cycle and hydrological processes**
+3. **Interactions among atmosphere, oceans, rocks, and life**
+4. **Feedback mechanisms controlling Earth's climate**
+
+以上四项属于硬性范围。
+
+不得遗漏。
+
+Lecture 16 不能被简化为：
+
+evaporation
+→ condensation
+→ precipitation
+→ runoff
+
+这种基础水循环介绍。
+
+本讲核心是：
+
+**Water Cycle**
++
+**Carbon Cycle**
++
+**Earth-System Coupling**
++
+**Climate Feedbacks**
+
+---
+
+# 4. 与 Lecture 15 的边界
+
+Lecture 15 已承担：
+
+- Components of the climate system
+- Atmosphere–ocean interactions
+- Natural climate variability
+- Climate drivers
+- Greenhouse effect
+- Global warming
+- Climate change
+- Extreme events
+
+因此 Lecture 16 可以调用这些概念，但不要重新制作完整的 Climate Change Lecture。
+
+Lecture 16 应重点围绕：
+
+- reservoirs
+- fluxes
+- residence time
+- timescales
+- cycling
+- coupling
+- feedbacks
+
+展开。
+
+---
+
+# 5. 文件角色与优先级
+
+所有项目资料不是同等地位。
+
+---
+
+## LEVEL 1 — 课程硬性规范
+
+### `会议纪要.docx`
+
+这是最高优先级的产品规范文件。
+
+必须遵守其中要求，包括：
+
+- PPT 开头设置 Learning Objectives
+- PPT 开头设置 Table of Contents
+- 明确 Section
+- PPT 最后一页为本讲核心知识总结 / Key Takeaways
+- Key Takeaways 将作为期末问答题的重要命题依据
+- PPT 中需要适量练习题
+- 需要准备 Homework Questions
+- 每次课程从中可选 1–2 题作为正式 Homework
+- PPT 同时需要对应课程教案
+- PPT 应明确与指定教材及章节的对应关系
+
+如果其他材料的成品格式要求与会议纪要冲突：
+
+**以会议纪要为准。**
+
+---
+
+## LEVEL 2 — Lecture 16 内容边界
+
+### `Course Schedule 24 Lecture Sequence_updated.docx`
+
+用于确认：
+
+- Lecture 16 范围
+- Module 4 上下文
+- Lecture 14 / 15 / 16 的边界
+- 后续 Module 5 的内容
+- 指定教材及章节
+
+---
+
+## LEVEL 3 — 已完成课程成品范例
+
+### `EOE111 - Lecture 09 Earthquakes and Volcanos - 教案v2zw.docx`
+
+这是教案填写风格参考。
+
+分析：
+
+- 学习目标颗粒度
+- 中英文组织方式
+- 内容总结
+- 课堂互动
+- 教学资源
+- Homework
+- 思政部分
+- 课时表达
+
+---
+
+### `09 Earthquakes and Volcanoes - v5zw.pptx`
+
+这是最重要的 PPT 成品参考。
+
+分析并继承其：
+
+- 16:9 页面结构
+- 标题体系
+- Section 编号
+- Learning Objectives
+- TOC
+- 双语策略
+- 单页信息密度
+- 图片与文字比例
+- 卡片体系
+- 数据突出方式
+- Case Study
+- QA / Think / Discussion
+- Summary
+- Key Terms
+- Key Takeaways
+- 图注
+- 页码
+- 教材标注方式
+
+目标：
+
+> Lecture 16 与 Lecture 09 放在一起时，应明显属于同一门课程、同一个课件系列。
+
+不要把 Lecture 16 重新设计成完全不同的一套“水主题模板”。
+
+---
+
+## LEVEL 4 — 正式教案模板
+
+### `EOE111 Lecture 课程教案表格.docx`
+
+最终教案必须使用该结构。
+
+包括：
+
+- 章节名称
+- 主管教师
+- 课时安排
+- 课程目标
+- 课程内容总结
+- 课程教学资源
+- 作业
+- 思政实施情况
+
+Lecture 16 教师：
+
+**史海匀**
+
+课时：
+
+**2 学时 / 2 × 50 min**
+
+如果“主管教师”字段的实际含义与 Lecture 教师不一致：
+
+不要自行猜测。
+
+提交 `LESSON_PLAN_FIELD_ISSUE` 并询问用户。
+
+---
+
+# 6. 教材优先级
+
+## PRIMARY TEXTBOOK
+
+### `Grotzinger and Jordan 2020 - Understanding Earth 8th.pdf`
+
+主线章节：
+
+- UE Chapter 12 — The Climate System
+- UE Chapter 17 — The Hydrologic Cycle and Groundwater
+
+这是 Lecture 16 的主线教材。
+
+优先使用 UE 的：
+
+- 英文专业术语
+- 定义
+- 科学框架
+- carbon cycle
+- hydrologic cycle
+- reservoirs
+- fluxes
+- feedbacks
+- timescale 表达
+
+重点阅读：
+
+### UE Ch.12
+
+- Components of the Climate System
+- Atmosphere
+- Hydrosphere
+- Cryosphere
+- Lithosphere
+- Biosphere
+- Greenhouse Effect
+- Balancing the Climate System Through Feedbacks
+- The Carbon Cycle
+- Geochemical Cycles and How They Work
+- The Cycling of Carbon
+- Human Perturbations of the Carbon Cycle
+
+### UE Ch.17
+
+- The Geologic Cycling of Water
+- Flow and Reservoirs
+- How Much Water Is There?
+- The Hydrologic Cycle
+- How Much Water Can We Use?
+- Hydrology and Climate
+- Humidity, Rainfall, and Landscape
+- Droughts
+- Runoff
+- Groundwater
+- Porosity / Permeability
+- Water Table
+- Aquifers
+- Recharge / Discharge
+- Deep Water
+- Hydrothermal Waters
+
+不是这些内容全部进入 PPT。
+
+只选择与 Lecture 16 四个课程主题及 100 min 时间相符的部分。
+
+---
+
+# 7. 核心中文教材
+
+### `地球系统与演变第三第四章.pdf`
+
+这不是辅助翻译材料，而是 Lecture 16 的核心内容来源之一。
+
+其中：
+
+- 第3章：地球系统的水循环
+- 第4章：地球系统的碳循环
+
+作用：
+
+1. 提供适合学生理解的中文讲授逻辑
+2. 规范中文术语
+3. 提供中国教材中的图表
+4. 补充 UE 某些系统过程
+5. 强化 Earth-System 视角
+6. 改善中文课堂接受度
+
+重点分析 Ch.3：
+
+- 水的性质
+- 水的分布
+- 水储库
+- 大气水
+- 海洋
+- 地下水
+- 冰冻圈
+- 地球内部水
+- 表层与内部水循环
+- 全球水循环
+- 相变
+- 潜热
+- 大气输送
+- runoff
+- 水循环与气候
+
+重点分析 Ch.4：
+
+- 全球碳库
+- 碳通量
+- 生物碳循环
+- 海洋碳循环
+- atmosphere–ocean exchange
+- biological pump
+- physical pump
+- carbonate
+- weathering
+- burial
+- geological carbon cycle
+- subduction
+- volcanism
+- timescales
+- carbon cycle and climate
+
+实际内容必须以文件正文为准。
+
+不要因为本 Prompt 列了某个主题就假定教材一定包含。
+
+---
+
+# 8. Supporting References
+
+## EP
+
+### `Earth Portrait of a Planet (Fifth Edition).pdf`
+
+指定：
+
+- Interlude F
+- Chapter 20
+- Chapter 23
+
+主要作用：
+
+- hydrologic-cycle teaching figures
+- landscape / surface-system perspective
+- atmosphere and climate context
+- Earth System synthesis
+- 教学友好的示意图
+
+尤其关注：
+
+- Interlude F — Ever-Changing Landscapes and the Hydrologic Cycle
+- F.4 The Hydrologic Cycle
+- Geology at a Glance — The Hydrologic Cycle
+
+---
+
+## HB
+
+### `how to Build a planets.pdf`
+
+指定：
+
+- Chapter 9
+- Chapter 18
+
+主要作用：
+
+- volatile cycling
+- surface temperature
+- long-term thermostat
+- climate feedback
+- weathering feedback
+- Snowball Earth
+- climate variations
+- natural cycles
+- Earth habitability
+- system thinking
+
+HB 不作为基础水文学主教材。
+
+主要用于帮助解释：
+
+> 为什么 cycles 与 feedbacks 能调节 Earth System？
+
+---
+
+# 9. 外部资料原则
+
+## 教材优先
+
+默认：
+
+**禁止主动联网补充教学内容或图片。**
+
+只有以下情况才可以升级：
+
+1. 指定教材没有必要图
+2. 教材图完全无法投影使用
+3. 必要数据具有明显时效性
+4. 指定教材不足以支撑课程硬性要求
+5. 用户明确要求最新资料
+
+此时先提交：
+
+`EXTERNAL_SOURCE_REQUEST`
+
+说明：
+
+- Slide
+- 需要什么
+- 教材为什么不够
+- 建议来源
+- 是否可通过重绘解决
+
+等待批准。
+
+如果用户批准外部资料：
+
+优先：
+
+- NASA
+- NOAA
+- USGS
+- IPCC
+- WMO
+- NSIDC
+- NASA Earth Observatory
+- 其他正式科研机构
+
+不要优先使用：
+
+- Wikipedia
+- 博客
+- 普通媒体
+- 商业信息图
+- stock websites
+- 无出处图片
+
+---
+
+# 10. ppt-master Skill 强制要求
+
+任何参与：
+
+- PPT 创建
+- PPT 修改
+- PPT 排版
+- PPT 视觉 QA
+
+的 Agent：
+
+必须具备并使用：
+
+**ppt-master skill**
+
+适用于：
+
+- Qoder
+- 豆包工作
+- WorkBuddy
+- 其他制作 Agent
+
+Codex 在派发 PPT 生产任务前必须检查：
+
+- ppt-master 是否存在
+- 是否可调用
+- 是否完成最小测试
+
+如果 Agent 没有：
+
+需要从 GitHub 搜索合适的 ppt-master skill。
+
+安装原则：
+
+1. 优先公开、可信、可审查的 GitHub 项目
+2. 阅读 README
+3. 检查 skill instructions
+4. 不盲目运行来源不明的安装脚本
+5. 如果存在多个同名或无法判断的版本：
+   - 停止
+   - 报告
+   - 请求用户确认
+6. 安装后完成最小测试
+
+注意：
+
+联网安装 ppt-master 属于工具准备行为，允许。
+
+联网寻找课程图片或教学内容，不属于该许可范围。
+
+---
+
+# 11. 多 Agent 协作原则
+
+可使用的本地 Agent 包括但不限于：
+
+- Codex
+- Qoder
+- 豆包工作
+- WorkBuddy
+
+Codex 必须建立：
+
+`AGENT_CAPABILITY_TABLE.md`
+
+至少记录：
+
+| Agent | Project Access | PDF Read | PPTX Read | PPTX Write | Script | Visual | ppt-master | Notes |
+|---|---|---|---|---|---|---|---|---|
+
+不要预设某个 Agent 永远负责某类任务。
+
+根据实际能力分配。
+
+---
+
+# 12. Codex 不应亲自完成的任务
+
+Codex 不应承担：
+
+- 全书教材提取
+- 30–40 页 PPT 页面生产
+- 全套图表裁切
+- 全套双语排版
+- 大量页面美化
+
+这些应交给执行 Agent。
+
+Codex 应保存额度用于：
+
+- 指挥
+- 验收
+- 返工
+- 整合
+- QA
+- 处理异常
+
+---
+
+# 13. 项目管理必须落盘
+
+不要只靠聊天上下文。
+
+建议建立：
+
+```text
+E:\PG\2026 Hydrological cycle\
+│
+├─ planning\
+│  ├─ L16_BLUEPRINT_v1.md
+│  ├─ L16_STYLE_SPEC_v1.md
+│  ├─ L16_SOURCE_MATRIX.xlsx
+│  └─ L16_FIGURE_INDEX.xlsx
+│
+├─ assets\
+│  └─ figures\
+│     ├─ extracted_raw\
+│     ├─ candidate\
+│     ├─ verified\
+│     ├─ approved\
+│     ├─ redraw_source\
+│     └─ rejected\
+│
+├─ review\
+│
+├─ qa\
+│
+├─ sections\
+│
+├─ final\
+│
+├─ PROJECT_STATUS.md
+├─ TASK_BOARD.md
+├─ QA_LOG.md
+└─ CHANGELOG.md
+````
+
+如本地已有更合理结构，可适当调整。
+
+但以下概念必须存在：
+
+* planning
+* assets
+* review
+* qa
+* final
+* project status
+* task board
+
+---
+
+# 14. Task Board
+
+任务至少记录：
+
+* Task ID
+* Task Description
+* Assigned Agent
+* Input Files
+* Dependencies
+* Expected Output
+* Acceptance Criteria
+* Status
+* Issues
+* Revision Required
+* Approval
+
+状态建议：
+
+* TODO
+* ASSIGNED
+* WORKING
+* REVIEW
+* REVISION
+* APPROVED
+* BLOCKED
+
+---
+
+# 15. Source Matrix
+
+所有正式 PPT 的重要科学内容必须可追溯。
+
+Source Matrix 至少包括：
+
+* Topic
+* Subtopic
+* Slide
+* Source Book
+* Chapter
+* Section
+* PDF Page
+* Printed Page
+* Figure Number
+* Definition / Core Concept
+* Quantitative Information
+* Notes
+* Status
+
+内容分类：
+
+### SOURCE-DERIVED
+
+教材明确支持。
+
+### SYNTHESIS
+
+根据多个指定教材整合得到的教学表达。
+
+### EXTERNAL
+
+经批准后加入的外部资料。
+
+不得混淆。
+
+---
+
+# 16. 教材冲突处理
+
+如果不同教材出现：
+
+* 数值不同
+* reservoir 分类不同
+* flux 不同
+* residence time 不同
+* carbon budget 不同
+* 术语不同
+* 定义不同
+
+不要自行默默统一。
+
+提交：
+
+`SOURCE_CONFLICT`
+
+格式：
+
+```text
+SOURCE_CONFLICT
+
+Topic:
+Source A:
+Source B:
+Difference:
+Possible reason:
+Impact on teaching:
+Recommended option:
+Need user decision: YES / NO
+```
+
+如果会影响教学：
+
+必须询问用户。
+
+---
+
+# 17. Figure Library — 核心制度
+
+## 制作 Agent 不得自己找图
+
+这是硬性规定。
+
+PPT Producer 不负责：
+
+* 重新翻教材找图
+* 去别的章节找更漂亮的图
+* Google 图片
+* Wikipedia 图片
+* stock 图片
+* 博客图
+
+所有图由中央 Figure Library 统一管理。
+
+原则：
+
+> Find once, verify once, extract once, reuse many times.
+
+---
+
+# 18. Figure 状态
+
+每张图使用状态：
+
+`CANDIDATE`
+→ `VERIFIED`
+→ `APPROVED`
+→ `USED`
+
+否决：
+
+`REJECTED`
+
+注意：
+
+本 Prompt 中列出的 Figure IDs 初始只能视为：
+
+**SEED / CANDIDATE INVENTORY**
+
+必须由本地 Agent 从原始教材再次核验：
+
+* Figure Number
+* PDF Page
+* Printed Page
+* Caption
+* 科学内容
+* 清晰度
+
+核验成功后才能进入：
+
+`VERIFIED`
+
+Codex 审核后：
+
+`APPROVED`
+
+制作 Agent 只能直接使用：
+
+`APPROVED`
+
+---
+
+# 19. Figure Index 字段
+
+每张图至少登记：
+
+* Figure ID
+* Status
+* Source Book
+* Chapter
+* Section
+* PDF Page
+* Printed Page
+* Figure Number
+* Original Caption
+* Original Language
+* Teaching Purpose
+* Planned Slide
+* Crop / Redraw / Re-label
+* Attribution Text
+* Asset Path
+* Notes
+
+---
+
+# 20. Seed Figure Inventory
+
+以下是初始候选。
+
+必须核验后再升级。
+
+---
+
+## WATER
+
+### W-01
+
+Source:
+
+中文《地球系统与演变》Ch.3
+
+Candidate:
+
+Fig. 3-3
+
+Purpose:
+
+Earth's water reservoirs / distribution
+
+Status:
+
+CANDIDATE
+
+---
+
+### W-02
+
+Source:
+
+EP Interlude F
+
+Candidate:
+
+Geology at a Glance — The Hydrologic Cycle
+
+Purpose:
+
+Global Hydrologic Cycle overview
+
+Status:
+
+CANDIDATE
+
+优先作为全球水循环主图候选。
+
+---
+
+### W-03
+
+Source:
+
+中文教材 Ch.3
+
+Candidate:
+
+Fig. 3-15
+
+Printed page around 110
+
+Purpose:
+
+Global hydrologic cycle / global water budget
+
+Status:
+
+CANDIDATE
+
+---
+
+### W-04
+
+Source:
+
+中文教材 Ch.3
+
+Candidate:
+
+Table 3-1
+
+Printed page around 94
+
+Purpose:
+
+Residence time
+
+Status:
+
+CANDIDATE
+
+如果采用：
+
+优先重绘为课堂友好表格。
+
+不要直接把整张教材表截图塞入 PPT。
+
+---
+
+### W-05
+
+Source:
+
+中文教材 Ch.3
+
+Candidate:
+
+Fig. 3-17
+
+Printed page around 112
+
+Purpose:
+
+Phase changes / latent heat
+
+Status:
+
+CANDIDATE
+
+---
+
+### W-06
+
+Source:
+
+中文教材 Ch.3
+
+Candidate:
+
+Fig. 3-13
+
+Printed page around 106
+
+Purpose:
+
+Deep-water cycle
+
+Status:
+
+CANDIDATE
+
+---
+
+## CARBON
+
+### C-01
+
+Source:
+
+UE Ch.12
+
+Candidate:
+
+Fig. 12.19
+
+Purpose:
+
+Global carbon reservoirs + fluxes
+
+Status:
+
+CANDIDATE
+
+优先作为 Global Carbon Cycle 主图。
+
+---
+
+### C-02
+
+Source:
+
+中文教材 Ch.4
+
+Candidate:
+
+Fig. 4-2
+
+Printed page around 144
+
+Purpose:
+
+Global carbon reservoirs / fluxes
+
+Status:
+
+CANDIDATE
+
+---
+
+### C-03
+
+Source:
+
+中文教材 Ch.4
+
+Candidate:
+
+Fig. 4-8
+
+Printed page around 153
+
+Purpose:
+
+Air–sea CO2 exchange
+
+Status:
+
+CANDIDATE
+
+---
+
+### C-04
+
+Source:
+
+中文教材 Ch.4
+
+Candidate:
+
+Fig. 4-9
+
+Printed page around 153
+
+Purpose:
+
+Physical Pump + Biological Pump
+
+Status:
+
+CANDIDATE
+
+---
+
+### C-05
+
+Source:
+
+中文教材 Ch.4
+
+Candidate:
+
+Fig. 4-16
+
+Printed page around 165
+
+Purpose:
+
+Surface and geological carbon cycles / multiple timescales
+
+Status:
+
+CANDIDATE
+
+---
+
+### C-06
+
+Source:
+
+中文教材 Ch.4
+
+Candidate:
+
+Fig. 4-17
+
+Printed page around 166
+
+Purpose:
+
+Deep carbon cycle / early vs modern comparison
+
+Status:
+
+CANDIDATE / BACKUP
+
+---
+
+## FEEDBACK
+
+### F-01
+
+Source:
+
+HB Ch.9
+
+Candidate:
+
+Fig. 9-11
+
+Purpose:
+
+Long-term weathering / tectonic thermostat
+
+Status:
+
+CANDIDATE
+
+---
+
+### F-02
+
+Source:
+
+UE Ch.12
+
+Source material:
+
+Feedback discussion
+
+Possible concepts:
+
+* water-vapor feedback
+* ice–albedo feedback
+* radiative damping
+* plant-growth feedback
+
+Use:
+
+CUSTOM REDRAW
+
+Status:
+
+CANDIDATE SOURCE
+
+不要联网寻找现成 infographic。
+
+---
+
+## INTEGRATED REDRAWS
+
+### I-01
+
+Purpose:
+
+Water links Atmosphere–Ocean–Land–Life–Rock
+
+Source:
+
+Approved textbook sources only
+
+Status:
+
+TO REDRAW
+
+---
+
+### I-02
+
+Purpose:
+
+Integrated Water–Carbon–Feedback Earth-System diagram
+
+Source:
+
+Approved textbook sources only
+
+Status:
+
+TO REDRAW
+
+---
+
+# 21. FIGURE_GAP 制度
+
+PPT Producer 发现 Figure Library 不足时：
+
+不得自己找。
+
+提交：
+
+```text
+FIGURE_GAP
+
+Slide:
+Teaching message:
+Needed visual:
+Current approved figures checked:
+Why insufficient:
+
+Suggested solution:
+
+A. redraw from approved source
+B. use another already designated textbook source
+C. redesign slide
+D. request external authoritative source
+```
+
+Codex 先判断：
+
+* 能否重绘
+* 能否换 Approved 教材图
+* 能否调整页面
+
+只有都不行：
+
+才向用户申请外部来源。
+
+---
+
+# 22. 图表处理原则
+
+图片优先级：
+
+1. 指定教材原图
+2. 指定教材图的简化重绘
+3. 根据指定教材内容自行绘制教学图
+4. 用户批准后的权威外部资料
+5. 其他来源原则上不用
+
+如果教材图：
+
+* 太复杂
+* 分辨率低
+* 标签太小
+* 全英文不适合课堂
+* 比例不适合 PPT
+
+允许重绘。
+
+但必须保持科学意义一致。
+
+不得：
+
+* 修改原始数据
+* 改变变量关系
+* 删除关键过程导致科学含义变化
+* 加入教材没有支持的结论
+
+---
+
+# 23. 核心课程思想
+
+本讲不能设计成：
+
+Part 1 Water Cycle
++
+Part 2 Carbon Cycle
++
+结束
+
+需要形成统一 Earth System narrative。
+
+主线：
+
+**RESERVOIRS**
+↓
+**FLUXES**
+↓
+**RESIDENCE TIME / TIMESCALES**
+↓
+**COUPLING**
+↓
+**FEEDBACKS**
+
+学生最终需要能够回答：
+
+### Question 1
+
+Where is Earth's water stored, and how does water move among reservoirs?
+
+地球上的水储在哪里，又如何在不同储库之间迁移？
+
+### Question 2
+
+Where is carbon stored, and how does carbon move through the Earth system?
+
+碳储在哪里，又如何在地球系统中循环？
+
+### Question 3
+
+How do atmosphere, oceans, rocks, and life interact?
+
+大气、海洋、岩石和生命如何相互作用？
+
+### Question 4
+
+How are the water cycle and carbon cycle coupled?
+
+水循环与碳循环如何彼此耦合？
+
+### Question 5
+
+How do feedback mechanisms regulate Earth's climate?
+
+反馈机制如何放大或抑制气候变化？
+
+---
+
+# 24. Learning Objectives — LOCKED V1
+
+除非提出 `BLUEPRINT_ISSUE` 并获批准，否则不要自行改写。
+
+### LO1
+
+识别地球水循环的主要储库与通量，并区分储量、通量和停留时间。
+
+Identify the major reservoirs and fluxes of the hydrologic cycle and distinguish storage, flux, and residence time.
+
+### LO2
+
+描述全球碳循环的主要储库，以及快速和缓慢碳循环路径。
+
+Describe the major carbon reservoirs and the fast and slow pathways of the global carbon cycle.
+
+### LO3
+
+解释水和碳如何连接大气、海洋、岩石与生命。
+
+Explain how water and carbon connect the atmosphere, oceans, rocks, and life.
+
+### LO4
+
+区分正反馈与负反馈，并解释典型气候反馈机制。
+
+Distinguish positive from negative feedback and explain representative climate feedback mechanisms.
+
+### LO5
+
+比较不同循环和反馈的时间尺度，并预测系统受到扰动后的响应方向。
+
+Compare the timescales of cycles and feedbacks and predict the direction of system responses to perturbations.
+
+---
+
+# 25. Slide Blueprint — V1 PLANNING BASELINE
+
+当前规划：
+
+**44 slides**
+
+这是 planning baseline。
+
+不得自行增减。
+
+如果深度教材分析发现：
+
+* 页面明显过多
+* 页面明显不足
+* 科学逻辑有问题
+* 课时无法支持
+
+提交：
+
+`BLUEPRINT_ISSUE`
+
+而不是自行修改。
+
+---
+
+## Opening
+
+### Slide 01
+
+Lecture 16: Hydrological Cycles
+
+* 中英标题
+* EOE111 / College Earth Science
+* 史海匀
+* Primary Reference:
+  Understanding Earth, 8th ed., Chs. 12 & 17
+
+---
+
+### Slide 02
+
+学习目标 | Learning Objectives
+
+使用锁定的 5 个 LO。
+
+---
+
+### Slide 03
+
+目录 | Table of Contents
+
+建议三大部分：
+
+1. Water Cycle
+2. Carbon Cycle
+3. Coupling & Climate Feedbacks
+
+---
+
+### Slide 04
+
+什么在循环？ | What Is Actually Cycling?
+
+Teaching message:
+
+Earth System 不是静态盒子，而是物质在 reservoirs 之间不断迁移。
+
+---
+
+### Slide 05
+
+读懂全球循环的四个词 | Four Ideas for Reading Global Cycles
+
+* Reservoir
+* Flux
+* Residence Time
+* Feedback
+
+这是本讲最重要的方法框架页之一。
+
+---
+
+# Part I — Water Cycle
+
+### Slide 06
+
+地球的水在哪里？ | Where Is Earth's Water?
+
+Teaching message:
+
+Earth's water is distributed very unevenly among reservoirs.
+
+---
+
+### Slide 07
+
+最大的水库并不是可用淡水 | Most Water Is Not Accessible Freshwater
+
+强调：
+
+* Ocean dominant
+* Freshwater small fraction
+* Accessible freshwater smaller still
+
+避免展开水资源政策。
+
+---
+
+### Slide 08
+
+储量 ≠ 更新速度 | Storage ≠ Turnover
+
+核心：
+
+Residence Time
+
+使用简化表或图。
+
+---
+
+### Slide 09
+
+全球水循环 | Global Hydrologic Cycle
+
+使用一张核心循环图。
+
+重点建立全局视角。
+
+---
+
+### Slide 10
+
+海洋与陆地的水量收支 | Ocean–Land Water Budget
+
+核心：
+
+* evaporation
+* precipitation
+* atmospheric transport
+* runoff
+
+---
+
+### Slide 11
+
+水的三相转换 | Phase Changes of Water
+
+核心：
+
+* evaporation
+* condensation
+* freezing
+* melting
+* sublimation
+
+强调：
+
+Water cycle 也输送 energy。
+
+---
+
+### Slide 12
+
+蒸发与蒸散 | Evaporation & Evapotranspiration
+
+连接：
+
+Ocean
+Land
+Vegetation
+Atmosphere
+
+---
+
+### Slide 13
+
+水汽输送、凝结与降水 | Moisture Transport, Condensation & Precipitation
+
+核心：
+
+Atmosphere is a small but rapidly exchanging reservoir.
+
+---
+
+### Slide 14
+
+降水落地后去了哪里？ | Runoff & Infiltration
+
+核心：
+
+* surface runoff
+* infiltration
+* evapotranspiration
+
+---
+
+### Slide 15
+
+地下水：慢一些的路径 | Groundwater: A Slower Pathway
+
+只讲：
+
+* recharge
+* storage
+* discharge
+
+不要把这一页扩展成完整地下水课程。
+
+---
+
+### Slide 16
+
+冰冻圈：会移动的水库 | Cryosphere as a Water Reservoir
+
+核心：
+
+Water exchange between hydrosphere and cryosphere affects:
+
+* storage
+* sea level
+* climate
+
+---
+
+### Slide 17
+
+水也进入岩石和地球内部 | Deep Water Cycle
+
+核心：
+
+* subduction
+* mantle
+* volcanism
+
+让学生意识到：
+
+Hydrologic Cycle 不只是表层循环。
+
+---
+
+### Slide 18
+
+水循环连接四大圈层 | Water Connects the Earth System
+
+综合：
+
+* atmosphere
+* ocean
+* rocks
+* life
+
+优先 custom redraw。
+
+---
+
+### Slide 19
+
+课堂读图 | Concept Check 1
+
+给出 hydrologic-cycle diagram。
+
+让学生回答：
+
+* identify reservoirs
+* identify fluxes
+* fastest pathway
+* slowest pathway
+* where energy enters
+
+---
+
+### Slide 20
+
+第一部分总结 | Water Moves Matter and Energy
+
+Break 前收束。
+
+核心：
+
+Water cycle:
+
+* moves water
+* moves energy
+* moves solutes
+* shapes Earth's surface
+* connects geospheres
+
+---
+
+# BREAK
+
+10 minutes
+
+Break occurs after Slide 20.
+
+---
+
+# Part II — Carbon Cycle
+
+### Slide 21
+
+为什么接下来讲碳？ | Why Carbon?
+
+核心：
+
+Carbon links:
+
+* climate
+* life
+* ocean
+* rocks
+
+并引出：
+
+用同一套 reservoir / flux / timescale 框架理解 carbon。
+
+---
+
+### Slide 22
+
+碳储存在哪里？ | Carbon Reservoirs
+
+主要 reservoir：
+
+* atmosphere
+* terrestrial biosphere
+* soils
+* ocean
+* sediments
+* rocks / lithosphere
+
+---
+
+### Slide 23
+
+全球碳循环 | Global Carbon Cycle
+
+使用主图。
+
+核心：
+
+Reservoirs + Quantitative Fluxes
+
+不要把所有数字要求学生背诵。
+
+---
+
+### Slide 24
+
+同样的语言，不同的时间尺度 | Same Framework, Different Timescales
+
+重新使用：
+
+* reservoir
+* flux
+* residence time
+
+帮助学生迁移知识框架。
+
+---
+
+### Slide 25
+
+快速碳循环：陆地生命 | Fast Carbon Cycle: Life on Land
+
+核心：
+
+* photosynthesis
+* respiration
+* decomposition
+
+---
+
+### Slide 26
+
+海气之间的碳交换 | Air–Sea Carbon Exchange
+
+核心：
+
+Ocean can both:
+
+* absorb CO2
+* release CO2
+
+---
+
+### Slide 27
+
+海洋如何把碳送入深处？ | Ocean Carbon Pumps
+
+核心：
+
+* Physical Pump
+* Biological Pump
+
+优先教材图。
+
+---
+
+### Slide 28
+
+碳酸盐：海洋、生命与岩石的连接 | Carbonates: Ocean–Life–Rock Connection
+
+路径：
+
+dissolved carbon
+→ organisms
+→ carbonate
+→ sediments / rocks
+
+---
+
+### Slide 29
+
+风化：水循环开始影响碳循环 | Weathering: Where Water Meets Carbon
+
+这是重要 coupling page。
+
+核心：
+
+water
++
+CO2
++
+rock weathering
+→ carbon transfer
+
+---
+
+### Slide 30
+
+慢碳循环 | Slow Geological Carbon Cycle
+
+核心：
+
+* weathering
+* sedimentation
+* burial
+* subduction
+* metamorphism
+* volcanic degassing
+
+---
+
+### Slide 31
+
+碳循环的多个时钟 | Multiple Carbon Timescales
+
+比较：
+
+* biological
+* oceanic
+* geological
+
+不要让学生只理解成一个“碳循环箭头图”。
+
+---
+
+### Slide 32
+
+课堂读图 | Concept Check 2
+
+任务：
+
+给一条 carbon pathway，
+
+学生判断：
+
+* reservoirs
+* fluxes
+* fast / slow
+* biological / oceanic / geological
+
+---
+
+### Slide 33
+
+第二部分总结 | Carbon Links Life to Rocks
+
+核心：
+
+Carbon cycle is more than atmospheric CO2.
+
+---
+
+# Part III — Coupling & Feedbacks
+
+### Slide 34
+
+把两个循环放到同一张图上 | Coupling the Water and Carbon Cycles
+
+整合：
+
+* ocean
+* atmosphere
+* life
+* weathering
+* rocks
+
+使用自绘综合图。
+
+---
+
+### Slide 35
+
+什么是反馈？ | What Is Feedback?
+
+定义：
+
+### Positive Feedback
+
+Amplifies an initial change.
+
+### Negative Feedback
+
+Opposes / stabilizes an initial change.
+
+要求图示化。
+
+---
+
+### Slide 36
+
+水汽反馈 | Water-Vapor Feedback
+
+逻辑：
+
+warming
+→ evaporation increases
+→ atmospheric water vapor increases
+→ greenhouse effect strengthens
+→ further warming
+
+Positive feedback.
+
+---
+
+### Slide 37
+
+冰–反照率反馈 | Ice–Albedo Feedback
+
+逻辑：
+
+warming
+→ ice decreases
+→ albedo decreases
+→ absorbed solar energy increases
+→ further warming
+
+Positive feedback.
+
+---
+
+### Slide 38
+
+岩石风化恒温器 | The Weathering Thermostat
+
+长期尺度：
+
+temperature / CO2 increase
+→ weathering increases
+→ carbon removal increases
+→ long-term cooling tendency
+
+Negative feedback.
+
+强调：
+
+**long timescale**
+
+---
+
+### Slide 39
+
+生命也参与反馈 | Biosphere Feedback
+
+优先使用 UE 教材支持的 biosphere / plant-growth feedback。
+
+不要扩展成完整 Earth System Ecology。
+
+---
+
+### Slide 40
+
+反馈不是同一速度 | Feedbacks Have Different Clocks
+
+比较：
+
+* radiative
+* hydrological
+* cryosphere
+* biosphere
+* weathering
+
+核心：
+
+不同 feedback 的 response time 完全不同。
+
+---
+
+### Slide 41
+
+综合课堂题 | Earth-System Challenge
+
+给定一个 initial perturbation。
+
+例如：
+
+Temperature increases.
+
+让学生：
+
+1. 画出至少两条 response pathways
+2. 判断 positive / negative
+3. 判断哪条较快
+4. 判断哪条较慢
+
+---
+
+# Closing
+
+### Slide 42
+
+Homework Questions
+
+准备 3–4 道候选题。
+
+至少包括：
+
+1. Conceptual understanding
+2. Compare / explain
+3. Earth-system causal reasoning
+
+最终教师可选 1–2 题作为正式 Homework。
+
+---
+
+### Slide 43
+
+核心术语 | Key Terms
+
+建议包括：
+
+* Reservoir
+* Flux
+* Residence Time
+* Hydrologic Cycle
+* Evaporation
+* Evapotranspiration
+* Runoff
+* Infiltration
+* Groundwater
+* Cryosphere
+* Carbon Cycle
+* Photosynthesis
+* Respiration
+* Weathering
+* Carbonate
+* Biological Pump
+* Physical Pump
+* Feedback
+* Positive Feedback
+* Negative Feedback
+
+数量可根据最终内容微调。
+
+---
+
+### Slide 44
+
+核心知识点 | Key Takeaways
+
+这是最后一页。
+
+不得在其后添加 Homework 或 References 页面。
+
+Key Takeaways 应控制为约 5–6 条。
+
+要求：
+
+* 全部在正文讲过
+* 可转化为考试问答题
+* 强调 systems thinking
+* 不包含琐碎数据
+* 对应 Learning Objectives
+
+---
+
+# 26. 第一节与第二节时间规划
+
+## First 50 min
+
+Slides 1–20
+
+建议：
+
+* Opening / framework: ~8 min
+* Water reservoirs / flux / hydrologic cycle: ~25 min
+* Deep water / system coupling: ~8 min
+* Concept Check + Summary: ~9 min
+
+不要死守分钟数。
+
+重点是保证真实课堂节奏。
+
+---
+
+## Second 50 min
+
+Slides 21–44
+
+建议：
+
+* Carbon Cycle: ~20 min
+* Coupling + Feedbacks: ~20 min
+* Exercise + Homework + Key Terms + Takeaways: ~10 min
+
+---
+
+# 27. 内容分级
+
+教材分析后，建立：
+
+### MUST TEACH
+
+课程目标必须覆盖。
+
+### SHOULD TEACH
+
+时间允许应讲。
+
+### OPTIONAL
+
+可以放教师 notes / hidden slide / backup。
+
+### OUT OF SCOPE
+
+不要进入正式课堂主体。
+
+必须特别避免：
+
+* 完整地下水工程
+* 完整 ENSO
+* 完整全球变暖史
+* 完整人类碳排放政策
+* 高级碳酸盐平衡计算
+* 复杂气候模型
+* 研究生级同位素推导
+
+除非用户另行要求。
+
+---
+
+# 28. 双语策略 — LOCKED
+
+采用 Lecture 09 的 B-style bilingual strategy。
+
+不是全文逐句中英翻译。
+
+必须保证：
+
+* Slide Title 双语
+* Section Title 双语
+* Learning Objectives 双语
+* 核心术语双语
+* 定义保留标准英文术语
+* Figure 关键标签尽可能双语
+* Key Takeaways 风格与 Lecture 09 一致
+* Homework 风格与 Lecture 09 一致
+
+正文优先：
+
+**中文解释 + 英文关键词**
+
+或：
+
+**英文教材概念 + 中文教学解释**
+
+不要把页面文字量翻倍。
+
+英文专业术语优先使用 UE。
+
+中文术语优先参考中文教材。
+
+---
+
+# 29. Style Spec — V1 BASELINE
+
+以下是初步锁定基线。
+
+必须通过 Lecture 09 Style Audit 进一步核验。
+
+如果 Audit 发现具体参数不同：
+
+报告差异。
+
+可以校正到 Lecture 09 的真实参数，但不要改变总体设计语言。
+
+---
+
+## 页面
+
+* 16:9
+* white / very light gray background
+
+---
+
+## 字体
+
+优先：
+
+**Microsoft YaHei**
+
+若 Lecture 09 实际还有固定英文字体组合：
+
+Style Audit 后统一。
+
+---
+
+## 颜色
+
+Provisional baseline:
+
+### Header
+
+dark blue approximately:
+
+`#0E3F8C`
+
+### Body text
+
+approximately:
+
+`#1A2230`
+
+### Secondary text
+
+approximately:
+
+`#4A5568`
+
+### Water accent
+
+approximately:
+
+`#1E4FA8`
+`#3D7BD9`
+
+### Carbon accent
+
+approximately:
+
+`#C2410C`
+`#7A4A33`
+
+### Biosphere
+
+如必要可有限使用绿色。
+
+但不要创造第四套大型 UI 体系。
+
+Exact values should be confirmed against Lecture 09.
+
+---
+
+## 页面语言
+
+继承 Lecture 09：
+
+* dark-blue top section header
+* bilingual title
+* clean card layouts
+* rounded cards
+* restrained icons
+* emphasized numbers
+* textbook figures
+* generous whitespace
+* source caption
+* page numbering
+* section labels
+
+---
+
+## 一页一个 Teaching Message
+
+禁止：
+
+* text wall
+* 十几个 bullet
+* 纯装饰图片
+* 大量无讲解图表
+* 为双语而全文重复
+* 过小文字
+
+常规主体文字原则：
+
+不要低于约 11 pt。
+
+优先 12–16 pt 或 Lecture 09 对应字号。
+
+标题约 20–28 pt，具体以 Style Audit 为准。
+
+---
+
+# 30. Agent 不得自行重新设计课程
+
+Slide Blueprint 一旦锁定：
+
+制作 Agent 不得自行改变：
+
+* Learning Objectives
+* Section 顺序
+* Slide 顺序
+* Key Takeaways
+* Homework
+* Core concept
+* 页数
+
+制作 Agent可以：
+
+* 优化构图
+* 优化图文比例
+* 精简不必要文字
+* 调整细节排版
+
+但不得改变教学意义。
+
+发现 Blueprint 有问题：
+
+提交 `BLUEPRINT_ISSUE`
+
+---
+
+# 31. BLUEPRINT_ISSUE 格式
+
+```text
+BLUEPRINT_ISSUE
+
+Slide:
+Current plan:
+Problem:
+Evidence:
+Teaching impact:
+Suggested option A:
+Suggested option B:
+Recommendation:
+Need user decision:
+```
+
+---
+
+# 32. 每个制作任务的标准输入
+
+Codex 不得只说：
+
+“做第 2 部分。”
+
+必须给执行 Agent：
+
+```text
+TASK ID:
+
+ROLE:
+
+OBJECTIVE:
+
+ASSIGNED SLIDES:
+
+INPUT FILES:
+
+BLUEPRINT:
+
+APPROVED FIGURE IDs:
+
+SOURCE RANGE:
+
+BILINGUAL TERMS:
+
+STYLE SPEC:
+
+OUTPUT FILE:
+
+DO NOT:
+
+ACCEPTANCE CRITERIA:
+
+REPORT FORMAT:
+```
+
+---
+
+# 33. DO NOT 示例
+
+根据任务明确写：
+
+* Do not edit other sections
+* Do not change slide count
+* Do not add new knowledge
+* Do not search the web
+* Do not reopen textbooks to hunt for figures
+* Do not overwrite source files
+* Do not modify Key Takeaways
+* Do not change established terminology
+* Do not modify the main deck directly
+
+---
+
+# 34. Completion Report 强制格式
+
+任何 Agent 不得仅回复：
+
+“已完成。”
+
+必须提交：
+
+```text
+TASK ID:
+
+STATUS:
+
+OUTPUT FILES:
+
+WHAT WAS DONE:
+
+SOURCES USED:
+
+FIGURES USED:
+
+DECISIONS MADE:
+
+DEVIATIONS FROM PLAN:
+
+PROBLEMS FOUND:
+
+UNFINISHED ITEMS:
+
+PLACEHOLDERS:
+
+SELF-QA:
+
+QUESTIONS:
+```
+
+PPT Agent 还必须报告：
+
+* Slides completed
+* overflow issues
+* image quality
+* missing attribution
+* unclear figures
+* any placeholder
+* any deviation from Style Spec
+
+---
+
+# 35. 交叉验收
+
+尽量避免：
+
+Producer = 唯一 Reviewer
+
+推荐：
+
+Producer
+→ Different Agent Reviewer
+→ Codex Approval
+
+例如：
+
+Agent A 制作
+
+Agent B 视觉 QA
+
+Agent C source / bilingual QA
+
+Codex 综合验收
+
+---
+
+# 36. Codex 验收要求
+
+每个任务完成后：
+
+不能只检查文件是否存在。
+
+必须检查：
+
+## CONTENT
+
+是否符合 Blueprint。
+
+## SOURCE
+
+内容是否真的来自报告中的教材。
+
+## FIGURE
+
+图片是否来自正确 Figure ID。
+
+## BILINGUAL
+
+术语是否统一。
+
+## VISUAL
+
+是否符合 Style Spec。
+
+## LAYOUT
+
+是否存在：
+
+* overflow
+* overlap
+* tiny text
+* image distortion
+* misalignment
+* cropping error
+
+## PEDAGOGY
+
+页面是否表达一个清楚的 teaching message。
+
+---
+
+# 37. Revision Request 格式
+
+不合格时不要说：
+
+“再优化一下。”
+
+应提交：
+
+```text
+REVISION REQUEST
+
+TASK ID:
+Slide:
+Problem:
+Why it matters:
+Required correction:
+Required source / Figure ID:
+Do not change:
+Acceptance criteria:
+```
+
+---
+
+# 38. 版本控制
+
+不要覆盖唯一文件。
+
+建议：
+
+```text
+Lecture16_HydrologicalCycles_v01_draft.pptx
+Lecture16_HydrologicalCycles_v02_review.pptx
+Lecture16_HydrologicalCycles_v03_revised.pptx
+Lecture16_HydrologicalCycles_FINAL.pptx
+```
+
+Section deck 示例：
+
+```text
+L16_S01_Water_v01.pptx
+L16_S02_Carbon_v01.pptx
+L16_S03_Feedback_v01.pptx
+```
+
+避免多个 Agent 同时编辑同一个 PPTX。
+
+---
+
+# 39. 并行制作原则
+
+在以下三个 Gate 完成之前：
+
+禁止多 Agent 批量制作。
+
+必须先锁定：
+
+1. **Blueprint**
+2. **Style Spec**
+3. **Source / Figure Library**
+
+然后：
+
+先完成 Sample Deck。
+
+Sample 通过之后：
+
+才允许多 Agent 并行 Production。
+
+---
+
+# 40. 项目 Stage Gates
+
+## GATE 0
+
+文件和 Agent 工具准备完成。
+
+## GATE 1
+
+教材分析完成。
+
+## GATE 2
+
+Source Matrix + Figure Library 完成。
+
+## GATE 3
+
+Course Architecture / Blueprint 核验完成。
+
+## GATE 4
+
+Style Spec 核验完成。
+
+## GATE 5
+
+Sample Deck 完成并通过 Codex QA。
+
+### STOP HERE FOR USER REVIEW.
+
+## GATE 6
+
+约 25% bulk slides 完成。
+
+## GATE 7
+
+约 50% 完成。
+
+## GATE 8
+
+全部 slide 初稿。
+
+## GATE 9
+
+整套 PPT QA。
+
+## GATE 10
+
+教案制作。
+
+## GATE 11
+
+最终交付 QA。
+
+---
+
+# 41. 第一轮教材任务拆分
+
+Codex 不要自己完成全部教材分析。
+
+根据 Agent 能力分配。
+
+---
+
+## TASK SOURCE-UE
+
+阅读：
+
+* UE Ch.12
+* UE Ch.17
+
+输出：
+
+`UE_SOURCE_MAP.md` 或 xlsx
+
+需要把内容映射到 Blueprint。
+
+特别核验：
+
+* reservoir
+* flux
+* residence time
+* hydrologic cycle
+* groundwater
+* carbon reservoirs
+* carbon fluxes
+* feedback definitions
+* water-vapor feedback
+* albedo feedback
+* biosphere feedback
+
+不要制作 PPT。
+
+---
+
+## TASK SOURCE-CN
+
+阅读：
+
+* 中文 Ch.3
+* 中文 Ch.4
+
+输出：
+
+`CN_SOURCE_MAP.md` / xlsx
+
+同时核验 Seed Figure IDs：
+
+* W-01
+* W-03
+* W-04
+* W-05
+* W-06
+* C-02
+* C-03
+* C-04
+* C-05
+* C-06
+
+提取：
+
+high-quality raw figure crops
+
+到：
+
+`assets\figures\extracted_raw`
+
+不要制作 PPT。
+
+---
+
+## TASK SOURCE-EP-HB
+
+阅读：
+
+EP:
+
+* Interlude F
+* Ch.20
+* Ch.23
+
+HB:
+
+* Ch.9
+* Ch.18
+
+重点核验：
+
+* W-02
+* F-01
+
+寻找：
+
+* hydrologic-cycle overview
+* climate feedback
+* weathering thermostat
+* Earth-system coupling
+
+输出：
+
+`EP_HB_SOURCE_MAP.md`
+
+以及核验后的候选图。
+
+不要制作 PPT。
+
+---
+
+## TASK STYLE-AUDIT
+
+分析：
+
+`09 Earthquakes and Volcanoes - v5zw.pptx`
+
+输出：
+
+`L09_STYLE_AUDIT.md`
+
+至少记录：
+
+* slide size
+* master/layout use
+* fonts
+* title size
+* body size
+* header geometry
+* palette
+* card geometry
+* figure placement
+* caption format
+* source format
+* bilingual format
+* section divider
+* concept page
+* question page
+* summary page
+* Key Terms page
+* Key Takeaways style
+* footer/page numbering
+
+不要重新设计。
+
+---
+
+# 42. 第一轮 Agent 能力核验
+
+开始教材任务之前或并行进行：
+
+检查：
+
+* Qoder
+* 豆包工作
+* WorkBuddy
+* 其他可用 Agent
+
+建立：
+
+`AGENT_CAPABILITY_TABLE.md`
+
+特别确认：
+
+哪些 Agent 适合：
+
+* source extraction
+* figure extraction
+* PowerPoint
+* visual QA
+* bilingual QA
+* scripting
+
+检查 ppt-master。
+
+---
+
+# 43. 第一阶段 Codex 整合
+
+第一轮 Agent 返回后：
+
+Codex 必须验收。
+
+然后建立 / 更新：
+
+* `planning\L16_BLUEPRINT_v1.md`
+* `planning\L16_STYLE_SPEC_v1.md`
+* `planning\L16_SOURCE_MATRIX.xlsx`
+* `planning\L16_FIGURE_INDEX.xlsx`
+* `PROJECT_STATUS.md`
+* `TASK_BOARD.md`
+* `QA_LOG.md`
+
+Figure 状态升级：
+
+CANDIDATE
+→ VERIFIED
+
+只有 Codex 核验：
+
+* 来源正确
+* 图片适合
+* 无重复
+* 有教学价值
+* Figure / Page 正确
+
+之后才：
+
+APPROVED
+
+---
+
+# 44. 制作 Agent 不再重新打开教材找图
+
+Figure Library 建成后：
+
+PPT Producer 应直接收到：
+
+例如：
+
+```text
+Use:
+W-02
+C-01
+C-04
+F-01
+```
+
+而不是：
+
+> 去教材找一张适合的图。
+
+这是硬性工作流。
+
+制作 Agent 如果没有合适图：
+
+使用 FIGURE_GAP。
+
+---
+
+# 45. Sample Deck
+
+只有当：
+
+* Blueprint verified
+* Source Matrix verified
+* Figure Library verified
+* Style Spec verified
+
+之后：
+
+才能开始 Sample Deck。
+
+选择一个 PPT 能力强、已验证 ppt-master 的 Agent。
+
+Codex 不亲自制作。
+
+制作以下 9 个代表性页面：
+
+1. Slide 01 — Title
+2. Slide 02 — Learning Objectives
+3. Slide 03 — Table of Contents
+4. Slide 09 — Global Hydrologic Cycle
+5. Slide 23 — Global Carbon Cycle
+6. Slide 27 — Ocean Carbon Pumps
+7. Slide 35 — Positive vs Negative Feedback
+8. Slide 38 — Weathering Thermostat
+9. Slide 44 — Key Takeaways
+
+输出：
+
+```text
+review\L16_STYLE_SAMPLE_v01.pptx
+review\L16_STYLE_SAMPLE_v01.pdf
+```
+
+并尽量生成 slide preview images。
+
+---
+
+# 46. Sample Deck 验收
+
+Codex 必须检查：
+
+* 是否像 Lecture 09 同一课程系列
+* 标题体系
+* 双语密度
+* 图文比例
+* Figure clarity
+* caption
+* source
+* font
+* whitespace
+* card consistency
+* accent color
+* text size
+* overflow
+* image distortion
+* teaching message
+* Key Takeaways style
+
+如果不合格：
+
+下达明确 Revision Request。
+
+不要 Codex 自己大面积重做。
+
+---
+
+# 47. Sample Gate — 必须停止
+
+Sample Deck 通过 Codex QA 后：
+
+**停止。**
+
+不要开始剩余 35 页并行生产。
+
+向用户提交阶段报告。
+
+至少包括：
+
+1. Agent Capability Table summary
+2. ppt-master status
+3. Source Matrix status
+4. Figure Inventory status
+5. Verified / Approved Figure list
+6. 找到的 source conflict
+7. Blueprint issues
+8. Style Audit summary
+9. Sample PPT path
+10. Sample PDF path
+11. Preview path
+12. Codex QA result
+13. unresolved questions
+14. proposed division of remaining 35 slides
+
+等待用户 + ChatGPT 审核。
+
+---
+
+# 48. 用户批准 Sample 后的 Production Wave
+
+只有收到明确批准后：
+
+才能并行。
+
+此时根据 Section 分配。
+
+不要多人编辑同一 pptx。
+
+例如可以拆成：
+
+### Production A
+
+Water section
+
+### Production B
+
+Carbon section
+
+### Production C
+
+Coupling & Feedback
+
+### Production D
+
+Opening / Closing / QA support
+
+具体分配根据 Agent 能力决定。
+
+Codex 应控制每个 Agent 一次任务的页数。
+
+原则：
+
+不要一次交给某 Agent 30–40 页。
+
+优先 5–12 页左右的可验收批次。
+
+---
+
+# 49. Production 中间 Gate
+
+不要等整套 PPT 完成再 QA。
+
+至少：
+
+### 25% checkpoint
+
+检查样式漂移。
+
+### 50% checkpoint
+
+检查：
+
+* terminology
+* source
+* figure usage
+* bilingual
+* layout
+* teaching pace
+
+### 100% draft
+
+执行完整 QA。
+
+---
+
+# 50. 最终整合责任
+
+各 Section 完成后：
+
+Codex 负责：
+
+* slide order
+* numbering
+* section consistency
+* TOC
+* font consistency
+* header consistency
+* attribution consistency
+* figure consistency
+* terminology
+* Learning Objectives
+* Homework
+* Key Terms
+* Key Takeaways
+
+Codex 的重点：
+
+**integrate + validate**
+
+而不是重新手工做一遍。
+
+---
+
+# 51. Key Takeaways 要求
+
+Slide 44 是全 PPT 最重要页面之一。
+
+因为它可能对应期末问答题。
+
+最终内容必须：
+
+* 对应 Learning Objectives
+* 已在正文完整讲解
+* 能形成问答题
+* 体现系统关系
+* 不以孤立数字为主
+* 不出现正文未讲的新内容
+
+推荐最终约 5–6 条。
+
+---
+
+# 52. Homework 要求
+
+Slide 42 准备 3–4 道候选题。
+
+至少包括：
+
+### Type A
+
+Conceptual
+
+例如：
+
+Explain reservoir, flux, and residence time.
+
+### Type B
+
+Compare
+
+例如：
+
+Compare fast and slow carbon cycles.
+
+### Type C
+
+Earth-system reasoning
+
+例如：
+
+Explain how increased temperature could trigger both positive and negative feedbacks operating on different timescales.
+
+最终教师可以选择 1–2 题。
+
+---
+
+# 53. 教案制作顺序
+
+不要在 PPT 尚未稳定时先写最终教案。
+
+正确顺序：
+
+PPT stable
+→ Key Takeaways stable
+→ Homework stable
+→ 教案
+
+正式教案必须与 PPT：
+
+* Learning Objectives 一致
+* 内容一致
+* 课堂互动一致
+* Homework 一致
+* 教材一致
+* 教学时间一致
+
+---
+
+# 54. 思政内容
+
+不得为了填写模板而生硬添加。
+
+如果指定教材、课程内容或教师已有明确方向：
+
+可以设计。
+
+如果不确定：
+
+提交：
+
+`LESSON_PLAN_IDEOLOGY_QUESTION`
+
+不要凭空编造大段内容。
+
+---
+
+# 55. 最终 QA
+
+## CONTENT
+
+* [ ] Global carbon cycle covered
+* [ ] Water cycle and hydrological processes covered
+* [ ] atmosphere–ocean–rock–life interactions covered
+* [ ] climate feedback mechanisms covered
+
+## COURSE STRUCTURE
+
+* [ ] 2 × 50 min plausible
+* [ ] Break after Slide 20 appropriate
+* [ ] Objectives match content
+* [ ] TOC matches sections
+* [ ] Key Takeaways final page
+* [ ] Homework appears before Key Takeaways
+
+## SOURCE
+
+* [ ] UE remains primary textbook
+* [ ] Chinese Ch.3–4 used as core source
+* [ ] EP / HB used as support
+* [ ] quantitative statements traceable
+* [ ] no unapproved external information
+* [ ] figure attribution complete
+
+## FIGURES
+
+* [ ] Every used figure has Figure ID
+* [ ] USED status recorded
+* [ ] no producer-side random figure search
+* [ ] no unverified image
+* [ ] redraws preserve scientific meaning
+
+## BILINGUAL
+
+* [ ] titles bilingual
+* [ ] terminology consistent
+* [ ] Chinese readable
+* [ ] English standardized
+* [ ] no mechanical full-paragraph duplication
+
+## VISUAL
+
+* [ ] no overflow
+* [ ] no overlap
+* [ ] no distorted images
+* [ ] no tiny captions
+* [ ] projector-readable
+* [ ] consistent with Lecture 09
+
+## PEDAGOGY
+
+* [ ] one major message per slide
+* [ ] Concept Checks are meaningful
+* [ ] Key Takeaways exam-worthy
+* [ ] Homework answerable using lecture content
+
+## LESSON PLAN
+
+* [ ] matches final PPT
+* [ ] teacher / teaching hours correct
+* [ ] objectives correct
+* [ ] resources correct
+* [ ] homework correct
+
+---
+
+# 56. 出现以下情况必须停止询问
+
+如果遇到：
+
+1. 教材冲突
+2. 课程边界不清
+3. Blueprint 科学问题
+4. Slide 数量明显不适合 100 min
+5. 必要 Figure 找不到
+6. 需要外部数据
+7. 需要外部图
+8. ppt-master 来源无法判断
+9. 教案字段不明确
+10. 原始文件存在冲突
+11. 课程代码等基础信息不一致
+12. 需要覆盖原始文件
+13. Key Takeaways 需要重大改变
+14. Learning Objectives 需要重大改变
+
+不要猜测。
+
+报告：
+
+* 问题
+* 证据
+* 选择
+* 风险
+* 推荐
+
+等待用户决定。
+
+---
+
+# 57. 原始文件保护
+
+禁止覆盖：
+
+* 原教材
+* Lecture 09 PPT
+* Lecture 09 教案
+* Course Schedule
+* 会议纪要
+* 正式教案模板
+
+所有输出必须进入：
+
+planning / assets / review / sections / final / qa
+
+等新文件。
+
+---
+
+# 58. Agent 中断保护
+
+如果某 Agent：
+
+* 额度耗尽
+* 会话中断
+* 工具失败
+* 文件损坏
+* 长时间无法完成
+* 质量反复不达标
+
+Codex 应：
+
+1. 保存现有输出
+2. 更新 Task Board
+3. 标记 remaining work
+4. 将任务进一步拆小
+5. 转交其他 Agent
+
+不得让整个项目等待某一个 Agent。
+
+---
+
+# 59. 上下文与额度管理
+
+目标：
+
+避免单点额度耗尽。
+
+因此：
+
+* 不让所有 Agent 重读所有教材
+* 不把完整项目 Prompt 反复发送给 Producer
+* 使用 Source Matrix
+* 使用 Figure Library
+* 使用 Blueprint
+* 使用 Style Spec
+* 只给最小充分上下文
+* 完成任务后及时收束会话
+
+Codex 自身必须保留额度用于：
+
+* project management
+* validation
+* revision
+* final integration
+
+---
+
+# 60. 你现在第一次执行时的任务
+
+这是本 Master Prompt 的第一执行阶段。
+
+## 现在不要制作整套 PPT。
+
+请按以下顺序开始。
+
+### STEP 1
+
+扫描：
+
+`E:\PG\2026 Hydrological cycle`
+
+建立 File Inventory。
+
+确认所有关键文件存在。
+
+---
+
+### STEP 2
+
+建立项目目录与：
+
+* PROJECT_STATUS
+* TASK_BOARD
+* QA_LOG
+* CHANGELOG
+
+---
+
+### STEP 3
+
+建立 Agent Capability Table。
+
+检查：
+
+* Qoder
+* 豆包工作
+* WorkBuddy
+* 其他可用 Agent
+
+检查 ppt-master。
+
+---
+
+### STEP 4
+
+为缺少 ppt-master 但未来需要参与 PPT 的 Agent：
+
+完成可信来源搜索、安装和最小验证。
+
+如来源不明确：
+
+停止报告。
+
+---
+
+### STEP 5
+
+派发第一批并行任务：
+
+* SOURCE-UE
+* SOURCE-CN
+* SOURCE-EP-HB
+* STYLE-AUDIT
+
+Codex 不亲自完成这些大型任务。
+
+---
+
+### STEP 6
+
+要求所有 Agent 使用标准 Completion Report。
+
+---
+
+### STEP 7
+
+收回任务后执行 Codex 验收。
+
+建立：
+
+* Source Matrix
+* Figure Index
+* Verified Figure Library
+* Style Audit
+* Blueprint verification
+
+---
+
+### STEP 8
+
+如果存在：
+
+* SOURCE_CONFLICT
+* BLUEPRINT_ISSUE
+* FIGURE_GAP
+* TOOL ISSUE
+
+先处理或报告。
+
+---
+
+### STEP 9
+
+只有前三个基础 Gate 通过后：
+
+选择一个有 ppt-master 的 PPT Agent 制作 9 页 Sample Deck。
+
+不要制作整套 PPT。
+
+---
+
+### STEP 10
+
+Codex 对 Sample Deck 做 QA。
+
+必要时返工。
+
+---
+
+### STEP 11 — STOP GATE
+
+Sample Deck 通过后：
+
+停止。
+
+不要开始剩余 35 页。
+
+提交阶段报告给用户。
+
+等待用户和 ChatGPT 审核。
+
+---
+
+# 61. 第一次阶段报告格式
+
+最后向用户提交：
+
+```text
+LECTURE 16 — PHASE 1 REPORT
+
+1. File Inventory
+Status:
+
+2. Agent Capability Table
+Summary:
+
+3. ppt-master
+Qoder:
+豆包工作:
+WorkBuddy:
+Others:
+
+4. Source Tasks
+SOURCE-UE:
+SOURCE-CN:
+SOURCE-EP-HB:
+STYLE-AUDIT:
+
+5. Source Matrix
+Status:
+Issues:
+
+6. Figure Library
+Candidate:
+Verified:
+Approved:
+Rejected:
+
+7. Source Conflicts
+List:
+
+8. Blueprint Issues
+List:
+
+9. Style Audit
+Key findings:
+
+10. Sample Deck
+PPTX:
+PDF:
+Preview:
+
+11. Codex Sample QA
+PASS / REVISION REQUIRED
+
+12. Unresolved Questions
+
+13. Proposed Production Wave
+Agent:
+Slides:
+Reason:
+
+14. Recommendation
+Ready / Not Ready for bulk production
+```
+
+在提交此报告之后：
+
+**STOP AND WAIT FOR USER APPROVAL.**
+
+Do not begin bulk slide production.
+
+```

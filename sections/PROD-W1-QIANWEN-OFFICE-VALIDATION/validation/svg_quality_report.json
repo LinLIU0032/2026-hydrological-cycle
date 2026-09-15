@@ -1,0 +1,666 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-QIANWEN-OFFICE-VALIDATION",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "12ee0bf4df322c05cce740fc664d29b2eedb1b4fc80af0b15c41d86005b48b4b",
+    "file_count": 9,
+    "files": [
+      {
+        "file": "04_what_is_cycling.svg",
+        "sha256": "5a3a2fe4a2f74979a55d35da3013dd566cbfdae099a552ecfe739884e1466e56"
+      },
+      {
+        "file": "05_four_ideas.svg",
+        "sha256": "09b555cf0cd479498117e440e8fdd0960d0d9a1cc211bc6f49d4118441f1e4da"
+      },
+      {
+        "file": "06_where_is_water.svg",
+        "sha256": "f0399c122393a177ff5cbe92a425c319ffa8538e14d4c0f1403c378a91a70193"
+      },
+      {
+        "file": "10_ocean_land_budget.svg",
+        "sha256": "34bbe3ef709165d1084e357afe7f69eabd0d399d13474ff8525fcd53593f3018"
+      },
+      {
+        "file": "11_phase_changes.svg",
+        "sha256": "77ac95bc481be8b97938819eef69e04c113e480d3b6f60329549edde4a540527"
+      },
+      {
+        "file": "12_evaporation_evapotranspiration.svg",
+        "sha256": "22659de0a4af3cae882df12b0a6eeef55cf3134211833d8fda1e199f153a84a3"
+      },
+      {
+        "file": "21_why_carbon.svg",
+        "sha256": "c71a41c3e8281bf884d70233fe36a86e91c1ef117b984791b8bb30179dfb2174"
+      },
+      {
+        "file": "22_carbon_reservoirs.svg",
+        "sha256": "3748878955428cce79361a9d9c686b5f08660159ceae326ef827756936edcf0b"
+      },
+      {
+        "file": "24_same_framework_different_timescales.svg",
+        "sha256": "747785aa3dfe0c56fe2ac31360eefd0443c32ceb3498b12a8fa16158422863a4"
+      }
+    ]
+  },
+  "summary": {
+    "total": 9,
+    "passed": 9,
+    "warnings": 0,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 0,
+      "issues": []
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {},
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 9,
+    "totals": {
+      "text_elements": 224,
+      "image_placements": 2,
+      "icons": 0,
+      "svg_geometry_elements": 187,
+      "preset_shapes": 0,
+      "page_frame_elements": 9,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 1,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 2,
+      "icons": 0,
+      "presets": 0,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 1,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "geometry_elements": {
+      "circle": 7,
+      "ellipse": 0,
+      "line": 36,
+      "path": 2,
+      "polygon": 30,
+      "polyline": 0,
+      "rect": 112
+    },
+    "preset_names": {},
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": [
+      0.1907,
+      0.334
+    ]
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "04_what_is_cycling.svg",
+      "path": "svg_output\\04_what_is_cycling.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 24,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 10,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 5,
+              "polyline": 0,
+              "polygon": 10,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 24,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "5a3a2fe4a2f74979a55d35da3013dd566cbfdae099a552ecfe739884e1466e56"
+    },
+    {
+      "file": "05_four_ideas.svg",
+      "path": "svg_output\\05_four_ideas.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 26,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 8,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 26,
+        "tspan_elements": 8
+      },
+      "passed": true,
+      "source_sha256": "09b555cf0cd479498117e440e8fdd0960d0d9a1cc211bc6f49d4118441f1e4da"
+    },
+    {
+      "file": "06_where_is_water.svg",
+      "path": "svg_output\\06_where_is_water.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 26,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 1,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 13,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 26,
+        "tspan_elements": 4
+      },
+      "passed": true,
+      "source_sha256": "f0399c122393a177ff5cbe92a425c319ffa8538e14d4c0f1403c378a91a70193"
+    },
+    {
+      "file": "10_ocean_land_budget.svg",
+      "path": "svg_output\\10_ocean_land_budget.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 22,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 15,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 6,
+              "polyline": 0,
+              "polygon": 6,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 22,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "34bbe3ef709165d1084e357afe7f69eabd0d399d13474ff8525fcd53593f3018"
+    },
+    {
+      "file": "11_phase_changes.svg",
+      "path": "svg_output\\11_phase_changes.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 18,
+          "images": {
+            "placements": 1,
+            "files": [
+              "W-05_Fig3-17_PDF27_print112_raw.png"
+            ],
+            "max_frame_share": 0.334
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 9,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 18,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "77ac95bc481be8b97938819eef69e04c113e480d3b6f60329549edde4a540527"
+    },
+    {
+      "file": "12_evaporation_evapotranspiration.svg",
+      "path": "svg_output\\12_evaporation_evapotranspiration.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 18,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 16,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 6,
+              "polyline": 0,
+              "polygon": 6,
+              "path": 2
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 18,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "22659de0a4af3cae882df12b0a6eeef55cf3134211833d8fda1e199f153a84a3"
+    },
+    {
+      "file": "21_why_carbon.svg",
+      "path": "svg_output\\21_why_carbon.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 25,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 14,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 8,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 25,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "c71a41c3e8281bf884d70233fe36a86e91c1ef117b984791b8bb30179dfb2174"
+    },
+    {
+      "file": "22_carbon_reservoirs.svg",
+      "path": "svg_output\\22_carbon_reservoirs.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 24,
+          "images": {
+            "placements": 1,
+            "files": [
+              "C-01_UE_Fig12-19_PDF1209_raw.png"
+            ],
+            "max_frame_share": 0.1907
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 14,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 24,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "3748878955428cce79361a9d9c686b5f08660159ceae326ef827756936edcf0b"
+    },
+    {
+      "file": "24_same_framework_different_timescales.svg",
+      "path": "svg_output\\24_same_framework_different_timescales.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 41,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 13,
+              "circle": 3,
+              "ellipse": 0,
+              "line": 10,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 41,
+        "tspan_elements": 17
+      },
+      "passed": true,
+      "source_sha256": "747785aa3dfe0c56fe2ac31360eefd0443c32ceb3498b12a8fa16158422863a4"
+    }
+  ]
+}

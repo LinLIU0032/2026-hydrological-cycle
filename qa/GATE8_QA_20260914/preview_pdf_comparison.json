@@ -1,0 +1,524 @@
+{
+  "previews": {
+    "QODER-CN": {
+      "18": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\previews\\page-1.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\slide-18.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 15.4947,
+        "max_channel_difference": 242
+      },
+      "19": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\previews\\page-2.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\slide-19.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 13.3036,
+        "max_channel_difference": 242
+      },
+      "20": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\previews\\page-3.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\slide-20.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 14.0783,
+        "max_channel_difference": 242
+      },
+      "34": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\previews\\page-4.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\slide-34.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 15.5588,
+        "max_channel_difference": 243
+      }
+    },
+    "WORKBUDDY": {
+      "28": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\previews\\28_carbonates_ocean_life_rock.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-28.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 0.0,
+        "max_channel_difference": 0
+      },
+      "29": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\previews\\29_weathering_water_meets_carbon.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-29.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 0.0,
+        "max_channel_difference": 0
+      },
+      "30": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\previews\\30_slow_geological_carbon_cycle.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-30.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 0.0,
+        "max_channel_difference": 0
+      },
+      "31": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\previews\\31_multiple_carbon_timescales.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-31.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 0.0,
+        "max_channel_difference": 0
+      },
+      "32": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\previews\\32_concept_check_2.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-32.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 0.0,
+        "max_channel_difference": 0
+      },
+      "33": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\previews\\33_part2_summary.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-33.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 0.0,
+        "max_channel_difference": 0
+      }
+    },
+    "QIANWEN-OFFICE": {
+      "36": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\previews\\36_water_vapor_feedback.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QIANWEN-OFFICE\\slide-36.png",
+        "submitted_size": [
+          1280,
+          720
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 19.1242,
+        "max_channel_difference": 255
+      },
+      "37": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\previews\\37_ice_albedo_feedback.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QIANWEN-OFFICE\\slide-37.png",
+        "submitted_size": [
+          1280,
+          720
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 19.3465,
+        "max_channel_difference": 255
+      },
+      "39": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\previews\\39_biosphere_feedback.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QIANWEN-OFFICE\\slide-39.png",
+        "submitted_size": [
+          1280,
+          720
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 18.9638,
+        "max_channel_difference": 255
+      }
+    },
+    "DOUBAO": {
+      "40": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\previews\\slide-40.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\slide-40.png",
+        "submitted_size": [
+          1280,
+          720
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 15.3461,
+        "max_channel_difference": 255
+      },
+      "41": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\previews\\slide-41.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\slide-41.png",
+        "submitted_size": [
+          1280,
+          720
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 17.6955,
+        "max_channel_difference": 255
+      },
+      "42": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\previews\\slide-42.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\slide-42.png",
+        "submitted_size": [
+          1280,
+          720
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 18.4873,
+        "max_channel_difference": 255
+      },
+      "43": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\previews\\slide-43.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\slide-43.png",
+        "submitted_size": [
+          1280,
+          720
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 18.6839,
+        "max_channel_difference": 255
+      }
+    }
+  },
+  "pdfs": {
+    "QODER-CN": {
+      "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\L16_W3_QoderCN_Slides18-20_34_v01.pdf",
+      "submitted_pages": 4,
+      "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\QODER-CN_POWERPOINT.pdf",
+      "independent_pages": 4
+    },
+    "WORKBUDDY": {
+      "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\L16_W3_WorkBuddy_Slides28-33_v01.pdf",
+      "submitted_pages": 6,
+      "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\WORKBUDDY_POWERPOINT.pdf",
+      "independent_pages": 6
+    },
+    "QIANWEN-OFFICE": {
+      "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\L16_W3_QianwenOffice_Slides36-37_39_v01.pdf",
+      "submitted_pages": 3,
+      "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QIANWEN-OFFICE\\QIANWEN-OFFICE_POWERPOINT.pdf",
+      "independent_pages": 3
+    },
+    "DOUBAO": {
+      "submitted": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\L16_W3_Doubao_Slides40-43_v01.pdf",
+      "submitted_pages": 4,
+      "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\DOUBAO_POWERPOINT.pdf",
+      "independent_pages": 4
+    }
+  },
+  "independent_pdf_renders": {
+    "QODER-CN": {
+      "18": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\pdf-renders\\page-1.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\slide-18.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 15.9243,
+        "max_channel_difference": 241
+      },
+      "19": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\pdf-renders\\page-2.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\slide-19.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 14.8378,
+        "max_channel_difference": 241
+      },
+      "20": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\pdf-renders\\page-3.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\slide-20.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 16.2348,
+        "max_channel_difference": 241
+      },
+      "34": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\pdf-renders\\page-4.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QODER-CN\\slide-34.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 13.9591,
+        "max_channel_difference": 243
+      }
+    },
+    "WORKBUDDY": {
+      "28": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\pdf-renders\\page-1.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-28.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 18.5922,
+        "max_channel_difference": 243
+      },
+      "29": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\pdf-renders\\page-2.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-29.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 21.1362,
+        "max_channel_difference": 243
+      },
+      "30": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\pdf-renders\\page-3.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-30.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 19.5807,
+        "max_channel_difference": 243
+      },
+      "31": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\pdf-renders\\page-4.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-31.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 15.7999,
+        "max_channel_difference": 243
+      },
+      "32": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\pdf-renders\\page-5.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-32.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 22.0629,
+        "max_channel_difference": 243
+      },
+      "33": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\pdf-renders\\page-6.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\WORKBUDDY\\slide-33.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 19.3003,
+        "max_channel_difference": 243
+      }
+    },
+    "QIANWEN-OFFICE": {
+      "36": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QIANWEN-OFFICE\\pdf-renders\\page-1.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QIANWEN-OFFICE\\slide-36.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 15.6696,
+        "max_channel_difference": 241
+      },
+      "37": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QIANWEN-OFFICE\\pdf-renders\\page-2.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QIANWEN-OFFICE\\slide-37.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 15.2647,
+        "max_channel_difference": 241
+      },
+      "39": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QIANWEN-OFFICE\\pdf-renders\\page-3.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\QIANWEN-OFFICE\\slide-39.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 15.0238,
+        "max_channel_difference": 243
+      }
+    },
+    "DOUBAO": {
+      "40": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\pdf-renders\\page-1.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\slide-40.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 13.2211,
+        "max_channel_difference": 241
+      },
+      "41": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\pdf-renders\\page-2.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\slide-41.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 16.5422,
+        "max_channel_difference": 241
+      },
+      "42": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\pdf-renders\\page-3.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\slide-42.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 15.7791,
+        "max_channel_difference": 241
+      },
+      "43": {
+        "submitted": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\pdf-renders\\page-4.png",
+        "independent": "E:\\PG\\2026 Hydrological cycle\\qa\\GATE8_QA_20260914\\DOUBAO\\slide-43.png",
+        "submitted_size": [
+          1920,
+          1080
+        ],
+        "independent_size": [
+          1920,
+          1080
+        ],
+        "rms_0_255": 11.1831,
+        "max_channel_difference": 241
+      }
+    }
+  }
+}

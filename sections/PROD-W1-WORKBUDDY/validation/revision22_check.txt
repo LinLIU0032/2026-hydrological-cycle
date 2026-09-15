@@ -1,0 +1,55 @@
+=== Slide 22 revision verification ===
+PPTX : L16_W1_WorkBuddy_Slides21-22-24_v01.pptx
+PDF  : L16_W1_WorkBuddy_Slides21-22-24_v01.pdf
+
+[1] Numbered C-01 hierarchy block order (smallest -> largest)
+    expected: 1 > 生物圈 | Biosphere > 500 Gt C > 2 > 大气 | Atmosphere > 830 Gt C > 3 > 土壤 | Soils > 1500 Gt C > 4 > 海洋 | Ocean > 38,000 Gt C
+    actual  : 1 > 生物圈 | Biosphere > 500 Gt C > 2 > 大气 | Atmosphere > 830 Gt C > 3 > 土壤 | Soils > 1500 Gt C > 4 > 海洋 | Ocean > 38,000 Gt C
+    RESULT  : PASS
+
+[2] Ascending numerical values 500 < 830 < 1500 < 38,000
+    values in listed order : [500, 830, 1500, 38000]
+    ascending              : True
+    RESULT  : PASS
+
+[3] Legacy 'smallest reservoir' wording removed from the slide
+    legacy wording still present in slide2 : False
+    RESULT  : PASS
+
+[4] Geological reservoirs kept as a separate qualitative group
+    group marker + both entries present : True
+    numbered 5 / 6 removed              : True
+    RESULT  : PASS
+
+[5] Speaker notes match the corrected slide
+    legacy wording still present in notes : False
+    cited order 生物圈<大气<土壤<海洋 : True
+    notes explicitly say 大气并不是最小的那一个 : True
+    RESULT  : PASS
+
+[6] Unchanged elements preserved
+    OK  -> 2.2 碳储存在哪里？ | Carbon Reservoirs
+    OK  -> 碳主要储存在海洋、沉积物与岩石里；大气只是一个很小的储库
+    OK  -> 碳储库层级 | Reservoir hierarchy
+    OK  -> Source: UE 8e, Fig. 12.19, PDF p.1209 (Gt C); 
+    OK  -> 22
+    embedded media on slide2 : ['image_1e66e7026df0aa33.png']
+
+[7] Preview render sizes
+    21_why_carbon.png                          (1920, 1080)  OK
+    22_carbon_reservoirs.png                   (1920, 1080)  OK
+    24_same_framework_different_timescales.png (1920, 1080)  OK
+
+[8] PDF page 2 native text (proves editable text, not outline)
+    pages : 3 ; page size : Rect(0.0, 0.0, 960.0, 540.0)
+    extracted characters on page 2 : 532
+      native: 生物圈| Biosphere           found
+      native: 500 Gt C                 found
+      native: 大气| Atmosphere           found
+      native: 830 Gt C                 found
+      native: 土壤| Soils                found
+      native: 1500 Gt C                found
+      native: 海洋| Ocean                found
+      native: 38,000 Gt C              found
+    legacy wording still present in page-2 text : False
+    RESULT : PASS

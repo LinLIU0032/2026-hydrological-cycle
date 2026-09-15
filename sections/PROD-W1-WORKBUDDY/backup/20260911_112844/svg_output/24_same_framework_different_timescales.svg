@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.4 同样的语言，不同的时间尺度 | Same Framework, Different Timescales</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">储库、通量与停留时间可以同时读水和碳，但两个循环的时钟并不相同</text>
+  </g>
+
+  <g id="framework-rail" data-pptx-bounds="40 150 142 412">
+    <rect x="40" y="236" width="142" height="48" rx="10" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="111" y="256" font-size="15" font-weight="bold" text-anchor="middle" fill="#0E3F8C">储库</text>
+    <text x="111" y="274" font-size="13" text-anchor="middle" fill="#4A5568">Reservoir</text>
+
+    <rect x="40" y="336" width="142" height="48" rx="10" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="111" y="356" font-size="15" font-weight="bold" text-anchor="middle" fill="#0E3F8C">通量</text>
+    <text x="111" y="374" font-size="13" text-anchor="middle" fill="#4A5568">Flux</text>
+
+    <rect x="40" y="466" width="142" height="48" rx="10" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="111" y="486" font-size="15" font-weight="bold" text-anchor="middle" fill="#0E3F8C">停留时间</text>
+    <text x="111" y="504" font-size="13" text-anchor="middle" fill="#4A5568">Residence Time</text>
+  </g>
+
+  <g id="water-column" data-pptx-bounds="206 150 505 412">
+    <rect x="206" y="150" width="505" height="52" rx="12" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="228" y="184" font-size="18" font-weight="bold" fill="#0E3F8C">水循环 | Water Cycle</text>
+
+    <rect x="206" y="214" width="505" height="88" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="228" y="246" font-size="15" fill="#1A2230">水分布在大气、海洋、冰雪、地下水与生命体中。</text>
+    <text x="228" y="270" font-size="13" fill="#4A5568">Reservoir — where water is stored.</text>
+
+    <rect x="206" y="314" width="505" height="88" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="228" y="346" font-size="15" fill="#1A2230">水靠蒸发、大气输送、降水、径流与下渗迁移。</text>
+    <text x="228" y="370" font-size="13" fill="#4A5568">Flux — how fast material moves.</text>
+
+    <rect x="206" y="414" width="505" height="148" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="228" y="446" font-size="15" fill="#1A2230">同一个循环里，不同储库的更新速度相差很大。</text>
+    <text x="228" y="492" font-size="13" font-weight="bold" fill="#1E4FA8">最快 Fastest</text>
+    <text x="350" y="492" font-size="15" fill="#1A2230">大气</text>
+    <text x="228" y="524" font-size="13" font-weight="bold" fill="#1E4FA8">最慢 Slowest</text>
+    <text x="350" y="524" font-size="15" fill="#1A2230">冰盖、深层地下水</text>
+  </g>
+
+  <g id="carbon-column" data-pptx-bounds="735 150 505 412">
+    <rect x="735" y="150" width="505" height="52" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="757" y="184" font-size="18" font-weight="bold" fill="#C2410C">碳循环 | Carbon Cycle</text>
+
+    <rect x="735" y="214" width="505" height="88" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="757" y="246" font-size="15" fill="#1A2230">碳存在于大气、生物圈、土壤、海洋、沉积物与岩石中。</text>
+    <text x="757" y="270" font-size="13" fill="#4A5568">Reservoir — where carbon is stored.</text>
+
+    <rect x="735" y="314" width="505" height="88" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="757" y="346" font-size="15" fill="#1A2230">碳靠光合、呼吸、海气交换、风化与埋藏迁移。</text>
+    <text x="757" y="370" font-size="13" fill="#4A5568">Flux — how fast material moves.</text>
+
+    <rect x="735" y="414" width="505" height="148" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="757" y="446" font-size="15" fill="#1A2230">同一个循环里，表层库较快，沉积物与岩石最慢。</text>
+    <text x="757" y="492" font-size="13" font-weight="bold" fill="#C2410C">最快 Fastest</text>
+    <text x="879" y="492" font-size="15" fill="#1A2230">表层库（大气—生物圈—表层海）</text>
+    <text x="757" y="524" font-size="13" font-weight="bold" fill="#C2410C">最慢 Slowest</text>
+    <text x="879" y="524" font-size="15" fill="#1A2230">沉积物与岩石</text>
+  </g>
+
+  <g id="shared-framework-strip" data-pptx-bounds="40 578 1200 76">
+    <rect x="40" y="578" width="1200" height="76" rx="12" fill="#FDECDD"/>
+    <text x="64" y="608" font-size="16" font-weight="bold" fill="#C2410C">同一套语言，不同的时钟 | Same language, different clocks</text>
+    <text x="64" y="634" font-size="15" fill="#7A4A33">两边都要问“这个储库多久更新一次”，但答案的档位不同；具体数值与单位见第 08 页表 3-1 与教材图 4-15、4-16。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Ch.12, PDF pp.1205–1206, 1209–1213; 地球系统与演变 Fig. 4-15 / 4-16, PDF pp.78–80.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">24</text>
+</svg>

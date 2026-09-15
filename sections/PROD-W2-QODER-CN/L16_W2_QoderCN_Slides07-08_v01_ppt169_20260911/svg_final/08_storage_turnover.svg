@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C" />
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.5 储量 ≠ 更新速度 | Storage ≠ Turnover</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">RESIDENCE TIME</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8" />
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">储量与更新速度是两个不同属性：大储库不一定更新快</text>
+  </g>
+
+  <g id="residence-ladder" data-pptx-bounds="40 152 706 502">
+    <rect x="40" y="152" width="706" height="502" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1" />
+    <text x="64" y="186" font-size="16" font-weight="bold" fill="#0E3F8C">七个水储库的停留时间 | Residence time of seven reservoirs</text>
+    <line x1="96" y1="214" x2="96" y2="610" stroke="#B8C7DC" stroke-width="1" />
+    <text x="540" y="226" font-size="13" font-weight="bold" text-anchor="end" fill="#3D7BD9">快 Fast turnover</text>
+    <g id="ladder-atmosphere">
+      <circle cx="96" cy="222" r="9" fill="#3D7BD9" />
+      <text x="124" y="220" font-size="15" fill="#1A2230">大气</text>
+      <text x="124" y="238" font-size="12" fill="#4A5568">Atmosphere</text>
+      <rect x="560" y="206" width="162" height="32" rx="10" fill="#F0F5FC" />
+      <text x="641" y="227" font-size="13" font-weight="bold" text-anchor="middle" fill="#1E4FA8">9 日</text>
+    </g>
+    <g id="ladder-soil-water">
+      <circle cx="96" cy="286" r="9" fill="#3D7BD9" />
+      <text x="124" y="284" font-size="15" fill="#1A2230">土壤水</text>
+      <text x="124" y="302" font-size="12" fill="#4A5568">Soil water</text>
+      <rect x="560" y="270" width="162" height="32" rx="10" fill="#F0F5FC" />
+      <text x="641" y="291" font-size="13" font-weight="bold" text-anchor="middle" fill="#1E4FA8">1–2 月</text>
+    </g>
+    <g id="ladder-rivers-snow">
+      <circle cx="96" cy="350" r="9" fill="#3D7BD9" />
+      <text x="124" y="348" font-size="15" fill="#1A2230">河流与季节性冰雪</text>
+      <text x="124" y="366" font-size="12" fill="#4A5568">Rivers &amp; seasonal snow/ice</text>
+      <rect x="560" y="334" width="162" height="32" rx="10" fill="#F0F5FC" />
+      <text x="641" y="355" font-size="13" font-weight="bold" text-anchor="middle" fill="#1E4FA8">2–6 月</text>
+    </g>
+    <g id="ladder-shallow-groundwater">
+      <circle cx="96" cy="414" r="9" fill="#0E3F8C" />
+      <text x="124" y="412" font-size="15" fill="#1A2230">浅层地下水</text>
+      <text x="124" y="430" font-size="12" fill="#4A5568">Shallow groundwater</text>
+      <rect x="560" y="398" width="162" height="32" rx="10" fill="#0E3F8C" />
+      <text x="641" y="419" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">100–200 年</text>
+    </g>
+    <g id="ladder-ocean">
+      <circle cx="96" cy="478" r="9" fill="#0E3F8C" />
+      <text x="124" y="476" font-size="15" fill="#1A2230">海洋</text>
+      <text x="124" y="494" font-size="12" fill="#4A5568">Ocean</text>
+      <rect x="560" y="462" width="162" height="32" rx="10" fill="#0E3F8C" />
+      <text x="641" y="483" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3,200 年</text>
+    </g>
+    <g id="ladder-deep-groundwater">
+      <circle cx="96" cy="542" r="9" fill="#0E3F8C" />
+      <text x="124" y="540" font-size="15" fill="#1A2230">深层地下水</text>
+      <text x="124" y="558" font-size="12" fill="#4A5568">Deep groundwater</text>
+      <rect x="560" y="526" width="162" height="32" rx="10" fill="#0E3F8C" />
+      <text x="641" y="547" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">10,000 年</text>
+    </g>
+    <g id="ladder-antarctic-ice">
+      <circle cx="96" cy="606" r="9" fill="#0E3F8C" />
+      <text x="124" y="604" font-size="15" fill="#1A2230">南极冰盖</text>
+      <text x="124" y="622" font-size="12" fill="#4A5568">Antarctic ice sheet</text>
+      <rect x="560" y="590" width="162" height="32" rx="10" fill="#0E3F8C" />
+      <text x="641" y="611" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">20,000 年</text>
+    </g>
+    <text x="540" y="644" font-size="13" font-weight="bold" text-anchor="end" fill="#0E3F8C">慢 Slow turnover</text>
+  </g>
+
+  <g id="residence-definition-key" data-pptx-bounds="770 152 470 160">
+    <rect x="770" y="152" width="470" height="160" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1" />
+    <text x="794" y="184" font-size="16" font-weight="bold" fill="#0E3F8C">停留时间 | Residence Time</text>
+    <text fill="#1A2230" font-size="15" x="794" y="218">一定量的水或某化学物质</text><text fill="#1A2230" font-size="15" x="794" y="244">在储库中停留的平均时间</text><text x="794" y="278" font-size="13" fill="#4A5568">定义：UE 8e, Ch.17, p.1650; Ch.12, pp.1205–1206.</text>
+  </g>
+
+  <g id="storage-turnover-key" data-pptx-bounds="770 324 470 172">
+    <rect x="770" y="324" width="470" height="172" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1" />
+    <text x="794" y="356" font-size="16" font-weight="bold" fill="#0E3F8C">储量 ≠ 更新速度 | Storage ≠ turnover</text>
+    <text x="794" y="390" font-size="15" fill="#1A2230">海洋：储量 13.38 亿 km³ · 停留 3,200 年</text>
+    <text x="794" y="418" font-size="15" fill="#1A2230">大气：储量 12,900 km³ · 停留 9 日</text>
+    <rect x="794" y="436" width="422" height="40" rx="10" fill="#DCEAF8" />
+    <text x="1005" y="462" font-size="16" font-weight="bold" text-anchor="middle" fill="#0E3F8C">大储库 ≠ 更新快</text>
+  </g>
+
+  <g id="clocks-response-key" data-pptx-bounds="770 508 470 146">
+    <rect x="770" y="508" width="470" height="146" rx="12" fill="#F0F5FC" stroke="#B8C7DC" stroke-width="1" />
+    <text x="794" y="540" font-size="16" font-weight="bold" fill="#0E3F8C">不同的时钟，不同的响应 | Different clocks</text>
+    <text x="794" y="574" font-size="15" fill="#1A2230">快储库以日—月尺度更新；</text>
+    <text x="794" y="602" font-size="15" fill="#1A2230">慢储库以千年—万年尺度响应。</text>
+    <text x="794" y="630" font-size="13" fill="#4A5568">停留时间控制储库响应快慢。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: 地球系统与演变, Table 3-1, p.94 (PDF p.9); residence-time definition: UE 8e, Ch.17, p.1650; Ch.12, pp.1205–1206.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">08</text>
+</svg>

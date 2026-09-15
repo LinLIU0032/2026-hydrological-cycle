@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C" />
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">核心知识点 | Key Takeaways</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">LECTURE 16 · SYNTHESIS</text>
+  </g>
+
+  <g id="closing-message" data-pptx-bounds="40 92 1200 54">
+    <rect x="40" y="96" width="6" height="32" rx="3" fill="#EA580C" />
+    <text x="58" y="120" font-size="21" font-weight="bold" fill="#1A2230">判断系统响应：物质在哪里、怎样移动、作用方向、响应速度</text>
+  </g>
+
+  <g id="takeaway-1" data-pptx-bounds="40 158 580 138">
+    <rect x="40" y="158" width="580" height="138" rx="12" fill="#F0F5FC" stroke="#B8C7DC" />
+    <circle cx="82" cy="200" r="24" fill="#1E4FA8" />
+    <text x="82" y="208" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="122" y="190" font-size="16" font-weight="bold" fill="#0E3F8C">Reservoir ≠ Flux</text>
+    <text x="122" y="222" font-size="15" fill="#1A2230">水和碳通过通量在储库之间迁移；</text>
+    <text x="122" y="248" font-size="15" fill="#1A2230">储量不等于通量。</text>
+  </g>
+
+  <g id="takeaway-2" data-pptx-bounds="660 158 580 138">
+    <rect x="660" y="158" width="580" height="138" rx="12" fill="#F7F9FC" stroke="#D6DCE5" />
+    <circle cx="702" cy="200" r="24" fill="#0E3F8C" />
+    <text x="702" y="208" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="742" y="190" font-size="16" font-weight="bold" fill="#0E3F8C">Residence Time</text>
+    <text x="742" y="222" font-size="15" fill="#1A2230">停留时间控制储库响应快慢；</text>
+    <text x="742" y="248" font-size="15" fill="#1A2230">大储库不一定更新快。</text>
+  </g>
+
+  <g id="takeaway-3" data-pptx-bounds="40 310 580 138">
+    <rect x="40" y="310" width="580" height="138" rx="12" fill="#F0F5FC" stroke="#B8C7DC" />
+    <circle cx="82" cy="352" r="24" fill="#3D7BD9" />
+    <text x="82" y="360" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="122" y="342" font-size="16" font-weight="bold" fill="#0E3F8C">Water connects geospheres</text>
+    <text fill="#1A2230" font-size="15" x="122" y="374">水循环搬运物质和能量，并连接大气、</text><text fill="#1A2230" font-size="15" x="122" y="400">海洋、岩石与生命。</text></g>
+
+  <g id="takeaway-4" data-pptx-bounds="660 310 580 138">
+    <rect x="660" y="310" width="580" height="138" rx="12" fill="#FDF4EF" stroke="#F0CFC2" />
+    <circle cx="702" cy="352" r="24" fill="#EA580C" />
+    <text x="702" y="360" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="742" y="342" font-size="16" font-weight="bold" fill="#C2410C">Fast &amp; Slow Carbon Cycles</text>
+    <text fill="#1A2230" font-size="15" x="742" y="374">碳循环同时包含快速的生物/海洋路径</text><text fill="#1A2230" font-size="15" x="742" y="400">和缓慢的地质路径。</text></g>
+
+  <g id="takeaway-5" data-pptx-bounds="40 462 580 138">
+    <rect x="40" y="462" width="580" height="138" rx="12" fill="#F7F9FC" stroke="#D6DCE5" />
+    <circle cx="82" cy="504" r="24" fill="#1E4FA8" />
+    <text x="82" y="512" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">5</text>
+    <text x="122" y="494" font-size="16" font-weight="bold" fill="#0E3F8C">Water–Carbon Coupling</text>
+    <text fill="#1A2230" font-size="15" x="122" y="526">水通过风化、海气交换和生命过程把水循环</text><text fill="#1A2230" font-size="15" x="122" y="552">与碳循环耦合起来。</text></g>
+
+  <g id="takeaway-6" data-pptx-bounds="660 462 580 138">
+    <rect x="660" y="462" width="580" height="138" rx="12" fill="#FDF4EF" stroke="#F0CFC2" />
+    <circle cx="702" cy="504" r="24" fill="#C2410C" />
+    <text x="702" y="512" font-size="21" font-weight="bold" text-anchor="middle" fill="#FFFFFF">6</text>
+    <text x="742" y="494" font-size="16" font-weight="bold" fill="#C2410C">Feedback sign &amp; timescale</text>
+    <text fill="#1A2230" font-size="15" x="742" y="526">正反馈放大变化，负反馈抑制变化；判断系统响应</text><text fill="#1A2230" font-size="15" x="742" y="552">必须同时看方向和时间尺度。</text></g>
+
+  <g id="closing-band" data-pptx-bounds="40 616 1200 48">
+    <line x1="40" y1="620" x2="1240" y2="620" stroke="#D6DCE5" />
+    <text x="40" y="650" font-size="15" font-weight="bold" fill="#0E3F8C">Reservoir · Flux · Residence Time · Coupling · Feedback · Timescale</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Lecture 16 synthesis — locked takeaways from the approved blueprint and source matrix.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">44</text>
+</svg>

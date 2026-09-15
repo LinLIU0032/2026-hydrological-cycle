@@ -1,0 +1,176 @@
+=== PROD-W2-WORKBUDDY verification ===
+PPTX : L16_W2_WorkBuddy_Slides25-26_v01.pptx (677279 bytes)
+PDF  : L16_W2_WorkBuddy_Slides25-26_v01.pdf (337020 bytes)
+
+[1] Package composition
+    slide parts   : ['slide1.xml', 'slide2.xml']
+    notes parts   : 2
+    media         : ['image_800c7e1005107c78.png']
+    external rels : none
+    animation/audio nodes on slides : 0 / 0
+
+[2] Native / raster split per slide
+    slide 1 (slide1.xml) : pictures=0  native shapes=62
+    slide 2 (slide2.xml) : pictures=1  native shapes=26
+
+[3] Slide 25 (page 25) text runs — must be fully native
+    count=37
+      RUN: 2.5 快速碳循环：陆地生命 | Fast Carbon Cycle: Life on Land
+      RUN: CARBON CYCLE
+      RUN: 光合作用、呼吸与分解，把碳在大气、植被和土壤之间快速搬运
+      RUN: 过程环 | The fast land loop
+      RUN: ATMOSPHERE · 大气
+      RUN: 大气 CO₂ | Atmospheric CO₂
+      RUN: 光合作用
+      RUN: Photosynthesis
+      RUN: 大气 CO₂ → 植物有机碳
+      RUN: 呼吸作用
+      RUN: Respiration
+      RUN: 有机碳 → 大气 CO₂
+      RUN: 微生物分解
+      RUN: Decomposition
+      RUN: 土壤碳 → 大气 CO₂
+      RUN: 陆地植被 | Terrestrial vegetation
+      RUN: 储库 Reservoir
+      RUN: 植物有机碳：光合固定的碳先进入
+      RUN: 植被，再通过呼吸与枯落物离开。
+      RUN: 土壤碳储库 | Soil carbon
+      RUN: 枯落物与死亡有机质在此积累
+      RUN: 枯落物 | Litter
+      RUN: 为什么叫“快速” | Why “fast”
+      RUN: 植被与土壤里的碳以年—十年
+      RUN: 尺度周转，不断被取用又归还。
+      RUN: 年—十年 vs 地质储库的百万年
+      RUN: 土壤是真实储库
+      RUN: 枯落物与死亡有机质在其中积累，
+      RUN: 土壤因此成为一个独立的碳储库。
+      RUN: Reservoir, not a gap
+      RUN: 与水循环的交会
+      RUN: 同一片叶子上，光合固碳与蒸腾
+      RUN: 失水同时发生；这是两个循环在
+      RUN: 植物上的接触点（本页不展开）。
+      RUN: Photosynthesis · transpiration
+      RUN: Source: UE 8e, Ch.12, Atmosphere–Biosphere Gas Exchange, PDF pp.1211–1212; 地球系统与演变, Ch.4 §4.2.2、§4.3.4–§4.3.5, PDF pp.61–62, 71–74.
+      RUN: 25
+
+[4] Slide 26 (page 26) text runs — explanation must be native
+    count=21
+      RUN: 2.6 海气之间的碳交换 | Air–Sea Carbon Exchange
+      RUN: CARBON CYCLE
+      RUN: 海洋既能吸收、也能释放 CO₂；它不是处处、时时的单向碳汇
+      RUN: 读数规则 | How to read this map
+      RUN: +
+      RUN: 正值：海水放出 CO₂
+      RUN: Positive = seawater releases CO₂
+      RUN: −
+      RUN: 负值：海水吸收 CO₂
+      RUN: Negative = seawater absorbs CO₂
+      RUN: 单位 净通量 g/(m²·a)；色标约 −108 … +108
+      RUN: 什么在控制交换 | What controls it
+      RUN: 温度、海水组成，尤其风混合与浪
+      RUN: 花飞溅，决定溶解与释放的快慢；
+      RUN: 高纬冷海更易吸收，上升流区放出。
+      RUN: Temperature · composition · wind mixing
+      RUN: 海洋不是单向碳汇
+      RUN: 同一片海洋在不同区域，分别表现为
+      RUN: 碳源或碳汇——“海洋是碳汇”要限定区域与时段。
+      RUN: Source: 地球系统与演变, Fig. 4-8, p.153 (PDF p.68); UE 8e, Ch.12, Atmosphere–Ocean Gas Exchange, PDF pp.1210–1211.
+      RUN: 26
+
+[5] Slide 26 sign convention, unit and scale (native, readable)
+    正值                                     PRESENT
+    海水放出 CO₂                               PRESENT
+    负值                                     PRESENT
+    海水吸收 CO₂                               PRESENT
+    Positive = seawater releases CO₂       PRESENT
+    Negative = seawater absorbs CO₂        PRESENT
+    g/(m²·a)                               PRESENT
+    −108                                   PRESENT
+    +108                                   PRESENT
+
+[6] No mixed dataset: UE ~80 Gt C/yr gross exchange must be absent
+    slide1.xml             80-Gt runs: none
+    slide2.xml             80-Gt runs: none
+    notesSlide1.xml        80-Gt runs: none
+    notesSlide2.xml        80-Gt runs: none
+
+[7] Page numbers
+    slide1 last run : '25'
+    slide2 last run : '26'
+
+[8] C-03 integrity — no crop, byte identity with the approved asset
+    source asset : C-03_Fig4-8_PDF68_print153_raw.png  865x750  ratio=1.1533  md5=fa0fd929b7052eb5410ceda5fd54d912
+    embedded     : image_800c7e1005107c78.png  865x750  ratio=1.1533  md5=fa0fd929b7052eb5410ceda5fd54d912
+    byte identity: byte-identical
+    placed frame : 5.8125 x 5.0417 in at (0.6354, 1.6667) = 558 x 484 px
+    frame ratio 1.1529 vs source ratio 1.1533 -> MATCH (no distortion)
+    stretch mode : <a:stretch><a:fillRect/></a:stretch> (no crop)
+    RESULT       : PASS
+
+=== PDF native text ===
+pages=2  size=Rect(0.0, 0.0, 960.0, 540.0)
+--- page 1 : 712 chars ---
+2.5 快速碳循环：陆地生命| Fast Carbon Cycle: Life on Land
+CARBON CYCLE
+光合作用、呼吸与分解，把碳在大气、植被和土壤之间快速搬运
+过程环| The fast land loop
+ATMOSPHERE · 大气
+大气CO₂ | Atmospheric CO₂
+光合作用
+Photosynthesis
+大气CO₂ → 植物有机碳
+呼吸作用
+Respiration
+有机碳→ 大气CO₂
+微生物分解
+Decomposition
+土壤碳→ 大气CO₂
+陆地植被| Terrestrial vegetation
+储库Reservoir
+植物有机碳：光合固定的碳先进入
+植被，再通过呼吸与枯落物离开。
+土壤碳储库| Soil carbon
+枯落物与死亡有机质在此积累
+枯落物| Litter
+为什么叫“快速” | Why “fast”
+植被与土壤里的碳以年—十年
+尺度周转，不断被取用又归还。
+年—十年vs 地质储库的百万年
+土壤是真实储库
+枯落物与死亡有机质在其中积累，
+土壤因此成为一个独立的碳储库。
+Reservoir, not a gap
+与水循环的交会
+同一片叶子上，光合固碳与蒸腾
+失水同时发生；这是两个循环在
+植物上的接触点（本页不展开）。
+Photosynthesis · transpiration
+Source: UE 8e, Ch.12, Atmosphere–Biosphere Gas Exchange, PDF pp.1211–1212; 地球系统与演变, Ch.4 §4.2.2、§4.3.4–§4.3.5, PDF pp.61–62, 71–74.
+25
+
+--- page 2 : 502 chars ---
+2.6 海气之间的碳交换| Air–Sea Carbon Exchange
+CARBON CYCLE
+海洋既能吸收、也能释放CO₂；它不是处处、时时的单向碳汇
+读数规则| How to read this map
++
+正值：海水放出CO₂
+Positive = seawater releases CO₂
+−
+负值：海水吸收CO₂
+Negative = seawater absorbs CO₂
+单位净通量g/(m²·a)；色标约−108 … +108
+什么在控制交换| What controls it
+温度、海水组成，尤其风混合与浪
+花飞溅，决定溶解与释放的快慢；
+高纬冷海更易吸收，上升流区放出。
+Temperature · composition · wind mixing
+海洋不是单向碳汇
+同一片海洋在不同区域，分别表现为
+碳源或碳汇——“海洋是碳汇”要限定区域与时段。
+Source: 地球系统与演变, Fig. 4-8, p.153 (PDF p.68); UE 8e, Ch.12, Atmosphere–Ocean Gas Exchange, PDF pp.1210–1211.
+26
+
+=== preview renders ===
+  25_fast_carbon_land.png                1920x1080  125047 bytes
+  26_air_sea_carbon_exchange.png         1920x1080  977699 bytes

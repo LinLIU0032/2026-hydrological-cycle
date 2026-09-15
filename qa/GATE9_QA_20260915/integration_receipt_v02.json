@@ -1,0 +1,202 @@
+{
+  "status": "created",
+  "output_path": "E:\\PG\\2026 Hydrological cycle\\final\\L16_Hydrological_Carbon_Cycles_v02.pptx",
+  "output_sha256": "90f0d04797b59ef04e832dc7bf771b94b6478ed3a54f248f7fb5d761de85da51",
+  "output_bytes": 5657671,
+  "slide_count": 44,
+  "canvas_points": [
+    960,
+    540
+  ],
+  "segments": [
+    {
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "source_start": 1,
+      "source_end": 3,
+      "final_start": 1,
+      "final_end": 3,
+      "inserted": 3
+    },
+    {
+      "deck_id": "W1_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-QODER-CN\\L16_W1_QoderCN_Slides04-06_v01.pptx",
+      "source_start": 1,
+      "source_end": 3,
+      "final_start": 4,
+      "final_end": 6,
+      "inserted": 3
+    },
+    {
+      "deck_id": "W2_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-QODER-CN\\L16_W2_QoderCN_Slides07-08_v01.pptx",
+      "source_start": 1,
+      "source_end": 2,
+      "final_start": 7,
+      "final_end": 8,
+      "inserted": 2
+    },
+    {
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "source_start": 4,
+      "source_end": 4,
+      "final_start": 9,
+      "final_end": 9,
+      "inserted": 1
+    },
+    {
+      "deck_id": "W1_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO\\L16_W1_Doubao_Slides10-12_v01.pptx",
+      "source_start": 1,
+      "source_end": 3,
+      "final_start": 10,
+      "final_end": 12,
+      "inserted": 3
+    },
+    {
+      "deck_id": "W2_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-DOUBAO\\L16_W2_Doubao_Slides13-15_v01.pptx",
+      "source_start": 1,
+      "source_end": 3,
+      "final_start": 13,
+      "final_end": 15,
+      "inserted": 3
+    },
+    {
+      "deck_id": "W2_QIANWEN",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-QIANWEN-OFFICE\\L16_W2_QianwenOffice_Slides16-17_v01.pptx",
+      "source_start": 1,
+      "source_end": 2,
+      "final_start": 16,
+      "final_end": 17,
+      "inserted": 2
+    },
+    {
+      "deck_id": "W3_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\L16_W3_QoderCN_Slides18-20_34_v01.pptx",
+      "source_start": 1,
+      "source_end": 3,
+      "final_start": 18,
+      "final_end": 20,
+      "inserted": 3
+    },
+    {
+      "deck_id": "W1_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-WORKBUDDY\\L16_W1_WorkBuddy_Slides21-22-24_v01.pptx",
+      "source_start": 1,
+      "source_end": 2,
+      "final_start": 21,
+      "final_end": 22,
+      "inserted": 2
+    },
+    {
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "source_start": 5,
+      "source_end": 5,
+      "final_start": 23,
+      "final_end": 23,
+      "inserted": 1
+    },
+    {
+      "deck_id": "W1_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-WORKBUDDY\\L16_W1_WorkBuddy_Slides21-22-24_v01.pptx",
+      "source_start": 3,
+      "source_end": 3,
+      "final_start": 24,
+      "final_end": 24,
+      "inserted": 1
+    },
+    {
+      "deck_id": "W2_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-WORKBUDDY\\L16_W2_WorkBuddy_Slides25-26_v01.pptx",
+      "source_start": 1,
+      "source_end": 2,
+      "final_start": 25,
+      "final_end": 26,
+      "inserted": 2
+    },
+    {
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "source_start": 6,
+      "source_end": 6,
+      "final_start": 27,
+      "final_end": 27,
+      "inserted": 1
+    },
+    {
+      "deck_id": "W3_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\L16_W3_WorkBuddy_Slides28-33_v01.pptx",
+      "source_start": 1,
+      "source_end": 6,
+      "final_start": 28,
+      "final_end": 33,
+      "inserted": 6
+    },
+    {
+      "deck_id": "W3_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\L16_W3_QoderCN_Slides18-20_34_v01.pptx",
+      "source_start": 4,
+      "source_end": 4,
+      "final_start": 34,
+      "final_end": 34,
+      "inserted": 1
+    },
+    {
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "source_start": 7,
+      "source_end": 7,
+      "final_start": 35,
+      "final_end": 35,
+      "inserted": 1
+    },
+    {
+      "deck_id": "W3_QIANWEN",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\L16_W3_QianwenOffice_Slides36-37_39_v01.pptx",
+      "source_start": 1,
+      "source_end": 2,
+      "final_start": 36,
+      "final_end": 37,
+      "inserted": 2
+    },
+    {
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "source_start": 8,
+      "source_end": 8,
+      "final_start": 38,
+      "final_end": 38,
+      "inserted": 1
+    },
+    {
+      "deck_id": "W3_QIANWEN",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\L16_W3_QianwenOffice_Slides36-37_39_v01.pptx",
+      "source_start": 3,
+      "source_end": 3,
+      "final_start": 39,
+      "final_end": 39,
+      "inserted": 1
+    },
+    {
+      "deck_id": "W3_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\L16_W3_Doubao_Slides40-43_v01.pptx",
+      "source_start": 1,
+      "source_end": 4,
+      "final_start": 40,
+      "final_end": 43,
+      "inserted": 4
+    },
+    {
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "source_start": 9,
+      "source_end": 9,
+      "final_start": 44,
+      "final_end": 44,
+      "inserted": 1
+    }
+  ]
+}

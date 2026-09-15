@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">3.6 反馈不是同一速度 | Feedbacks Have Different Clocks</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">FEEDBACKS</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">辐射、水文、冰冻圈、生物圈与风化响应运行在不同的时钟上</text>
+  </g>
+
+  <g id="timescale-field" data-pptx-bounds="40 150 1200 492">
+    <rect x="40" y="150" width="1200" height="492" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+
+    <text x="72" y="182" font-size="12" fill="#4A5568">定性对齐：条带位置只表示相对快慢，不代表精确响应时间（教材无统一响应时间表）</text>
+    <text x="1216" y="182" font-size="12" font-weight="bold" text-anchor="end" fill="#1E4FA8">快 Fast → 慢 Slow</text>
+
+    <line x1="531" y1="220" x2="531" y2="590" stroke="#E2E8F0" stroke-width="1"/>
+    <line x1="702" y1="220" x2="702" y2="590" stroke="#E2E8F0" stroke-width="1"/>
+    <line x1="873" y1="220" x2="873" y2="590" stroke="#E2E8F0" stroke-width="1"/>
+    <line x1="1044" y1="220" x2="1044" y2="590" stroke="#E2E8F0" stroke-width="1"/>
+
+    <text x="445" y="210" font-size="12" font-weight="bold" text-anchor="middle" fill="#4A5568">即时–天</text>
+    <text x="616" y="210" font-size="12" font-weight="bold" text-anchor="middle" fill="#4A5568">季节–年</text>
+    <text x="787" y="210" font-size="12" font-weight="bold" text-anchor="middle" fill="#4A5568">数十年–世纪</text>
+    <text x="958" y="210" font-size="12" font-weight="bold" text-anchor="middle" fill="#4A5568">千年–冰期</text>
+    <text x="1130" y="210" font-size="12" font-weight="bold" text-anchor="middle" fill="#C2410C">10⁵–10⁷ 年</text>
+
+    <g id="row-radiative">
+      <text x="72" y="252" font-size="14" font-weight="bold" fill="#0E3F8C">辐射响应 Radiative response</text>
+      <text x="72" y="274" font-size="11.5" fill="#4A5568">辐射收支随辐射强迫近乎即时改变</text>
+      <rect x="360" y="247" width="104" height="26" rx="6" fill="#1E4FA8"/>
+      <text x="472" y="266" font-size="12" fill="#1A2230">即时–数天：能量收支近瞬时调整</text>
+    </g>
+
+    <g id="row-hydrological">
+      <text x="72" y="326" font-size="14" font-weight="bold" fill="#0E3F8C">水文（水汽）响应 Hydrological</text>
+      <text x="72" y="348" font-size="11.5" fill="#4A5568">蒸发—水汽反馈，随大气水快速周转</text>
+      <rect x="360" y="321" width="171" height="26" rx="6" fill="#3D7BD9"/>
+      <text x="540" y="340" font-size="12" fill="#1A2230">大气水交换 &lt; 约 9 天（CN 表 3-1）</text>
+    </g>
+
+    <g id="row-cryosphere">
+      <text x="72" y="400" font-size="14" font-weight="bold" fill="#0E3F8C">冰冻圈响应 Cryosphere</text>
+      <text x="72" y="422" font-size="11.5" fill="#4A5568">季节积雪、海冰到山地冰川与冰盖</text>
+      <rect x="531" y="395" width="513" height="26" rx="6" fill="#7FA8E0"/>
+      <text x="787" y="413" font-size="12" font-weight="bold" text-anchor="middle" fill="#FFFFFF">季节积雪 → 冰期尺度</text>
+    </g>
+
+    <g id="row-biosphere">
+      <text x="72" y="474" font-size="14" font-weight="bold" fill="#0E3F8C">生物圈响应 Biosphere</text>
+      <text x="72" y="496" font-size="11.5" fill="#4A5568">植物生长等生物过程，教材未给统一响应时钟</text>
+      <rect x="360" y="469" width="856" height="26" rx="6" fill="#EEF1F5" stroke="#8FA3BD" stroke-width="1.5" stroke-dasharray="6,4"/>
+      <text x="788" y="487" font-size="12" text-anchor="middle" fill="#4A5568">响应时钟未统一量化 | No unified response clock（不分配时间区间）</text>
+    </g>
+
+    <g id="row-weathering">
+      <text x="72" y="548" font-size="14" font-weight="bold" fill="#C2410C">硅酸盐风化恒温器</text>
+      <text x="72" y="570" font-size="11.5" fill="#7A4A33">Weathering thermostat · 最慢的负反馈</text>
+      <rect x="1044" y="543" width="168" height="26" rx="6" fill="#EA580C"/>
+      <text x="1128" y="561" font-size="12" font-weight="bold" text-anchor="middle" fill="#FFFFFF">&gt;10⁵–10⁷ 年</text>
+    </g>
+
+    <rect x="72" y="598" width="1136" height="32" rx="8" fill="#E8EFF8"/>
+    <text x="92" y="619" font-size="13" font-weight="bold" fill="#0E3F8C">慢负反馈不能立刻抵消快正反馈：响应方向与响应时钟必须同时判断。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e pp.1148, 1161–1165, 1177–1178, 1213; EP pp.883–884; HB Ch.9 pp.248–249, Ch.18 pp.455–475; CN Ch.4 pp.78–80. Qualitative alignment, not a unified response-time table.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">40</text>
+</svg>

@@ -1,0 +1,94 @@
+=== PROD-W2-WORKBUDDY-R1 verification (Slide 25 time-scale wording) ===
+PPTX : L16_W2_WorkBuddy_Slides25-26_v01.pptx (677375 bytes)
+PDF  : L16_W2_WorkBuddy_Slides25-26_v01.pdf (336707 bytes)
+
+[R1-1] Slide 25 must contain NO quantitative time-scale wording
+    result : PASS — none found
+
+[R1-2] Slide 25 must carry the qualitative replacement
+    表层生物储库周转快于地质储库                                 PRESENT
+    Surface biological reservoirs turn over        PRESENT
+    faster than geological reservoirs              PRESENT
+    植被与土壤中的碳周转很快，                                  PRESENT
+    result : PASS
+
+[R1-3] Slide 25 Notes must carry no quantitative time-scale wording
+    hits : none
+    notes mention the qualitative contrast : True
+    notes say the page gives no specific years : True
+    result : PASS
+
+[R1-4] Notes agree with the visible page
+    page  strip  : 表层生物储库周转快于地质储库 (qualitative faster-than)
+    notes wording: 一致
+    result : PASS
+
+[R1-5] Slide 26 and C-03 must be unchanged
+    slide 26 svg_output md5 now  : 56d178f842a223036d74885b0ec83ce7
+    slide 26 svg_output md5 prev : 56d178f842a223036d74885b0ec83ce7
+    slide 26 source unchanged    : True
+    embedded media : image_800c7e1005107c78.png 865x750 md5=fa0fd929b7052eb5410ceda5fd54d912
+    byte-identical to approved C-03 : True
+    no crop marker (<a:stretch><a:fillRect/>) : True
+    sign/unit/scale probes still present : True
+    result : PASS
+
+[R1-6] Unchanged structure
+    slide 1 : pictures=0 native_shapes=62
+    slide 2 : pictures=1 native_shapes=26
+    page numbers : '25' / '26'
+    notes parts  : 2 (lengths 473 / 388)
+    external rels : none ; animation nodes : 0
+
+=== PDF native text ===
+pages=2 size=Rect(0.0, 0.0, 960.0, 540.0)
+page 1 chars=785
+page 1 contains qualitative strip : True
+page 1 contains any quantified scale : False
+
+--- page 1 text ---
+2.5 快速碳循环：陆地生命| Fast Carbon Cycle: Life on Land
+CARBON CYCLE
+光合作用、呼吸与分解，把碳在大气、植被和土壤之间快速搬运
+过程环| The fast land loop
+ATMOSPHERE · 大气
+大气CO₂ | Atmospheric CO₂
+光合作用
+Photosynthesis
+大气CO₂ → 植物有机碳
+呼吸作用
+Respiration
+有机碳→ 大气CO₂
+微生物分解
+Decomposition
+土壤碳→ 大气CO₂
+陆地植被| Terrestrial vegetation
+储库Reservoir
+植物有机碳：光合固定的碳先进入
+植被，再通过呼吸与枯落物离开。
+土壤碳储库| Soil carbon
+枯落物与死亡有机质在此积累
+枯落物| Litter
+为什么叫“快速” | Why “fast”
+植被与土壤中的碳周转很快，
+不断被取用、又不断归还大气。
+表层生物储库周转快于地质储库
+Surface biological reservoirs turn over
+faster than geological reservoirs
+土壤是真实储库
+枯落物与死亡有机质在其中积累，
+土壤因此成为一个独立的碳储库。
+Reservoir, not a gap
+与水循环的交会
+同一片叶子上，光合固碳与蒸腾
+失水同时发生；这是两个循环在
+植物上的接触点（本页不展开）。
+Photosynthesis · transpiration
+Source: UE 8e, Ch.12, Atmosphere–Biosphere Gas Exchange, PDF pp.1211–1212; 地球系统与演变, Ch.4 §4.2.2、§4.3.4–§4.3.5, PDF pp.61–62, 71–74.
+25
+
+page 2 chars=502 ; unchanged sign key present : False
+
+=== preview renders ===
+  25_fast_carbon_land.png                1920x1080  128936 bytes
+  26_air_sea_carbon_exchange.png         1920x1080  977699 bytes

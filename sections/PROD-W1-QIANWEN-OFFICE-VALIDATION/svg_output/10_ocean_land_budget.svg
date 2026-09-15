@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.7 海洋与陆地的水量收支 | Ocean–Land Water Budget</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">WATER CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">海洋净蒸发 36 经大气输送到陆地，再由径流 36 返回海洋——全球收支闭合</text>
+  </g>
+
+  <g id="budget-field" data-pptx-bounds="40 154 1200 440">
+    <rect x="40" y="154" width="1200" height="440" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+
+    <g id="atmosphere-band" data-pptx-bounds="80 178 1120 86">
+      <rect x="80" y="178" width="1120" height="86" rx="12" fill="#F0F5FC" stroke="#3D7BD9" stroke-width="2"/>
+      <text x="640" y="212" font-size="18" font-weight="bold" text-anchor="middle" fill="#0E3F8C">大气 Atmosphere</text>
+      <text x="640" y="240" font-size="13" text-anchor="middle" fill="#4A5568">小储库 · 快速交换 · 横向水汽输送 Atmospheric transport</text>
+    </g>
+
+    <g id="ocean-box" data-pptx-bounds="80 430 460 140">
+      <rect x="80" y="430" width="460" height="140" rx="12" fill="#1E4FA8"/>
+      <text x="310" y="482" font-size="22" font-weight="bold" text-anchor="middle" fill="#FFFFFF">海洋 Ocean</text>
+      <text x="310" y="514" font-size="14" text-anchor="middle" fill="#C7D7F2">Evaporation 蒸发 434 ↑</text>
+      <text x="310" y="540" font-size="14" text-anchor="middle" fill="#C7D7F2">Precipitation 降水 398 ↓</text>
+    </g>
+
+    <g id="land-box" data-pptx-bounds="740 430 460 140">
+      <rect x="740" y="430" width="460" height="140" rx="12" fill="#3D7BD9"/>
+      <text x="970" y="482" font-size="22" font-weight="bold" text-anchor="middle" fill="#FFFFFF">陆地 Land</text>
+      <text x="970" y="514" font-size="14" text-anchor="middle" fill="#E8EFF8">Precipitation 降水 107 ↓</text>
+      <text x="970" y="540" font-size="14" text-anchor="middle" fill="#E8EFF8">Evapotranspiration 蒸散 71 ↑</text>
+    </g>
+
+    <line x1="200" y1="430" x2="200" y2="272" stroke="#1E4FA8" stroke-width="6"/>
+    <polygon points="188,284 212,284 200,262" fill="#1E4FA8"/>
+    <rect x="140" y="330" width="120" height="34" rx="8" fill="#FFFFFF" stroke="#1E4FA8" stroke-width="1"/>
+    <text x="200" y="352" font-size="14" font-weight="bold" text-anchor="middle" fill="#1E4FA8">E 434 ↑</text>
+
+    <line x1="400" y1="264" x2="400" y2="422" stroke="#3D7BD9" stroke-width="6"/>
+    <polygon points="388,410 412,410 400,432" fill="#3D7BD9"/>
+    <rect x="340" y="330" width="120" height="34" rx="8" fill="#FFFFFF" stroke="#3D7BD9" stroke-width="1"/>
+    <text x="400" y="352" font-size="14" font-weight="bold" text-anchor="middle" fill="#3D7BD9">P 398 ↓</text>
+
+    <line x1="560" y1="221" x2="712" y2="221" stroke="#EA580C" stroke-width="6"/>
+    <polygon points="700,209 700,233 722,221" fill="#EA580C"/>
+    <rect x="556" y="186" width="160" height="30" rx="8" fill="#FDECDD" stroke="#EA580C" stroke-width="1"/>
+    <text x="636" y="206" font-size="13" font-weight="bold" text-anchor="middle" fill="#C2410C">Transport 输送 36 →</text>
+
+    <line x1="880" y1="264" x2="880" y2="422" stroke="#3D7BD9" stroke-width="6"/>
+    <polygon points="868,410 892,410 880,432" fill="#3D7BD9"/>
+    <rect x="820" y="330" width="120" height="34" rx="8" fill="#FFFFFF" stroke="#3D7BD9" stroke-width="1"/>
+    <text x="880" y="352" font-size="14" font-weight="bold" text-anchor="middle" fill="#3D7BD9">P 107 ↓</text>
+
+    <line x1="1080" y1="430" x2="1080" y2="272" stroke="#1E4FA8" stroke-width="6"/>
+    <polygon points="1068,284 1092,284 1080,262" fill="#1E4FA8"/>
+    <rect x="1020" y="330" width="120" height="34" rx="8" fill="#FFFFFF" stroke="#1E4FA8" stroke-width="1"/>
+    <text x="1080" y="352" font-size="14" font-weight="bold" text-anchor="middle" fill="#1E4FA8">E 71 ↑</text>
+
+    <line x1="740" y1="500" x2="548" y2="500" stroke="#EA580C" stroke-width="6"/>
+    <polygon points="560,488 560,512 538,500" fill="#EA580C"/>
+    <rect x="580" y="482" width="140" height="34" rx="8" fill="#FDECDD" stroke="#EA580C" stroke-width="1"/>
+    <text x="650" y="504" font-size="14" font-weight="bold" text-anchor="middle" fill="#C2410C">Runoff 径流 36 ←</text>
+
+    <text x="640" y="584" font-size="12" fill="#4A5568" text-anchor="middle">单位 Units: ×10³ km³/yr · 箭头方向保留 UE Fig. 17.2 原意</text>
+  </g>
+
+  <g id="closure-strip" data-pptx-bounds="40 612 1200 44">
+    <rect x="40" y="612" width="590" height="44" rx="10" fill="#F0F5FC" stroke="#1E4FA8" stroke-width="1"/>
+    <text x="335" y="640" font-size="15" font-weight="bold" text-anchor="middle" fill="#0E3F8C">海洋侧闭合：434 − 398 = 36（净蒸发 → 输送到陆地）</text>
+    <rect x="650" y="612" width="590" height="44" rx="10" fill="#F0F5FC" stroke="#1E4FA8" stroke-width="1"/>
+    <text x="945" y="640" font-size="15" font-weight="bold" text-anchor="middle" fill="#0E3F8C">陆地侧闭合：107 − 71 = 36（净降水 → 径流返回海洋）</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Ch.17, Fig. 17.2, PDF pp.1652, 1655. W-03 (CN Fig. 3-15) is approved backup only; panel units are not mixed.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">10</text>
+</svg>

@@ -1,0 +1,313 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-WORKBUDDY",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "351432ba6eff44e60a887752557fd4617d715d94f3de1828e31e968a3b215e04",
+    "file_count": 3,
+    "files": [
+      {
+        "file": "21_why_carbon.svg",
+        "sha256": "bf0a72a51aa79b6714bd6fcc064ec21bc66daf6e9d67a4c0773ae5328e066202"
+      },
+      {
+        "file": "22_carbon_reservoirs.svg",
+        "sha256": "13a13bec68db59ee7c96ab6721f6e790a1d67b852f95a184bb2668cae9ea9721"
+      },
+      {
+        "file": "24_same_framework_different_timescales.svg",
+        "sha256": "c468712b1c4489ac0f4f55c996e978b1cbbc2b5ef2852aea3303608ba6661758"
+      }
+    ]
+  },
+  "summary": {
+    "total": 3,
+    "passed": 3,
+    "warnings": 0,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 0,
+      "issues": []
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {
+      "#C7D7F2": [
+        "21_why_carbon.svg",
+        "22_carbon_reservoirs.svg",
+        "24_same_framework_different_timescales.svg"
+      ]
+    },
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 3,
+    "totals": {
+      "text_elements": 102,
+      "image_placements": 1,
+      "icons": 0,
+      "svg_geometry_elements": 58,
+      "preset_shapes": 0,
+      "page_frame_elements": 3,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 1,
+      "icons": 0,
+      "presets": 0,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "geometry_elements": {
+      "circle": 13,
+      "ellipse": 0,
+      "line": 1,
+      "path": 0,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 44
+    },
+    "preset_names": {},
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": [
+      0.2435,
+      0.2435
+    ]
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "21_why_carbon.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-WORKBUDDY\\svg_output\\21_why_carbon.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 35,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 17,
+              "circle": 7,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 35,
+        "tspan_elements": 0,
+        "contextual_values": {
+          "colors": [
+            "#C7D7F2"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "bf0a72a51aa79b6714bd6fcc064ec21bc66daf6e9d67a4c0773ae5328e066202"
+    },
+    {
+      "file": "22_carbon_reservoirs.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-WORKBUDDY\\svg_output\\22_carbon_reservoirs.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 34,
+          "images": {
+            "placements": 1,
+            "files": [
+              "C-01_UE_Fig12-19_PDF1209_raw.png"
+            ],
+            "max_frame_share": 0.2435
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 12,
+              "circle": 6,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 34,
+        "tspan_elements": 0,
+        "contextual_values": {
+          "colors": [
+            "#C7D7F2"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "13a13bec68db59ee7c96ab6721f6e790a1d67b852f95a184bb2668cae9ea9721"
+    },
+    {
+      "file": "24_same_framework_different_timescales.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-WORKBUDDY\\svg_output\\24_same_framework_different_timescales.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 33,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 15,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 33,
+        "tspan_elements": 0,
+        "contextual_values": {
+          "colors": [
+            "#C7D7F2"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "c468712b1c4489ac0f4f55c996e978b1cbbc2b5ef2852aea3303608ba6661758"
+    }
+  ]
+}

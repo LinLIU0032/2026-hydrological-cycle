@@ -1,0 +1,592 @@
+{
+  "status": "passed",
+  "errors": [],
+  "decks": {
+    "SAMPLE": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "sha256": "d8484c2906ceb19a8ac8f740796e4f2cd2f845e48b37f1136ad3d494920fc177",
+      "bytes": 4255357,
+      "slide_count": 9,
+      "notes_parts": 9,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W1_QODER": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-QODER-CN\\L16_W1_QoderCN_Slides04-06_v01.pptx",
+      "sha256": "eb47e248c278fac3ef658e489d32388a60d069bd8d1dbe2b5b1482e229c687fc",
+      "bytes": 31132,
+      "slide_count": 3,
+      "notes_parts": 3,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W2_QODER": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-QODER-CN\\L16_W2_QoderCN_Slides07-08_v01.pptx",
+      "sha256": "4e1c598ee923424b2126f192d768d921fbed47272b408fb6b3f15e701137588c",
+      "bytes": 26554,
+      "slide_count": 2,
+      "notes_parts": 2,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W1_DOUBAO": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO\\L16_W1_Doubao_Slides10-12_v01.pptx",
+      "sha256": "d447c20bf443f58c7caa42e0d1f9a3d37712a8e2b704a25799d3457f73ee9c70",
+      "bytes": 201778,
+      "slide_count": 3,
+      "notes_parts": 3,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W2_DOUBAO": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-DOUBAO\\L16_W2_Doubao_Slides13-15_v01.pptx",
+      "sha256": "91ba892fe16b02532b7eba68b22258757457a72ac1aeb4c5bfa0f60f8a9b39e6",
+      "bytes": 34656,
+      "slide_count": 3,
+      "notes_parts": 3,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W2_QIANWEN": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-QIANWEN-OFFICE\\L16_W2_QianwenOffice_Slides16-17_v01.pptx",
+      "sha256": "a8d029c96be94397dfd78dea7e6fce72c8b78e801733b8974e197b28de61ae7a",
+      "bytes": 301454,
+      "slide_count": 2,
+      "notes_parts": 2,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W3_QODER": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\L16_W3_QoderCN_Slides18-20_34_v01.pptx",
+      "sha256": "2d59c68b9c8ce77554a47a1a97cffbebdf9b50964cd752e1192c2a60d5f639eb",
+      "bytes": 2391523,
+      "slide_count": 4,
+      "notes_parts": 4,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W1_WORKBUDDY": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-WORKBUDDY\\L16_W1_WorkBuddy_Slides21-22-24_v01.pptx",
+      "sha256": "e173623b0de9b85db01a62138925c826771451d155c8f1c4d8ea1f5a13edb50f",
+      "bytes": 1870282,
+      "slide_count": 3,
+      "notes_parts": 3,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W2_WORKBUDDY": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-WORKBUDDY\\L16_W2_WorkBuddy_Slides25-26_v01.pptx",
+      "sha256": "6266063d300aad87f232aa5140e6c313e1f8f3de7d5d803ad99b8af35aa43a1d",
+      "bytes": 677375,
+      "slide_count": 2,
+      "notes_parts": 2,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W3_WORKBUDDY": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\L16_W3_WorkBuddy_Slides28-33_v01.pptx",
+      "sha256": "1cdb3b9b1f66e468d733069b1c9323a7df9e93d2871ab612ceb567df1c2bf72a",
+      "bytes": 1888435,
+      "slide_count": 6,
+      "notes_parts": 6,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W3_QIANWEN": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\L16_W3_QianwenOffice_Slides36-37_39_v01.pptx",
+      "sha256": "1a40ecb939c4448a06a38ee2e1aa1d44e75d078b6315cd38d8cc453fdbe31590",
+      "bytes": 33994,
+      "slide_count": 3,
+      "notes_parts": 3,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    },
+    "W3_DOUBAO": {
+      "path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\L16_W3_Doubao_Slides40-43_v01.pptx",
+      "sha256": "581512c8c1fa623158d589f5740a408e02324c9e0a8813cdb02c85e65a12a630",
+      "bytes": 40431,
+      "slide_count": 4,
+      "notes_parts": 4,
+      "size_emu": [
+        12192000,
+        6858000
+      ],
+      "external_relationship_parts": []
+    }
+  },
+  "pages": [
+    {
+      "final_page": 1,
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "cb7a5bf85775bff86b670200c89eaf83f922f7ad89ce78ca1326fe5677c3c2d1",
+      "notes_text_sha256": "00e94438d18b3dcbf80eba1cc21b04dc680eeeb7453e74a70ce8876748b8305e",
+      "visible_text": "EOE111 · EARTH SYSTEM SCIENCE\nLecture 16:\u000bHydrological Cycles\n第16讲：水文循环\n水循环 · 碳循环 · 耦合与气候反馈\nReservoir · Flux · Residence Time · Feedback · Timescale\nH₂O\nWATER CYCLE\nC\nCARBON CYCLE\n用共同语言读懂地球系统的循环\nReading cycles as connected reservoirs, transfers and feedbacks\nPrimary reference: Understanding Earth, 8e, Chapters 12 and 17",
+      "notes_text": "这一讲把水循环和碳循环放在同一个地球系统框架中理解。我们会反复使用六个关键词：储库、通量、停留时间、耦合、反馈和时间尺度。重点不是记住孤立名词，而是看清物质储存在哪里、怎样转移，以及这些转移如何影响气候。"
+    },
+    {
+      "final_page": 2,
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "76fedddd3ba7286f359acac7754a7fc42784388db320e01cc387e2ee231c9c9b",
+      "notes_text_sha256": "3ba4b274543c07c3fd6a13b1ea65b2d72f4071c7dc73d5928c23609c27e2af96",
+      "visible_text": "0.2 学习目标 | Learning Objectives\nCOURSE ROADMAP\n从储库与通量，推进到耦合、反馈与时间尺度\n1\n识别地球水循环的主要储库与通量，并区分储量、通量和停留时间。\nIdentify the major reservoirs and fluxes of the hydrologic cycle and distinguish storage, flux, and residence time.\n2\n描述全球碳循环的主要储库，以及快速和缓慢碳循环路径。\nDescribe the major carbon reservoirs and the fast and slow pathways of the global carbon cycle.\n3\n解释水和碳如何连接大气、海洋、岩石与生命。\nExplain how water and carbon connect the atmosphere, oceans, rocks, and life.\n4\n区分正反馈与负反馈，并解释典型气候反馈机制。\nDistinguish positive from negative feedback and explain representative climate feedback mechanisms.\n5\n比较不同循环和反馈的时间尺度，并预测系统受到扰动后的响应方向。\nCompare the timescales of cycles and feedbacks and predict the direction of system responses to perturbations.\nSource: Lecture 16 Master Prompt §24.\n02",
+      "notes_text": "完成本讲后，首先要能识别水循环的主要储库和通量，并区分储量、通量与停留时间。随后要能描述碳的主要储库，以及快速的生物和海洋路径与缓慢的地质路径。更进一步，我们要解释水和碳如何连接大气、海洋、岩石与生命，并用初始变化和诱发变化的方向区分正反馈与负反馈。最后，把方向与时间尺度结合起来，预测地球系统受到扰动后的响应。"
+    },
+    {
+      "final_page": 3,
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "local_slide": 3,
+      "visible_text_sha256": "fdcc1ceaa1d3fb7ae472cf71ebf4467b398410e0c32997c339ca28d81e0c8229",
+      "notes_text_sha256": "7b9acf4c0575bb78d98db9b36d8da6f3eb6d7286f44c7245be1bd7d2f60119ef",
+      "visible_text": "目录 | Table of Contents\nLECTURE 16\n先分别读懂水与碳，再把它们放回同一个气候系统\n01\n水循环\nWater Cycle\nReservoirs 储库\u000bFluxes 通量\u000bResidence time 停留时间\u000bSurface ↔ Deep Earth\n02\n碳循环\nCarbon Cycle\nFast pathways 快循环\u000bSlow pathways 慢循环\u000bOcean pumps 海洋碳泵\u000bLife ↔ Rocks\n03\n耦合与反馈\nCoupling & Climate Feedbacks\nWater–Carbon coupling\u000bPositive / Negative\u000bFeedback sign 反馈方向\u000bTimescale 响应时间\n阅读顺序 / Reading path\nWATER\n→\nCARBON\n→\nCOUPLING & FEEDBACKS\nSource: Lecture 16 Master Prompt §25.\n03",
+      "notes_text": "课程分为三个连续部分。第一部分建立水循环的储库、通量、停留时间，以及地表与深部之间的联系；第二部分用同样的语言阅读快速和缓慢碳循环，并重点认识海洋碳泵。第三部分把水和碳重新耦合到同一个气候系统中，用反馈符号和响应时间判断系统变化。阅读顺序是水、碳、耦合与反馈。"
+    },
+    {
+      "final_page": 4,
+      "deck_id": "W1_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-QODER-CN\\L16_W1_QoderCN_Slides04-06_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "c55b23a405ff1ad0dae323e3e4298e0c82b0d321df1f1e08e8dfe4592ec73192",
+      "notes_text_sha256": "6aceadb4ae9e306357dd240a45150b13914c259dd231fe4c4883e8720bf61d2f",
+      "visible_text": "1.1 什么在循环？ | What Is Actually Cycling?\nEARTH SYSTEM\n物质在地球系统各储库之间持续迁移，循环不是一条单向路径\n地球系统\nEarth System\n储存与输送质量和能量\n大气圈\nAtmosphere\n冰冻圈\nCryosphere\n水圈\nHydrosphere\n岩石圈\nLithosphere\n生物圈\nBiosphere\n水 H₂O\n碳 C\n表层系统最重要的两种迁移物质\n迁移阶段：数小时至数百万年 · hours to millions of years\nSource: UE 8e, Ch.12, Components of the Climate System, PDF pp.1146–1147; 地球系统与演变 Chs.3–4; EP 5e, Ch.23, PDF p.881.\n04",
+      "notes_text": "问\"什么在循环\"，答案不只是水。先看这张图：大气圈、水圈、冰冻圈、岩石圈和生物圈，是组成气候系统的五个组分，每个组分都在储存并输送质量和能量。双向箭头表示，物质在这些储库之间持续地来回迁移；循环不是一条单向路径，而是彼此连接的迁移网络。本讲要追踪的，是表层系统最重要的两种迁移物质：水和碳。还要注意时间尺度：迁移阶段短则可以只有几小时，长则可达数百万年。记住这幅\"组分加迁移\"的图景，下面一页我们给出阅读一切循环的四个词。"
+    },
+    {
+      "final_page": 5,
+      "deck_id": "W1_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-QODER-CN\\L16_W1_QoderCN_Slides04-06_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "d1ffce3d267adfbada05315bb323a61da8e1608c960db6069c3a153bf75bf9c3",
+      "notes_text_sha256": "56899354e48d374df77eaf3b9ac79a36d66b3d5fc7574e1622d2d88c7ec053c4",
+      "visible_text": "1.2 读懂全球循环的四个词 | Four Ideas for Reading Global Cycles\nREADING FRAMEWORK\n储库、通量、停留时间与反馈是阅读一切全球循环的共同框架\n1\nReservoir\n储库\n物质在哪里 · Where matter is\n储存水或化学物质的场所或组分\n例：海洋、大气、植被、岩石\n水循环与碳循环共用同一个词\n2\nFlux\n通量\n移动多快 · How fast it moves\n物质从一个储库向另一个储库\u000b的流动或输送\n储量单位与通量单位要分开读\n3\nResidence Time\n停留时间\n停留多久 · How long it stays\n一定量的水或某化学物质分子\u000b在储库中停留的平均时间\n大储库不一定更新快\n4\nFeedback\n反馈\n方向如何 · Amplifies or opposes\n系统变化诱发的过程反过来\u000b影响初始变化\n正（放大）· 负（抑制）· 第三部分展开\n同一套词读两个循环：从水循环到碳循环 · 稳态 steady state 可以包含持续通量\nSource: UE 8e, Ch.12, PDF p.1205; Ch.17, PDF pp.1647–1650; EP 5e, Ch.23, PDF p.881.\n05",
+      "notes_text": "这一页的四个词，是阅读所有全球循环的共同框架。第一个词，储库 reservoir：储存水或化学物质的场所或组分，比如海洋、大气、植被和岩石；水循环和碳循环共用这同一个词。第二个词，通量 flux：物质从一个储库向另一个储库的流动或输送；读图时一定要把储量单位和通量单位分开来看。第三个词，停留时间 residence time：一定量的水或某化学物质分子在储库中停留的平均时间；要特别提醒，大储库不一定更新快。第四个词，反馈 feedback：系统变化诱发的过程反过来影响初始变化，同向放大是正反馈，反向抑制是负反馈，第三部分会专门展开。同一套词既读水循环也读碳循环，而且稳态可以包含持续通量。接下来就用这个框架看第一个问题：地球的水到底在哪里。"
+    },
+    {
+      "final_page": 6,
+      "deck_id": "W1_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-QODER-CN\\L16_W1_QoderCN_Slides04-06_v01.pptx",
+      "local_slide": 3,
+      "visible_text_sha256": "7a321a7c7d4f554433059acb91510040aef5b1bb833808d260a07800075366e4",
+      "notes_text_sha256": "da23dcd5de85ba52f8981b6cff7e768fb566df7d9648fff1b20965cbc93259d3",
+      "visible_text": "1.3 地球的水在哪里？ | Where Is Earth's Water?\nWATER CYCLE\n地球水的分布极不均匀：海洋占绝对多数，易利用的表层淡水极少\n全球水储库分布 | Distribution of Earth's water\n海洋\nOcean & seas\n95.96% · 1.40×10^9 km³\n冰川与极地冰\nGlaciers & polar ice\n2.97% · 4.34×10^7 km³\n地下水\nGroundwater\n1.05% · 1.54×10^7 km³\n湖泊与河流\nLakes & rivers\n0.009% · 1.27×10^5 km³\n大气\nAtmosphere\n0.001% · 1.5×10^4 km³\n生物圈\nBiosphere\n0.0001% · 2×10^3 km³\n注：条长按占比线性绘制；占比小于 0.01% 的储库以最小可见条宽显示，数值以标签为准。\n总水量 | Total water\n≈ 1.4×10^9 km³\n约 14 亿 km³；日—百年至地质短尺度上视为恒定\n海洋占绝对多数 | Oceans dominate\n海洋 Ocean/seas：95.96%\n其次：冰川与极地冰 2.97%\n再次：地下水 1.05%\n其余储库各自都不足 0.01%\n易利用的表层淡水极少\n湖泊与河流 0.009% · 大气 0.001%\n生物圈 0.0001%\n最易利用的表层淡水占比极小\nSource: UE 8e, Ch.17, Fig. 17.1, PDF pp.1647–1649; total volume: Ch.17, PDF p.1651.\n06",
+      "notes_text": "地球的水在哪里？这张图只用一套数据，就是 Understanding Earth 图十七点一的水分布数据。全球总水量约等于一点四乘以十的九次方立方公里，也就是大约十四亿立方公里；在日到百年乃至地质短尺度上，总水量可以视为恒定。再看分布有多不均匀：海洋占了百分之九十五点九六，绝对主导；其次是冰川与极地冰，约百分之二点九七；再次是地下水，约百分之一点零五。其余储库各自都不足百分之一：湖泊与河流只有百分之零点零零九，大气百分之零点零零一，生物圈更是只有百分之零点零零零一。注意图上条长按占比线性绘制，极小的储库只保留了最小可见条宽，数值一律以标签为准。结论只有一句话：人类最易利用的表层淡水，只占全球水量的极小部分。下一页我们会把这个分布再拆开看：为什么最大的水库并不是可用的淡水。"
+    },
+    {
+      "final_page": 7,
+      "deck_id": "W2_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-QODER-CN\\L16_W2_QoderCN_Slides07-08_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "1befa8da402889aedb39a43e3051cf344c5c30ecd3a6bd236d282e7ae7be2048",
+      "notes_text_sha256": "290c6b7052fabda35c6a845600953d26d6dec5ce01ba8accecd7c8fb5df4113a",
+      "visible_text": "1.4 最大的水库并不是可用淡水 | Most Water Is Not Accessible Freshwater\nWATER DISTRIBUTION\n海洋占绝对多数，淡水很小，易利用的表层淡水更小\n全球水的三级递减 | Three-level hierarchy of Earth's water\n全部水 | All water ≈ 1.4×10^9 km³\n海洋 95.96% · 1.40×10^9 km³\n淡水储库 | Freshwater reservoirs 占全部水的比例\n冰川 / 极地冰 2.97% · 4.34×10^7 km³\n地下水 1.05% · 1.54×10^7 km³ — 并非全部易利用\n湖泊 / 河流 0.009% · 1.27×10^5 km³\n易利用的表层淡水 | Accessible surface freshwater 湖泊与河流\n湖泊 / 河流 0.009% · 1.27×10^5 km³ — 占全部水极小份额\n注：三行条均按同一“占全部水”线性刻度绘制；极小段以最小可见条宽显示，数值以标签为准。\u000b大气 0.001% 与生物圈 0.0001% 为另列的极小储库，未计入淡水行。\n海洋占绝对多数 | Oceans dominate\n95.96% · 1.40×10^9 km³\n最大储库，但并非可直接利用的淡水来源\n淡水锁在冰与地下 | Freshwater locked away\n冰川 / 极地冰 2.97% · 4.34×10^7 km³\n地下水 1.05% · 1.54×10^7 km³\n地下水并非全部易利用；湖泊与河流仅 0.009%。\n易利用的表层淡水极少\n湖泊 / 河流 0.009% · 1.27×10^5 km³\n大气 0.001% · 生物圈 0.0001%\n人类最易利用的水只占极小份额\nSource: UE 8e, Ch.17, Fig. 17.1, PDF pp.1647–1649.\n07",
+      "notes_text": "上一页我们看到地球水的分布极不均匀，这一页把这种不均匀拆成三级。第一级是全部水，总量约等于一点四乘以十的九次方立方公里，其中海洋占百分之九十五点九六，绝对主导；图上那条深蓝色的长条就是海洋，剩下的浅色小段才是全部非海洋储库。第二级是淡水储库：冰川与极地冰占全部水的百分之二点九七，地下水占百分之一点零五，注意地下水并非全部易利用。第三级是易利用的表层淡水，只指湖泊与河流，仅占全部水的百分之零点零零九。至于大气的百分之零点零零一和生物圈的百分之零点零零零一，它们是另外的微小储库：既没有计入上面的淡水行，也不属于易利用的表层淡水。三行条使用同一个\"占全部水\"的线性刻度，所以条长逐级急剧变短本身就是结论；极小的段只保留最小可见宽度，数值一律以标签为准。一句话收束：最大的水库是海洋，但人类最易利用的表层淡水只占极小份额。那么储库大就意味着更新快吗？下一页我们看停留时间。"
+    },
+    {
+      "final_page": 8,
+      "deck_id": "W2_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-QODER-CN\\L16_W2_QoderCN_Slides07-08_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "82d3aded3e84a4097bf74f8d79a65898120098bc44d089457abe6d6abb86a1ad",
+      "notes_text_sha256": "5f725b4d17c8d6f688a4fa64a97cfae43ef9b8c6100e62bd912ea655030a31f1",
+      "visible_text": "1.5 储量 ≠ 更新速度 | Storage ≠ Turnover\nRESIDENCE TIME\n储量与更新速度是两个不同属性：大储库不一定更新快\n七个水储库的停留时间 | Residence time of seven reservoirs\n快 Fast turnover\n大气\nAtmosphere\n9 日\n土壤水\nSoil water\n1–2 月\n河流与季节性冰雪\nRivers & seasonal snow/ice\n2–6 月\n浅层地下水\nShallow groundwater\n100–200 年\n海洋\nOcean\n3,200 年\n深层地下水\nDeep groundwater\n10,000 年\n南极冰盖\nAntarctic ice sheet\n20,000 年\n慢 Slow turnover\n停留时间 | Residence Time\n一定量的水或某化学物质\u000b在储库中停留的平均时间\n定义：UE 8e, Ch.17, p.1650; Ch.12, pp.1205–1206.\n储量 ≠ 更新速度 | Storage ≠ turnover\n海洋：储量 13.38 亿 km³ · 停留 3,200 年\n大气：储量 12,900 km³ · 停留 9 日\n大储库 ≠ 更新快\n不同的时钟，不同的响应 | Different clocks\n快储库以日—月尺度更新；\n慢储库以千年—万年尺度响应。\n停留时间控制储库响应快慢。\nSource: 地球系统与演变, Table 3-1, p.94 (PDF p.9); residence-time definition: UE 8e, Ch.17, p.1650; Ch.12, pp.1205–1206.\n08",
+      "notes_text": "这一页要区分两个经常被混在一起的属性：储量回答\"存了多少\"，更新速度回答\"多久换一遍\"，后者的量度就是停留时间，也就是一定量的水或某化学物质在储库中停留的平均时间，这个定义来自 Understanding Earth；而本页的全部数值停留时间来自中文教材表三之一。看这条从快到慢的阶梯：大气只要九天，土壤水一到两个月，河流与季节性冰雪两到六个月；进入年尺度后，浅层地下水要一百到两百年，海洋三千二百年，深层地下水一万年，南极冰盖长达两万年。再把储量放进来对照：海洋储量十三点三八亿立方公里，是表里最大的储库，停留时间却是三千二百年；大气水储量只有一万二千九百立方公里，九天就更新一遍。所以大储库不等于更新快，储量和停留时间必须分开读。这也意味着：快储库以日到月的尺度响应变化，慢储库要以千年到万年的尺度响应，判断系统反应时必须先看它落在阶梯的哪一段。"
+    },
+    {
+      "final_page": 9,
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "local_slide": 4,
+      "visible_text_sha256": "f4e9b3ee7192506f8d052a3f6d4955e1432a46bad19aef228cd121650ab4f89d",
+      "notes_text_sha256": "a13669bef9095d15ba66c5c93c64d11bfa8745eeb4d1a3ce4a17326c42554cfc",
+      "visible_text": "1.6 全球水循环 | Global Hydrologic Cycle\nWATER CYCLE\n先找储库，再沿箭头读通量：全球水循环不是一条单向路径\nReservoirs 储库\n→\nFluxes 通量\n1\n找储库 | Reservoirs\n海洋、大气、冰雪、陆地生命\u000b与地下水共同构成储存空间。\n2\n读箭头 | Fluxes\n蒸发、输送、降水、径流、\u000b入渗与地下水流彼此连接。\n3\n追驱动 | Driver\n太阳能驱动蒸发与大气输送；\u000b重力推动降水、径流与下渗。\nOcean covers about 71% of Earth\nSource: EP 5e, Interlude F, The Hydrologic Cycle, pp.580–581 (PDF pp.615–616).\n09",
+      "notes_text": "面对全球水循环图，先不要急着追箭头，而要先找储库，包括海洋、大气、冰雪、陆地生命和地下水。第二步才是沿箭头识别蒸发、大气输送、降水、径流、入渗与地下水流等通量，这些过程彼此连接，形成回路而不是一条单向路径。第三步追踪驱动力：太阳能驱动蒸发和大气输送，重力推动降水、径流与下渗。图中海洋覆盖地球表面约百分之七十一，这说明海洋是理解全球水循环时不可忽略的背景储库。"
+    },
+    {
+      "final_page": 10,
+      "deck_id": "W1_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO\\L16_W1_Doubao_Slides10-12_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "8597cb6dbc9e7986e6b77dfafe55bd9e0ee99fdd15641f33dc48446399d31a44",
+      "notes_text_sha256": "c5a0c2b358e2196c44efc58fdb29a91e865dfe3cd7a494e6a729d1c82a4043ce",
+      "visible_text": "1.7 海洋与陆地的水量收支 | Ocean–Land Water Budget\nWATER CYCLE\n海洋多出的蒸发量经大气输送到陆地，再由等量径流回到海洋\nATMOSPHERE · 大气\n单位 Unit：×10³ km³/yr（教材全球收支）\n大气向陆净输送 Atmospheric transport = 36（海洋 → 陆地）\nLAND · 陆地\n降水 > 蒸散\n降水向下 Precip. ↓\n107\n降水 Precipitation\n蒸散向上 ET ↑\n71\n蒸散 Evapotranspiration\n陆地收支：107 − 71 = 36（净得水 → 径流）\nOCEAN · 海洋\n蒸发 > 降水\n蒸发向上 Evap. ↑\n434\n蒸发 Evaporation\n降水向下 Precip. ↓\n398\n降水 Precipitation\n海洋收支：434 − 398 = 36（净失水 → 大气）\n径流 Runoff = 36：陆地把等量的水送回海洋（陆地 → 海洋）\n全球收支闭合：海洋 E−P = 陆地 P−E = 大气输送 = 径流 = 36\nSource: UE 8e, Fig. 17.2, PDF pp.1652, 1655. Flows ×10³ km³/yr; one internally coherent textbook global budget.\n10",
+      "notes_text": "这一页用一套内部一致的教材全球收支数据，说明海洋和陆地怎样通过大气和径流闭合。海洋每年蒸发四百三十四、降水三百九十八，多出的三十六以水汽形式经大气净输送到陆地；陆地每年降水一百零七、蒸散七十一，净得到的三十六恰好等于回到海洋的径流。两个差额都等于三十六：海洋蒸发减降水等于三十六，陆地降水减蒸散也等于三十六，二者方向相反、数量相等，全球水量因此收支平衡。读图时先看两个储库面板里向上的蒸发和向下的降水，再沿顶部大气带向左的输送箭头与底部向右的径流箭头，就能看到一个闭合回路。本页所有数字单位均为乘以一千立方千米每年，来自 Understanding Earth 图十七点二这一套数据，不与其他教材图件的面板单位混用。"
+    },
+    {
+      "final_page": 11,
+      "deck_id": "W1_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO\\L16_W1_Doubao_Slides10-12_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "6e73131930b035a6f7e6a2e5037de2970d50a81cb3c3cd03975715399521d434",
+      "notes_text_sha256": "426019a4ec9e3c2e2b07588bb341f1cef4cf996e2819f07725496d78b348e33e",
+      "visible_text": "1.8 水的三相转换 | Phase Changes of Water\nWATER CYCLE\n相变同时转移水和能量：向上吸热、向下放热，汽化潜热约为熔融的 7 倍\n三态 | Three states\n固态 Solid — 冰 Ice\n液态 Liquid — 水 Water（0–100 °C）\n气态 Gas — 水汽 Vapor\n吸热：能量进入水 | Heat absorbed\n熔融 Melting　+80 Cal（0 °C）\n增温 Warming　+100 Cal（0→100 °C）\n蒸发 Vaporization　+540 Cal（100 °C）\n放热：能量离开水 | Heat released\n冻结 Freezing　−80 Cal\n降温 Cooling　−100 Cal\n凝结 Condensation　−540 Cal\n熔融潜热 Latent heat of fusion 80 Cal　｜　汽化潜热 Latent heat of vaporization 540 Cal（约 7 倍）　｜　1 Cal = 4.184 J\nSource: 地球系统与演变, Fig. 3-17, p.112 (PDF p.27). Figure W-05 shown intact; arrow directions and all values preserved.\n11",
+      "notes_text": "这张教材原图展示水在固态冰、液态水和气态水汽之间转换时，水和能量一起转移。上方橙色箭头是吸热过程：熔融需要八十卡，把水从零度加热到一百度需要一百卡，蒸发汽化需要五百四十卡；下方蓝色箭头是逆向的放热过程：冻结释放八十卡，降温释放一百卡，凝结释放五百四十卡，箭头方向和全部数值都保持原图不变。右侧三张卡片给出简明英文对照：三态名称、吸热清单和放热清单。汽化潜热五百四十卡约为熔融潜热八十卡的七倍，说明同样质量的水，气液相变搬运的能量远大于固液相变，这正是蒸发吸热、凝结释放潜热从而驱动大气能量输送的物理基础。单位换算关系是一卡等于四点一八四焦耳。"
+    },
+    {
+      "final_page": 12,
+      "deck_id": "W1_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-DOUBAO\\L16_W1_Doubao_Slides10-12_v01.pptx",
+      "local_slide": 3,
+      "visible_text_sha256": "c923c2b954e221593df2d19889f6b60f4d84482362bec80b21580f102d5ffdfb",
+      "notes_text_sha256": "3d103fd35f28e3731809965719792f8b9124dbae035b2cc5ae7c840c51e4fc3f",
+      "visible_text": "1.9 蒸发与蒸散 | Evaporation & Evapotranspiration\nWATER CYCLE\n海洋、陆地表面与植物分别把水返还大气；蒸发加蒸腾合称蒸散\nATMOSPHERE · 大气：接收返还的水汽 Water vapor returned to the atmosphere\n陆地 LAND\n海洋 OCEAN\n陆地蒸发\nSurface / soil evaporation\n植物蒸腾\nTranspiration（根系 → 叶片）\n根系吸水 Uptake\n海洋蒸发\nOcean evaporation\n蒸发 Evaporation　＋　蒸腾 Transpiration　＝　蒸散 Evapotranspiration（ET）\n海洋 | Ocean evaporation\n最大蒸发源：E 434 多于 P 398\n陆地表面 | Surface evaporation\n土壤与地表水体直接蒸发\n植被 | Transpiration\n根系吸水、叶片释水汽，与光合作用耦合\n中文教材估计（Ch.4 §4.3.5）：陆地约 80%–90% 来水经蒸散返回大气；大树日蒸腾 200–1000 L、年吸水约 150 t；约一半陆地太阳能用于蒸腾。\nRedrawn from approved sources: CN Ch.4 §4.3.5 (PDF pp.73–74); UE 8e, pp.1653–1654, 1168. Native process diagram.\n12",
+      "notes_text": "水返回大气有三条并行路径：海洋表面的蒸发是最大的蒸发源，陆地土壤和地表水体也直接蒸发，植物则通过根系吸收土壤水、再由叶片把水汽释放出去，这一过程叫蒸腾。蒸发和蒸腾合起来称为蒸散，对应图中深蓝色条带给出的等式。蒸腾与光合作用在植物体内同时发生，并不是两个互不相干的过程，因此植被把水循环和碳循环连接在一起。中文教材估计，陆地约百分之八十到九十的来水经蒸散返回大气，一棵大树每天蒸腾约二百到一千升、每年吸水约一百五十吨，陆地吸收的太阳能约有一半用于蒸腾，说明蒸散既是水循环环节，也是能量循环环节。需要说明，蒸发与蒸腾两个过程在指定的英文教材章节中分别出现，合称蒸散是本课程采用的汇总术语。"
+    },
+    {
+      "final_page": 13,
+      "deck_id": "W2_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-DOUBAO\\L16_W2_Doubao_Slides13-15_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "f01d4219675f52cc7950c5381e5fcd1c01fb94292cb28b7f25f76567928f37b3",
+      "notes_text_sha256": "c1b7e6fff3357cf11c9399fbec092cac83cb851ac7351c44b65e3bf7b7938848",
+      "visible_text": "1.10 水汽输送、凝结与降水 | Moisture Transport, Condensation & Precipitation\nWATER CYCLE\n大气是储量极小、周转极快的储库：蒸发—输送—凝结—降水构成快速回路\n12,900 km³\n大气水储量（约为海洋储量的十万分之一）\n仅 9 天\n平均滞留时间，交换极快（CN 表 3-1）\n≈ 2.5 cm\n若水汽一次性全部降下的等效水层厚度\n1\n蒸发\nEvaporation\n太阳加热海面与陆地，\n水变为水汽进入大气。\n2\n水汽输送\nMoisture transport\n大气运动把水汽从海洋\n上空输送到陆地上空。\n3\n冷却凝结\nCooling & Condensation\n湿空气上升冷却，\n水汽凝结成微小云滴。\n4\n降水\nPrecipitation\n云滴碰撞长大，\n以雨、雪等落回地表。\n储量小不等于作用小：大气以约 9 天的快速周转，成为海陆之间最活跃的输水通道\nSource: UE 8e pp.1653, 1148, 1150; 地球系统与演变 Table 3-1, p.94 (PDF p.9); storage/residence pair verified against W-04.\n13",
+      "notes_text": "这一页讲大气作为水储库的两个特点：储量很小、交换很快。中文教材表三之一给出，大气中水的总储量只有一万二千九百立方千米，大约是海洋储量的十万分之一，平均滞留时间只有九天，如果全部一次性降下，只相当于全球二点五厘米厚的水层。水在这个小储库里走一条四步快速回路：第一步，太阳加热海面和陆地，水蒸发成水汽进入大气；第二步，大气运动把水汽从海洋上空输送到陆地上空；第三步，湿空气上升冷却，水汽凝结成微小云滴；第四步，云滴碰撞长大，以雨、雪等形式形成降水回到地表。储量小不等于作用小，正是大约九天一次的快速周转，让大气成为海陆之间最活跃的输水通道；全球大气环流的细节本页不展开。"
+    },
+    {
+      "final_page": 14,
+      "deck_id": "W2_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-DOUBAO\\L16_W2_Doubao_Slides13-15_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "dda73a3e16431adba2fb366cdcd2d4f6c7ed90aa76408fdd9d2d6adeaf5045b3",
+      "notes_text_sha256": "7946657e081369d74e17dc5b82913ef29194f6ec1d2388461ca8f0c53b954a80",
+      "visible_text": "1.11 降水落地后去了哪里？ | Runoff & Infiltration\nWATER CYCLE\n落地降水在蒸散、地表与地下径流、入渗之间分配，比例因环境而异\n降水 Precipitation\n河道 Stream\n蒸散 ET\n返回大气\n地表径流 Overland flow\n入渗 Infiltration：经孔隙、裂隙进入土壤\n近地表入渗水回归地表、并入径流\n继续下渗 → 地下水（1.12）\n径流 | Runoff\n沿地表漫流的水，加上近地表\n入渗后又回到地表的水，共同\n构成径流（UE 广义定义）。\n入渗 | Infiltration\n水通过土壤、岩石的孔隙或\n裂隙向下运动；入渗不等于\n永久离开径流。\n蒸散 | Evapotranspiration\n部分落地水经蒸发或植物\n蒸腾直接返回大气\n（承接 1.9 蒸发与蒸散）。\n三者比例受气候、地形、岩土与植被控制，不存在统一的全球百分比（UE p.1667）；本图为过程示意，非定量比例。\nSource: UE 8e pp.1654, 1667; 地球系统与演变 Ch.3 (CN Fig.3-7/3-15B statements). Native partition diagram; no global numerical split.\n14",
+      "notes_text": "降水落地后并不是只有一个去向，而是在三条路径之间分配。第一条是蒸散，一部分水直接蒸发，或被植物蒸腾后返回大气。第二条是径流，按照教材的广义定义，径流既包括沿地表漫流的地表径流，也包括先入渗到近地表、之后又回到地表并汇入河道的水，所以入渗不等于水被永久移出径流。第三条是入渗，水通过土壤和岩石的孔隙、裂隙向下运动，其中较浅的部分形成壤中流回归地表，更深的部分继续下渗，成为下一页要讲的地下水。图中的坡面剖面展示三条路径的方向：蒸散向上，地表径流沿坡面进入河道，入渗向下并且有一条浅层回流。三者各占多少受气候、地形、岩土和植被控制，教材没有给出、本页也不编造全球统一的百分比，这是过程示意，不是定量比例。"
+    },
+    {
+      "final_page": 15,
+      "deck_id": "W2_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-DOUBAO\\L16_W2_Doubao_Slides13-15_v01.pptx",
+      "local_slide": 3,
+      "visible_text_sha256": "351d71c2e557a0f0ffc0f8a8f47709dc8c884c608f969d33046decf0d39d45a3",
+      "notes_text_sha256": "c8337c0ab6ab60b0bdc54ea2db838e956c40a2ef94d15b583c152062c10a8da5",
+      "visible_text": "1.12 地下水：慢一些的路径 | Groundwater: A Slower Pathway\nWATER CYCLE\n补给、储存、排泄三步定义地下水：走得慢，但最终回到地表\n包气带 Unsaturated zone（未饱和）\n①补给 Recharge\n降水入渗，穿过包气带\n滞留时间 Residence time（CN 表 3-1）\n浅层地下水 100–200 年\n深层约 10,000 年（大气仅 9 天）\n地下水位 Water Table\n饱水带 Saturated zone　②储存 Storage：地下水在其中缓慢流动\n缓慢地下流 Slow groundwater flow\n③排泄 Discharge\n泉 / 河\nSpring · Stream\n蒸发 ET\n海洋 Ocean\n① 补给 Recharge\n近期降水入渗，穿过包气带，\n到达地下水位，形成地下水。\n② 储存 Storage\n水在水位以下的饱水带中储存，\n并以极慢的速度流动。\n③ 排泄 Discharge\n以泉、河、蒸发或海洋方式排出；\n长期补给≈排泄，维持水位稳定。\nSource: UE 8e pp.1675, 1682–1688, 1694–1695; 地球系统与演变 Ch.3 PDF pp.13–14; residence times CN Table 3-1 (W-04). Native cross-section.\n15",
+      "notes_text": "地下水这一页只讲三件事：补给、储存、排泄。补给是近期降水入渗，穿过未饱和的包气带到达地下水位，形成地下水；地下水位以下是饱水带，水在其中储存并以非常慢的速度流动，这是第二步储存；第三步排泄，是地下水最终以泉、河流、蒸发或入海的方式回到地表。长期来看补给量约等于排泄量，储库规模和地下水位因此保持稳定。慢是这一页的重点：表三之一显示，浅层地下水滞留时间约一百到二百年，深层地下水可达约一万年，而大气水只有九天，相差四到六个数量级，所以地下水是水循环里缓冲能力很强、但响应很慢的路径。孔隙度、含水层工程、抽水形成的降落漏斗以及污染治理，都超出本页范围，留到后续课程。"
+    },
+    {
+      "final_page": 16,
+      "deck_id": "W2_QIANWEN",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-QIANWEN-OFFICE\\L16_W2_QianwenOffice_Slides16-17_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "745522b6c4be2a5ea22b39ef8a344e3ef17d3e2775cc20080a2d6417659fbacc",
+      "notes_text_sha256": "a90e61635283cff2e156e85284becb723855e1d74bf8812d341d79b8b4528301",
+      "visible_text": "1.13 冰冻圈：会移动的水库 | Cryosphere as a Water Reservoir\nWATER CYCLE\n冰冻圈是一座会移动的水库：积累与消融同时改变储水、海平面与气候\n大气圈 Atmosphere\n降水 · 蒸发 · 升华交换\n基岩 Bedrock\n冰盖 / 冰川 Ice sheet / Glacier\n海洋 Ocean\n冰架 Ice shelf\n海冰 Sea ice\n↓ 积累 Accumulation\n↑ 蒸发 / 升华 Evaporation\n→ 消融 Melting\n↕ 季节变化 Seasonal\n储存 Storage：陆地冰是长期储库，海冰是季节性薄层\u000bStorage: continental ice = long-term reservoir; sea ice = thin seasonal layer\n海平面效应 | Sea-level effect\n大陆冰积累、扩张 → 海平面下降\n大陆冰融化 → 海平面上升\n海冰漂浮于海面，融化不直接抬升海平面\nFloating sea-ice melt ≠ continental-ice melt\nSea-level change tracks continental ice, not sea ice\n海平面当量 | Sea-level equivalent\n南极冰盖 Antarctic ice sheet · 58.3 m\u000b格陵兰冰盖 Greenland ice sheet · 7.36 m\u000b冰川 Glaciers · 0.41 m\n交换同时改变反照率与海平面 → 连接气候 Connects to climate\nSource: 地球系统与演变, Ch.3 §3.2.1.3 & Table 3-2, PDF pp.15–19 (print pp.100–104); UE 8e, Ch.12, PDF pp.1159–1162; EP 5e, p.881.\n16",
+      "notes_text": "这一页把冰冻圈讲成一座\"会移动的水库\"。请学生先看左边这张原生剖面图：最上面一条浅蓝带是大气圈，注意术语是\"大气圈\"而不是别的写法；下面左侧灰色基岩上覆白色圆顶，是陆地冰，也就是冰盖和冰川；海岸处那块贴着陆缘、浮在海面上的白色楔形体是冰架；海面上几片白色薄块是海冰，它完全漂浮。四组箭头是这一页的重点：向下的蓝箭头是积累，雪落到冰面上把水存进陆地冰；向上的浅蓝箭头是蒸发与升华，把水送回大气圈；横向的浅蓝箭头是消融，冰融化后把水交给海洋；海冰那里的双向箭头是季节变化，表示海冰每年生长与融化、在水圈与大气圈之间来回交换。右边第一张卡片是海平面效应，三行要逐行读：大陆冰积累和扩张会把水从海洋搬走，海平面下降；大陆冰融化把水还回海洋，海平面上升；而海冰本来就浮在海面上，它融化不直接抬升海平面，这和大陆冰融化不是一回事，英文行 Floating sea-ice melt 不等于 continental-ice melt 就是在钉这个区别。右边第二张卡片只给一套数据，即中文教材表 3-2 的海平面当量：南极冰盖 58.3 米、格陵兰冰盖 7.36 米、冰川 0.41 米，单位是米，表示这些冰若全部融化可抬升的海平面量级；这里刻意不引入理解地球图 17.1 的绝对体积，两套数据不混用。最下面一条提示把交换和气候连起来：冰面反照率高、储水又影响海平面，所以冰冻圈交换同时连接气候。来源是地球系统与演变第三章 3.2.1.3 节与表 3-2、理解地球第八版第十二章 1159 到 1162 页、以及地球画像第五版 881 页关于海洋与大陆冰重新分配的论述。"
+    },
+    {
+      "final_page": 17,
+      "deck_id": "W2_QIANWEN",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-QIANWEN-OFFICE\\L16_W2_QianwenOffice_Slides16-17_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "b32fcb93d15393b3f5ca75618d46655d822d112eb754d86dc7568359e9f5b8d4",
+      "notes_text_sha256": "98a9621ab9e3ed2d6596384208d3abc645258dbfd2ca4a2f9627f7afdd395a8b",
+      "visible_text": "1.14 水也进入岩石和地球内部 | Deep Water Cycle\nWATER CYCLE\n水循环不只在表层：俯冲把水带入地球内部，熔融与火山再把它送回表层与大气圈\nW-06 整幅保留，未裁切 | Embedded un-cropped\n读图顺序 | Reading the pathway\n1\n表层与海洋水 Surface & ocean water\n2\n含水洋壳与沉积物 Hydrated crust & sediment\n3\n俯冲带入地幔 Subduction carries water in\n4\n地幔深部储存 Deep mantle storage\n5\n熔融与火山返回 Melting & volcanism return\n返回表层与大气圈，循环闭合 Closes the loop\n箭头与边界 | Arrows & boundaries\n深蓝色 = 俯冲板块 Subducting slab\u000b浅蓝箭头 = 水向地幔 Water toward mantle\u000b黄色箭头 = 水向表层 Water toward surface\u000b深度边界 Depth bounds: 410 / 660 / 2900 / 5150 km\n边界与箭头含义取自原图标注 As printed in Fig. 3-13\nSource: 地球系统与演变, Fig. 3-13, p.106 (PDF p.21) = W-06; supporting context: HB Ch.9 approved volatile-cycling text (not plotted).\n17",
+      "notes_text": "这一页的任务是纠正一个常见印象：水循环不只发生在表层。左边整幅保留中文教材图 3-13（编号 W-06），没有裁切、没有拉伸，作为证据图。请学生按右边第一张卡片的五步顺序读图：第一步是表层与海洋水；第二步是含水洋壳与沉积物，海水随板块物质一起进入岩石；第三步是俯冲，把含水的洋壳和沉积物带入地球内部；第四步是地幔深部储存；第五步是熔融与火山作用把水送回表层与大气圈，循环闭合。这个方向不能讲反：俯冲是向内的输入，火山与熔融是向外的返回。右边第二张卡片解释图例：深蓝色是俯冲板块，浅蓝箭头表示水向地幔方向输运，黄色箭头表示水向表层方向输运，410、660、2900、5150 千米是原图标注的深度边界，含义都取自原图，不要自行改写。这一页不要求背数字：深部通量属于选讲内容，不是记忆目标，所以页面上没有放通量数值，也不引入热液井、地下水资源管理或推测性的地幔总水量。来源是地球系统与演变图 3-13、印刷页 106（PDF 第 21 页），即 W-06；HB 第九章已批准的挥发分循环文字只作支持性背景，没有画到页面上。"
+    },
+    {
+      "final_page": 18,
+      "deck_id": "W3_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\L16_W3_QoderCN_Slides18-20_34_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "17949033ec498f93867bbf3f977d9154982b099cf7a92c1270e5f2bfb2c4ecd2",
+      "notes_text_sha256": "a41b90091d0afa253242b91528b5b705c2b4469da2f753ffb9beb416677ffca6",
+      "visible_text": "1.15 水循环连接四大圈层 | Water Connects the Earth System\nEARTH-SYSTEM LINK\n水把大气、海洋、生命、岩石与深部地球连接起来，并搬运质量与能量\n大气圈 | Atmosphere\n海洋 | Ocean\n水圈主体 · 海气交换与热量输送\n接收径流与风化溶质\n陆地与生命 | Land & life\n生物圈 · 植被连接地下水与大气水\n蒸腾与生物转移返回水汽\n岩石与深部 | Rock & deep Earth\n俯冲把水带入内部 · 火山作用把水返回表层 · 风化释放溶质\n蒸发 Evaporation\n降水 Precipitation\n降水 Precipitation\n蒸腾 Transpiration\n径流 Runoff\n风化与溶质输送 Weathering & solute\n入渗 Infiltration\n火山回返 Volcanic return\n俯冲 Subduction\n水搬运质量与能量：溶剂与搬运介质 · 相变输送潜热 Water carries mass & energy; solvent and transport agent\nRedrawn from approved sources: W-02, W-06, and Source Matrix rows for Slide 18.\n18",
+      "notes_text": "这一页把水循环放进整个地球系统来看。图上有四个节点：大气圈、海洋、陆地与生命、岩石与深部。先看表层：海洋与大气之间有蒸发和降水两条方向相反的箭头；陆地与大气之间同样有降水向下、蒸腾与生物转移向上；陆地上的水通过径流回到海洋，又通过入渗进入地下。再看深部：俯冲把水带入地球内部，火山作用把水返回表层，这两个方向沿用中文教材图三之十三的原始方向；风化则把岩石中的溶质释放出来，随水输送到海洋。所以水循环不是一张表层流程图：它同时连接大气、海洋、生命、岩石和深部地球，并在这些储库之间搬运质量与能量；水还是溶剂和搬运介质，相变过程同时输送潜热。本页依据 Understanding Earth 第十二章与第十七章、中文教材第三章、Earth Portrait 第二十三章和 How to Build a Habitable Planet 第九章的批准来源行重绘，不引入新的数值预算。"
+    },
+    {
+      "final_page": 19,
+      "deck_id": "W3_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\L16_W3_QoderCN_Slides18-20_34_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "9c1086be50a1dbaaecd7035cb53feeb7fa16231fbf6e7e6d269d6acb9598af44",
+      "notes_text_sha256": "cdcd8fc00921860a93a68343146166034579b9d8c8ae0220cc4f2122f116a96a",
+      "visible_text": "1.16 课堂读图 | Concept Check 1\nCONCEPT CHECK\n先读图再回答：储库、通量、快慢路径与能量入口\nReservoirs 储库\n→\nFluxes 通量\n1\n找储库 | Reservoirs\n在图中至少指出四个储库。\nName at least four reservoirs.\n2\n读通量 | Fluxes\n至少指出四个通量（箭头）。\nName at least four fluxes (arrows).\n3\n比速度 | Faster & slower\n指出一条较快与一条较慢路径。\nOne faster and one slower pathway.\n4\n找能量 | Solar input\n太阳能从哪里进入循环？\nWhere does solar energy enter?\nSource: EP 5e, Interlude F, The Hydrologic Cycle, pp.580–581 (PDF pp.615–616); UE 8e, Ch.17, pp.1651–1654.\n19",
+      "notes_text": "这一页是课堂读图题，答案不在画面上，而在你们的读图过程里。请看左侧这幅 Earth Portrait 的全球水循环图，依次完成四个任务：第一，至少指出四个储库；第二，至少指出四个通量，也就是图中的箭头；第三，指出一条较快的路径和一条较慢的路径；第四，找出太阳能从哪里进入循环。给一点提示性的答案键，供讨论后核对：储库可以答海洋、大气、冰雪、陆地与生物、地下含水层；通量可以答蒸发、蒸腾、升华、凝结与降水、径流、入渗、地下水流；较快的路径是海洋与大气之间的蒸发—降水回路，较慢的路径是地下水流或冰雪的融化返回；太阳能从驱动蒸发和大气水汽输送进入循环，这与 Understanding Earth 第十七章的表述一致。图上标签保持完整，没有做数值计算，也没有混用其他图件的数值。"
+    },
+    {
+      "final_page": 20,
+      "deck_id": "W3_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\L16_W3_QoderCN_Slides18-20_34_v01.pptx",
+      "local_slide": 3,
+      "visible_text_sha256": "ef21f91cdfd0fb359338d4bdbdb9e3c6ce1b8aca5d220533ea80eae46869e1e6",
+      "notes_text_sha256": "7b59e2f642efbc363220d9e530b65810663490b875578b665554646bea778293",
+      "visible_text": "1.17 第一部分总结 | Water Moves Matter and Energy\nPART I SUMMARY\n水循环搬运物质与能量、塑造地表、连接圈层\n1\n水在储库间迁移\nWater moves among reservoirs\n海洋、大气、冰雪、陆地与地下水之间\u000b以通量持续迁移。\n2\n相变输送能量\nPhase changes transport energy\n蒸发吸热、凝结放热，\u000b水循环同时搬运能量。\n3\n径流与地下水搬运溶质与沉积物\nRunoff & groundwater move solutes and sediment\n径流与地下水把溶质和沉积物\u000b从陆地搬向海洋。\n4\n水塑造地表\nWater shapes the surface\n侵蚀与沉积持续改变地表形态，\u000b水是最主要的塑造者之一。\n5\n表层与深部路径连接圈层\nSurface & deep pathways connect geospheres\n表层循环与俯冲—火山深部路径\u000b把水送入并送出岩石圈。\nBreak · 10 min\n第一部分结束 · 下一部分：碳循环\nSource: UE 8e, Chs.12 & 17; 地球系统与演变 Ch.3; EP 5e, Interlude F & Ch.23.\n20",
+      "notes_text": "第一部分用五条结论收束。第一，水在储库之间迁移：海洋、大气、冰雪、陆地与地下水通过通量持续交换。第二，相变输送能量：蒸发吸热、凝结放热，水循环同时是能量循环。第三，径流与地下水搬运溶质和沉积物，把陆地的物质带向海洋。第四，水塑造地表：侵蚀与沉积持续改变地形。第五，表层循环与俯冲—火山的深部路径共同把水送入并送出岩石圈，连接各大圈层。讲完这五条，第一部分结束，休息十分钟；下一部分我们用同一套储库、通量、停留时间的语言进入碳循环。本页全部结论来自 Understanding Earth 第十二、十七章、中文教材第三章和 Earth Portrait Interlude F 与第二十三章的批准来源行，没有新增事实或数值。"
+    },
+    {
+      "final_page": 21,
+      "deck_id": "W1_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-WORKBUDDY\\L16_W1_WorkBuddy_Slides21-22-24_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "7c5f64053277b85808278a02883a9828075b51b3247f9e102f5d3686333e6b00",
+      "notes_text_sha256": "43e4c605d1caf0ec0576d287a175dd0f5d146109209a2e6a8a9228418f8e6769",
+      "visible_text": "2.1 为什么接下来讲碳？ | Why Carbon?\nPART II · CARBON CYCLE\n碳循环把气候、生命、海洋与岩石，接进与水循环同一套储库—通量框架\n课程位置 | Course position\n第二部分现在开始；先用同一套语言读完水，再读碳。\n1\n水循环 | Water Cycle\n已完成 · 储库、通量与停留时间已建立\n2\n碳循环 | Carbon Cycle\n当前 · 用同一套语言读碳的储库与路径\n当前\n3\n耦合与气候反馈 | Coupling & Feedbacks\n接下来 · 把两个循环放回同一个气候系统\n沿用同一套语言 | Same framework\n储库\nReservoir\n通量\nFlux\n停留时间\nResidence Time\n碳再把它们连到四个领域：\n气候 | Climate\n连接温室效应与温度\n生命 | Life\n光合作用固定无机碳\n海洋 | Ocean\n溶解并输送碳\n岩石 | Rocks\n长期储碳并返回地表\nCarbon ≠ CO₂ only\n碳循环不等于只看大气 CO₂。\nSource: UE 8e, Ch.12, PDF pp.1204–1205; 地球系统与演变 Ch.4 §4.1, PDF pp.57–58.\n21",
+      "notes_text": "第一部分我们用储库、通量和停留时间读完了水循环。进入第二部分之前，先说明为什么下一个主题是碳。课程位置很清楚：第二部分现在正式开始，把同一套语言用到碳循环上，第三部分再把水和碳放回同一个气候系统。这里不需要重新定义概念，储库、通量与停留时间这三个词直接沿用。碳的价值在于它同时连接气候、生命、海洋与岩石，它把温室效应、光合作用、海水溶解和岩石储存串在一条链条上。要提醒的是，碳循环不等于只看大气二氧化碳，大气只是其中一个环节。"
+    },
+    {
+      "final_page": 22,
+      "deck_id": "W1_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-WORKBUDDY\\L16_W1_WorkBuddy_Slides21-22-24_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "65f45634c152ac0742b886e524112ae58f896a590cfeb805acf1dec2f17dff98",
+      "notes_text_sha256": "9330df75069e270cec9408afe351b8cca8ccfd3c5b9a04b62584343add108e82",
+      "visible_text": "2.2 碳储存在哪里？ | Carbon Reservoirs\nCARBON CYCLE\n碳主要储存在海洋、沉积物与岩石里；大气只是一个很小的储库\n证据图 | 单一数据集\n本页数值单位：储库 Gt C（吉吨碳）\n四个较小储库的数值取自这张图；沉积物与岩石未给出总量，只作定性。\n碳储库层级 | Reservoir hierarchy\n自小而大排序（本页整理）\n1\n生物圈 | Biosphere\n500 Gt C\n陆地植物与海洋生物\n2\n大气 | Atmosphere\n830 Gt C\n大气中 CO₂ 所含的碳\n3\n土壤 | Soils\n1500 Gt C\n土壤中有机碳的储存空间\n4\n海洋 | Ocean\n38,000 Gt C\n含海洋生物；表层库与深层库合计\n地质储库 | Geological reservoirs\n定性描述，不参与上方数值排序\n沉积物 | Sediment\n图中未给出总量\n连接海洋与岩石的过渡储库\n岩石圈 | Lithosphere\n图中未给出总量\n化石有机碳与碳酸盐岩\nSource: UE 8e, Fig. 12.19, PDF p.1209 (Gt C); 地球系统与演变 Ch.4 §4.2、§4.5.1, PDF pp.58–64, 79–80.\n22",
+      "notes_text": "左边这张图是本页唯一的数值来源，所有数字都取自这一张图，不与其它数据集混用。右边把这四个数值储库按自小而大排列：一、生物圈五百吉吨碳；二、大气八百三十；三、土壤一千五百；四、海洋三万八千。所以四个当中最小的是生物圈，大气排在它后面；相对海洋和土壤，两者都只是小储库，但大气并不是最小的那一个。沉积物和岩石圈作为单独的一组地质储库列在下方，图中没有给出它们的总量，因此只作定性描述，不参与上面的数值排序，它们才是量级最大的储库。由此得到本页的结论：碳主要储存在海洋、沉积物和岩石里，大气只是一个小储库；同时要记住，最大的储库并不意味着最快的响应。"
+    },
+    {
+      "final_page": 23,
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "local_slide": 5,
+      "visible_text_sha256": "150d29b229569a3861a97965641406096bbc4774b03fd1170ec5431b1f2e447d",
+      "notes_text_sha256": "48a9ef4357566731a7dbb71cae827705522341b04503fd85ce29aa144ad72a4c",
+      "visible_text": "2.3 全球碳循环 | Global Carbon Cycle\nCARBON CYCLE\n先分清储库与通量，再比较交换速度；不需要背诵全部数字\n框\n储库 | Reservoir\n单位：Gt C，表示某处储存了多少碳。\n→\n通量 | Flux\n单位：Gt C/yr，表示每年转移的速率。\n120 与 80 是总交换，不等于净碳汇。\n比较时钟 | Compare clocks\n生物与海气交换：高通量、快速\u000b硅酸盐风化与火山返回：<0.1 Gt C/yr、缓慢\nReservoir ≠ Flux\n大储库、快交换与净变化是三个不同问题。\nSource: UE 8e, Fig. 12.19, PDF p.1209. Amounts: Gt C; fluxes: Gt C/yr.\n23",
+      "notes_text": "读碳循环图时，框表示储库，单位是吉吨碳；箭头表示通量，单位是吉吨碳每年。图中的一百二十和八十吉吨碳每年是高频总交换，不能直接当作净碳汇。生物过程和海气交换的通量较高、交换较快，而硅酸盐风化与火山返回都小于零点一吉吨碳每年，代表缓慢的地质通量。因此，大储库、快交换和净变化是三个不同问题，储库不等于通量。"
+    },
+    {
+      "final_page": 24,
+      "deck_id": "W1_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W1-WORKBUDDY\\L16_W1_WorkBuddy_Slides21-22-24_v01.pptx",
+      "local_slide": 3,
+      "visible_text_sha256": "bb09e0d75c8b4568e5b53dc237a6a9b7162e2e76470a85ab6c76b3610983712f",
+      "notes_text_sha256": "c81829519d37d7744ccb34ef64a4db1dc6ad824aaaf35d2186b44354165cbcc0",
+      "visible_text": "2.4 同样的语言，不同的时间尺度 | Same Framework, Different Timescales\nCARBON CYCLE\n储库、通量与停留时间可以同时读水和碳，但两个循环的时钟并不相同\n储库\nReservoir\n通量\nFlux\n停留时间\nResidence Time\n水循环 | Water Cycle\n水分布在大气、海洋、冰雪、地下水与生命体中。\nReservoir — where water is stored.\n水靠蒸发、大气输送、降水、径流与下渗迁移。\nFlux — how fast material moves.\n同一个循环里，不同储库的更新速度相差很大。\n最快 Fastest\n大气\n最慢 Slowest\n冰盖、深层地下水\n碳循环 | Carbon Cycle\n碳存在于大气、生物圈、土壤、海洋、沉积物与岩石中。\nReservoir — where carbon is stored.\n碳靠光合、呼吸、海气交换、风化与埋藏迁移。\nFlux — how fast material moves.\n同一个循环里，表层库较快，沉积物与岩石最慢。\n最快 Fastest\n表层库（大气—生物圈—表层海）\n最慢 Slowest\n沉积物与岩石\n同一套语言，不同的时钟 | Same language, different clocks\n两边都要问“这个储库多久更新一次”，但答案的档位不同；具体数值与单位见第 08 页表 3-1 与教材图 4-15、4-16。\nSource: UE 8e, Ch.12, PDF pp.1205–1206, 1209–1213; 地球系统与演变 Fig. 4-15 / 4-16, PDF pp.78–80.\n24",
+      "notes_text": "这一页把水和碳并排放。中间一列是共用的三个词：储库、通量和停留时间。前两行的表述方式两侧完全一样，水的储库和碳的储库都可以用同一句话来描述，通量也是如此。真正的差别出现在第三行。水循环里更新最快的是大气，最慢的是冰盖和深层地下水；碳循环里最快的是表层库，最慢的是沉积物与岩石。也就是说，两边都可以问\"这个储库多久更新一次\"，但答案的档位并不相同。具体数值与单位，分别见前面水循环部分的表格和教材图四之十五、图四之十六，本页不新建数值表。"
+    },
+    {
+      "final_page": 25,
+      "deck_id": "W2_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-WORKBUDDY\\L16_W2_WorkBuddy_Slides25-26_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "30737e346247ed800e0e39b499adb3b917e7638d5d6ebcc2c4fd04902cb79595",
+      "notes_text_sha256": "be7d722d9f334550b1596c2d12b7a4aeb63105ce2b06aef2d07fbf95e7630786",
+      "visible_text": "2.5 快速碳循环：陆地生命 | Fast Carbon Cycle: Life on Land\nCARBON CYCLE\n光合作用、呼吸与分解，把碳在大气、植被和土壤之间快速搬运\n过程环 | The fast land loop\nATMOSPHERE · 大气\n大气 CO₂ | Atmospheric CO₂\n光合作用\nPhotosynthesis\n大气 CO₂ → 植物有机碳\n呼吸作用\nRespiration\n有机碳 → 大气 CO₂\n微生物分解\nDecomposition\n土壤碳 → 大气 CO₂\n陆地植被 | Terrestrial vegetation\n储库 Reservoir\n植物有机碳：光合固定的碳先进入\u000b植被，再通过呼吸与枯落物离开。\n土壤碳储库 | Soil carbon\n枯落物与死亡有机质在此积累\n枯落物 | Litter\n为什么叫“快速” | Why “fast”\n植被与土壤中的碳周转很快，\u000b不断被取用、又不断归还大气。\n表层生物储库周转快于地质储库\u000bSurface biological reservoirs turn over\u000bfaster than geological reservoirs\n土壤是真实储库\n枯落物与死亡有机质在其中积累，\u000b土壤因此成为一个独立的碳储库。\nReservoir, not a gap\n与水循环的交会\n同一片叶子上，光合固碳与蒸腾\u000b失水同时发生；这是两个循环在\u000b植物上的接触点（本页不展开）。\nPhotosynthesis · transpiration\nSource: UE 8e, Ch.12, Atmosphere–Biosphere Gas Exchange, PDF pp.1211–1212; 地球系统与演变, Ch.4 §4.2.2、§4.3.4–§4.3.5, PDF pp.61–62, 71–74.\n25",
+      "notes_text": "这一页讲陆地生命这条快通路，全页不使用任何数值，重点在过程和方向。先看最上面这一层：大气是整张图的枢纽，碳以二氧化碳的形式停在这里。往下读三条通路，箭头方向一定要说清。第一条是光合作用，箭头向下，大气中的二氧化碳被固定成植物有机碳。第二条是呼吸作用，箭头向上，植物和动物把有机碳氧化利用之后，把碳交还大气。第三条是微生物分解，箭头同样向上，枯落物和土壤里的碳被分解者送回大气。还有一条更细的箭头向右，把枯落物和死亡有机质从植被带进土壤储库，它不是第四种通路，而是让上面这个环真正闭合起来的物理衔接。接着要特别强调右下角的土壤：土壤不是箭头之间的空隙，枯落物与死亡有机质在其中不断积累，它是一个实实在在的碳储库，这一点在右边那张卡片里也写了。为什么把这个环节叫快速碳循环？因为这里的碳在植被与土壤之间不断被取用、又不断归还大气，周转明显快于地质储库，所以单独归入快速碳循环这一组；本页只作快慢的定性比较，不给出具体年限。最后留一句尾巴：同一片叶子上，光合固碳和蒸腾失水是同时发生的，这就是碳循环与水循环在植物身上的接触点，本页只点一下，不展开耦合。"
+    },
+    {
+      "final_page": 26,
+      "deck_id": "W2_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W2-WORKBUDDY\\L16_W2_WorkBuddy_Slides25-26_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "6aab71bd0cab41ca8898cae7446edb4275841d154756199225b08d3e1cfb2700",
+      "notes_text_sha256": "82e8f4471bf4909b36afd2d12d3fc1f9554a8d8d4f631782729949a8a511b928",
+      "visible_text": "2.6 海气之间的碳交换 | Air–Sea Carbon Exchange\nCARBON CYCLE\n海洋既能吸收、也能释放 CO₂；它不是处处、时时的单向碳汇\n读数规则 | How to read this map\n+\n正值：海水放出 CO₂\nPositive = seawater releases CO₂\n−\n负值：海水吸收 CO₂\nNegative = seawater absorbs CO₂\n单位 净通量 g/(m²·a)；色标约 −108 … +108\n什么在控制交换 | What controls it\n温度、海水组成，尤其风混合与浪\u000b花飞溅，决定溶解与释放的快慢；\u000b高纬冷海更易吸收，上升流区放出。\nTemperature · composition · wind mixing\n海洋不是单向碳汇\n同一片海洋在不同区域，分别表现为\u000b碳源或碳汇——“海洋是碳汇”要限定区域与时段。\nSource: 地球系统与演变, Fig. 4-8, p.153 (PDF p.68); UE 8e, Ch.12, Atmosphere–Ocean Gas Exchange, PDF pp.1210–1211.\n26",
+      "notes_text": "这一页要打破一个常见的误解：海洋并不总是一个单向吸碳的汇。左边这张图是本页唯一的数值来源，所以正负约定必须读准。先看右下角第一张卡片的读数规则：红色一侧是正值，表示海水在这一带放出二氧化碳，也就是碳源；紫蓝色一侧是负值，表示海水在这一带吸收二氧化碳，也就是碳汇。单位是净通量，写成克每平方米每年，色标大致从负一百零八到正一百零八；图上原本的色标、单位和正负号都完整保留，没有裁掉，也没有改写。那为什么会有这种空间差异？温度、海水组成，尤其是风的混合作用和浪花飞溅，共同决定二氧化碳溶解和释放的快慢；高纬度的冷海更容易吸收，上升流区域和暖水区更容易放出。所以右边最后那张卡片的结论是：同一片海洋在不同区域分别表现为碳源或碳汇，“海洋是碳汇”这句话只有限定区域和时段之后才成立。这里还要提醒一句：本页只用这一张图这一套通量数据，不叠加其他总交换数值，避免把不同来源的数字混在一起。"
+    },
+    {
+      "final_page": 27,
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "local_slide": 6,
+      "visible_text_sha256": "9dc7a88fb8e45235f0929a7277473ef937d9e61242abdf3cd0309dd3d080ffa7",
+      "notes_text_sha256": "722779b8d88a0883a5288f8e621aa6c572f1427fa5a4645262560cf54c91d78a",
+      "visible_text": "2.7 海洋如何把碳送入深处？ | Ocean Carbon Pumps\nCARBON CYCLE\n物理泵与生物泵用不同机制，把表层碳输送到深海\nATMOSPHERE · 大气\nCO₂\nSURFACE OCEAN · 表层海洋\n溶解无机碳 · Dissolved inorganic carbon\nDEEP OCEAN · 深海\n深层水无机碳浓度约比表层高 15%（教材支持事实）\nSEDIMENT · 沉积物 / 岩石\n1\n物理泵 | Physical pump\n低温溶解 · 环流下沉\n冷却 → 溶解度上升 → 深水形成\n2\n生物泵 | Biological pump\n光合作用 · 颗粒下沉 · 深处分解\nCO₂ → 有机碳 → 颗粒下沉 → 再矿化\n3\n碳酸盐路径 | Carbonate\n成壳 · 沉降 · 沉积\nCaCO₃ burial · 埋藏\nSource/redraw basis: CN Ch.4, Fig. 4-9 (C-04). Native qualitative redraw.\n27",
+      "notes_text": "大气二氧化碳进入表层海洋后，可以沿三条路径向深处转移。物理泵依靠低温提高溶解度，并随深水形成和环流把溶解无机碳带到深海；生物泵先由光合作用形成有机碳，再通过颗粒下沉和深处分解完成转移。碳酸盐路径把生物成壳、沉降与碳酸钙埋藏连接到沉积物和岩石。教材支持的背景事实是，深层水的无机碳浓度约比表层高百分之十五；关键仍是区分三条路径的机制与箭头方向。"
+    },
+    {
+      "final_page": 28,
+      "deck_id": "W3_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\L16_W3_WorkBuddy_Slides28-33_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "8b291f1067b344c4a3e0d00ae780b199aa057ec46a09ea4231e78bbc986aab34",
+      "notes_text_sha256": "49849ef2024e9209fd6b5c2ca528671fa79224addddb49db9adf59249e299c52",
+      "visible_text": "2.8 碳酸盐：海洋、生命与岩石的连接 | Carbonates: Ocean–Life–Rock Connection\nCARBON CYCLE\n溶解碳经生物、碳酸盐、沉积物到岩石，是一条连续路径，而非单向吸碳\n五段路径 | The carbonate path\n1\n海水溶解碳\n溶解无机碳 DIC：\u000bHCO₃⁻ 与 CO₃²⁻\u000b溶于海水中的碳。\n2\n生物成壳\n生物利用溶解碳\u000b建造钙质壳体与\u000b骨骼。\n3\n碳酸盐颗粒\n壳体破碎后成为\u000bCaCO₃ 颗粒，向\u000b海底沉降。\n4\n沉积与埋藏\n颗粒在海底堆积，\u000b被后续沉积物覆\u000b盖并埋入地下。\n5\n碳酸盐岩\n经压实与胶结成\u000b为碳酸盐岩，碳\u000b回到岩石圈。\n图 4-9 已区分三条下沉路径：生物泵（有机碳）、物理泵（溶解碳随环流下沉）与碳酸盐路径（钙质颗粒）；本页只沿碳酸盐这一条走。\n本页不进入碳酸盐平衡的定量计算。\n可选反应式 | Optional reaction\nCa²⁺ + 2HCO₃⁻ → CaCO₃ + H₂O + CO₂↑\n教材用该式说明碳酸盐泵可能释放 CO₂；本页只作定性方向，不做平衡计算。\n不是单向吸碳 | Not a one-way sink\n形成碳酸盐会放出 CO₂，因此\u000b碳酸盐路径必须与埋藏一起看，\u000b才谈得上是不是净的大气碳汇。\nSource: 地球系统与演变 Ch.4 §4.3.2–4.3.3, 图 4-9/4-10, PDF pp.68–71; UE 8e, Ch.12, PDF pp.1206–1208, 1212–1213 (C-04 redraw basis).\n28",
+      "notes_text": "这一页沿着一条路径从海洋的溶解碳一直读到岩石。左边第一段是海水中的溶解无机碳，也就是以碳酸氢根和碳酸根形式存在的碳。第二段是生物成壳：海洋生物把溶解碳拿来建造钙质壳体与骨骼。第三段是碳酸盐颗粒：壳体破碎以后变成碳酸钙颗粒，向海底沉降。第四段是沉积与埋藏：颗粒在海底堆积，被后来的沉积物覆盖，埋进地下。第五段是碳酸盐岩：经过压实与胶结，碳以碳酸盐岩的形式回到岩石圈。五个方框之间的箭头方向都是向前的，这条路径本身是连续的，中间没有跳步。这里要提醒一句：按照图 4-9，海洋把碳送入深处一共有三条不同的路径，生物泵走有机碳，物理泵走随环流下沉的溶解碳，碳酸盐路径走钙质颗粒；本页只沿碳酸盐这一条走，另外两条不在这页展开。最后看下面这条可选反应式：钙离子加上两个碳酸氢根离子，生成碳酸钙、水和二氧化碳。教材给出这个式子，是为了说明碳酸盐泵在形成碳酸盐的时候可能把二氧化碳放出来，所以碳酸盐路径不能简单当成一个单向吸碳的过程，它必须和埋藏放在一起看，才谈得上是不是净的大气碳汇。本页不做碳酸盐平衡的定量计算，只看方向。"
+    },
+    {
+      "final_page": 29,
+      "deck_id": "W3_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\L16_W3_WorkBuddy_Slides28-33_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "410181982e695efd540530a4fb857c67f3e517530705726cc105c67c231e6957",
+      "notes_text_sha256": "9cb7b1453b201f0f01553637d21ffda3119428e35d43b738c968ab3d7238d867",
+      "visible_text": "2.9 风化：水循环开始影响碳循环 | Weathering: Where Water Meets Carbon\nCARBON CYCLE\n水与 CO₂ 共同驱动风化；只有硅酸盐风化把大气碳长期转入岩石圈\n因果链 | Causal chain\n大气 CO₂\n+ 降水 Rainwater\n弱碳酸\nH₂CO₃ · Carbonic acid\n岩石风化\nChemical weathering\n溶解产物\nDissolved products\n河流输送\n→ 海洋与沉积储存\n水的参与从降水开始：CO₂ 溶于雨水形成弱碳酸，这是水循环接入碳循环的入口。\n硅酸盐风化 | Silicate weathering\n长期净汇 Net sink\nCO₂ 溶于水后与硅酸盐矿物反应，\u000b把大气中的碳转入岩石圈的碳酸\u000b盐，并在很长的时间尺度上把它\u000b留在这里，因此这是一个净的\u000b大气碳去向。\n特征简式：CaSiO₃ + CO₂ → CaCO₃ + SiO₂\n碳酸盐风化 | Carbonate weathering\n循环 Recycling · 无净变化\n碳酸盐岩先被溶解，溶解出来的\u000b碳随河流进入海洋，随后又在海\u000b洋里重新形成碳酸盐沉积下来。\u000b溶解与重新沉淀相抵，所以这一\u000b支不带来净的大气碳变化。\n溶解与再沉淀相抵 | Dissolution ≈ re-precipitation\nSource: UE 8e, Ch.12, PDF pp.1212–1213; 地球系统与演变 Ch.4 §4.5.1, 图 4-16, PDF p.80; HB Ch.9 pp.246–249; EP pp.765, 878.\n29",
+      "notes_text": "这一页把水循环正式接进碳循环。先看上面这条因果链：大气中的二氧化碳先溶解在雨水里，形成很弱的碳酸；这种含二氧化碳的水去侵蚀岩石，发生化学风化；风化把岩石里的成分变成溶解产物；溶解产物被河流带走，最后进入海洋并储存在沉积物里。这条链的起点是降水，所以水循环一进入，碳循环就多了一条通路。真正要讲清楚的是下面两张卡片的区别。左边是硅酸盐风化：二氧化碳溶进水以后，与硅酸盐矿物反应，把大气中的碳转入岩石圈的碳酸盐，并在很长的时间尺度上把它留在那里，因此这一支是净的大气碳去向，教材给出的特征简式是硅酸钙加二氧化碳生成碳酸钙加二氧化硅。右边是碳酸盐风化：碳酸盐岩先被溶解，溶解出来的碳随河流进入海洋，随后又在海洋里重新形成碳酸盐沉积下来；溶解与重新沉淀两件事相抵，所以这一支不带来净的大气碳变化，它属于循环，而不是净汇。课堂上一定要把这两支分开讲，不能笼统地说“风化吸收二氧化碳”。本页不使用任何数值。"
+    },
+    {
+      "final_page": 30,
+      "deck_id": "W3_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\L16_W3_WorkBuddy_Slides28-33_v01.pptx",
+      "local_slide": 3,
+      "visible_text_sha256": "ae9aad51ae3eca190a20bceff0e43c202c51c6821a587aa69388502cbe4d8960",
+      "notes_text_sha256": "de13cdab2a1da64fd0b20d0b356bf6262303ec8afe39608ae246a9fbb6bbca5a",
+      "visible_text": "2.10 慢碳循环 | Slow Geological Carbon Cycle\nCARBON CYCLE\n风化与河流输送、沉积埋藏、俯冲变质、火山脱气，首尾相接构成慢地质路径\nATMOSPHERE · 大气\n大气 CO₂ | Atmospheric CO₂\n四段方向序列 | Four-stage directional pathway\nCO₂ 进入风化\n返回大气\n1\n风化与河流输送\nWeathering & river transport\n降水溶入 CO₂ 后侵蚀岩石，\u000b产物由河流带走。\n2\n沉积与埋藏\nSedimentation & burial\n碳酸盐与有机碳沉积，\u000b随后被埋入地下。\n3\n俯冲与变质\nSubduction & metamorphism\n板块俯冲把碳带入深部，\u000b经变质作用长期储存。\n4\n火山脱气\nVolcanic degassing\n火山把碳送回大气，\u000b完成一个慢循环回合。\nDEEP STORAGE · 深部储存\n沉积物 · 沉积岩 · 地幔：碳在这里停留的时间远长于表层\n图件说明 | Figure note\n本页为教材图 4-16 的忠实双语原生简化，保留路径与方向；\u000b不放置密集栅格，也不与图 4-17 的数值合成新预算。\nSource: 地球系统与演变 Ch.4 §4.5.1–4.5.2, 图 4-16/4-17, PDF pp.79–81; UE 8e Ch.12, PDF pp.1209, 1212–1213; EP Ch.23 Fig.23.6; HB Ch.9.\n30",
+      "notes_text": "这一页把慢地质路径按方向完整走一遍，顺序不能颠倒。第一段是风化与河流输送：降水溶入二氧化碳以后侵蚀岩石，风化产物由河流带走。第二段是沉积与埋藏：碳酸盐与有机碳在海底沉积下来，随后被埋入地下，从表层系统里退出。第三段是俯冲与变质：板块俯冲把已经埋藏的碳带入地球深部，经过变质作用在那里长期储存。第四段是火山脱气：火山活动把深部的碳重新送回大气，于是这条慢循环完成一个回合。上面和下面的箭头标出了这条路径的进出口：二氧化碳从大气进入风化，最后又从火山回到大气。中间这条深部储存带写着沉积物、沉积岩与地幔，要让学生注意到，碳在这里停留的时间远远长于在表层储库里的时间。这一页是依据教材图 4-16 做的忠实双语原生简化，保留了原图的路径和方向，没有放置那张很密的原始栅格图，也没有把图 4-17 的数值拿来和它合成一个新预算。本页也不展开早期大气的历史。"
+    },
+    {
+      "final_page": 31,
+      "deck_id": "W3_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\L16_W3_WorkBuddy_Slides28-33_v01.pptx",
+      "local_slide": 4,
+      "visible_text_sha256": "b4eab4cf925a6189f5045420cc7766e7dd8c5ad3d356e3450493d5f86f7f695c",
+      "notes_text_sha256": "9a91a9d66af01e40b077f75765216f995112fa232e229e752121fa7e3ebbb585",
+      "visible_text": "2.11 碳循环的多个时钟 | Multiple Carbon Timescales\nCARBON CYCLE\n生物、海洋、沉积与地质，四条路径以四个不同档位的时钟运行\n储库 Reservoir = 存了多少\n通量 Flux = 每年转移多少\n停留时间 Residence Time = 平均停留多久\n图 4-15 锚点 | Four clocks (CN Fig. 4-15)\n大气—生物圈—表层海\n约 10¹–10² 年\n深层海\n约 10²–10³ 年\n沉积物\n约 10³–10⁵ 年\n地质储库\n大于 10⁵ 年\n对数轴（每格 10 倍）\n10¹\n10²\n10³\n10⁴\n10⁵\n10⁶\n10⁷\n10⁸\n10⁹\n独立来源面板：图 4-16 的更宽区间 | Separate source panel (CN Fig. 4-16), not merged\n表层库\n0–10³ 年\n沉积物库\n10³–10⁸ 年\n变质库\n10⁶–10⁹ 年\n地幔库\n10⁷–10⁹ 年\n两个面板各自保留原图区间与单位，不合并、不插值，也不跨图换算。\nSource: 地球系统与演变 Ch.4 §4.4.3–4.5.1, 图 4-15 与图 4-16, PDF pp.78–80; UE 8e Ch.12, PDF pp.1205–1206, 1209–1213; EP Ch.23 p.881.\n31",
+      "notes_text": "这一页要回答一个问题：碳在储库之间跑得有多快。上面那条窄条先把三个词分开，储库表示某个地方存了多少碳，通量表示每年转移多少，停留时间表示一份碳平均在里面停留多久；这三个是不同的问题，不能混着用。中间这一大块是主面板，来源是教材图 4-15，横轴是对数轴，每一格代表十倍。四条色带分别是四类路径的时钟：大气、生物圈与表层海之间最快，大约是十的一次方到十的二次方年；深层海慢一档，大约是十的二次方到十的二次方以上的千年级；沉积物更慢，大约是十的三次方到十的五次方年；地质储库最慢，超过十的五次方年。要强调一句：储库最大不等于响应最快，地质储库最大，但它的时钟最慢。下面那块浅色区域是另一个独立面板，来源是教材图 4-16，它给的是更宽的区间，表层库、沉积物库、变质库与地幔库各自的跨度都比主面板更宽、更粗。这两个面板来自两张不同的教材图，区间和口径都不一样，所以它们各自保留原图的区间与单位，不合并、不插值，也不跨图换算精度。本页是本任务里唯一允许出现数值的页面，原因就是这一页的来源行明确写出了图 4-15 与图 4-16。"
+    },
+    {
+      "final_page": 32,
+      "deck_id": "W3_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\L16_W3_WorkBuddy_Slides28-33_v01.pptx",
+      "local_slide": 5,
+      "visible_text_sha256": "360d8fe1256a37a80cb8bb0da01e810995eb0848ad7da9af4ca39da50651b86e",
+      "notes_text_sha256": "9ac34e62130a8174dc732c84f3cb94a943c415b3abbc18cd2ca00df7a8d93b8f",
+      "visible_text": "2.12 课堂读图 | Concept Check 2\nCARBON CYCLE\n任选图 12.19 上的一条通路，按储库、通量、快慢与领域把它说清楚\n任务提示 | Prompt\n在图 12.19 上任选一条通路，说出：\n1\n起点储库与终点储库\nStart and end reservoirs\n2\n中间的过程或通量\nThe process or flux\n3\n这条通路是快还是慢\nFast or slow\n4\n属于生物、海洋还是地质路径\nBiological, oceanic, or geological\n读图提示 | Reading aid\n先找方框（储库），再读箭头（通量）：\u000b大气、陆地、海洋与地质四区在图\u000b上有明确分区，箭头还给方向。\n不要求背下图上全部数字。\nSource: UE 8e, Fig. 12.19, PDF pp.1209–1213; 地球系统与演变 Ch.4, 图 4-9/4-16, PDF pp.68–80.\n32",
+      "notes_text": "这一页是一次课堂检查，不是新知识。左边是已批准使用的教材图 12.19，图上把大气、陆地、海洋和地质储库四个区域分了区，方框代表储库，箭头代表通量，箭头旁边写着通量的大小。右边上面是任务提示：请学生在图上任选一条通路，然后说清楚四件事——起点储库和终点储库是什么，中间的过程或者通量是什么，这条通路相对是快还是慢，以及它属于生物、海洋还是地质路径。下面这张读图提示告诉学生怎么下手：先找方框再读箭头，方向由箭头给出。要特别提醒的是，不要要求背下图上的全部数字；图上的一百二十和八十吉吨碳每年是总交换量，不是净碳汇，这一点在讲第二十三页时已经强调过。答案不唯一，下面给出三条都可以接受的通路作为参考。第一条是光合作用：从大气到陆地植物，过程是光合作用，属于生物路径，速度快。第二条是海气交换：大气和海洋之间双向交换二氧化碳，属于海洋路径，速度也快；要注意它是双向的，图上那支箭头标的是总交换量。第三条是碳酸盐沉积：海洋中的碳酸钙沉到沉积物里，属于地质路径，速度慢。也可以接受另外一些通路，例如风化把大气中的二氧化碳带进陆地，或者火山活动把地质储库里的碳送回大气。判断标准是学生能不能把四件事都说全，而不是选了哪一条。"
+    },
+    {
+      "final_page": 33,
+      "deck_id": "W3_WORKBUDDY",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-WORKBUDDY\\L16_W3_WorkBuddy_Slides28-33_v01.pptx",
+      "local_slide": 6,
+      "visible_text_sha256": "83acdd4b70d15297fb9a1708b82e4be532bfb9e60fba0c2a1624cfd9fab463ea",
+      "notes_text_sha256": "f770b56949b5052c19af8813f693e02e83738e2c05f73d6fe0e8dd4e703b8d2f",
+      "visible_text": "2.13 第二部分总结 | Carbon Links Life to Rocks\nCARBON CYCLE\n碳循环从快速的生物与海气交换，延伸到缓慢的岩石圈交换\n1\n碳存在哪里 | Where carbon resides\n大气、生命与土壤、海洋、沉积物\u000b与岩石，共同构成碳的储库体系。\nAtmosphere · life and soil · ocean · sediment · rock\n2\n快速通路 | Faster pathways\n光合作用、呼吸作用与海气交换，\u000b把碳在大气与表层之间快速搬运。\nPhotosynthesis · respiration · air–sea exchange\n3\n与岩石相连 | Linked to rocks\n碳酸盐形成、埋藏、俯冲与脱气，\u000b把表层碳一路接到岩石圈。\nCarbonate formation · burial · subduction · degassing\n4\n不同的时钟 | Different clocks\n每条路径的速度不同，这决定每个\u000b储库受到扰动后多快做出响应。\nResponse speed depends on the pathway\nSource: UE 8e, Ch.12; 地球系统与演变 Ch.4; EP Ch.23. Part II synthesis of the accepted Slides 21–32.\n33",
+      "notes_text": "这一页收束碳循环第二部分，用四句话把前面几页串起来，不新增内容。第一句，碳存在哪里：大气、生命与土壤、海洋、沉积物与岩石，共同构成碳的储库体系。第二句，快速通路：光合作用、呼吸作用与海气交换，把碳在大气与表层之间快速搬运，这是前面快速碳循环那一组的内容。第三句，与岩石相连：碳酸盐形成、埋藏、俯冲与脱气，把表层的碳一路接到岩石圈，这是慢地质路径那一组的内容。第四句，不同的时钟：每条路径的速度不同，这决定了每个储库受到扰动之后多快做出响应；最大的储库并不等于最快的响应。四句话覆盖了本部分的四个要点，另外只作回顾，不再引入新的图件，也不再引入新的数字。从这里开始，第三部分要把水和碳放回同一个气候系统里看，进入耦合与反馈。"
+    },
+    {
+      "final_page": 34,
+      "deck_id": "W3_QODER",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QODER-CN\\L16_W3_QoderCN_Slides18-20_34_v01.pptx",
+      "local_slide": 4,
+      "visible_text_sha256": "76b923be801a772962af699c5cf641abc8834103d76ba22a9d481c3d6bbbde76",
+      "notes_text_sha256": "63ce83fcde8ecb87a19fa2ad8074bc0c63c154952eee99aa083a22c30e1241a3",
+      "visible_text": "把两个循环放到同一张图上 | Coupling the Water and Carbon Cycles\nCOUPLING BRIDGE\n水是耦合两个循环的介质：风化、生物交换、海洋转移与岩石储存\n大气圈 | Atmosphere\n碳通量 Carbon flux\n水通量 Water flux\n海洋 | Ocean\n海气 CO₂ 交换 · 接收溶解/碳酸盐\n埋藏 / 俯冲把碳送入沉积与岩石\n生命 | Life\n光合 / 呼吸 · 蒸腾返回水汽\n生物泵把碳送入深处\n风化\n水 + CO₂ 驱动\n岩石与沉积 | Rock & sediment\n碳酸盐与有机碳埋藏 · 俯冲 · 火山脱气返回\n水交换 Water\n海气 CO₂ 交换 Air–sea CO₂ exchange\n光合 / 呼吸\n蒸腾\n注记：硅酸盐风化贡献缓慢的负气候倾向；碳酸盐岩回收不是同等净大气 CO₂ 汇。 Volcanic degassing 沿右廊道返回大气。\nRedrawn from approved sources: W-02, C-01, C-04, C-05, F-01.\n34",
+      "notes_text": "这一页把水循环和碳循环放进同一张图。橙色实线是碳通量，蓝色虚线是水通量，右上角有图例。碳的路径有六条：海洋与大气之间的二氧化碳交换；生命通过光合作用吸收、通过呼吸作用返回二氧化碳；大气中的二氧化碳与水一起驱动岩石风化；风化产物以溶解和碳酸盐的形式进入海洋；海洋中的碳经埋藏和俯冲进入沉积与岩石；岩石圈的碳再经火山脱气返回大气。水的路径穿插其间：海洋与大气的水交换、生命的蒸腾、以及水参与风化，正是这些水过程让碳得以在圈层之间转移。请注意图下方的注记：硅酸盐风化贡献的是缓慢的负气候倾向，而碳酸盐岩的回收并不构成同等的大气二氧化碳净汇，这是 Understanding Earth 明确区分的两点。本页为批准的重绘简报 I-02，依据 W-02、C-01、C-04、C-05、F-01 与 Source Matrix 批准文本重绘，只做定性整合，不合并任何图件的数值预算。"
+    },
+    {
+      "final_page": 35,
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "local_slide": 7,
+      "visible_text_sha256": "5428e70b044eac721746954f80958e0ab27d0444fb8f183a4f38c1ec4682c855",
+      "notes_text_sha256": "9eab9968535b67e4275ada064f9fbee36741485d7d1b62b5432bb8fae39ee3d3",
+      "visible_text": "3.1 什么是反馈？ | What Is Feedback?\nFEEDBACKS\npositive / negative 描述作用方向，不是“好”或“坏”\n初始变化 | Initial change\n先明确变化的方向，再判断回路效果\n+\n正反馈 | Positive feedback\n诱发变化与初始变化同向\n诱发变化\nInduced change\n放大 / 加强\nAmplifies / reinforces\n最终作用：沿原方向继续推进\n−\n负反馈 | Negative feedback\n诱发作用反对初始变化\n诱发变化\nInduced change\n抑制 / 稳定\nOpposes / stabilizes\n最终作用：把系统拉回原状态附近\n判断步骤\n找初始变化\n→\n跟踪诱发变化\n→\n比较最终作用方向\n→\n同向 = 正；反向 = 负\nSource/redraw basis: UE 8e, Ch.12, PDF pp.1177–1178; EP Ch.23 (M-11).\n35",
+      "notes_text": "正反馈和负反馈描述的是作用方向，不是在评价结果好坏。判断时先明确初始变化，再跟踪它诱发的变化，最后比较诱发作用与初始方向。若两者同向，回路会放大或加强原变化，这是正反馈；若诱发作用反向，回路会抑制变化并使系统趋于稳定，这是负反馈。最可靠的判断方法始终是：找初始变化、跟踪诱发变化、比较最终作用方向。"
+    },
+    {
+      "final_page": 36,
+      "deck_id": "W3_QIANWEN",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\L16_W3_QianwenOffice_Slides36-37_39_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "f76150d5623a5aa1fd218877a1cc4460bf40a1f02203195c6e6e895bd2686bb1",
+      "notes_text_sha256": "7a4b6edf4c974cb7313b3cdb7e998f7307aaa4f347e3e02ee6f2562acf4c8d98",
+      "visible_text": "3.2 水汽反馈 | Water-Vapor Feedback\nPOSITIVE FEEDBACK\n增温先增加蒸发与水汽，水汽再加强温室效应：一条自我加强的正反馈\n初始变化 Initial change\n诱发变化 Induced change（步骤 2–5）\n1\n初始增温\nInitial warming\n温度上升\n2\n蒸发增加\nEvaporation increases\n海洋蒸发增强\n3\n水汽增加\nWater vapor increases\n大气水汽增多\n4\n温室效应加强\nGreenhouse effect stronger\n水汽吸收并再辐射\n5\n进一步增温\nFurther warming\n温度继续上升\n诱发变化与初始变化同向 → 沿原方向放大 Induced change reinforces the initial change\n+\nPositive Feedback 正反馈\n诱发变化加强初始增温 Induced change amplifies warming\n水汽是对初始增温的反馈，不是独立初始强迫\nWater vapor responds to initial warming; it is not an independent forcing\n闭环判断：初始增温诱发的变化继续加强增温，因此是正反馈。 The loop amplifies the initial warming → positive.\n判断步骤：找初始变化 → 跟踪诱发变化 → 比较最终作用方向 Steps: initial change → induced change → compare final direction\nSource: UE 8e, Ch.12, PDF p.1177; EP 5e, Ch.23, pp.883–884 (M-12). CN Ch.3 PDF pp.10, 27–28 supports phase-change context only.\n36",
+      "notes_text": "这一页讲水汽反馈，是一条正反馈回路。请学生沿五张卡片从左往右读：第一步是初始增温，这是初始变化，卡片用深蓝边框单独标出；第二步蒸发增加，尤其是海洋蒸发增强；第三步大气水汽增多，水汽进入大气圈；第四步水汽吸收并再辐射长波辐射，温室效应加强；第五步进一步增温。下面那条回环箭头把第五步接回第一步，表示诱发变化与初始变化同向、沿原方向继续放大，所以深蓝签块标的是 Positive Feedback 正反馈，判断依据是方向而不是好坏。右边浅色卡片钉住一个常见误区：水汽在这里是对初始增温的反馈，不是一个独立初始强迫，不能把它讲成自己启动的驱动因素。这一页不需要任何数字，也不重新讲授第十五讲的温室效应本身。来源是理解地球第八版第十二章 PDF 第一一七七页，以及地球画像第五版第二十三章 883 到 884 页；中文教材第三章 PDF 第 10 页和 27 到 28 页只作相变背景支持。"
+    },
+    {
+      "final_page": 37,
+      "deck_id": "W3_QIANWEN",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\L16_W3_QianwenOffice_Slides36-37_39_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "38e43043c7ff5d9d52e4c22bd8fab079be237280a3c2f0479033b65e341d4c04",
+      "notes_text_sha256": "777bd498c542e08949bf4a0d61e5c4cca968f39f148ea0572d47175664de433f",
+      "visible_text": "3.3 冰–反照率反馈 | Ice–Albedo Feedback\nPOSITIVE FEEDBACK\n增温减少冰雪与反照率，吸收的太阳能增加：又一条自我加强的正反馈\n初始变化 Initial change\n诱发变化 Induced change（步骤 2–5）\n1\n初始增温\nInitial warming\n温度上升\n2\n冰雪减少\nIce and snow decrease\n覆盖面积缩小\n3\n反照率下降\nSurface albedo decreases\n反照率 = 地表反射率\n4\n吸收太阳能增加\nMore absorbed solar energy\n地表吸收更多辐射\n5\n进一步增温\nFurther warming\n温度继续上升\n诱发变化与初始变化同向 → 沿原方向放大 Induced change reinforces the initial change\n+\nPositive Feedback 正反馈\n诱发变化加强初始增温 Induced change amplifies warming\n反照率 Albedo = 地表反射率 surface reflectivity\n闭环判断：冰雪与反照率下降带来的吸收增加继续加强增温，因此是正反馈。 The loop amplifies the initial warming → positive.\n判断步骤：找初始变化 → 跟踪诱发变化 → 比较最终作用方向 Steps: initial change → induced change → compare final direction\nSource: UE 8e, Ch.12, PDF p.1177; 地球系统与演变, Ch.3 §3.3.2.3, PDF pp.39–40; HB Ch.9, pp.251–252 as mechanism context only.\n37",
+      "notes_text": "这一页讲冰–反照率反馈，结构与上一页完全同族，方便学生套用同一套读法。五步依次是：初始增温；冰雪减少、覆盖面积缩小；反照率下降，卡片里给了简短双语定义，反照率就是地表反射率；地表吸收的太阳能增加；进一步增温。回环箭头同样把末步接回第一步，诱发变化与初始变化同向，因此是 Positive Feedback 正反馈。右边浅色卡片给出反照率的双语定义；教师边界提醒：本页不引入冰量数据、海平面数值或雪球地球历史；讲的时候也不要顺势说\"海冰融化抬升海平面\"，漂浮海冰融化与陆地冰融化对海平面的作用不同，那一区分属于冰冻圈页的内容，不在本页展开。来源是理解地球第八版第十二章 PDF 第一一七七页、地球系统与演变第三章 3.3.2.3 节 PDF 第 39 到 40 页，HB 第九章 251 到 252 页只作机制背景。"
+    },
+    {
+      "final_page": 38,
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "local_slide": 8,
+      "visible_text_sha256": "3a92f778717e954f75749d4123eb01537aedaa1a2f906e1ebc537c670e27e631",
+      "notes_text_sha256": "b38b3c3e7862edccac65195d1669dc0154e41a0e5e26c83277086b8006e7efb0",
+      "visible_text": "3.4 岩石风化恒温器 | The Weathering Thermostat\nSLOW NEGATIVE FEEDBACK\n更暖、更湿和更酸性 → 硅酸盐风化加速 → CO₂ 去除 → 抑制初始增温\n响应时间 >10^5–10^7 years\n1\n初始扰动\nInitial perturbation\n大气 CO₂ ↑ / 温度 ↑\n2\n风化条件增强\nWeathering conditions\n更暖 · 更湿 · 雨水酸性更强\n3\n硅酸盐风化加速\nFaster silicate weathering\n消耗 CO₂，释放溶解产物\n4\n海洋输送与埋藏\nOcean transfer & burial\nCa²⁺ 通量 ↑ · CaCO₃ 埋藏\n−\n大气 CO₂ ↓ · 冷却趋势\nCO₂ removal and carbonate burial\n最终作用反对初始增温 → 负反馈\n反向半环 | Cooling return\n冷却 → 水汽与酸性减弱 → 风化变慢 → CO₂ 去除减弱\n火山 CO₂ 输入可逐渐重建大气碳储库\n限定：碳酸盐岩风化 ≠ 同等的净大气 CO₂ 汇\n闭环判断：\n初始增温引起的变化最终带来冷却趋势，因此这是缓慢的负反馈。\nSource/redraw basis: HB Ch.9, Fig. 9-11 (F-01), pp.246–249; UE 8e Ch.12 companion.\n38",
+      "notes_text": "从大气二氧化碳增加或温度升高开始，更暖、更湿和雨水酸性更强的条件会加速硅酸盐风化。风化消耗二氧化碳，并增加进入海洋的钙离子等溶解产物，随后通过碳酸钙埋藏把碳转移到长期储库，使大气二氧化碳下降并产生冷却趋势。这个最终作用反对初始增温，因此构成缓慢的负反馈；响应时间大于十的五次方到十的七次方年。反向来看，冷却会减弱水汽和酸性、降低风化与二氧化碳去除，而火山输入可逐渐重建大气碳储库。这里必须限定为硅酸盐风化，不能把碳酸盐岩风化表述成同等的净大气二氧化碳汇。"
+    },
+    {
+      "final_page": 39,
+      "deck_id": "W3_QIANWEN",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-QIANWEN-OFFICE\\L16_W3_QianwenOffice_Slides36-37_39_v01.pptx",
+      "local_slide": 3,
+      "visible_text_sha256": "ac0ebf0becdbfa7aec2afd98dddadbb3fe1a017d9fee705dc206374748a19703",
+      "notes_text_sha256": "2d198ce1b67e48bd04766553162e6a449b414e82c25e05c964642615ddeb561a",
+      "visible_text": "3.5 生命也参与反馈 | Biosphere Feedback\nNEGATIVE FEEDBACK\nCO₂ 升高可促进植物生长与碳吸收，部分抵消初始变化：一个代表性负反馈\n初始变化 Initial change\n诱发变化 Induced change（步骤 2–4）\n1\n大气 CO₂ 增加\nAtmospheric CO₂ increases\n浓度上升\n2\n植物生长可能增加\nPlant growth can increase\n可促进，非必然\n3\n碳吸收进有机质\nUptake into organic matter\n植物固定 CO₂ 为有机质\n4\nCO₂ 与增温相对降低\nCO₂ & warming reduced\n反对初始变化\n诱发作用与初始变化反向 → 抑制并趋于稳定 Induced change opposes the initial change\n−\nNegative Feedback 负反馈\n诱发作用反对初始变化 Induced change opposes it\n条件式：CO₂ 升高可促进植物生长与碳吸收\nNo unlimited growth, permanent compensation, or measured present-day net sink\n闭环判断：植物吸收使大气 CO₂ 与增温相对初始变化降低，因此是负反馈。 The induced uptake opposes the initial change → negative.\n判断步骤：找初始变化 → 跟踪诱发变化 → 比较最终作用方向 Steps: initial change → induced change → compare final direction\nSource: UE 8e, Ch.12, PDF p.1178; UE 8e p.1168 and approved CN Ch.4 rows as process context only; no flux or response-time number is used.\n39",
+      "notes_text": "这一页讲生命参与的反馈，是一个有边界的代表性负反馈，步骤比前两页少一步。第一步是大气 CO₂ 增加，这是初始变化；第二步植物生长可能增加，注意这是条件式措辞，是\"可能增加、可促进\"而不是\"必然促进\"；第三步植物把更多 CO₂ 固定进有机质，完成碳吸收；第四步大气 CO₂ 与温室增温相对初始变化被降低。回环箭头把第四步接回第一步，但方向作用是反对初始变化、抑制并趋于稳定，所以签块标 Negative Feedback 负反馈。右边浅色卡片把边界写清楚：这是条件式表述，不声称无限生长、永久补偿，也不声称现今已测得的净汇；同样不扩展到养分限制、生态系统学、政策或土地管理。页面上没有任何通量或响应时间数字，因为任务未授权。CO₂ 用橙色标记，只在这一页出现，用来把碳的线索从第二部分接过来。来源是理解地球第八版第十二章 PDF 第一一七八页，UE 第一一六八页与已批准的中文教材第四章行只作过程背景。"
+    },
+    {
+      "final_page": 40,
+      "deck_id": "W3_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\L16_W3_Doubao_Slides40-43_v01.pptx",
+      "local_slide": 1,
+      "visible_text_sha256": "9924e110df8887ed217078a1fc529ad6b04aa278d124e9c6e432c37860521269",
+      "notes_text_sha256": "6e921e27654d3da0f4987fe351dfba1301cd3c0864b12c01125a27550b65afee",
+      "visible_text": "3.6 反馈不是同一速度 | Feedbacks Have Different Clocks\nFEEDBACKS\n辐射、水文、冰冻圈、生物圈与风化响应运行在不同的时钟上\n定性对齐：条带位置只表示相对快慢，不代表精确响应时间（教材无统一响应时间表）\n快 Fast → 慢 Slow\n即时–天\n季节–年\n数十年–世纪\n千年–冰期\n10⁵–10⁷ 年\n辐射响应 Radiative response\n辐射收支随辐射强迫近乎即时改变\n即时–数天：能量收支近瞬时调整\n水文（水汽）响应 Hydrological\n蒸发—水汽反馈，随大气水快速周转\n大气水交换 < 约 9 天（CN 表 3-1）\n冰冻圈响应 Cryosphere\n季节积雪、海冰到山地冰川与冰盖\n季节积雪 → 冰期尺度\n生物圈响应 Biosphere\n植物生长等生物过程，教材未给统一响应时钟\n响应时钟未统一量化 | No unified response clock（不分配时间区间）\n硅酸盐风化恒温器\nWeathering thermostat · 最慢的负反馈\n>10⁵–10⁷ 年\n慢负反馈不能立刻抵消快正反馈：响应方向与响应时钟必须同时判断。\nSource: UE 8e pp.1148, 1161–1165, 1177–1178, 1213; EP pp.883–884; HB Ch.9 pp.248–249, Ch.18 pp.455–475; CN Ch.4 pp.78–80. Qualitative alignment, not a unified response-time table.\n40",
+      "notes_text": "这一页要纠正一个常见误解：反馈并不是按同一个速度运行的。图上把五个反馈家族对齐到同一条定性时间轴上，从左到右表示从快到慢的相对位置，而不是一张精确的统一响应时间表，教材本身也没有给出这样一张表。辐射收支对辐射强迫的响应几乎是即时的，落在即时到数天的位置；水文与水汽反馈跟随大气水的快速周转，大气中的水大约不到九天就交换一次，可以作为快速端的锚点。冰冻圈跨越很宽，从季节积雪、海冰一直到山地冰川和冰盖，也就是季节到冰期尺度。生物圈涉及植物生长等生物过程，教材没有给出统一的定量响应时间，所以这一条故意画成贯穿整条时间轴的中性虚线条带，不落入任何时间区间，提醒大家不要给它分配时间区间或精确时钟。最慢的是硅酸盐风化恒温器，响应时间在十万到千万年量级，用克制的橙色标出。结论是：慢的负反馈无法立刻抵消快的正反馈，判断一个系统会怎样变化，必须同时看反馈方向和响应时钟。还要提醒，强迫与反馈不是一回事，教材中关于不同时间尺度气候变化带的划分不能直接当作每个反馈的响应时间。"
+    },
+    {
+      "final_page": 41,
+      "deck_id": "W3_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\L16_W3_Doubao_Slides40-43_v01.pptx",
+      "local_slide": 2,
+      "visible_text_sha256": "e0677e95b1cd557531fccdde953007ffcbe1ca084b7b66ad9ada8b4964e26b8e",
+      "notes_text_sha256": "4ba6b4f9ec6ec9bef897a214ddac6b146966cd913fdcec094059048e32052118",
+      "visible_text": "3.7 综合课堂题 | Earth-System Challenge\nFEEDBACKS\n从一次升温扰动出发，画出多条响应路径，判定反馈符号并比较快慢\n初始扰动 Initial perturbation\n温度升高 Temperature increases ↑\n路径 A · Pathway A\n补全环节，判定符号与速度\n环节①（课堂填写）Step ①\n环节②（课堂填写）Step ②\n最终作用：放大 / 抑制初始变化？\n反馈符号 Sign：\n正 +\n负 −\n响应速度 Speed：\n较快\n较慢\n路径 B · Pathway B\n补全环节，判定符号与速度\n环节①（课堂填写）Step ①\n环节②（课堂填写）Step ②\n最终作用：放大 / 抑制初始变化？\n反馈符号 Sign：\n正 +\n负 −\n响应速度 Speed：\n较快\n较慢\n路径 C · Pathway C（选做）\n补全环节，判定符号与速度\n环节①（课堂填写）Step ①\n环节②（课堂填写）Step ②\n最终作用：放大 / 抑制初始变化？\n反馈符号 Sign：\n正 +\n负 −\n响应速度 Speed：\n较快\n较慢\n课堂任务 Tasks\n1 补全至少两条响应路径\n2 标注正反馈 / 负反馈\n3 指出响应更快者\n4 指出响应更慢者\n可用环节 Building blocks（限 Slides 36–39，无新增机制）\n水汽增多\n冰雪减少 · 反照率下降\n风化加速固碳\n植物生长固碳\nWorksheet only — answer key in embedded Notes; mechanisms limited to approved Slides 36–40. Source: UE 8e pp.1176–1178, 1212–1213; EP pp.883–884; HB Ch.9 pp.248–252; CN Chs.3–4 pp.39–40, 78–80.\n41",
+      "notes_text": "这是一道课堂练习，页面本身是一张待完成的因果图，完整答案不放在可见页面上，由学生在三条路径上现场补全。顶部是唯一给定的初始扰动：温度升高。学生需要完成四项任务：补全至少两条响应路径，给每条路径标注正反馈或负反馈，指出哪条路径响应更快，再指出哪条更慢。右下角给出的四个可用环节全部来自前面第三十六到三十九页，不引入新机制。教师用的参考答案如下。第一条是水汽正反馈：升温使蒸发增强，大气水汽增多，温室效应增强，进一步升温，符号为正，速度很快，属于天到季节量级，依据是 UE 一千一百七十七页和 EP 八百八十三到八百八十四页。第二条是冰反照率正反馈：升温使冰雪减少，地表反照率下降，吸收的太阳能量增多，进一步升温，符号为正，速度从季节到冰期不等，依据是 UE 一千一百七十七页和《地球系统与演变》第三十九到四十页。第三条是硅酸盐风化负反馈：增暖增湿使风化加速，把大气中的二氧化碳转入碳酸盐，从而抑制初始升温，符号为负，速度最慢，在十万到千万年量级，依据是 HB 第九章二百四十八到二百四十九页并配合 UE 一千二百一十二到一千二百一十三页。植物生长固碳可以作为第四条可接受路径：二氧化碳升高刺激生长、植物吸收更多碳，符号为负，但教材没有给响应时间，不能给它配精确时钟。讲评时必须强调，正反馈和负反馈指的是放大还是抑制初始变化，不是好与坏；最快的是水汽和辐射类响应，最慢的是风化恒温器，这正好呼应上一页关于不同时钟的结论。"
+    },
+    {
+      "final_page": 42,
+      "deck_id": "W3_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\L16_W3_Doubao_Slides40-43_v01.pptx",
+      "local_slide": 3,
+      "visible_text_sha256": "6163a89cb4f423db5b61545e2ed4babc0b6991de321d9583543d1ce04fbda9d8",
+      "notes_text_sha256": "097a0a04f5d181f41541877322b0400df0f88c2e2ed24d95ec87e0ffb48d2835",
+      "visible_text": "作业题 | Homework Questions\nLECTURE 16 · SYNTHESIS\n四道候选题覆盖共同框架、碳时间尺度、耦合与反馈推理，教师选 1–2 题\n1\n储库、通量与停留时间\nReservoir · Flux · Residence Time\n定义这三个概念，并解释：为什么储量很大的储库，\u000b更新速度不一定快？\n类型：概念理解 Conceptual\n2\n快速与缓慢碳循环路径\nFast vs Slow Carbon Cycles\n从储库、过程与相对时间尺度三方面，\u000b比较快速与缓慢碳循环路径。\n类型：比较解释 Compare\n3\n水如何耦合两个循环\nWeathering · Ocean Transfer · Biology\n以风化、海洋输送或生物过程为例，说明水\u000b如何耦合水循环与碳循环。\n类型：系统耦合 Coupling\n4\n升温后的正、负反馈路径\nFeedback Sign · Response Speed\n从一次升温出发，各写一条正反馈与一条\u000b负反馈路径，并比较二者响应快慢。\n类型：因果推理 Earth-system reasoning\n教师从四道候选题中选 1–2 题作为正式作业 · Instructor selects one or two\nCandidate questions — Master Prompt Sections 42/52; content limited to approved Slides 04–41. Brief grading points in embedded Notes; no answers shown on slide.\n42",
+      "notes_text": "这一页给出四道候选题，正式作业由教师从中选一道到两道，页面上不提供答案。第一题是概念题，要求学生定义储库、通量和停留时间，并解释为什么储量很大的储库更新不一定快，评分时看学生能否用停留时间等于储量除以通量这一关系说明大储量配合大通量时停留时间仍可能很长。第二题是比较题，要求从储库、过程和相对时间尺度三方面比较快速与缓慢碳循环路径，评分看学生是否把大气生物圈的快速交换与岩石圈的缓慢风化埋藏区分开。第三题是耦合题，要求以风化、海洋输送或生物过程为例说明水如何把水循环与碳循环连接起来，三条路径举出任意一条并讲清因果即可。第四题是因果推理题，要求从一次升温出发各写一条正反馈和一条负反馈路径并比较响应快慢，评分看链条是否闭合、符号判定是否正确，以及是否意识到慢负反馈不能即时抵消快正反馈。四道题分别覆盖概念理解、比较解释、系统耦合和因果推理，不另外增加政策题或超纲计算。"
+    },
+    {
+      "final_page": 43,
+      "deck_id": "W3_DOUBAO",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\sections\\PROD-W3-DOUBAO\\L16_W3_Doubao_Slides40-43_v01.pptx",
+      "local_slide": 4,
+      "visible_text_sha256": "918c1228dba323b1b5ba9c72ae4150a9595e3f25fe5ba9a05d097b89913a0094",
+      "notes_text_sha256": "b63d3641b32ddb57dfc9b5702e3de71e6197344987cf2a0f33727a74273b8d1d",
+      "visible_text": "核心术语 | Key Terms\nLECTURE 16 · SYNTHESIS\n三组术语字段收束共同框架、水文过程与碳—耦合概念\n共同框架 Framework\n6 terms\nReservoir　储库\nFlux　通量\nResidence Time　停留时间\nFeedback　反馈\nPositive Feedback　正反馈\nNegative Feedback　负反馈\n水文过程 Water Processes\n7 terms\nHydrologic Cycle　水文循环\nEvaporation　蒸发\nEvapotranspiration　蒸散\nRunoff　径流\nInfiltration　入渗\nGroundwater　地下水\nCryosphere　冰冻圈\n碳与耦合 Carbon & Coupling\n7 terms\nCarbon Cycle　碳循环\nPhotosynthesis　光合作用\nRespiration　呼吸\nWeathering　风化\nCarbonate　碳酸盐\nBiological Pump　生物泵\nPhysical Pump　物理泵\n英文术语以 UE 为准，中文以《地球系统与演变》为准 · UE English · CN Chinese\nLocked bilingual vocabulary — UE 8e Chs.12/17; 地球系统与演变 Chs.3–4; Master Prompt Slide 43 list. Terms only; one-line reminders in embedded Notes.\n43",
+      "notes_text": "这一页是全讲核心术语的收束，按共同框架、水文过程、碳与耦合三组列出，共二十个术语，英文以 UE 教材为准，中文以《地球系统与演变》为准，页面只列术语，不展开新定义。共同框架组六个：储库是物质的存放单元，通量是单位时间的转移量，停留时间是物质在储库中的平均滞留时长，反馈是输出回过来影响输入的过程，正反馈放大初始变化，负反馈抑制或稳定初始变化，正负不是好坏。水文过程组七个：水文循环是水在各储库间的循环，蒸发是液态水变为水汽，蒸散包括蒸发与植物蒸腾，径流是地表水流，入渗是水渗入地下，地下水是储存在孔隙含水层中的水，冰冻圈是地球表层所有冻结水的总称。碳与耦合组七个：碳循环是碳在各储库间的循环，光合作用把二氧化碳固定为有机碳，呼吸作用把有机碳氧化释放二氧化碳，风化是水与二氧化碳等参与的岩石化学蚀变过程，硅酸盐风化可形成长期净二氧化碳去向，而碳酸盐风化不是同等净汇，碳酸盐是碳在岩石圈的主要赋存形式，生物泵靠海洋生物把碳向深层输送，物理泵靠海水溶解与环流输送碳。复习时提醒学生，这些术语前面都已讲过，这里只做对照与巩固，不引入新概念。"
+    },
+    {
+      "final_page": 44,
+      "deck_id": "SAMPLE",
+      "source_path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01.pptx",
+      "local_slide": 9,
+      "visible_text_sha256": "fbde2cda5b79873e13045f8cec1442d7c9b2cbaec6d72a5d6cefa0129660ade0",
+      "notes_text_sha256": "99ba541a75f2d84ba7511d0174340afe67a8149f9456cadfe41967a5677f8ea4",
+      "visible_text": "核心知识点 | Key Takeaways\nLECTURE 16 · SYNTHESIS\n判断系统响应：物质在哪里、怎样移动、作用方向、响应速度\n1\nReservoir ≠ Flux\n水和碳通过通量在储库之间迁移；\n储量不等于通量。\n2\nResidence Time\n停留时间控制储库响应快慢；\n大储库不一定更新快。\n3\nWater connects geospheres\n水循环搬运物质和能量，并连接大气、\u000b海洋、岩石与生命。\n4\nFast & Slow Carbon Cycles\n碳循环同时包含快速的生物/海洋路径\u000b和缓慢的地质路径。\n5\nWater–Carbon Coupling\n水通过风化、海气交换和生命过程把水循环\u000b与碳循环耦合起来。\n6\nFeedback sign & timescale\n正反馈放大变化，负反馈抑制变化；判断系统响应\u000b必须同时看方向和时间尺度。\nReservoir · Flux · Residence Time · Coupling · Feedback · Timescale\nLecture 16 synthesis — locked takeaways from the approved blueprint and source matrix.\n44",
+      "notes_text": "最后把六条结论合在一起。第一，水和碳通过通量在储库之间迁移，储量不等于通量；第二，停留时间控制储库响应快慢，大储库不一定更新快。第三，水循环搬运物质和能量，并连接大气、海洋、岩石与生命；第四，碳循环同时包含快速的生物和海洋路径与缓慢的地质路径。第五，水通过风化、海气交换和生命过程把水循环与碳循环耦合起来；第六，正反馈放大变化，负反馈抑制变化，判断系统响应必须同时看方向和时间尺度。这六个关键词共同构成阅读地球系统循环的框架：储库、通量、停留时间、耦合、反馈和时间尺度。"
+    }
+  ]
+}

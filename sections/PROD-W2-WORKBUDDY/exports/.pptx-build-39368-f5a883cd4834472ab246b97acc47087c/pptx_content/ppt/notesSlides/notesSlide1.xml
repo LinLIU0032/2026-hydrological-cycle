@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:notes xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+         xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+         xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="Slide Image Placeholder 1"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1" noRot="1" noChangeAspect="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="sldImg" idx="2"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="3" name="Notes Placeholder 2"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" sz="quarter" idx="3"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:lstStyle/>
+          <a:p>
+              <a:pPr/>
+              <a:r>
+                <a:rPr lang="zh-CN" dirty="0"></a:rPr>
+                <a:t>这一页讲陆地生命这条快通路，全页不使用任何数值，重点在过程和方向。先看最上面这一层：大气是整张图的枢纽，碳以二氧化碳的形式停在这里。往下读三条通路，箭头方向一定要说清。第一条是光合作用，箭头向下，大气中的二氧化碳被固定成植物有机碳。第二条是呼吸作用，箭头向上，植物和动物把有机碳氧化利用之后，把碳交还大气。第三条是微生物分解，箭头同样向上，枯落物和土壤里的碳被分解者送回大气。还有一条更细的箭头向右，把枯落物和死亡有机质从植被带进土壤储库，它不是第四种通路，而是让上面这个环真正闭合起来的物理衔接。接着要特别强调右下角的土壤：土壤不是箭头之间的空隙，枯落物与死亡有机质在其中不断积累，它是一个实实在在的碳储库，这一点在右边那张卡片里也写了。为什么把这个环节叫快速碳循环？因为植被和土壤里的碳以年到十年的尺度周转，不断被取用又归还，和后面要讲的地质储库的百万年尺度完全不在一个档位上。最后留一句尾巴：同一片叶子上，光合固碳和蒸腾失水是同时发生的，这就是碳循环与水循环在植物身上的接触点，本页只点一下，不展开耦合。</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:notes>

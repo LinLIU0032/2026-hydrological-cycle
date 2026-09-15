@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.2 读懂全球循环的四个词 | Four Ideas for Reading Global Cycles</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">READING FRAMEWORK</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">同一套语言：Reservoir · Flux · Residence Time · Feedback 适用于水和碳</text>
+  </g>
+
+  <g id="card-reservoir" data-pptx-bounds="40 154 590 218">
+    <rect x="40" y="154" width="590" height="218" rx="12" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="86" cy="200" r="24" fill="#1E4FA8"/>
+    <text x="86" y="208" font-size="18" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="126" y="196" font-size="20" font-weight="bold" fill="#0E3F8C">Reservoir 储库</text>
+    <text x="126" y="222" font-size="13" fill="#3D7BD9">a place / component that stores water or chemicals</text>
+    <line x1="66" y1="244" x2="604" y2="244" stroke="#B8C7DC" stroke-width="1"/>
+    <text x="66" y="274" font-size="15" fill="#1A2230">
+      <tspan x="66" dy="0">物质被"存放"的位置。储库大小用储量衡量，</tspan>
+      <tspan x="66" dy="26">例如海洋、大气、生物圈、土壤、岩石。</tspan>
+    </text>
+    <text x="66" y="340" font-size="13" fill="#4A5568">例：海洋是水圈最大储库；大气是碳的快速交换储库。</text>
+  </g>
+
+  <g id="card-flux" data-pptx-bounds="650 154 590 218">
+    <rect x="650" y="154" width="590" height="218" rx="12" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="696" cy="200" r="24" fill="#1E4FA8"/>
+    <text x="696" y="208" font-size="18" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="736" y="196" font-size="20" font-weight="bold" fill="#0E3F8C">Flux 通量</text>
+    <text x="736" y="222" font-size="13" fill="#3D7BD9">flow / transport from one reservoir to another</text>
+    <line x1="676" y1="244" x2="1214" y2="244" stroke="#B8C7DC" stroke-width="1"/>
+    <text x="676" y="274" font-size="15" fill="#1A2230">
+      <tspan x="676" dy="0">物质在储库之间的"移动速率"，单位是</tspan>
+      <tspan x="676" dy="26">质量/时间，例如 Gt C/yr 或 10³ km³/yr。</tspan>
+    </text>
+    <text x="676" y="340" font-size="13" fill="#4A5568">例：蒸发、降水、径流、光合作用、火山脱气都是通量。</text>
+  </g>
+
+  <g id="card-residence" data-pptx-bounds="40 390 590 218">
+    <rect x="40" y="390" width="590" height="218" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="86" cy="436" r="24" fill="#3D7BD9"/>
+    <text x="86" y="444" font-size="18" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="126" y="432" font-size="20" font-weight="bold" fill="#0E3F8C">Residence Time 停留时间</text>
+    <text x="126" y="458" font-size="13" fill="#3D7BD9">average time a quantity spends in a reservoir</text>
+    <line x1="66" y1="480" x2="604" y2="480" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="66" y="510" font-size="15" fill="#1A2230">
+      <tspan x="66" dy="0">衡量储库"更新快慢"，不是储库大小。</tspan>
+      <tspan x="66" dy="26">大储库不一定更新快，小储库可以交换 very fast。</tspan>
+    </text>
+    <text x="66" y="576" font-size="13" fill="#4A5568">例：大气水约 9 日；海洋水约 3,200 年（CN 表 3-1）。</text>
+  </g>
+
+  <g id="card-feedback" data-pptx-bounds="650 390 590 218">
+    <rect x="650" y="390" width="590" height="218" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <circle cx="696" cy="436" r="24" fill="#3D7BD9"/>
+    <text x="696" y="444" font-size="18" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="736" y="432" font-size="20" font-weight="bold" fill="#0E3F8C">Feedback 反馈</text>
+    <text x="736" y="458" font-size="13" fill="#3D7BD9">how an induced change responds to an initial change</text>
+    <line x1="676" y1="480" x2="1214" y2="480" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="676" y="510" font-size="15" fill="#1A2230">
+      <tspan x="676" dy="0">正反馈放大初始变化；负反馈反向作用、</tspan>
+      <tspan x="676" dy="26">趋于稳定。判断系统响应必须同时看方向和速度。</tspan>
+    </text>
+    <text x="676" y="576" font-size="13" fill="#4A5568">例：水汽反馈（正）；岩石风化恒温器（慢负反馈）。</text>
+  </g>
+
+  <g id="framework-strip" data-pptx-bounds="40 624 1200 32">
+    <rect x="40" y="624" width="1200" height="32" rx="10" fill="#FDECDD" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="640" y="645" font-size="14" font-weight="bold" text-anchor="middle" fill="#C2410C">这四个词会在 Part II 碳循环里原样复用——框架不变，只是换了物质和时钟。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, PDF p.1205 &amp; pp.1647–1650; EP 5e, Ch.23, p.881.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">05</text>
+</svg>

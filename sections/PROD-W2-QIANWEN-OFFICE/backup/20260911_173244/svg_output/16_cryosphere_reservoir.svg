@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">1.13 冰冻圈：会移动的水库 | Cryosphere as a Water Reservoir</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">WATER CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#1E4FA8"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#0E3F8C">冰冻圈是一座会移动的水库：积累与消融同时改变储水、海平面与气候</text>
+  </g>
+
+  <g id="cryosphere-diagram" data-pptx-bounds="40 154 700 480">
+    <rect x="40" y="154" width="700" height="480" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+
+    <rect x="60" y="172" width="660" height="52" rx="8" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="76" y="204" font-size="15" font-weight="bold" fill="#1E4FA8">大气圈 Atmosphere</text>
+    <text x="704" y="204" font-size="13" text-anchor="end" fill="#4A5568">降水 · 蒸发 · 升华交换</text>
+
+    <rect x="60" y="300" width="300" height="200" fill="#D6DCE5"/>
+    <text x="210" y="470" font-size="13" text-anchor="middle" fill="#4A5568">基岩 Bedrock</text>
+    <path d="M60,300 Q210,238 360,300 Z" fill="#FFFFFF" stroke="#1E4FA8" stroke-width="2"/>
+    <text x="210" y="292" font-size="13" font-weight="bold" text-anchor="middle" fill="#0E3F8C">冰盖 / 冰川 Ice sheet / Glacier</text>
+
+    <rect x="360" y="300" width="360" height="200" fill="#3D7BD9"/>
+    <text x="540" y="470" font-size="15" font-weight="bold" text-anchor="middle" fill="#FFFFFF">海洋 Ocean</text>
+
+    <path d="M340,300 L436,300 L414,322 L352,320 Z" fill="#FFFFFF" stroke="#1E4FA8" stroke-width="1.5"/>
+    <line x1="466" y1="284" x2="420" y2="304" stroke="#4A5568" stroke-width="1"/>
+    <text x="470" y="288" font-size="13" font-weight="bold" fill="#0E3F8C">冰架 Ice shelf</text>
+
+    <rect x="500" y="292" width="60" height="10" rx="4" fill="#FFFFFF" stroke="#1E4FA8" stroke-width="1"/>
+    <rect x="580" y="292" width="50" height="10" rx="4" fill="#FFFFFF" stroke="#1E4FA8" stroke-width="1"/>
+    <rect x="650" y="292" width="55" height="10" rx="4" fill="#FFFFFF" stroke="#1E4FA8" stroke-width="1"/>
+    <text x="620" y="288" font-size="13" font-weight="bold" text-anchor="middle" fill="#0E3F8C">海冰 Sea ice</text>
+
+    <line x1="140" y1="228" x2="140" y2="248" stroke="#1E4FA8" stroke-width="3"/>
+    <polygon points="140,256 133,246 147,246" fill="#1E4FA8"/>
+    <line x1="300" y1="258" x2="300" y2="232" stroke="#3D7BD9" stroke-width="3"/>
+    <polygon points="300,224 293,234 307,234" fill="#3D7BD9"/>
+    <line x1="380" y1="330" x2="430" y2="330" stroke="#FFFFFF" stroke-width="3"/>
+    <polygon points="438,330 428,324 428,336" fill="#FFFFFF"/>
+    <line x1="690" y1="262" x2="690" y2="286" stroke="#1E4FA8" stroke-width="3"/>
+    <polygon points="690,254 683,264 697,264" fill="#1E4FA8"/>
+    <polygon points="690,294 683,284 697,284" fill="#1E4FA8"/>
+
+    <line x1="60" y1="520" x2="720" y2="520" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="60" y="548" font-size="13" fill="#4A5568">↓ 积累 Accumulation</text>
+    <text x="250" y="548" font-size="13" fill="#4A5568">↑ 蒸发 / 升华 Evaporation</text>
+    <text x="440" y="548" font-size="13" fill="#4A5568">→ 消融 Melting</text>
+    <text x="580" y="548" font-size="13" fill="#4A5568">↕ 季节变化 Seasonal</text>
+    <text x="60" y="584" font-size="13" fill="#4A5568">储存 Storage：陆地冰是长期储库，海冰是季节性薄层<tspan x="60" dy="26">Storage: continental ice = long-term reservoir; sea ice = thin seasonal layer</tspan></text>
+  </g>
+
+  <g id="sea-level-panel" data-pptx-bounds="760 154 480 246">
+    <rect x="760" y="154" width="480" height="246" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="780" y="186" font-size="16" font-weight="bold" fill="#0E3F8C">海平面效应 | Sea-level effect</text>
+    <text x="780" y="220" font-size="15" fill="#1A2230">大陆冰积累、扩张 → 海平面下降</text>
+    <text x="780" y="254" font-size="15" fill="#1A2230">大陆冰融化 → 海平面上升</text>
+    <text x="780" y="288" font-size="15" fill="#1A2230">海冰漂浮于海面，融化不直接抬升海平面</text>
+    <text x="780" y="320" font-size="13" fill="#4A5568">Floating sea-ice melt ≠ continental-ice melt</text>
+    <text x="780" y="348" font-size="13" fill="#4A5568">Sea-level change tracks continental ice, not sea ice</text>
+  </g>
+
+  <g id="equivalent-panel" data-pptx-bounds="760 415 480 150">
+    <rect x="760" y="415" width="480" height="150" rx="12" fill="#F0F5FC" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="780" y="447" font-size="16" font-weight="bold" fill="#0E3F8C">海平面当量 | Sea-level equivalent</text>
+    <text x="780" y="479" font-size="15" fill="#1A2230">南极冰盖 Antarctic ice sheet · 58.3 m<tspan x="780" dy="30">格陵兰冰盖 Greenland ice sheet · 7.36 m</tspan><tspan x="780" dy="30">冰川 Glaciers · 0.41 m</tspan></text>
+  </g>
+
+  <g id="climate-strip" data-pptx-bounds="760 580 480 54">
+    <rect x="760" y="580" width="480" height="54" rx="12" fill="#E8EFF8" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="780" y="612" font-size="13" font-weight="bold" fill="#1E4FA8">交换同时改变反照率与海平面 → 连接气候 Connects to climate</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: 地球系统与演变, Ch.3 §3.2.1.3 &amp; Table 3-2, PDF pp.15–19 (print pp.100–104); UE 8e, Ch.12, PDF pp.1159–1162; EP 5e, p.881.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">16</text>
+</svg>

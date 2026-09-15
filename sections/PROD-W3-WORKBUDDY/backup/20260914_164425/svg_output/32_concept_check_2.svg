@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.12 课堂读图 | Concept Check 2</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">任选图 12.19 上的一条通路，按储库、通量、快慢与领域把它说清楚</text>
+  </g>
+
+  <g id="concept-figure" data-pptx-bounds="40 150 640 504">
+    <rect x="40" y="150" width="640" height="504" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <image href="../images/C-01_UE_Fig12-19_PDF1209_raw.png" x="71" y="162" width="577" height="480" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="prompt-card" data-pptx-bounds="696 150 544 318">
+    <rect x="696" y="150" width="544" height="318" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="720" y="182" font-size="16" font-weight="bold" fill="#C2410C">任务提示 | Prompt</text>
+    <text x="720" y="212" font-size="15" fill="#1A2230">在图 12.19 上任选一条通路，说出：</text>
+
+    <circle cx="740" cy="252" r="15" fill="#EA580C"/>
+    <text x="740" y="257" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="768" y="248" font-size="15" fill="#1A2230">起点储库与终点储库</text>
+    <text x="768" y="268" font-size="13" fill="#4A5568">Start and end reservoirs</text>
+
+    <circle cx="740" cy="304" r="15" fill="#EA580C"/>
+    <text x="740" y="309" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="768" y="300" font-size="15" fill="#1A2230">中间的过程或通量</text>
+    <text x="768" y="320" font-size="13" fill="#4A5568">The process or flux</text>
+
+    <circle cx="740" cy="356" r="15" fill="#EA580C"/>
+    <text x="740" y="361" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="768" y="352" font-size="15" fill="#1A2230">这条通路是快还是慢</text>
+    <text x="768" y="372" font-size="13" fill="#4A5568">Fast or slow</text>
+
+    <circle cx="740" cy="408" r="15" fill="#EA580C"/>
+    <text x="740" y="413" font-size="13" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="768" y="404" font-size="15" fill="#1A2230">属于生物、海洋还是地质路径</text>
+    <text x="768" y="424" font-size="13" fill="#4A5568">Biological, oceanic, or geological</text>
+  </g>
+
+  <g id="reading-aid" data-pptx-bounds="696 484 544 170">
+    <rect x="696" y="484" width="544" height="170" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="720" y="516" font-size="16" font-weight="bold" fill="#0E3F8C">读图提示 | Reading aid</text>
+    <text x="720" y="548" font-size="15" fill="#1A2230"><tspan x="720" dy="0">先找方框（储库），再读箭头（通量）：</tspan><tspan x="720" dy="22">大气、陆地、海洋与地质四区在图</tspan><tspan x="720" dy="22">上有明确分区，箭头还给方向。</tspan></text>
+    <text x="720" y="624" font-size="13" fill="#4A5568">不要求背下图上全部数字。</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, Fig. 12.19, PDF pp.1209–1213; 地球系统与演变 Ch.4, 图 4-9/4-16, PDF pp.68–80.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">32</text>
+</svg>

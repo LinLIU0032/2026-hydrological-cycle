@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.4 同样的语言，不同的时间尺度 | Same Framework, Different Timescales</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 44">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">水和碳共享 Reservoir / Flux / Residence Time 语言，但时钟差异巨大</text>
+  </g>
+
+  <g id="comparison-grid" data-pptx-bounds="40 154 780 440">
+    <rect x="40" y="154" width="780" height="440" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+
+    <rect x="40" y="154" width="780" height="50" rx="12" fill="#0E3F8C"/>
+    <rect x="40" y="180" width="780" height="24" fill="#0E3F8C"/>
+    <text x="140" y="186" font-size="15" font-weight="bold" text-anchor="middle" fill="#FFFFFF">框架 Framework</text>
+    <text x="385" y="186" font-size="15" font-weight="bold" text-anchor="middle" fill="#C7D7F2">水 Water</text>
+    <text x="675" y="186" font-size="15" font-weight="bold" text-anchor="middle" fill="#FDECDD">碳 Carbon</text>
+
+    <line x1="240" y1="204" x2="240" y2="594" stroke="#D6DCE5" stroke-width="1"/>
+    <line x1="530" y1="204" x2="530" y2="594" stroke="#D6DCE5" stroke-width="1"/>
+
+    <g id="row-reservoir" data-pptx-bounds="40 204 780 130">
+      <rect x="40" y="204" width="200" height="130" fill="#F0F5FC"/>
+      <text x="140" y="258" font-size="16" font-weight="bold" text-anchor="middle" fill="#0E3F8C">Reservoir</text>
+      <text x="140" y="284" font-size="14" text-anchor="middle" fill="#1A2230">储库</text>
+      <text x="260" y="240" font-size="14" fill="#1A2230">
+        <tspan x="260" dy="0">海洋 · 大气 · 冰雪</tspan>
+        <tspan x="260" dy="24">地下水 · 湖泊河流</tspan>
+        <tspan x="260" dy="24">生物圈</tspan>
+      </text>
+      <text x="260" y="316" font-size="12" fill="#4A5568">UE Fig. 17.1</text>
+      <text x="550" y="240" font-size="14" fill="#1A2230">
+        <tspan x="550" dy="0">大气 · 生物圈 · 土壤</tspan>
+        <tspan x="550" dy="24">海洋 · 沉积物</tspan>
+        <tspan x="550" dy="24">岩石圈</tspan>
+      </text>
+      <text x="550" y="316" font-size="12" fill="#4A5568">UE Fig. 12.19 (C-01)</text>
+    </g>
+
+    <line x1="40" y1="334" x2="820" y2="334" stroke="#D6DCE5" stroke-width="1"/>
+
+    <g id="row-flux" data-pptx-bounds="40 334 780 130">
+      <rect x="40" y="334" width="200" height="130" fill="#F0F5FC"/>
+      <text x="140" y="388" font-size="16" font-weight="bold" text-anchor="middle" fill="#0E3F8C">Flux</text>
+      <text x="140" y="414" font-size="14" text-anchor="middle" fill="#1A2230">通量</text>
+      <text x="260" y="370" font-size="14" fill="#1A2230">
+        <tspan x="260" dy="0">蒸发 · 降水 · 径流</tspan>
+        <tspan x="260" dy="24">入渗 · 地下水流</tspan>
+        <tspan x="260" dy="24">蒸腾</tspan>
+      </text>
+      <text x="260" y="446" font-size="12" fill="#4A5568">UE Fig. 17.2</text>
+      <text x="550" y="370" font-size="14" fill="#1A2230">
+        <tspan x="550" dy="0">光合作用 · 呼吸 · 分解</tspan>
+        <tspan x="550" dy="24">海气交换 · 风化</tspan>
+        <tspan x="550" dy="24">埋藏 · 火山脱气</tspan>
+      </text>
+      <text x="550" y="446" font-size="12" fill="#4A5568">UE Fig. 12.19; CN Fig. 4-16</text>
+    </g>
+
+    <line x1="40" y1="464" x2="820" y2="464" stroke="#D6DCE5" stroke-width="1"/>
+
+    <g id="row-residence" data-pptx-bounds="40 464 780 130">
+      <rect x="40" y="464" width="200" height="130" fill="#F0F5FC"/>
+      <text x="140" y="510" font-size="16" font-weight="bold" text-anchor="middle" fill="#0E3F8C">Residence</text>
+      <text x="140" y="532" font-size="16" font-weight="bold" text-anchor="middle" fill="#0E3F8C">Time</text>
+      <text x="140" y="558" font-size="14" text-anchor="middle" fill="#1A2230">停留时间</text>
+      <text x="260" y="500" font-size="14" fill="#1A2230">
+        <tspan x="260" dy="0">不同储库时钟差异大：</tspan>
+        <tspan x="260" dy="24">大气以日计，海洋以千年计。</tspan>
+      </text>
+      <text x="260" y="566" font-size="12" fill="#4A5568">CN 表 3-1（定性引用，不合并数值）</text>
+      <text x="550" y="500" font-size="14" fill="#1A2230">
+        <tspan x="550" dy="0">快路径（生物/海气）与</tspan>
+        <tspan x="550" dy="24">慢路径（地质）并存，</tspan>
+        <tspan x="550" dy="24">时钟跨越多个数量级。</tspan>
+      </text>
+      <text x="550" y="580" font-size="12" fill="#4A5568">UE pp.1209–1213; CN Fig. 4-15</text>
+    </g>
+  </g>
+
+  <g id="clock-panel" data-pptx-bounds="840 154 400 440">
+    <rect x="840" y="154" width="400" height="440" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="866" y="188" font-size="15" font-weight="bold" fill="#C2410C">时钟对比 | Clock difference</text>
+
+    <g id="water-clock" data-pptx-bounds="866 206 348 124">
+      <rect x="866" y="206" width="348" height="124" rx="12" fill="#FFFFFF" stroke="#1E4FA8" stroke-width="2"/>
+      <circle cx="920" cy="262" r="34" fill="#F0F5FC" stroke="#1E4FA8" stroke-width="3"/>
+      <line x1="920" y1="262" x2="920" y2="238" stroke="#1E4FA8" stroke-width="3"/>
+      <line x1="920" y1="262" x2="938" y2="272" stroke="#1E4FA8" stroke-width="3"/>
+      <text x="972" y="244" font-size="15" font-weight="bold" fill="#0E3F8C">水 Water</text>
+      <text x="972" y="268" font-size="13" fill="#1A2230">单一物质，多个储库时钟</text>
+      <text x="972" y="290" font-size="13" fill="#1A2230">从日到千年，差异来自储库</text>
+      <text x="972" y="312" font-size="11" fill="#4A5568">One substance, many clocks</text>
+    </g>
+
+    <g id="carbon-clock" data-pptx-bounds="866 344 348 156">
+      <rect x="866" y="344" width="348" height="156" rx="12" fill="#FFFFFF" stroke="#EA580C" stroke-width="2"/>
+      <text x="886" y="374" font-size="15" font-weight="bold" fill="#C2410C">碳 Carbon</text>
+      <text x="886" y="396" font-size="13" fill="#1A2230">同一物质，快慢两套时钟并存</text>
+      <circle cx="916" cy="440" r="26" fill="#FDECDD" stroke="#EA580C" stroke-width="3"/>
+      <line x1="916" y1="440" x2="916" y2="422" stroke="#EA580C" stroke-width="3"/>
+      <line x1="916" y1="440" x2="930" y2="448" stroke="#EA580C" stroke-width="3"/>
+      <text x="916" y="484" font-size="11" text-anchor="middle" fill="#C2410C">快 Fast</text>
+      <circle cx="1006" cy="440" r="26" fill="#FDECDD" stroke="#7A4A33" stroke-width="3"/>
+      <line x1="1006" y1="440" x2="1006" y2="418" stroke="#7A4A33" stroke-width="3"/>
+      <line x1="1006" y1="440" x2="1022" y2="452" stroke="#7A4A33" stroke-width="3"/>
+      <text x="1006" y="484" font-size="11" text-anchor="middle" fill="#7A4A33">慢 Slow</text>
+      <text x="1060" y="434" font-size="12" fill="#1A2230">生物 / 海气</text>
+      <text x="1060" y="456" font-size="12" fill="#1A2230">vs 地质</text>
+      <text x="1060" y="478" font-size="11" fill="#4A5568">Fast bio vs slow geo</text>
+    </g>
+
+    <rect x="866" y="518" width="348" height="58" rx="10" fill="#FDECDD" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="1040" y="542" font-size="13" font-weight="bold" text-anchor="middle" fill="#C2410C">本页只做定性对齐</text>
+    <text x="1040" y="562" font-size="12" text-anchor="middle" fill="#7A4A33">不合并成统一数值时间表 No unified table</text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: UE 8e, PDF pp.1205–1206 &amp; 1209–1213; 地球系统与演变, Figs. 4-15 &amp; 4-16. Qualitative alignment only.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">24</text>
+</svg>

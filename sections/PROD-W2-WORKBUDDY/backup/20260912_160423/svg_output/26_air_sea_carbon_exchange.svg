@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-role="header" data-pptx-bounds="0 0 1280 72">
+    <rect x="0" y="0" width="1280" height="72" fill="#0E3F8C"/>
+    <text x="40" y="45" font-size="18" font-weight="bold" fill="#FFFFFF">2.6 海气之间的碳交换 | Air–Sea Carbon Exchange</text>
+    <text x="1240" y="45" font-size="16" text-anchor="end" fill="#C7D7F2">CARBON CYCLE</text>
+  </g>
+
+  <g id="teaching-message" data-pptx-bounds="40 92 1200 48">
+    <rect x="40" y="96" width="6" height="28" rx="3" fill="#EA580C"/>
+    <text x="58" y="119" font-size="21" font-weight="bold" fill="#C2410C">海洋既能吸收、也能释放 CO₂；它不是处处、时时的单向碳汇</text>
+  </g>
+
+  <g id="air-sea-figure" data-pptx-bounds="40 150 600 504">
+    <rect x="40" y="150" width="600" height="504" rx="12" fill="#F7F9FC" stroke="#D6DCE5" stroke-width="1"/>
+    <image href="../images/C-03_Fig4-8_PDF68_print153_raw.png" x="61" y="160" width="558" height="484" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="reading-key" data-pptx-bounds="676 150 564 196">
+    <rect x="676" y="150" width="564" height="196" rx="12" fill="#FDF4EF" stroke="#F0CFC2" stroke-width="1"/>
+    <text x="700" y="184" font-size="16" font-weight="bold" fill="#C2410C">读数规则 | How to read this map</text>
+    <rect x="700" y="202" width="52" height="34" rx="8" fill="#C2410C"/>
+    <text x="726" y="226" font-size="19" font-weight="bold" text-anchor="middle" fill="#FFFFFF">+</text>
+    <text x="766" y="220" font-size="16" font-weight="bold" fill="#C2410C">正值：海水放出 CO₂</text>
+    <text x="766" y="242" font-size="13" fill="#4A5568">Positive = seawater releases CO₂</text>
+    <rect x="700" y="252" width="52" height="34" rx="8" fill="#0E3F8C"/>
+    <text x="726" y="276" font-size="19" font-weight="bold" text-anchor="middle" fill="#FFFFFF">−</text>
+    <text x="766" y="270" font-size="16" font-weight="bold" fill="#0E3F8C">负值：海水吸收 CO₂</text>
+    <text x="766" y="292" font-size="13" fill="#4A5568">Negative = seawater absorbs CO₂</text>
+    <text x="700" y="330" font-size="15" fill="#1A2230">单位 净通量 g/(m²·a)；色标约 −108 … +108</text>
+  </g>
+
+  <g id="exchange-controls" data-pptx-bounds="676 362 564 176">
+    <rect x="676" y="362" width="564" height="176" rx="12" fill="#FFFFFF" stroke="#D6DCE5" stroke-width="1"/>
+    <text x="700" y="396" font-size="16" font-weight="bold" fill="#0E3F8C">什么在控制交换 | What controls it</text>
+    <text x="700" y="428" font-size="15" fill="#1A2230"><tspan x="700" dy="0">温度、海水组成，尤其风混合与浪</tspan><tspan x="700" dy="22">花飞溅，决定溶解与释放的快慢；</tspan><tspan x="700" dy="22">高纬冷海更易吸收，上升流区放出。</tspan></text>
+    <text x="700" y="506" font-size="13" fill="#4A5568">Temperature · composition · wind mixing</text>
+  </g>
+
+  <g id="takeaway" data-pptx-bounds="676 554 564 100">
+    <rect x="676" y="554" width="564" height="100" rx="12" fill="#FDECDD"/>
+    <text x="700" y="586" font-size="16" font-weight="bold" fill="#C2410C">海洋不是单向碳汇</text>
+    <text x="700" y="614" font-size="15" fill="#7A4A33"><tspan x="700" dy="0">同一片海洋在不同区域，分别表现为</tspan><tspan x="700" dy="22">碳源或碳汇——“海洋是碳汇”要限定区域与时段。</tspan></text>
+  </g>
+
+  <text id="source" data-pptx-role="footer" x="40" y="696" font-size="12" fill="#4A5568">Source: 地球系统与演变, Fig. 4-8, p.153 (PDF p.68); UE 8e, Ch.12, Atmosphere–Ocean Gas Exchange, PDF pp.1210–1211.</text>
+  <text id="page-number" data-pptx-role="page-number" x="1240" y="696" font-size="12" text-anchor="end" fill="#4A5568">26</text>
+</svg>

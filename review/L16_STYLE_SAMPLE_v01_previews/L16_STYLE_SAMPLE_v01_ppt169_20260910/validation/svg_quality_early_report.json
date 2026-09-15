@@ -1,0 +1,472 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "early",
+  "target": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "67aff8fb389c00fbb4dfb6e075048fb636afeeaa961691b1342a47d77f8ce310",
+    "file_count": 5,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "5aea0682e3cee54445d09bf773bc19d5168755fca7177b8f5de4ebbf89aa5b30"
+      },
+      {
+        "file": "02_learning_objectives.svg",
+        "sha256": "2a176674f992f4e1e549f2d6a36b59cd07afbdec1d94faa35e86e10e573743f3"
+      },
+      {
+        "file": "03_toc.svg",
+        "sha256": "0bf67f84183f19c340b226655cdc6884a944b9f2ee2c6cd66dd21bd256fc89b3"
+      },
+      {
+        "file": "09_global_hydrologic_cycle.svg",
+        "sha256": "29ea88e0eeaf7f0add5fbeb330987f133ac343b0d5da5b74d4243a3d8a1b5d86"
+      },
+      {
+        "file": "23_global_carbon_cycle.svg",
+        "sha256": "88139a5aef25deb25e4d0d010b2a4c5d848f4652e3d86d597593b9b2a763cb5e"
+      }
+    ]
+  },
+  "summary": {
+    "total": 5,
+    "passed": 2,
+    "warnings": 3,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 3,
+      "issues": [
+        {
+          "file": "01_cover.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: cover-title:font-weight None -> 'bold'; text[8]:font-weight 'bold' -> None; text[11]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "03_toc.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (7 change(s)); examples: toc-reading-path:font-size None -> '15'; text[51]:font-size '15' -> None; text[52]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "09_global_hydrologic_cycle.svg",
+          "message": "Image ../images/W-02_EP_InterludeF_HydrologicCycle_pdf615-616_print580-581_spread_raw.png is 5900x3513 and renders at 0.14x scale in a 826x464 slice frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset"
+        }
+      ]
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {
+      "#B8C7DC": [
+        "03_toc.svg"
+      ],
+      "#C7D7F2": [
+        "02_learning_objectives.svg",
+        "03_toc.svg",
+        "09_global_hydrologic_cycle.svg",
+        "23_global_carbon_cycle.svg"
+      ],
+      "#E7B9A8": [
+        "03_toc.svg"
+      ]
+    },
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 5,
+    "totals": {
+      "text_elements": 89,
+      "image_placements": 2,
+      "icons": 0,
+      "svg_geometry_elements": 63,
+      "preset_shapes": 0,
+      "page_frame_elements": 7,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 2,
+      "icons": 0,
+      "presets": 0,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "geometry_elements": {
+      "circle": 14,
+      "ellipse": 0,
+      "line": 6,
+      "path": 0,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 43
+    },
+    "preset_names": {},
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": [
+      0.3135,
+      0.4159
+    ]
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910\\svg_output\\01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: cover-title:font-weight None -> 'bold'; text[8]:font-weight 'bold' -> None; text[11]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 12,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 6,
+              "circle": 2,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 12,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "5aea0682e3cee54445d09bf773bc19d5168755fca7177b8f5de4ebbf89aa5b30"
+    },
+    {
+      "file": "02_learning_objectives.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910\\svg_output\\02_learning_objectives.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 20,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 8,
+              "circle": 5,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 20,
+        "tspan_elements": 0,
+        "contextual_values": {
+          "colors": [
+            "#C7D7F2"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "2a176674f992f4e1e549f2d6a36b59cd07afbdec1d94faa35e86e10e573743f3"
+    },
+    {
+      "file": "03_toc.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910\\svg_output\\03_toc.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (7 change(s)); examples: toc-reading-path:font-size None -> '15'; text[51]:font-size '15' -> None; text[52]:font-size '15' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 23,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 10,
+              "circle": 3,
+              "ellipse": 0,
+              "line": 3,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 23,
+        "tspan_elements": 12,
+        "contextual_values": {
+          "colors": [
+            "#B8C7DC",
+            "#C7D7F2",
+            "#E7B9A8"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "0bf67f84183f19c340b226655cdc6884a944b9f2ee2c6cd66dd21bd256fc89b3"
+    },
+    {
+      "file": "09_global_hydrologic_cycle.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910\\svg_output\\09_global_hydrologic_cycle.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Image ../images/W-02_EP_InterludeF_HydrologicCycle_pdf615-616_print580-581_spread_raw.png is 5900x3513 and renders at 0.14x scale in a 826x464 slice frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 18,
+          "images": {
+            "placements": 1,
+            "files": [
+              "W-02_EP_InterludeF_HydrologicCycle_pdf615-616_print580-581_spread_raw.png"
+            ],
+            "max_frame_share": 0.4159
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 9,
+              "circle": 3,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 18,
+        "tspan_elements": 6,
+        "contextual_values": {
+          "colors": [
+            "#C7D7F2"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "29ea88e0eeaf7f0add5fbeb330987f133ac343b0d5da5b74d4243a3d8a1b5d86"
+    },
+    {
+      "file": "23_global_carbon_cycle.svg",
+      "path": "E:\\PG\\2026 Hydrological cycle\\review\\L16_STYLE_SAMPLE_v01_previews\\L16_STYLE_SAMPLE_v01_ppt169_20260910\\svg_output\\23_global_carbon_cycle.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 16,
+          "images": {
+            "placements": 1,
+            "files": [
+              "C-01_UE_Fig12-19_PDF1209_raw.png"
+            ],
+            "max_frame_share": 0.3135
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 10,
+              "circle": 1,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 16,
+        "tspan_elements": 2,
+        "contextual_values": {
+          "colors": [
+            "#C7D7F2"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "88139a5aef25deb25e4d0d010b2a4c5d848f4652e3d86d597593b9b2a763cb5e"
+    }
+  ]
+}
