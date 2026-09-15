@@ -62,3 +62,13 @@ Preserve the complete Lecture 16 working state so another computer can clone the
 On the new computer, run `git lfs pull` and `git lfs fsck`. Confirm the v02 PPTX/PDF and the four top-level source textbooks open successfully. The ignored Python virtual environment, external `node_modules` junction, and temporary preview caches are reproducible and are not project evidence.
 
 Prepared index snapshot before publication: 14,426 tracked paths, including 937 Git LFS objects. A staged secret scan found no GitHub personal access token or private-key signature outside the excluded machine-local environment.
+
+## Publication receipt
+
+- GitHub visibility: PUBLIC
+- Default branch: `main`
+- Initial published commit: `f3a4fd17dcfd5bed6aa75f33bbbb0c4dfbbb11eb`
+- Initial commit identity verified equal between local `HEAD` and `origin/main`.
+- GitHub recursive tree response: 14,882 entries including directory trees; `truncated: false`.
+- Git LFS upload: 861 unique objects, about 1.3 GB, completed successfully.
+- Local LFS pointer/object integrity: `git lfs fsck --pointers HEAD` passed.

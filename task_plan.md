@@ -9,7 +9,7 @@ Execute the authoritative `LECTURE16_MASTER_PROMPT.md.txt` workflow in order, pr
 - Current step: GATE 9 closed; stopped before lesson-plan production
 - Current gate: GATE 9 — PASS / CLOSED; GATE 10 eligible but not started
 - Bulk production: all 35/35 slides accepted (100%); exact 44-page accepted-source roster locked in `planning/GATE9_INTEGRATION_PLAN.md`
-- Handoff: GitHub transfer prepared for `LinLIU0032/2026-hydrological-cycle`; GATE 10 and GATE 11 remain untouched
+- Handoff: public repository published at `https://github.com/LinLIU0032/2026-hydrological-cycle`; GATE 10 and GATE 11 remain untouched
 
 ## Phases
 

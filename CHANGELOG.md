@@ -87,3 +87,5 @@
 - Created v02 with all 12 source Designs/Masters preserved; produced the accepted 44-page PPTX, PDF, and 44 PowerPoint previews.
 - Passed delivery, package, roster, Notes, transition, media, motion, PowerPoint, PDF, and full-deck content/visual QA.
 - Added `qa/GATE9_ACCEPTANCE_20260915.md`, closed GATE 9, and stopped before GATE 10 lesson-plan production.
+- Added a repository README, Git LFS configuration, minimal machine-cache exclusions, and `qa/checkpoints/2026-09-15_github-handoff.md` for cross-computer continuation.
+- Published the complete GATE 9 handoff to the public repository `https://github.com/LinLIU0032/2026-hydrological-cycle`; GATE 10 and GATE 11 were not started.

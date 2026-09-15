@@ -8,6 +8,7 @@ Last updated: 2026-09-15
 - Current step: Full-deck integration and QA passed; lesson-plan production not started
 - Current gate: GATE 9 — PASS / CLOSED
 - Final slide deck: 44/44 accepted in `final/L16_Hydrological_Carbon_Cycles_v02.pptx`
+- Cross-computer handoff: public repository published at `https://github.com/LinLIU0032/2026-hydrological-cycle`
 
 ## Gate Status
 
