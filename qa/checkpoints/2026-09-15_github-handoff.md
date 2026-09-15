@@ -61,7 +61,7 @@ Preserve the complete Lecture 16 working state so another computer can clone the
 
 On the new computer, run `git lfs pull` and `git lfs fsck`. Confirm the v02 PPTX/PDF and the four top-level source textbooks open successfully. The ignored Python virtual environment, external `node_modules` junction, and temporary preview caches are reproducible and are not project evidence.
 
-Prepared index snapshot before publication: 14,426 tracked paths, including 937 Git LFS objects. A staged secret scan found no GitHub personal access token or private-key signature outside the excluded machine-local environment.
+Prepared index snapshot before publication: 14,426 tracked paths, including 1,099 Git LFS paths referencing 861 unique objects. A staged secret scan found no GitHub personal access token or private-key signature outside the excluded machine-local environment.
 
 ## Publication receipt
 
