@@ -14,7 +14,7 @@ git lfs pull
 git lfs fsck
 ```
 
-如果 `git lfs pull` 没有完成，不要开始工作；教材、参考课件、正式 PPT/PDF 和大量 QA 图片均由 Git LFS 管理。
+如果 `git lfs pull` 没有完成，不要开始完整项目工作；超过 GitHub 普通文件限制的教材、153 MB 参考课件、PDF 和大量 QA 图片由 Git LFS 管理。`final/` 中的 PPTX 作为普通 Git 文件保存，因此 GitHub 的 **Download ZIP** 会直接包含可打开的正式 PPT。
 
 ## 必读顺序
 

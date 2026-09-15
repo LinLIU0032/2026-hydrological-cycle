@@ -89,3 +89,4 @@
 - Added `qa/GATE9_ACCEPTANCE_20260915.md`, closed GATE 9, and stopped before GATE 10 lesson-plan production.
 - Added a repository README, Git LFS configuration, minimal machine-cache exclusions, and `qa/checkpoints/2026-09-15_github-handoff.md` for cross-computer continuation.
 - Published the complete GATE 9 handoff to the public repository `https://github.com/LinLIU0032/2026-hydrological-cycle`; GATE 10 and GATE 11 were not started.
+- Narrowed PPTX LFS tracking to the single 153 MB Lecture 09 reference deck; all smaller PPTX files, including the formal v02 deck, are stored in ordinary Git so GitHub Download ZIP contains usable presentations.
