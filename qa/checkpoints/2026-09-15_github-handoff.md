@@ -72,3 +72,10 @@ Prepared index snapshot before publication: 14,426 tracked paths, including 1,09
 - GitHub recursive tree response: 14,882 entries including directory trees; `truncated: false`.
 - Git LFS upload: 861 unique objects, about 1.3 GB, completed successfully.
 - Local LFS pointer/object integrity: `git lfs fsck --pointers HEAD` passed.
+
+## ZIP download compatibility correction
+
+- Commit `5cdd98f79c7c47f273f4dd76d673608d0b132b59` narrowed PPTX LFS tracking to the single 153 MB Lecture 09 reference deck, which exceeds GitHub's 100 MB ordinary-blob limit.
+- The other 43 PPTX files are ordinary Git blobs, including `final/L16_Hydrological_Carbon_Cycles_v02.pptx` at 5,657,671 bytes.
+- GitHub's generated `main` ZIP was streamed and inspected after the change; its v02 PPTX entry is 5,657,671 bytes, not an LFS pointer.
+- The current tree retains 1,056 LFS paths referencing 828 unique LFS objects for large source material, PDFs, images, audio, and other binary evidence.
